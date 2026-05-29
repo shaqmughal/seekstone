@@ -15,6 +15,7 @@ const minimalSummary: BenchmarkSummary = {
       kind: 'single',
       query: 'hello world',
       firstRunHitCount: 3,
+      ttfr: null,
       stats: {
         coldMs: 10.5,
         runs: 5,

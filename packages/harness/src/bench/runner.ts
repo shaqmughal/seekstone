@@ -1,7 +1,7 @@
 import { readFile } from 'node:fs/promises';
 import type { Backend } from './backend.js';
 import type { QuerySet } from './queries.js';
-import { type RunStats, runN } from './timer.js';
+import { type RunStats, type StreamStats, runN, runNStream } from './timer.js';
 
 export interface BenchmarkSummary {
   snapshotDate: string;
@@ -17,6 +17,8 @@ export interface BenchmarkSummary {
     stats: RunStats;
     /** First-run hit count — gives a sense of selectivity. */
     firstRunHitCount: number;
+    /** TTFR stats. Null when the backend does not implement searchStream. */
+    ttfr: StreamStats | null;
   }>;
   read: {
     small: { path: string; stats: RunStats } | null;
@@ -55,7 +57,10 @@ export async function runBenchmark(opts: RunnerOptions): Promise<BenchmarkSummar
       samplePeak();
       return r;
     }, querySet.runs);
-    search.push({ id: q.id, kind: q.kind, query: q.query, stats, firstRunHitCount: firstHits });
+    const ttfr = backend.searchStream
+      ? await runNStream(() => backend.searchStream!(q.query), querySet.runs)
+      : null;
+    search.push({ id: q.id, kind: q.kind, query: q.query, stats, firstRunHitCount: firstHits, ttfr });
   }
 
   const readSmall = reads.small

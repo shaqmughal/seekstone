@@ -35,11 +35,13 @@ export function renderBenchmarkMarkdown(s: BenchmarkSummary): string {
 
   push(`## Search`);
   push();
-  push(`| Query | Kind | Cold | Warm p50 | Warm p95 | Payload | Tokens | Hits (run 1) |`);
-  push(`| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |`);
+  push(`| Query | Kind | Cold | Warm p50 | Warm p95 | TTFR cold | TTFR p50 | Payload | Tokens | Hits (run 1) |`);
+  push(`| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |`);
   for (const q of s.search) {
+    const ttfrCold = q.ttfr ? fmtMs(q.ttfr.coldTtfrMs) : '—';
+    const ttfrP50 = q.ttfr ? fmtMs(q.ttfr.warmTtfr.median) : '—';
     push(
-      `| \`${mdCellEscape(q.query)}\` | ${q.kind} | ${fmtMs(q.stats.coldMs)} | ${fmtMs(q.stats.warm.median)} | ${fmtMs(q.stats.warm.p90)} | ${fmtBytes(q.stats.payloadBytesMean)} | ${q.stats.payloadTokensMean.toLocaleString()} | ${q.firstRunHitCount} |`,
+      `| \`${mdCellEscape(q.query)}\` | ${q.kind} | ${fmtMs(q.stats.coldMs)} | ${fmtMs(q.stats.warm.median)} | ${fmtMs(q.stats.warm.p90)} | ${ttfrCold} | ${ttfrP50} | ${fmtBytes(q.stats.payloadBytesMean)} | ${q.stats.payloadTokensMean.toLocaleString()} | ${q.firstRunHitCount} |`,
     );
   }
   push();
@@ -68,7 +70,7 @@ export function renderBenchmarkMarkdown(s: BenchmarkSummary): string {
   push(`## Methodology notes`);
   push();
   push(
-    `- Time-to-first-result equals total response time for any non-streaming adapter (the REST plugin returns the full hit list in one shot). Streaming adapters should override and report TTFR separately.`,
+    `- **TTFR** (time-to-first-result) is measured via \`searchStream\`. Backends that return all results at once (e.g. REST) show \`—\` — their TTFR equals total latency and adding a separate column would be misleading. For MiniSearch the gap between TTFR and total latency is negligible since search is synchronous.`,
   );
   push(
     `- Cold-start / index build time is recorded as the cold value of the first benchmark. Filesystem-direct adapters that build an index should expose a dedicated \`warmUp()\` measurement — TODO.`,

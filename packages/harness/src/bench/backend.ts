@@ -37,6 +37,14 @@ export interface Backend {
   readonly description: string;
 
   search(query: string): Promise<BackendResponse<SearchHit[]>>;
+  /**
+   * Optional streaming search. Yields hits one-by-one as they become available.
+   * The harness uses this to measure time-to-first-result (TTFR) separately from
+   * total latency. Backends that return all results at once can yield them in a
+   * tight loop — TTFR will equal total search time, but the interface is ready
+   * for backends that genuinely stream.
+   */
+  searchStream?(query: string): AsyncIterable<SearchHit>;
   read(path: string): Promise<BackendResponse<string>>;
   /**
    * Write raw bytes. Must NOT transform frontmatter or body. Returns the

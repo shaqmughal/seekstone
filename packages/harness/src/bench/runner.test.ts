@@ -119,6 +119,17 @@ describe('runBenchmark', () => {
     expect(summary.read.small?.path).toBe('small.md');
   });
 
+  it('summary.search[0].ttfr is non-null when backend supports searchStream', async () => {
+    const qs = {
+      queries: [{ id: 'q1', kind: 'single' as const, query: 'content' }],
+      reads: { small: 'small.md', large: 'large.md' },
+      runs: 2,
+    };
+    const summary = await runBenchmark({ backend: adapter, querySet: qs });
+    expect(summary.search[0]?.ttfr).not.toBeNull();
+    expect(summary.search[0]?.ttfr?.coldTtfrMs).toBeGreaterThanOrEqual(0);
+  });
+
   it('summary.read is {small: null, large: null} when reads are null and no statsPath', async () => {
     const qs = {
       queries: [{ id: 'q1', kind: 'single' as const, query: 'content' }],

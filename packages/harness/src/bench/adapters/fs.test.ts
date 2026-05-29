@@ -144,4 +144,33 @@ describe('FsAdapter', () => {
       expect(payloadBytes).toBeGreaterThan(0);
     });
   });
+
+  describe('searchStream', () => {
+    it('yields hits for a matching query', async () => {
+      const hits = [];
+      for await (const hit of adapter.searchStream('alpha')) {
+        hits.push(hit);
+      }
+      expect(hits.length).toBeGreaterThan(0);
+      expect(hits.some((h) => h.path === 'note1.md')).toBe(true);
+    });
+
+    it('yields no hits for a non-matching query', async () => {
+      const hits = [];
+      for await (const hit of adapter.searchStream('xyzzyplugh42uniquegarbage')) {
+        hits.push(hit);
+      }
+      expect(hits).toHaveLength(0);
+    });
+
+    it('results match those returned by search() for the same query', async () => {
+      const streamed = [];
+      for await (const hit of adapter.searchStream('beta')) {
+        streamed.push(hit.path);
+      }
+      const { result } = await adapter.search('beta');
+      const searched = result.map((h) => h.path);
+      expect(streamed).toEqual(searched);
+    });
+  });
 });
