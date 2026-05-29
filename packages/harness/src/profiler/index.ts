@@ -36,6 +36,8 @@ export interface VaultStats {
     attachmentsBytes: number;
     noteSizeDistribution: Distribution;
     largestNotes: Array<{ relPath: string; sizeBytes: number }>;
+    /** Note nearest to the median size — benchmark "small" read target (typical case). */
+    medianNote: { relPath: string; sizeBytes: number } | null;
   };
   links: {
     totalWikilinks: number;
@@ -156,10 +158,20 @@ function aggregate(input: AggregateInput): VaultStats {
   // --- Note size distribution ---
   const noteSizes = notes.map((n) => n.sizeBytes);
   const noteSizeDistribution = summarise(noteSizes);
-  const largestNotes = [...notes]
-    .sort((a, b) => b.sizeBytes - a.sizeBytes)
+  const notesSortedBySize = [...notes].sort((a, b) => b.sizeBytes - a.sizeBytes);
+  const largestNotes = notesSortedBySize
     .slice(0, largestN)
     .map((n) => ({ relPath: n.relPath, sizeBytes: n.sizeBytes }));
+  // Median note: note whose size is closest to the p50 value. This is the
+  // benchmark "small" read target — a typical note, not a stub.
+  const medianSize = noteSizeDistribution.median;
+  const medianNote = notesSortedBySize.reduce<NoteRecord | null>((best, n) => {
+    if (!best) return n;
+    return Math.abs(n.sizeBytes - medianSize) < Math.abs(best.sizeBytes - medianSize) ? n : best;
+  }, null);
+  const medianNoteOut = medianNote
+    ? { relPath: medianNote.relPath, sizeBytes: medianNote.sizeBytes }
+    : null;
 
   // --- Link graph ---
   // Build a resolution set: basename without `.md` and the full relative path
@@ -250,6 +262,7 @@ function aggregate(input: AggregateInput): VaultStats {
       attachmentsBytes,
       noteSizeDistribution,
       largestNotes,
+      medianNote: medianNoteOut,
     },
     links: {
       totalWikilinks,
