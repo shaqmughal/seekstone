@@ -6,7 +6,7 @@
       "id": "single-term",
       "kind": "single",
       "query": "engineering",
-      "notes": "High-frequency single term across Comply365, Daily Notes, and Readwise content."
+      "notes": "High-frequency single term — replace with a common word in your vault."
     },
     {
       "id": "multi-term",
@@ -18,7 +18,7 @@
       "id": "phrase",
       "kind": "phrase",
       "query": "\"radical candor\"",
-      "notes": "Known book in the vault (Kindle + Readwise copies); confirms phrase search hits and payload size."
+      "notes": "Known phrase in the vault — replace with a quoted phrase you know exists."
     },
     {
       "id": "rare-term",
