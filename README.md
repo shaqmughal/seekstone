@@ -135,7 +135,7 @@ Output files are written to `reports/` (gitignored — they contain vault-specif
 - **N ≥ 20 runs** per measurement (override with `--runs`).
 - **Cold** = run 1 — includes any one-time tax (TCP handshake, JIT, page-cache miss, index build).
 - **Warm p50/p95** = runs 2..N — what a live session actually feels like.
-- **Payload bytes** = raw response byte length as returned by the adapter. Token estimate is `bytes ÷ 4` — adequate for context-tax ranking; replace with a tiktoken count for exact figures.
+- **Payload bytes** = raw response byte length as returned by the adapter. Token count uses tiktoken `cl100k_base`.
 - The **write-safety harness never touches the live vault.** All write ops run against a scratch copy under `os.tmpdir()`, and the copy path is asserted to not equal or sit inside the original before any write runs.
 
 ---
@@ -144,7 +144,7 @@ Output files are written to `reports/` (gitignored — they contain vault-specif
 
 ```bash
 npm install                                           # install all workspace deps
-npm test                                              # vitest across all packages (236 tests)
+npm test                                              # vitest across all packages (237 tests)
 npm run -w @seekstone/harness test                    # harness tests only
 npx vitest run packages/server/src/tools/search.test.ts   # single file
 npx vitest run -t 'parses a typical frontmatter'     # single test by name
@@ -165,12 +165,12 @@ There is no build step — the project runs via `tsx`. `tsc` is typecheck-only.
 
 ### Test coverage
 
-236 tests across three packages, all co-located as `*.test.ts` next to source. Every exported function has at least one positive and one negative test.
+237 tests across three packages, all co-located as `*.test.ts` next to source. Every exported function has at least one positive and one negative test.
 
 | Package | Test files | Tests |
 |---|---:|---:|
 | core | 4 | 29 |
-| harness | 16 | 130 |
+| harness | 16 | 131 |
 | server | 11 | 77 |
 
 Not covered by unit tests (integration/entry-point concerns): `cli.ts`, `server/index.ts` (MCP entry point), `rest.ts` (all methods require a live HTTP server).
@@ -250,6 +250,6 @@ Implement `Backend` in `packages/harness/src/bench/adapters/`. Wire it up in `cl
 - [x] MCP server (8 tools, stdio transport)
 - [x] Claude Desktop integration
 - [x] Index hot-reload on vault change (FSEvents watcher)
-- [x] Test suite (236 tests)
-- [ ] Token counting via `tiktoken` (current estimate: `bytes ÷ 4`)
+- [x] Test suite (237 tests)
+- [x] Token counting via tiktoken `cl100k_base`
 - [ ] Streaming search + TTFR measurement

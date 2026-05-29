@@ -1,5 +1,8 @@
+import { get_encoding } from 'tiktoken';
 import { describe, expect, it } from 'vitest';
 import { runN, timed } from './timer.js';
+
+const enc = get_encoding('cl100k_base');
 
 describe('timed', () => {
   it('returns the result of the fn unchanged', async () => {
@@ -41,10 +44,23 @@ describe('runN', () => {
     expect(stats.payloadBytesMean).toBeCloseTo(200, 5);
   });
 
-  it('payloadTokensMean = ceil(payloadBytesMean / 4)', async () => {
-    // 100 bytes → ceil(100/4) = 25
+  it('falls back to ceil(payloadBytesMean / 4) when no payloadText is provided', async () => {
     const stats = await runN(simpleFn, 3);
     expect(stats.payloadTokensMean).toBe(Math.ceil(stats.payloadBytesMean / 4));
+  });
+
+  it('uses tiktoken cl100k_base when payloadText is provided', async () => {
+    const text = 'Hello, this is a sample note with some content for token counting.';
+    const fn = async () => ({
+      result: 'x',
+      payloadBytes: Buffer.byteLength(text, 'utf8'),
+      payloadText: text,
+    });
+    const stats = await runN(fn, 3);
+    const expected = enc.encode(text).length;
+    expect(stats.payloadTokensMean).toBe(expected);
+    // Tiktoken count should differ from the bytes÷4 estimate for this text.
+    expect(stats.payloadTokensMean).not.toBe(Math.ceil(stats.payloadBytesMean / 4));
   });
 
   it('runs field equals the argument passed', async () => {
@@ -62,6 +78,6 @@ describe('runN', () => {
   it('with runs=1, payloadBytesMean equals the single payload returned', async () => {
     const stats = await runN(async () => ({ result: 'z', payloadBytes: 512 }), 1);
     expect(stats.payloadBytesMean).toBe(512);
-    expect(stats.payloadTokensMean).toBe(128);
+    expect(stats.payloadTokensMean).toBe(128); // bytes÷4 fallback: ceil(512/4) = 128
   });
 });

@@ -12,6 +12,8 @@ export interface BackendResponse<T> {
   result: T;
   /** Bytes of the raw response payload as delivered (HTTP body, JSON, file bytes). */
   payloadBytes: number;
+  /** Raw response text, used for exact tiktoken counting. Omit for binary payloads. */
+  payloadText?: string;
 }
 
 export interface SearchHit {

@@ -35,7 +35,7 @@ export function renderBenchmarkMarkdown(s: BenchmarkSummary): string {
 
   push(`## Search`);
   push();
-  push(`| Query | Kind | Cold | Warm p50 | Warm p95 | Payload | ≈ Tokens | Hits (run 1) |`);
+  push(`| Query | Kind | Cold | Warm p50 | Warm p95 | Payload | Tokens | Hits (run 1) |`);
   push(`| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |`);
   for (const q of s.search) {
     push(
@@ -44,7 +44,7 @@ export function renderBenchmarkMarkdown(s: BenchmarkSummary): string {
   }
   push();
   push(
-    `> **Context tax.** Payload is the raw bytes returned for the query. Token estimate = bytes / 4 — rough; an exact tiktoken count is a future TODO.`,
+    `> **Context tax.** Payload is the raw bytes returned for the query. Token count uses tiktoken \`cl100k_base\`.`,
   );
   push();
 

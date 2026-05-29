@@ -68,7 +68,7 @@ export class RestAdapter implements Backend {
       score: typeof h.score === 'number' ? h.score : undefined,
       snippet: h.matches ? JSON.stringify(h.matches).slice(0, 200) : undefined,
     }));
-    return { result, payloadBytes: Buffer.byteLength(text, 'utf8') };
+    return { result, payloadBytes: Buffer.byteLength(text, 'utf8'), payloadText: text };
   }
 
   async read(path: string): Promise<BackendResponse<string>> {
@@ -80,7 +80,7 @@ export class RestAdapter implements Backend {
     });
     const text = await res.text();
     if (!res.ok) throw new Error(`read ${path} → ${res.status}: ${text.slice(0, 200)}`);
-    return { result: text, payloadBytes: Buffer.byteLength(text, 'utf8') };
+    return { result: text, payloadBytes: Buffer.byteLength(text, 'utf8'), payloadText: text };
   }
 
   async write(path: string, content: string): Promise<BackendResponse<void>> {
@@ -114,7 +114,7 @@ export class RestAdapter implements Backend {
       path: f.replace(/\/$/, ''),
       isDirectory: f.endsWith('/'),
     }));
-    return { result, payloadBytes: Buffer.byteLength(text, 'utf8') };
+    return { result, payloadBytes: Buffer.byteLength(text, 'utf8'), payloadText: text };
   }
 
   private headers(): Record<string, string> {
