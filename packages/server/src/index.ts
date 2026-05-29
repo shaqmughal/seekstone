@@ -8,6 +8,7 @@ import {
 import { buildIndex } from './index/build.js';
 import type { ServerContext } from './context.js';
 import { AppendNoteInput, appendNote } from './tools/append_note.js';
+import { CreateNoteInput, createNote } from './tools/create_note.js';
 import { ListNotesInput, listNotes } from './tools/list_notes.js';
 import { PatchFrontmatterInput, patchFrontmatter } from './tools/patch_frontmatter.js';
 import { ReadNoteInput, readNote } from './tools/read_note.js';
@@ -76,6 +77,31 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
       },
     },
     {
+      name: 'create_note',
+      description:
+        'Create a new note at a vault-relative path. Optionally sets frontmatter and body content. Parent directories are created automatically. Fails if the note already exists unless overwrite is true.',
+      inputSchema: {
+        type: 'object',
+        properties: {
+          path: {
+            type: 'string',
+            description: 'Vault-relative path, e.g. "Daily Notes/2026-06-01.md".',
+          },
+          content: { type: 'string', description: 'Body content for the note.' },
+          frontmatter: {
+            type: 'object',
+            description: 'Frontmatter key-value pairs.',
+            additionalProperties: true,
+          },
+          overwrite: {
+            type: 'boolean',
+            description: 'Overwrite an existing note. Defaults to false.',
+          },
+        },
+        required: ['path'],
+      },
+    },
+    {
       name: 'append_note',
       description:
         'Append text to a note body without touching the frontmatter. Safe for meeting notes, daily logs, and append-only workflows.',
@@ -131,6 +157,18 @@ server.setRequestHandler(CallToolRequestSchema, async (req) => {
         const entries = listNotes(ctx, input);
         return {
           content: [{ type: 'text', text: JSON.stringify(entries, null, 2) }],
+        };
+      }
+      case 'create_note': {
+        const input = CreateNoteInput.parse(args);
+        const result = await createNote(ctx, input);
+        return {
+          content: [
+            {
+              type: 'text',
+              text: `Created ${result.path} (${result.bytesWritten} bytes).`,
+            },
+          ],
         };
       }
       case 'append_note': {
