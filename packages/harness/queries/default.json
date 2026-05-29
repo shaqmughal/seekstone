@@ -5,26 +5,26 @@
     {
       "id": "single-term",
       "kind": "single",
-      "query": "okr",
-      "notes": "Replace with a single high-frequency term in your vault."
+      "query": "engineering",
+      "notes": "High-frequency single term across REDACTED, Daily Notes, and Readwise content."
     },
     {
       "id": "multi-term",
       "kind": "multi",
-      "query": "context window",
-      "notes": "Two common terms ANDed together."
+      "query": "team dynamics",
+      "notes": "Matches a top tag (#team-dynamics, 112 occurrences); realistic two-word search."
     },
     {
       "id": "phrase",
       "kind": "phrase",
-      "query": "\"long term memory\"",
-      "notes": "Quoted phrase. Confirm the plugin's simple-search supports phrase syntax for your version."
+      "query": "\"radical candor\"",
+      "notes": "Known book in the vault (Kindle + Readwise copies); confirms phrase search hits and payload size."
     },
     {
       "id": "rare-term",
       "kind": "rare",
-      "query": "zorblax",
-      "notes": "Should match very few or zero notes. Picks up cold-cache pathological behaviour."
+      "query": "excalidraw thumbnail",
+      "notes": "Low expected hit count; stresses cold-cache behaviour and near-zero payload path."
     }
   ],
   "reads": {
