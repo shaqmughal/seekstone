@@ -58,7 +58,7 @@ describe('walkVault', () => {
   });
 
   it('throws or returns [] for a non-existent directory', async () => {
-    const missing = join(tmpdir(), 'seekstone-no-such-dir-' + Date.now());
+    const missing = join(tmpdir(), `seekstone-no-such-dir-${Date.now()}`);
     let result: Awaited<ReturnType<typeof walkVault>> | undefined;
     try {
       result = await walkVault(missing);

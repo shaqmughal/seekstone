@@ -42,7 +42,9 @@ describe('startWatcher', () => {
     try {
       await writeFile(join(tmpDir, 'watch-new.md'), 'watcher_unique_abc', 'utf8');
       await waitFor(() => ctx.notes.has('watch-new.md'));
-      expect(ctx.index.search('watcher_unique_abc').some((h) => h.id === 'watch-new.md')).toBe(true);
+      expect(ctx.index.search('watcher_unique_abc').some((h) => h.id === 'watch-new.md')).toBe(
+        true,
+      );
     } finally {
       stop();
     }
@@ -54,7 +56,9 @@ describe('startWatcher', () => {
     const stop = startWatcher(ctx);
     try {
       await writeFile(join(tmpDir, 'watch-mod.md'), 'new_unique_modified_xyz', 'utf8');
-      await waitFor(() => ctx.notes.get('watch-mod.md')?.body?.includes('new_unique_modified_xyz') ?? false);
+      await waitFor(
+        () => ctx.notes.get('watch-mod.md')?.body?.includes('new_unique_modified_xyz') ?? false,
+      );
       expect(ctx.notes.get('watch-mod.md')?.body).toContain('new_unique_modified_xyz');
     } finally {
       stop();
@@ -66,9 +70,14 @@ describe('startWatcher', () => {
     await writeFile(join(tmpDir, 'watch-del.md'), 'will be deleted', 'utf8');
     // Pre-seed so the note is in the index before deletion.
     const doc: IndexedNote = {
-      id: 'watch-del.md', title: 'watch-del', body: 'will be deleted',
-      tags: '', fmKeys: '', raw: 'will be deleted',
-      sizeBytes: 15, mtimeMs: Date.now(),
+      id: 'watch-del.md',
+      title: 'watch-del',
+      body: 'will be deleted',
+      tags: '',
+      fmKeys: '',
+      raw: 'will be deleted',
+      sizeBytes: 15,
+      mtimeMs: Date.now(),
     };
     ctx.notes.set('watch-del.md', doc);
     ctx.index.add(doc);
@@ -76,7 +85,7 @@ describe('startWatcher', () => {
     const stop = startWatcher(ctx);
     try {
       await rm(join(tmpDir, 'watch-del.md'));
-      await waitFor(() => !ctx.notes.has('watch-del.md'));
+      await waitFor(() => !ctx.notes.has('watch-del.md'), 2000);
       expect(ctx.notes.has('watch-del.md')).toBe(false);
     } finally {
       stop();

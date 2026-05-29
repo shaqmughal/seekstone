@@ -23,7 +23,7 @@ export function extractExcerpt(text: string, terms: string[], maxLen = 200): str
 
   const half = Math.floor(maxLen / 2);
   const start = Math.max(0, bestIdx - half);
-  const end = Math.min(text.length, bestIdx + half + terms[0]!.length);
+  const end = Math.min(text.length, bestIdx + half + (terms[0]?.length ?? 0));
   const slice = text.slice(start, end).trim();
 
   return `${start > 0 ? '…' : ''}${slice}${end < text.length ? '…' : ''}`;

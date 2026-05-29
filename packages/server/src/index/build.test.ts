@@ -1,7 +1,7 @@
-import { chmod, mkdtemp, mkdir, rm, writeFile } from 'node:fs/promises';
-import { join } from 'node:path';
+import { chmod, mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
-import { describe, it, expect, beforeAll, afterAll } from 'vitest';
+import { join } from 'node:path';
+import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import { buildIndex } from './build.js';
 
 let vaultRoot: string;
@@ -105,7 +105,7 @@ describe('buildIndex', () => {
     const { index } = await buildIndex(vaultRoot);
     const hits = index.search('frontmatter', { boost: { title: 3 }, fuzzy: 0.2, prefix: true });
     expect(hits.length).toBeGreaterThan(0);
-    expect(hits[0]!.id).toBe('with-fm.md');
+    expect(hits[0]?.id).toBe('with-fm.md');
   });
 
   it('tags from frontmatter are indexed', async () => {

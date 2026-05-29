@@ -57,10 +57,16 @@ export async function runBenchmark(opts: RunnerOptions): Promise<BenchmarkSummar
       samplePeak();
       return r;
     }, querySet.runs);
-    const ttfr = backend.searchStream
-      ? await runNStream(() => backend.searchStream!(q.query), querySet.runs)
-      : null;
-    search.push({ id: q.id, kind: q.kind, query: q.query, stats, firstRunHitCount: firstHits, ttfr });
+    const streamFn = backend.searchStream?.bind(backend);
+    const ttfr = streamFn ? await runNStream(() => streamFn(q.query), querySet.runs) : null;
+    search.push({
+      id: q.id,
+      kind: q.kind,
+      query: q.query,
+      stats,
+      firstRunHitCount: firstHits,
+      ttfr,
+    });
   }
 
   const readSmall = reads.small

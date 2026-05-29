@@ -1,8 +1,8 @@
-import { describe, it, expect } from 'vitest';
 import MiniSearch from 'minisearch';
-import { search } from './search.js';
+import { describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
 import type { IndexedNote } from '../index/types.js';
+import { search } from './search.js';
 
 function buildCtx(
   vaultRoot: string,
@@ -64,7 +64,8 @@ describe('search', () => {
     const ctx = buildCtx('/vault', SAMPLE_NOTES);
     const hits = search(ctx, { query: 'roadmap', limit: 10 });
     expect(hits.length).toBeGreaterThan(0);
-    const hit = hits[0]!;
+    const hit = hits[0];
+    if (!hit) throw new Error('expected at least one hit');
     expect(typeof hit.path).toBe('string');
     expect(typeof hit.title).toBe('string');
     expect(typeof hit.score).toBe('number');
@@ -110,13 +111,13 @@ describe('search', () => {
     // Both should find the roadmap note
     expect(hitsLower.length).toBeGreaterThan(0);
     expect(hitsUpper.length).toBeGreaterThan(0);
-    expect(hitsLower[0]!.path).toBe(hitsUpper[0]!.path);
+    expect(hitsLower[0]?.path).toBe(hitsUpper[0]?.path);
   });
 
   it('hit for a note in daily/ has the correct path', () => {
     const ctx = buildCtx('/vault', SAMPLE_NOTES);
     const hits = search(ctx, { query: 'morning', limit: 10 });
     expect(hits.length).toBeGreaterThan(0);
-    expect(hits[0]!.path).toBe('daily/2026-05-28.md');
+    expect(hits[0]?.path).toBe('daily/2026-05-28.md');
   });
 });
