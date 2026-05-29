@@ -2,7 +2,13 @@
 import { mkdir, writeFile } from 'node:fs/promises';
 import { join, resolve } from 'node:path';
 import { cac } from 'cac';
-import { RestAdapter, loadQuerySet, renderBenchmarkMarkdown, runBenchmark } from './bench/index.js';
+import {
+  FsAdapter,
+  RestAdapter,
+  loadQuerySet,
+  renderBenchmarkMarkdown,
+  runBenchmark,
+} from './bench/index.js';
 import { profileVault } from './profiler/index.js';
 import { renderVaultStatsMarkdown } from './profiler/report.js';
 import { copyVault, renderSafetyMarkdown, runSafety } from './safety/index.js';
@@ -29,7 +35,8 @@ cli
 // ---------- bench ----------
 cli
   .command('bench', 'Run the benchmark harness against a backend.')
-  .option('--backend <name>', 'Adapter name. Today: "rest".', { default: 'rest' })
+  .option('--backend <name>', 'Adapter name: "rest" or "fs".', { default: 'rest' })
+  .option('--vault <path>', 'Vault root. Required for fs backend (or set SEEKSTONE_VAULT).')
   .option('--queries <file>', 'Query set JSON.', {
     default: 'packages/harness/queries/default.json',
   })
@@ -41,7 +48,8 @@ cli
     await mkdir(outDir, { recursive: true });
     const qs = await loadQuerySet(resolve(opts.queries));
     if (opts.runs) qs.runs = Number(opts.runs);
-    const backend = buildBackend(opts.backend);
+    const vaultRoot = opts.vault ?? process.env.SEEKSTONE_VAULT;
+    const backend = await buildBackend(opts.backend, vaultRoot);
     try {
       const summary = await runBenchmark({
         backend,
@@ -68,12 +76,12 @@ cli
 cli
   .command('safety', 'Run the write-safety round-trip suite (operates on a vault COPY).')
   .option('--vault <path>', 'Original vault root (read-only).')
-  .option('--backend <name>', 'Adapter that writes to the copy. Today: "rest".', {
+  .option('--backend <name>', 'Adapter that writes to the copy: "rest" or "fs".', {
     default: 'rest',
   })
   .option(
     '--copy-vault-root <path>',
-    'Path of the copy. Required for REST adapter — must match the vault Obsidian is pointed at.',
+    'Path of the copy. For REST: must match the vault Obsidian is pointed at. For fs: auto-used.',
   )
   .option('--sample <n>', 'How many frontmatter-heavy notes to test.', { default: 25 })
   .option('--out <dir>', 'Output directory.', { default: 'reports' })
@@ -90,14 +98,17 @@ cli
       const { copyRoot: created } = await copyVault(original);
       copyRoot = created;
       console.warn(`safety: copied vault → ${copyRoot}`);
-      console.warn(
-        `safety: ⚠ for the REST adapter you must point Obsidian at this copy before continuing.`,
-      );
-      console.warn(`safety: aborting — re-run with --copy-vault-root ${copyRoot}`);
-      return;
+      if (opts.backend === 'rest') {
+        console.warn(
+          `safety: ⚠ for the REST adapter you must point Obsidian at this copy before continuing.`,
+        );
+        console.warn(`safety: aborting — re-run with --copy-vault-root ${copyRoot}`);
+        return;
+      }
     }
 
-    const backend = buildBackend(opts.backend);
+    // Build the backend pointed at the copy — for fs this is the vault it will write to.
+    const backend = await buildBackend(opts.backend, copyRoot);
     try {
       const summary = await runSafety({
         originalVaultRoot: original,
@@ -132,12 +143,19 @@ function needArg<T>(v: T | undefined, name: string): T {
   return v;
 }
 
-function buildBackend(name: string) {
+async function buildBackend(name: string, vaultRoot?: string): Promise<import('./bench/backend.js').Backend> {
   if (name === 'rest') {
     const baseUrl = process.env.SEEKSTONE_REST_URL ?? 'https://127.0.0.1:27124';
     const apiKey = needArg(process.env.SEEKSTONE_REST_API_KEY, 'SEEKSTONE_REST_API_KEY env var');
     return new RestAdapter({ baseUrl, apiKey });
   }
-  console.error(`Unknown backend: ${name}. Known: rest.`);
+  if (name === 'fs') {
+    const root = resolve(needArg(vaultRoot, 'vault (--vault or SEEKSTONE_VAULT for fs backend)'));
+    process.stderr.write(`fs: building index for ${root}…\n`);
+    const adapter = await FsAdapter.build({ vaultRoot: root });
+    process.stderr.write(`fs: index ready.\n`);
+    return adapter;
+  }
+  console.error(`Unknown backend: ${name}. Known: rest, fs.`);
   process.exit(2);
 }
