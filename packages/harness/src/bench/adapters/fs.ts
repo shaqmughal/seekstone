@@ -101,6 +101,20 @@ export class FsAdapter implements Backend {
     return { result: hits, payloadBytes: Buffer.byteLength(payload, 'utf8'), payloadText: payload };
   }
 
+  async *searchStream(query: string): AsyncGenerator<SearchHit> {
+    const rawHits = this.index.search(query).slice(0, 10);
+    const terms = query.toLowerCase().split(/\s+/).filter(Boolean);
+    for (const r of rawHits) {
+      const raw = this.noteMap.get(r.id) ?? '';
+      const fm = parseFrontmatter(raw);
+      yield {
+        path: r.id,
+        score: r.score,
+        snippet: extractExcerpt(fm.body, terms),
+      };
+    }
+  }
+
   async read(path: string): Promise<BackendResponse<string>> {
     const absPath = join(this.vaultRoot, path);
     const content = await readFile(absPath, 'utf8');

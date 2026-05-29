@@ -1,6 +1,6 @@
 import { get_encoding } from 'tiktoken';
 import { describe, expect, it } from 'vitest';
-import { runN, timed } from './timer.js';
+import { runN, runNStream, timed } from './timer.js';
 
 const enc = get_encoding('cl100k_base');
 
@@ -79,5 +79,45 @@ describe('runN', () => {
     const stats = await runN(async () => ({ result: 'z', payloadBytes: 512 }), 1);
     expect(stats.payloadBytesMean).toBe(512);
     expect(stats.payloadTokensMean).toBe(128); // bytes÷4 fallback: ceil(512/4) = 128
+  });
+});
+
+async function* yieldN(n: number): AsyncGenerator<number> {
+  for (let i = 0; i < n; i++) yield i;
+}
+
+describe('runNStream', () => {
+  it('coldTtfrMs >= 0', async () => {
+    const stats = await runNStream(() => yieldN(3), 3);
+    expect(stats.coldTtfrMs).toBeGreaterThanOrEqual(0);
+  });
+
+  it('warmTtfr.n = runs - 1', async () => {
+    const stats = await runNStream(() => yieldN(3), 5);
+    expect(stats.warmTtfr.n).toBe(4);
+  });
+
+  it('runs field equals the argument passed', async () => {
+    const stats = await runNStream(() => yieldN(1), 4);
+    expect(stats.runs).toBe(4);
+  });
+
+  it('handles an empty iterable — records time to completion, not time to first item', async () => {
+    const stats = await runNStream(() => yieldN(0), 3);
+    expect(stats.coldTtfrMs).toBeGreaterThanOrEqual(0);
+    expect(stats.warmTtfr.n).toBe(2);
+  });
+
+  it('does not consume all items — only pulls until the first one', async () => {
+    let count = 0;
+    async function* counting(): AsyncGenerator<number> {
+      while (true) {
+        count++;
+        yield count;
+      }
+    }
+    await runNStream(counting, 3);
+    // 3 runs, each pulls exactly 1 item
+    expect(count).toBe(3);
   });
 });

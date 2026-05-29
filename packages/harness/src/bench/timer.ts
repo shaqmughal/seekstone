@@ -67,3 +67,39 @@ export async function runN<T>(
     runs,
   };
 }
+
+export interface StreamStats {
+  /** TTFR for the first (cold) run. */
+  coldTtfrMs: number;
+  /** TTFR distribution for warm runs (2..N). */
+  warmTtfr: Distribution;
+  runs: number;
+}
+
+/**
+ * Run an async-iterable-returning `fn` N times and record time-to-first-result
+ * for each run. Breaks after receiving the first item — the rest are not consumed.
+ */
+export async function runNStream(
+  fn: () => AsyncIterable<unknown>,
+  runs: number,
+): Promise<StreamStats> {
+  const ttfrs: number[] = [];
+  for (let i = 0; i < runs; i++) {
+    const t0 = process.hrtime.bigint();
+    for await (const _ of fn()) {
+      // Record time to first result, then stop consuming.
+      ttfrs.push(Number(process.hrtime.bigint() - t0) / 1e6);
+      break;
+    }
+    // If the iterable was empty, record time to empty completion.
+    if (ttfrs.length <= i) {
+      ttfrs.push(Number(process.hrtime.bigint() - t0) / 1e6);
+    }
+  }
+  return {
+    coldTtfrMs: ttfrs[0] ?? 0,
+    warmTtfr: summarise(ttfrs.slice(1)),
+    runs,
+  };
+}
