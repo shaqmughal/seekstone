@@ -105,15 +105,15 @@ async function resolveReadPaths(
   if (!statsPath) return qs.reads;
   try {
     const stats = JSON.parse(await readFile(statsPath, 'utf8')) as {
-      size?: { largestNotes?: Array<{ relPath: string; sizeBytes: number }> };
+      size?: {
+        largestNotes?: Array<{ relPath: string; sizeBytes: number }>;
+        medianNote?: { relPath: string; sizeBytes: number } | null;
+      };
     };
     const largest = stats.size?.largestNotes ?? [];
     if (largest.length === 0) return qs.reads;
-    // Largest note for "large"; smallest entry in the largestN list as a proxy
-    // for "small". For a true smallest-note we'd need to surface it from profiler;
-    // ship that in v2 if needed.
     const large = largest[0]?.relPath ?? null;
-    const small = largest[largest.length - 1]?.relPath ?? null;
+    const small = stats.size?.medianNote?.relPath ?? null;
     return {
       small: qs.reads.small ?? small,
       large: qs.reads.large ?? large,
