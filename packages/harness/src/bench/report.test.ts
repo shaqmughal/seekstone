@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
-import type { BenchmarkSummary } from './runner.js';
 import { renderBenchmarkMarkdown } from './report.js';
+import type { BenchmarkSummary } from './runner.js';
 
 const minimalSummary: BenchmarkSummary = {
   snapshotDate: '2026-05-29T00:00:00.000Z',
@@ -90,11 +90,13 @@ describe('renderBenchmarkMarkdown', () => {
   });
 
   it('a query with "|" in its text has it escaped as "\\|" in the table', () => {
+    const baseSearch = minimalSummary.search[0];
+    if (!baseSearch) throw new Error('test setup error');
     const summaryWithPipe: BenchmarkSummary = {
       ...minimalSummary,
       search: [
         {
-          ...minimalSummary.search[0]!,
+          ...baseSearch,
           query: 'foo | bar',
         },
       ],
