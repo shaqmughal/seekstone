@@ -2,146 +2,246 @@
 
 An Obsidian MCP server — filesystem-direct, low context-tax.
 
-This repo currently ships **just the measurement harness** that the eventual
-server will be designed against. Two jobs in one tool:
+seekstone reads your vault **directly from disk** instead of routing through the Obsidian Local REST API plugin. The practical difference: a search that returns 1.75 MB and ~459,000 tokens via the REST plugin returns **3 KB and ~800 tokens** via seekstone — a 575× reduction. The payoff is that Claude can search and read notes without burning most of its context window on a single tool call.
 
-1. **Profiler** — exact, fast facts about a vault (counts, bytes, link graph,
-   frontmatter shape, tag distribution, freshness). Turns vault estimates into
-   measured truth.
-2. **Benchmark harness** — repeatable latency / payload-size / write-safety
-   measurements against pluggable backends. Today: the **Obsidian Local REST
-   API plugin**. Next: filesystem-direct, served by this repo.
+## What's in this repo
 
-Methodology is in version control so anyone can re-run and compare numbers.
+| Package | Purpose |
+|---|---|
+| `packages/core` | Shared vault primitives — walk, frontmatter parser, link/tag extractor, percentiles |
+| `packages/server` | The MCP server (5 tools, stdio transport, MiniSearch full-text index) |
+| `packages/harness` | Profiler + benchmark + write-safety harness with REST and fs backends |
 
 ---
 
-## Quick start
+## MCP server
+
+### Tools
+
+| Tool | Description |
+|---|---|
+| `search` | Full-text search. Returns ranked ~200-char excerpts, not full notes. Supports fuzzy, prefix, and phrase queries. |
+| `read_note` | Read the full content of a note by vault-relative path. |
+| `list_notes` | List notes, optionally filtered by folder prefix or tag. |
+| `append_note` | Append text to a note body without touching the frontmatter. |
+| `patch_frontmatter` | Set, update, or delete frontmatter keys while preserving key order and quote style. |
+
+### Claude Desktop setup
 
 ```bash
-# 1. Install deps
+npm install
+```
+
+Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
+
+```json
+{
+  "mcpServers": {
+    "seekstone": {
+      "command": "npx",
+      "args": ["tsx", "/path/to/seekstone/packages/server/src/index.ts"],
+      "env": {
+        "SEEKSTONE_VAULT": "/path/to/your/Obsidian Vault"
+      }
+    }
+  }
+}
+```
+
+Restart Claude Desktop. On startup, seekstone walks the vault and builds a MiniSearch index (~1.3 s for ~2,000 notes). All five tools are then available in Claude.
+
+---
+
+## Benchmark harness
+
+The harness produces reproducible, citable numbers for the context-tax comparison. Methodology is version-controlled so re-runs against the same vault snapshot are directly comparable.
+
+### Measured results (1,936-note vault, Apple M-series, Node v25)
+
+| Query | REST warm p50 | fs warm p50 | REST payload | fs payload | Reduction |
+|---|---:|---:|---:|---:|---:|
+| `engineering` | 47 ms | 1.6 ms | 1.75 MB | 3.1 KB | **575×** |
+| `team dynamics` | 57 ms | 2.9 ms | 1.28 MB | 3.2 KB | **409×** |
+| `"radical candor"` | 24 ms | 1.0 ms | 0 hits | 10 hits | — ¹ |
+| `excalidraw thumbnail` | 28 ms | 3.3 ms | 0 hits | 10 hits | — ¹ |
+
+¹ The REST plugin returns 0 hits for phrase queries and certain multi-word queries — it does not support quoted-phrase syntax. seekstone (MiniSearch) handles both.
+
+**Write safety** (25 notes, three ops each):
+
+| Op | REST | seekstone |
+|---|---|---|
+| identity | ✅ 25/25 | ✅ 25/25 |
+| body-append | ❌ 0/25 (silent data loss) | ✅ 25/25 |
+| fm-edit | ✅ 25/25 | ✅ 25/25 |
+
+The REST plugin returns HTTP 204 on body-append but silently discards the content. seekstone writes raw bytes directly and verifies them.
+
+### Running the harness
+
+```bash
 npm install
 
-# 2. Point at your vault and run the profiler
+# Required env vars
 export SEEKSTONE_VAULT="/path/to/your/Obsidian Vault"
-npm run harness -- profile --vault "$SEEKSTONE_VAULT" --out reports
-# → reports/vault-stats.json  (machine-readable)
-# → reports/vault-stats.md    (human-readable)
 
-# 3. Configure the REST adapter (Obsidian Local REST API plugin must be enabled)
-export SEEKSTONE_REST_URL="https://127.0.0.1:27124"   # default
-export SEEKSTONE_REST_API_KEY="<paste from the plugin settings tab>"
+# Profile the vault (generates vault-stats.json used by bench to auto-pick read targets)
+npx tsx packages/harness/src/cli.ts profile \
+  --vault "$SEEKSTONE_VAULT" --out reports
 
-# 4. Edit packages/harness/queries/default.json to fit your vault, then bench
-npm run harness -- bench \
+# Benchmark — filesystem-direct (no other setup needed)
+npx tsx packages/harness/src/cli.ts bench \
+  --backend fs \
   --queries packages/harness/queries/default.json \
   --stats reports/vault-stats.json \
   --out reports
-# → reports/benchmark-rest.json
-# → reports/benchmark-rest.md
 
-# 5. Write-safety (two-step; runs on a COPY of the vault, never the live one)
-npm run harness -- safety --vault "$SEEKSTONE_VAULT"
-#   prints the scratch copy path and aborts
-# Point Obsidian at that scratch copy (open it as a vault), then:
-npm run harness -- safety \
+# Benchmark — Obsidian Local REST API plugin (Obsidian must be running with plugin enabled)
+export SEEKSTONE_REST_API_KEY="<paste from plugin settings>"
+npx tsx packages/harness/src/cli.ts bench \
+  --backend rest \
+  --queries packages/harness/queries/default.json \
+  --stats reports/vault-stats.json \
+  --out reports
+
+# Write-safety — fs backend (single step, no Obsidian required)
+npx tsx packages/harness/src/cli.ts safety \
   --vault "$SEEKSTONE_VAULT" \
+  --backend fs \
+  --out reports
+
+# Write-safety — REST backend (two-step: copy vault, point Obsidian at the copy, then run)
+npx tsx packages/harness/src/cli.ts safety --vault "$SEEKSTONE_VAULT"
+#   prints the scratch copy path and exits
+# Open that path as a vault in Obsidian, then:
+npx tsx packages/harness/src/cli.ts safety \
+  --vault "$SEEKSTONE_VAULT" \
+  --backend rest \
   --copy-vault-root /tmp/seekstone-safety-XXXXXXXXXX \
   --out reports
-# → reports/safety-rest.json
-# → reports/safety-rest.md
 ```
 
----
+Output files are written to `reports/` (gitignored — they contain vault-specific paths).
 
-## Methodology
+### Query set
 
-The point of this repo is **reproducible numbers** that can be cited in a
-write-up. The conventions are:
+`packages/harness/queries/default.json` is the pinned query set. Edit it for your vault (particularly the `rare` query — pick a term that exists but is uncommon), commit, and re-run to keep results comparable across snapshots and adapters.
 
-- **Snapshot the vault.** Record the date and (ideally) git-archive it
-  alongside the report. Numbers from different snapshots are not comparable
-  — the harness embeds `snapshotDate` in every output for traceability.
-- **Pin the query set.** `packages/harness/queries/default.json` is the
-  source of truth. Edit per-vault, commit, and re-run with the same file.
-- **Capture machine specs.** The harness embeds `process.platform`,
-  `process.arch`, `process.version`, and CPU count in every report. For an
-  article-grade run, also record CPU model, RAM, and storage type in the
-  README of your run.
+### Methodology
 
-### Benchmark conventions
-
-- **N ≥ 20 runs** per measurement (configurable via `--runs`).
-- **Cold** = run 1 (includes any one-time tax: TCP handshake, JIT, OS page
-  cache miss, plugin index build).
-- **Warm p50/p95** = runs 2..N (what a session actually feels like).
-- **Payload bytes** = raw response body byte length. Token estimate is
-  `bytes / 4` — close enough for context-tax ranking; replace with a
-  `tiktoken` count if you need exact numbers.
-- **TTFR.** For non-streaming adapters (the REST plugin), time-to-first-result
-  equals the full response time. A streaming adapter should override and
-  report TTFR separately.
-
-### Write-safety conventions
-
-- The harness **never writes to the live vault.** It copies the vault to a
-  tmp scratch directory and refuses if the destination equals or sits
-  inside the source path.
-- The REST adapter writes to whatever vault Obsidian is currently pointing
-  at. For safety tests you must open the scratch copy as a vault in Obsidian
-  first, then point the harness at it with `--copy-vault-root`.
-- Three ops per sampled note:
-  - **identity** — write the original bytes back; expect byte-for-byte
-    equality on disk after.
-  - **body-append** — append a marker to the body; expect frontmatter region
-    bytes to be unchanged and body to equal `original + marker`.
-  - **fm-edit** — add a controlled frontmatter key via the `yaml`
-    Document API; expect body bytes unchanged and existing FM key order
-    preserved.
+- **N ≥ 20 runs** per measurement (override with `--runs`).
+- **Cold** = run 1 — includes any one-time tax (TCP handshake, JIT, page-cache miss, index build).
+- **Warm p50/p95** = runs 2..N — what a live session actually feels like.
+- **Payload bytes** = raw response byte length as returned by the adapter. Token estimate is `bytes ÷ 4` — adequate for context-tax ranking; replace with a tiktoken count for exact figures.
+- The **write-safety harness never touches the live vault.** All write ops run against a scratch copy under `os.tmpdir()`, and the copy path is asserted to not equal or sit inside the original before any write runs.
 
 ---
 
-## Layout
+## Development
+
+```bash
+npm install                                           # install all workspace deps
+npm test                                              # vitest across all packages (207 tests)
+npm run -w @seekstone/harness test                    # harness tests only
+npx vitest run packages/server/src/tools/search.test.ts   # single file
+npx vitest run -t 'parses a typical frontmatter'     # single test by name
+npx tsc -p packages/harness/tsconfig.json --noEmit   # typecheck
+npm run lint                                          # biome check
+npm run format                                        # biome write
+```
+
+There is no build step — the project runs via `tsx`. `tsc` is typecheck-only.
+
+### Required env vars
+
+| Var | Used by | Required |
+|---|---|---|
+| `SEEKSTONE_VAULT` | Server, harness profile/safety | Always |
+| `SEEKSTONE_REST_API_KEY` | Harness REST adapter | REST bench/safety only |
+| `SEEKSTONE_REST_URL` | Harness REST adapter | Defaults to `https://127.0.0.1:27124` |
+
+### Test coverage
+
+207 tests across three packages, all co-located as `*.test.ts` next to source. Every exported function has at least one positive and one negative test.
+
+| Package | Test files | Tests |
+|---|---:|---:|
+| core | 4 | 29 |
+| harness | 16 | 130 |
+| server | 7 | 48 |
+
+Not covered by unit tests (integration/entry-point concerns): `cli.ts`, `server/index.ts` (MCP entry point), `rest.ts` (all methods require a live HTTP server).
+
+---
+
+## Repo layout
 
 ```
 seekstone/
 ├── packages/
-│   └── harness/
-│       ├── queries/default.json        ← version-controlled query set
+│   ├── core/                     ← shared primitives (no deps on harness or server)
+│   │   └── src/
+│   │       ├── walk.ts           ← vault walker, file classifier
+│   │       ├── frontmatter.ts    ← byte-aware YAML frontmatter parser
+│   │       ├── extract.ts        ← wikilink / URL / tag extractors
+│   │       └── percentiles.ts    ← Distribution type, summarise()
+│   ├── harness/
+│   │   ├── queries/default.json  ← version-controlled query set
+│   │   └── src/
+│   │       ├── cli.ts            ← profile / bench / safety commands
+│   │       ├── profiler/         ← vault profiler (counts, sizes, links, tags)
+│   │       ├── bench/
+│   │       │   ├── backend.ts    ← Backend interface (search/read/write/list)
+│   │       │   ├── adapters/
+│   │       │   │   ├── rest.ts   ← Obsidian Local REST API plugin adapter
+│   │       │   │   └── fs.ts     ← Filesystem-direct adapter (MiniSearch)
+│   │       │   ├── runner.ts     ← benchmark orchestrator
+│   │       │   └── timer.ts      ← high-res timing, cold/warm distributions
+│   │       └── safety/           ← vault copy, identity/append/fm-edit ops
+│   └── server/
 │       └── src/
-│           ├── cli.ts                  ← `profile` / `bench` / `safety` commands
-│           ├── profiler/               ← vault walk, FM parse, link/tag extract
-│           ├── bench/
-│           │   ├── backend.ts          ← single interface every adapter implements
-│           │   ├── adapters/rest.ts    ← Obsidian Local REST API plugin
-│           │   ├── queries.ts          ← query set loader
-│           │   ├── timer.ts            ← high-res timing, percentiles
-│           │   └── runner.ts           ← orchestrator
-│           ├── safety/                 ← vault copy + identity/append/fm-edit ops
-│           └── util/percentiles.ts
-└── reports/                            ← harness outputs land here (gitignored by default)
+│           ├── index.ts          ← MCP server entry point (stdio)
+│           ├── context.ts        ← ServerContext type
+│           ├── index/
+│           │   ├── build.ts      ← MiniSearch index builder
+│           │   ├── excerpt.ts    ← ~200-char excerpt extractor
+│           │   └── types.ts      ← IndexedNote, SearchHit
+│           └── tools/
+│               ├── search.ts
+│               ├── read_note.ts
+│               ├── list_notes.ts
+│               ├── append_note.ts
+│               └── patch_frontmatter.ts
+└── reports/                      ← harness outputs (gitignored)
 ```
 
-The eventual `packages/server` (the MCP server itself) will reuse the
-profiler's walk/parse code and the same `Backend` interface — the harness
-work compounds into the build.
+### Key design notes
+
+**Frontmatter parsing is byte-aware.** `parseFrontmatter` returns `bodyStart` as a byte offset so write operations can prove the FM region is byte-identical before and after. Never route reads through `yaml.stringify` to "normalise" — that destroys the round-trip contract.
+
+**Module imports use `.js` extensions** throughout, even when importing `.ts` source. That's what NodeNext + tsx + tsc all agree on.
+
+**`Distribution`** (`min`/`median`/`p90`/`p95`/`p99`/`max`/`mean`) is the single percentile shape across the codebase. Any new metric should go through `summarise()`.
+
+**Reports are deterministic** for a fixed vault snapshot. The safety sample is selected by sorting lexically then striding, so the same 25 notes are picked on every run. No `Math.random()` in profiler or safety paths.
 
 ---
 
-## Adding a new backend
+## Adding a backend
 
-Implement `Backend` (see `packages/harness/src/bench/backend.ts`) and wire it
-up in `cli.ts`. The interface is deliberately small — search / read / write /
-list — and is the same surface the MCP server will expose.
+Implement `Backend` in `packages/harness/src/bench/adapters/`. Wire it up in `cli.ts`'s `buildBackend()`. Reports automatically use the adapter's `name` field for output filenames (`benchmark-<name>.{json,md}`, `safety-<name>.{json,md}`).
 
 ---
 
 ## Roadmap
 
-- [x] Profiler v1
-- [x] Benchmark harness v1 with Obsidian Local REST API adapter
-- [x] Write-safety v1
-- [ ] Filesystem-direct adapter (`packages/server`)
-- [ ] MCP transport
-- [ ] Token counting via `tiktoken`
+- [x] Profiler
+- [x] Benchmark harness — REST adapter
+- [x] Write-safety suite
+- [x] Filesystem-direct adapter (harness)
+- [x] MCP server (5 tools, stdio transport)
+- [x] Claude Desktop integration
+- [x] Test suite (207 tests)
+- [ ] Token counting via `tiktoken` (current estimate: `bytes ÷ 4`)
 - [ ] Streaming search + TTFR measurement
+- [ ] Index hot-reload on vault change (FSEvents watcher)
