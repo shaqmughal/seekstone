@@ -1,11 +1,9 @@
 import { access, mkdir, writeFile } from 'node:fs/promises';
-import { basename, dirname, extname, join } from 'node:path';
+import { dirname, join } from 'node:path';
 import { stringify as stringifyYaml } from 'yaml';
 import { z } from 'zod';
-import { extractInlineTags, frontmatterTags } from '@seekstone/core/extract';
-import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import type { ServerContext } from '../context.js';
-import type { IndexedNote } from '../index/types.js';
+import { buildDoc, upsertDoc } from '../index/doc.js';
 
 export const CreateNoteInput = z.object({
   path: z
@@ -62,30 +60,7 @@ export async function createNote(
   await writeFile(absPath, raw, 'utf8');
 
   // Sync in-memory index so the new note is immediately searchable.
-  const fm = parseFrontmatter(raw);
-  const allTags = [...new Set([...extractInlineTags(fm.body), ...frontmatterTags(fm.data)])];
-  const title =
-    typeof fm.data?.title === 'string' && fm.data.title
-      ? fm.data.title
-      : basename(input.path, extname(input.path));
-
-  const doc: IndexedNote = {
-    id: input.path,
-    title,
-    body: fm.body,
-    tags: allTags.join(' '),
-    fmKeys: fm.keys.join(' '),
-    raw,
-    sizeBytes: Buffer.byteLength(raw, 'utf8'),
-    mtimeMs: Date.now(),
-  };
-
-  // If overwriting, remove the stale index entry first (discard needs only the id).
-  if (ctx.notes.has(input.path)) {
-    ctx.index.discard(input.path);
-  }
-  ctx.notes.set(input.path, doc);
-  ctx.index.add(doc);
+  upsertDoc(ctx, buildDoc(input.path, raw));
 
   return { path: input.path, bytesWritten: Buffer.byteLength(raw, 'utf8') };
 }

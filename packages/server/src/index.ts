@@ -7,9 +7,12 @@ import {
 } from '@modelcontextprotocol/sdk/types.js';
 import { buildIndex } from './index/build.js';
 import type { ServerContext } from './context.js';
+import { startWatcher } from './watcher.js';
 import { AppendNoteInput, appendNote } from './tools/append_note.js';
 import { CreateNoteInput, createNote } from './tools/create_note.js';
+import { DeleteNoteInput, deleteNote } from './tools/delete_note.js';
 import { ListNotesInput, listNotes } from './tools/list_notes.js';
+import { MoveNoteInput, moveNote } from './tools/move_note.js';
 import { PatchFrontmatterInput, patchFrontmatter } from './tools/patch_frontmatter.js';
 import { ReadNoteInput, readNote } from './tools/read_note.js';
 import { SearchInput, search } from './tools/search.js';
@@ -25,6 +28,9 @@ const { index, notes, buildMs } = await buildIndex(vaultRoot);
 process.stderr.write(`seekstone: indexed ${notes.size} notes in ${buildMs}ms.\n`);
 
 const ctx: ServerContext = { vaultRoot, index, notes };
+
+const stopWatcher = startWatcher(ctx);
+process.on('exit', stopWatcher);
 
 const server = new Server(
   { name: 'seekstone', version: '0.1.0' },
@@ -102,6 +108,34 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
       },
     },
     {
+      name: 'delete_note',
+      description: 'Permanently delete a note from the vault. This cannot be undone.',
+      inputSchema: {
+        type: 'object',
+        properties: {
+          path: { type: 'string', description: 'Vault-relative path of the note to delete.' },
+        },
+        required: ['path'],
+      },
+    },
+    {
+      name: 'move_note',
+      description:
+        'Move or rename a note to a new vault-relative path. Parent directories at the destination are created automatically. Fails if the destination already exists unless overwrite is true.',
+      inputSchema: {
+        type: 'object',
+        properties: {
+          from: { type: 'string', description: 'Vault-relative source path.' },
+          to: { type: 'string', description: 'Vault-relative destination path.' },
+          overwrite: {
+            type: 'boolean',
+            description: 'Overwrite destination if it exists. Defaults to false.',
+          },
+        },
+        required: ['from', 'to'],
+      },
+    },
+    {
       name: 'append_note',
       description:
         'Append text to a note body without touching the frontmatter. Safe for meeting notes, daily logs, and append-only workflows.',
@@ -169,6 +203,20 @@ server.setRequestHandler(CallToolRequestSchema, async (req) => {
               text: `Created ${result.path} (${result.bytesWritten} bytes).`,
             },
           ],
+        };
+      }
+      case 'delete_note': {
+        const input = DeleteNoteInput.parse(args);
+        await deleteNote(ctx, input);
+        return {
+          content: [{ type: 'text', text: `Deleted ${input.path}.` }],
+        };
+      }
+      case 'move_note': {
+        const input = MoveNoteInput.parse(args);
+        const result = await moveNote(ctx, input);
+        return {
+          content: [{ type: 'text', text: `Moved ${result.from} → ${result.to}.` }],
         };
       }
       case 'append_note': {
