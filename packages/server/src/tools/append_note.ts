@@ -1,7 +1,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
-import { z } from 'zod';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
+import { z } from 'zod';
 import type { ServerContext } from '../context.js';
 
 export const AppendNoteInput = z.object({
@@ -9,7 +9,9 @@ export const AppendNoteInput = z.object({
   content: z
     .string()
     .min(1)
-    .describe('Text to append to the note body. Will be separated from existing content by a blank line.'),
+    .describe(
+      'Text to append to the note body. Will be separated from existing content by a blank line.',
+    ),
 });
 export type AppendNoteInput = z.infer<typeof AppendNoteInput>;
 

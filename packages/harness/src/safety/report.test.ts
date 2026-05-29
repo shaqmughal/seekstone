@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
-import type { SafetySummary } from './runner.js';
 import { renderSafetyMarkdown } from './report.js';
+import type { SafetySummary } from './runner.js';
 
 const allPassSummary: SafetySummary = {
   snapshotDate: '2026-05-29T00:00:00.000Z',

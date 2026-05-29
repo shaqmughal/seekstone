@@ -1,8 +1,8 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
+import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { parseDocument } from 'yaml';
 import { z } from 'zod';
-import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import type { ServerContext } from '../context.js';
 
 export const PatchFrontmatterInput = z.object({

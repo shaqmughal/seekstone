@@ -1,7 +1,7 @@
 import { z } from 'zod';
+import type { ServerContext } from '../context.js';
 import { extractExcerpt } from '../index/excerpt.js';
 import type { SearchHit } from '../index/types.js';
-import type { ServerContext } from '../context.js';
 
 export const SearchInput = z.object({
   query: z.string().min(1).describe('Search query. Supports fuzzy matching and prefix search.'),

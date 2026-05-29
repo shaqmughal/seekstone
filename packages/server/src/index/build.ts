@@ -1,9 +1,9 @@
 import { readFile } from 'node:fs/promises';
 import { basename, extname } from 'node:path';
-import MiniSearch from 'minisearch';
 import { extractInlineTags, frontmatterTags } from '@seekstone/core/extract';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { walkVault } from '@seekstone/core/walk';
+import MiniSearch from 'minisearch';
 import type { IndexedNote } from './types.js';
 
 export type VaultIndex = MiniSearch<IndexedNote>;

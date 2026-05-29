@@ -22,8 +22,14 @@ function freshCtx(): ServerContext {
 
 function seedNote(relPath: string, raw: string): IndexedNote {
   const doc: IndexedNote = {
-    id: relPath, title: relPath, body: raw, tags: '', fmKeys: '',
-    raw, sizeBytes: Buffer.byteLength(raw, 'utf8'), mtimeMs: Date.now(),
+    id: relPath,
+    title: relPath,
+    body: raw,
+    tags: '',
+    fmKeys: '',
+    raw,
+    sizeBytes: Buffer.byteLength(raw, 'utf8'),
+    mtimeMs: Date.now(),
   };
   ctx.notes.set(relPath, doc);
   ctx.index.add(doc);
@@ -76,15 +82,17 @@ describe('moveNote', () => {
   });
 
   it('throws if source does not exist', async () => {
-    await expect(moveNote(ctx, { from: 'missing.md', to: 'anywhere.md' })).rejects.toThrow('Note not found');
+    await expect(moveNote(ctx, { from: 'missing.md', to: 'anywhere.md' })).rejects.toThrow(
+      'Note not found',
+    );
   });
 
   it('throws if destination exists and overwrite is false (default)', async () => {
     await writeFile(join(tmpDir, 'keep-src.md'), 'original', 'utf8');
     await writeFile(join(tmpDir, 'keep-dst.md'), 'existing', 'utf8');
-    await expect(
-      moveNote(ctx, { from: 'keep-src.md', to: 'keep-dst.md' }),
-    ).rejects.toThrow('already exists');
+    await expect(moveNote(ctx, { from: 'keep-src.md', to: 'keep-dst.md' })).rejects.toThrow(
+      'already exists',
+    );
     // source must be untouched
     expect(await readFile(join(tmpDir, 'keep-src.md'), 'utf8')).toBe('original');
   });
@@ -97,11 +105,15 @@ describe('moveNote', () => {
   });
 
   it('throws on path traversal in from', async () => {
-    await expect(moveNote(ctx, { from: '../escape.md', to: 'safe.md' })).rejects.toThrow('Path outside vault');
+    await expect(moveNote(ctx, { from: '../escape.md', to: 'safe.md' })).rejects.toThrow(
+      'Path outside vault',
+    );
   });
 
   it('throws on path traversal in to', async () => {
     await writeFile(join(tmpDir, 'legit.md'), '', 'utf8');
-    await expect(moveNote(ctx, { from: 'legit.md', to: '../escape.md' })).rejects.toThrow('Path outside vault');
+    await expect(moveNote(ctx, { from: 'legit.md', to: '../escape.md' })).rejects.toThrow(
+      'Path outside vault',
+    );
   });
 });

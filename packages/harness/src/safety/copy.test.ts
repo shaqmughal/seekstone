@@ -42,7 +42,6 @@ describe('copyVault', () => {
     }
   });
 
-
   it('copyRoot !== originalRoot (not the same path)', async () => {
     const { copyRoot, originalRoot } = await copyVault(srcDir);
     try {

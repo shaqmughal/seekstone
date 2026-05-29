@@ -88,9 +88,9 @@ describe('createNote', () => {
 
   it('throws if the note already exists and overwrite is false (default)', async () => {
     await writeFile(join(tmpDir, 'existing.md'), 'original', 'utf8');
-    await expect(
-      createNote(ctx, { path: 'existing.md', content: 'replacement' }),
-    ).rejects.toThrow('already exists');
+    await expect(createNote(ctx, { path: 'existing.md', content: 'replacement' })).rejects.toThrow(
+      'already exists',
+    );
     // original content must be untouched
     const disk = await readFile(join(tmpDir, 'existing.md'), 'utf8');
     expect(disk).toBe('original');
@@ -100,8 +100,14 @@ describe('createNote', () => {
     await writeFile(join(tmpDir, 'rewrite.md'), 'old content', 'utf8');
     // seed ctx.notes with a stale entry
     const stale: IndexedNote = {
-      id: 'rewrite.md', title: 'rewrite', body: 'old content', tags: '', fmKeys: '',
-      raw: 'old content', sizeBytes: 11, mtimeMs: Date.now(),
+      id: 'rewrite.md',
+      title: 'rewrite',
+      body: 'old content',
+      tags: '',
+      fmKeys: '',
+      raw: 'old content',
+      sizeBytes: 11,
+      mtimeMs: Date.now(),
     };
     ctx.notes.set('rewrite.md', stale);
     ctx.index.add(stale);
@@ -114,8 +120,8 @@ describe('createNote', () => {
   });
 
   it('throws on path traversal', async () => {
-    await expect(
-      createNote(ctx, { path: '../escape.md', content: 'bad' }),
-    ).rejects.toThrow('Path outside vault');
+    await expect(createNote(ctx, { path: '../escape.md', content: 'bad' })).rejects.toThrow(
+      'Path outside vault',
+    );
   });
 });

@@ -25,7 +25,10 @@ export function buildDoc(relPath: string, raw: string): IndexedNote {
 
 /** Upsert a document into the context index. Discards any stale entry first. */
 export function upsertDoc(
-  ctx: { index: { discard(id: string): void; add(doc: IndexedNote): void }; notes: Map<string, IndexedNote> },
+  ctx: {
+    index: { discard(id: string): void; add(doc: IndexedNote): void };
+    notes: Map<string, IndexedNote>;
+  },
   doc: IndexedNote,
 ): void {
   if (ctx.notes.has(doc.id)) ctx.index.discard(doc.id);

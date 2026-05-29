@@ -143,7 +143,10 @@ function needArg<T>(v: T | undefined, name: string): T {
   return v;
 }
 
-async function buildBackend(name: string, vaultRoot?: string): Promise<import('./bench/backend.js').Backend> {
+async function buildBackend(
+  name: string,
+  vaultRoot?: string,
+): Promise<import('./bench/backend.js').Backend> {
   if (name === 'rest') {
     const baseUrl = process.env.SEEKSTONE_REST_URL ?? 'https://127.0.0.1:27124';
     const apiKey = needArg(process.env.SEEKSTONE_REST_API_KEY, 'SEEKSTONE_REST_API_KEY env var');

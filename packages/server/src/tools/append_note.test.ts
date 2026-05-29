@@ -1,11 +1,11 @@
 import { mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
-import { join } from 'node:path';
 import { tmpdir } from 'node:os';
-import { describe, it, expect, beforeAll, afterAll } from 'vitest';
+import { join } from 'node:path';
 import MiniSearch from 'minisearch';
-import { appendNote } from './append_note.js';
+import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
 import type { IndexedNote } from '../index/types.js';
+import { appendNote } from './append_note.js';
 
 function buildCtx(
   vaultRoot: string,
@@ -70,7 +70,12 @@ describe('appendNote', () => {
   it('preserves frontmatter byte-for-byte and appends content after body', async () => {
     await writeFile(join(vaultRoot, 'with-fm.md'), NOTE_WITH_FM, 'utf8');
     const ctx = buildCtx(vaultRoot, [
-      { id: 'with-fm.md', title: 'Test Note', body: '# Hello\n\nBody line one.\n', raw: NOTE_WITH_FM },
+      {
+        id: 'with-fm.md',
+        title: 'Test Note',
+        body: '# Hello\n\nBody line one.\n',
+        raw: NOTE_WITH_FM,
+      },
     ]);
 
     const result = await appendNote(ctx, { path: 'with-fm.md', content: 'Appended line.' });
@@ -107,7 +112,12 @@ describe('appendNote', () => {
   it('bytesWritten matches Buffer.byteLength of the written file', async () => {
     await writeFile(join(vaultRoot, 'with-fm.md'), NOTE_WITH_FM, 'utf8');
     const ctx = buildCtx(vaultRoot, [
-      { id: 'with-fm.md', title: 'Test Note', body: '# Hello\n\nBody line one.\n', raw: NOTE_WITH_FM },
+      {
+        id: 'with-fm.md',
+        title: 'Test Note',
+        body: '# Hello\n\nBody line one.\n',
+        raw: NOTE_WITH_FM,
+      },
     ]);
 
     const result = await appendNote(ctx, { path: 'with-fm.md', content: 'Size check.' });
@@ -118,7 +128,12 @@ describe('appendNote', () => {
   it('updates the in-memory cache (ctx.notes)', async () => {
     await writeFile(join(vaultRoot, 'with-fm.md'), NOTE_WITH_FM, 'utf8');
     const ctx = buildCtx(vaultRoot, [
-      { id: 'with-fm.md', title: 'Test Note', body: '# Hello\n\nBody line one.\n', raw: NOTE_WITH_FM },
+      {
+        id: 'with-fm.md',
+        title: 'Test Note',
+        body: '# Hello\n\nBody line one.\n',
+        raw: NOTE_WITH_FM,
+      },
     ]);
 
     await appendNote(ctx, { path: 'with-fm.md', content: 'Cache update check.' });

@@ -19,10 +19,7 @@ export interface MoveNoteResult {
   to: string;
 }
 
-export async function moveNote(
-  ctx: ServerContext,
-  input: MoveNoteInput,
-): Promise<MoveNoteResult> {
+export async function moveNote(ctx: ServerContext, input: MoveNoteInput): Promise<MoveNoteResult> {
   const absFrom = join(ctx.vaultRoot, input.from);
   const absTo = join(ctx.vaultRoot, input.to);
 
@@ -38,7 +35,9 @@ export async function moveNote(
   if (!input.overwrite) {
     try {
       await access(absTo);
-      throw new Error(`Destination already exists: ${input.to}. Pass overwrite: true to replace it.`);
+      throw new Error(
+        `Destination already exists: ${input.to}. Pass overwrite: true to replace it.`,
+      );
     } catch (err) {
       if ((err as NodeJS.ErrnoException).code !== 'ENOENT') throw err;
     }

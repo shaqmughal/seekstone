@@ -1,8 +1,8 @@
-import { describe, it, expect } from 'vitest';
 import MiniSearch from 'minisearch';
-import { listNotes } from './list_notes.js';
+import { describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
 import type { IndexedNote } from '../index/types.js';
+import { listNotes } from './list_notes.js';
 
 function buildCtx(
   vaultRoot: string,
