@@ -1,5 +1,11 @@
 # seekstone
 
+[![CI](https://github.com/shaqmughal/seekstone/actions/workflows/ci.yml/badge.svg)](https://github.com/shaqmughal/seekstone/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Node.js ≥ 22](https://img.shields.io/badge/Node.js-%E2%89%A522-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)
+![Platform: macOS](https://img.shields.io/badge/platform-macOS-lightgrey?logo=apple)
+
 An Obsidian MCP server — filesystem-direct, low context-tax.
 
 seekstone reads your vault **directly from disk** instead of routing through the Obsidian Local REST API plugin. The practical difference: a search that returns 1.75 MB and ~459,000 tokens via the REST plugin returns **3 KB and ~800 tokens** via seekstone — a 575× reduction. The payoff is that Claude can search and read notes without burning most of its context window on a single tool call.
