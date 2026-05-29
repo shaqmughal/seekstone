@@ -9,7 +9,7 @@ seekstone reads your vault **directly from disk** instead of routing through the
 | Package | Purpose |
 |---|---|
 | `packages/core` | Shared vault primitives — walk, frontmatter parser, link/tag extractor, percentiles |
-| `packages/server` | The MCP server (6 tools, stdio transport, MiniSearch full-text index) |
+| `packages/server` | The MCP server (8 tools, stdio transport, MiniSearch full-text index, FSEvents watcher) |
 | `packages/harness` | Profiler + benchmark + write-safety harness with REST and fs backends |
 
 ---
@@ -24,6 +24,8 @@ seekstone reads your vault **directly from disk** instead of routing through the
 | `read_note` | Read the full content of a note by vault-relative path. |
 | `list_notes` | List notes, optionally filtered by folder prefix or tag. |
 | `create_note` | Create a new note at a vault-relative path. Optionally sets frontmatter and body. Parent directories are created automatically. |
+| `delete_note` | Permanently delete a note from the vault. |
+| `move_note` | Move or rename a note to a new vault-relative path. Parent directories are created automatically. |
 | `append_note` | Append text to a note body without touching the frontmatter. |
 | `patch_frontmatter` | Set, update, or delete frontmatter keys while preserving key order and quote style. |
 
@@ -49,7 +51,7 @@ Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
 }
 ```
 
-Restart Claude Desktop. On startup, seekstone walks the vault and builds a MiniSearch index (~1.3 s for ~2,000 notes). All six tools are then available in Claude.
+Restart Claude Desktop. On startup, seekstone walks the vault and builds a MiniSearch index (~1.3 s for ~2,000 notes). All eight tools are then available in Claude. An FSEvents watcher keeps the index in sync as notes are added, edited, or deleted while the server is running.
 
 ---
 
@@ -142,7 +144,7 @@ Output files are written to `reports/` (gitignored — they contain vault-specif
 
 ```bash
 npm install                                           # install all workspace deps
-npm test                                              # vitest across all packages (217 tests)
+npm test                                              # vitest across all packages (236 tests)
 npm run -w @seekstone/harness test                    # harness tests only
 npx vitest run packages/server/src/tools/search.test.ts   # single file
 npx vitest run -t 'parses a typical frontmatter'     # single test by name
@@ -163,13 +165,13 @@ There is no build step — the project runs via `tsx`. `tsc` is typecheck-only.
 
 ### Test coverage
 
-217 tests across three packages, all co-located as `*.test.ts` next to source. Every exported function has at least one positive and one negative test.
+236 tests across three packages, all co-located as `*.test.ts` next to source. Every exported function has at least one positive and one negative test.
 
 | Package | Test files | Tests |
 |---|---:|---:|
 | core | 4 | 29 |
 | harness | 16 | 130 |
-| server | 8 | 58 |
+| server | 11 | 77 |
 
 Not covered by unit tests (integration/entry-point concerns): `cli.ts`, `server/index.ts` (MCP entry point), `rest.ts` (all methods require a live HTTP server).
 
@@ -203,8 +205,10 @@ seekstone/
 │       └── src/
 │           ├── index.ts          ← MCP server entry point (stdio)
 │           ├── context.ts        ← ServerContext type
+│           ├── watcher.ts        ← FSEvents hot-reload watcher
 │           ├── index/
 │           │   ├── build.ts      ← MiniSearch index builder
+│           │   ├── doc.ts        ← buildDoc / upsertDoc helpers
 │           │   ├── excerpt.ts    ← ~200-char excerpt extractor
 │           │   └── types.ts      ← IndexedNote, SearchHit
 │           └── tools/
@@ -212,6 +216,8 @@ seekstone/
 │               ├── read_note.ts
 │               ├── list_notes.ts
 │               ├── create_note.ts
+│               ├── delete_note.ts
+│               ├── move_note.ts
 │               ├── append_note.ts
 │               └── patch_frontmatter.ts
 └── reports/                      ← harness outputs (gitignored)
@@ -241,9 +247,9 @@ Implement `Backend` in `packages/harness/src/bench/adapters/`. Wire it up in `cl
 - [x] Benchmark harness — REST adapter
 - [x] Write-safety suite
 - [x] Filesystem-direct adapter (harness)
-- [x] MCP server (6 tools, stdio transport)
+- [x] MCP server (8 tools, stdio transport)
 - [x] Claude Desktop integration
-- [x] Test suite (217 tests)
+- [x] Index hot-reload on vault change (FSEvents watcher)
+- [x] Test suite (236 tests)
 - [ ] Token counting via `tiktoken` (current estimate: `bytes ÷ 4`)
 - [ ] Streaming search + TTFR measurement
-- [ ] Index hot-reload on vault change (FSEvents watcher)
