@@ -25,7 +25,9 @@ Thumbs.db
 # claude code local-only settings
 .claude/settings.local.json
 
-# harness outputs — committed reports live under reports/, ad-hoc runs go here
+# harness outputs — contain vault-specific data (paths, note names, person names)
+# never commit these; share reports manually if needed
+reports/
 out/
 tmp/
 *.tmp
