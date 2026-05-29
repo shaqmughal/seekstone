@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="96" viewBox="0 0 380 96" role="img" aria-label="Seekstone wordmark">
+  <title>Seekstone</title>
+  <polygon points="48,10 16,40 48,52" fill="#9a7dff"/>
+  <polygon points="48,10 80,40 48,52" fill="#7c5cff"/>
+  <polygon points="16,40 48,52 48,86" fill="#6344e0"/>
+  <polygon points="80,40 48,52 48,86" fill="#4c2fb8"/>
+  <polygon points="48,10 33,25 48,36 63,25" fill="#b8a6ff"/>
+  <text x="106" y="62" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="500" letter-spacing="-1.2" fill="#2a2350">Seekstone</text>
+</svg>

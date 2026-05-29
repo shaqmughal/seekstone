@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-label="Seekstone icon, monochrome">
+  <title>Seekstone (monochrome)</title>
+  <g fill="currentColor">
+    <polygon points="48,10 16,40 48,52" fill-opacity="0.85"/>
+    <polygon points="48,10 80,40 48,52" fill-opacity="1"/>
+    <polygon points="16,40 48,52 48,86" fill-opacity="0.68"/>
+    <polygon points="80,40 48,52 48,86" fill-opacity="0.5"/>
+    <polygon points="48,10 33,25 48,36 63,25" fill-opacity="0.95"/>
+  </g>
+</svg>
