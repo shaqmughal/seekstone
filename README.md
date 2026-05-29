@@ -211,6 +211,7 @@ seekstone/
 │               ├── search.ts
 │               ├── read_note.ts
 │               ├── list_notes.ts
+│               ├── create_note.ts
 │               ├── append_note.ts
 │               └── patch_frontmatter.ts
 └── reports/                      ← harness outputs (gitignored)
