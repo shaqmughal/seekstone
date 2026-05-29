@@ -19,9 +19,7 @@ export const CreateNoteInput = z.object({
   overwrite: z
     .boolean()
     .default(false)
-    .describe(
-      'Overwrite an existing note. Defaults to false — throws if the note already exists.',
-    ),
+    .describe('Overwrite an existing note. Defaults to false — throws if the note already exists.'),
 });
 export type CreateNoteInput = z.input<typeof CreateNoteInput>;
 
@@ -42,9 +40,7 @@ export async function createNote(
   if (!input.overwrite) {
     try {
       await access(absPath);
-      throw new Error(
-        `Note already exists: ${input.path}. Pass overwrite: true to replace it.`,
-      );
+      throw new Error(`Note already exists: ${input.path}. Pass overwrite: true to replace it.`);
     } catch (err) {
       if ((err as NodeJS.ErrnoException).code !== 'ENOENT') throw err;
     }

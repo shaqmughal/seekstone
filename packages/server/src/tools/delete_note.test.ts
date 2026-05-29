@@ -22,8 +22,14 @@ function freshCtx(): ServerContext {
 
 function seedNote(relPath: string, raw: string): IndexedNote {
   const doc: IndexedNote = {
-    id: relPath, title: relPath, body: raw, tags: '', fmKeys: '',
-    raw, sizeBytes: Buffer.byteLength(raw, 'utf8'), mtimeMs: Date.now(),
+    id: relPath,
+    title: relPath,
+    body: raw,
+    tags: '',
+    fmKeys: '',
+    raw,
+    sizeBytes: Buffer.byteLength(raw, 'utf8'),
+    mtimeMs: Date.now(),
   };
   ctx.notes.set(relPath, doc);
   ctx.index.add(doc);

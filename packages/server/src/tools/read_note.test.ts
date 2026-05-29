@@ -1,11 +1,11 @@
 import { mkdtemp, rm, writeFile } from 'node:fs/promises';
-import { join } from 'node:path';
 import { tmpdir } from 'node:os';
-import { describe, it, expect, beforeAll, afterAll } from 'vitest';
-import { readNote } from './read_note.js';
-import type { ServerContext } from '../context.js';
+import { join } from 'node:path';
 import MiniSearch from 'minisearch';
+import { afterAll, beforeAll, describe, expect, it } from 'vitest';
+import type { ServerContext } from '../context.js';
 import type { IndexedNote } from '../index/types.js';
+import { readNote } from './read_note.js';
 
 let vaultRoot: string;
 let ctx: ServerContext;

@@ -35,7 +35,9 @@ export function renderBenchmarkMarkdown(s: BenchmarkSummary): string {
 
   push(`## Search`);
   push();
-  push(`| Query | Kind | Cold | Warm p50 | Warm p95 | TTFR cold | TTFR p50 | Payload | Tokens | Hits (run 1) |`);
+  push(
+    `| Query | Kind | Cold | Warm p50 | Warm p95 | TTFR cold | TTFR p50 | Payload | Tokens | Hits (run 1) |`,
+  );
   push(`| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |`);
   for (const q of s.search) {
     const ttfrCold = q.ttfr ? fmtMs(q.ttfr.coldTtfrMs) : '—';

@@ -117,7 +117,10 @@ export function fmEditOp(original: Buffer): OpResult | null {
         return { pass: false, reason: 'body bytes changed during frontmatter edit' };
       }
       if (!postFm.keys.includes(targetKey)) {
-        return { pass: false, reason: `added key ${targetKey} missing from post-write frontmatter` };
+        return {
+          pass: false,
+          reason: `added key ${targetKey} missing from post-write frontmatter`,
+        };
       }
       // All pre-existing keys (excluding targetKey if it was already there) must
       // survive the round-trip in the same relative order.

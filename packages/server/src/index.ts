@@ -1,13 +1,9 @@
 #!/usr/bin/env -S npx tsx
 import { Server } from '@modelcontextprotocol/sdk/server/index.js';
 import { StdioServerTransport } from '@modelcontextprotocol/sdk/server/stdio.js';
-import {
-  CallToolRequestSchema,
-  ListToolsRequestSchema,
-} from '@modelcontextprotocol/sdk/types.js';
-import { buildIndex } from './index/build.js';
+import { CallToolRequestSchema, ListToolsRequestSchema } from '@modelcontextprotocol/sdk/types.js';
 import type { ServerContext } from './context.js';
-import { startWatcher } from './watcher.js';
+import { buildIndex } from './index/build.js';
 import { AppendNoteInput, appendNote } from './tools/append_note.js';
 import { CreateNoteInput, createNote } from './tools/create_note.js';
 import { DeleteNoteInput, deleteNote } from './tools/delete_note.js';
@@ -16,6 +12,7 @@ import { MoveNoteInput, moveNote } from './tools/move_note.js';
 import { PatchFrontmatterInput, patchFrontmatter } from './tools/patch_frontmatter.js';
 import { ReadNoteInput, readNote } from './tools/read_note.js';
 import { SearchInput, search } from './tools/search.js';
+import { startWatcher } from './watcher.js';
 
 const vaultRoot = process.env.SEEKSTONE_VAULT;
 if (!vaultRoot) {
@@ -32,10 +29,7 @@ const ctx: ServerContext = { vaultRoot, index, notes };
 const stopWatcher = startWatcher(ctx);
 process.on('exit', stopWatcher);
 
-const server = new Server(
-  { name: 'seekstone', version: '0.1.0' },
-  { capabilities: { tools: {} } },
-);
+const server = new Server({ name: 'seekstone', version: '0.1.0' }, { capabilities: { tools: {} } });
 
 server.setRequestHandler(ListToolsRequestSchema, async () => ({
   tools: [
@@ -243,7 +237,9 @@ server.setRequestHandler(CallToolRequestSchema, async (req) => {
     }
   } catch (err) {
     return {
-      content: [{ type: 'text', text: `Error: ${err instanceof Error ? err.message : String(err)}` }],
+      content: [
+        { type: 'text', text: `Error: ${err instanceof Error ? err.message : String(err)}` },
+      ],
       isError: true,
     };
   }

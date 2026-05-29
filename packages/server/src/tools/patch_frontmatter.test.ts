@@ -1,12 +1,12 @@
 import { mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
-import { join } from 'node:path';
 import { tmpdir } from 'node:os';
-import { describe, it, expect, beforeAll, afterAll } from 'vitest';
-import MiniSearch from 'minisearch';
-import { patchFrontmatter } from './patch_frontmatter.js';
+import { join } from 'node:path';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
+import MiniSearch from 'minisearch';
+import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
 import type { IndexedNote } from '../index/types.js';
+import { patchFrontmatter } from './patch_frontmatter.js';
 
 function buildCtx(
   vaultRoot: string,
@@ -95,7 +95,12 @@ describe('patchFrontmatter', () => {
   it('updates an existing key — value changed, key order unchanged', async () => {
     await writeFile(join(vaultRoot, 'update-key.md'), NOTE_WITH_FM, 'utf8');
     const ctx = buildCtx(vaultRoot, [
-      { id: 'update-key.md', title: 'My Note', body: '# Body\n\nSome content.\n', raw: NOTE_WITH_FM },
+      {
+        id: 'update-key.md',
+        title: 'My Note',
+        body: '# Body\n\nSome content.\n',
+        raw: NOTE_WITH_FM,
+      },
     ]);
 
     const result = await patchFrontmatter(ctx, {
@@ -121,7 +126,12 @@ describe('patchFrontmatter', () => {
   it('deletes a key when null value is passed', async () => {
     await writeFile(join(vaultRoot, 'delete-key.md'), NOTE_WITH_FM, 'utf8');
     const ctx = buildCtx(vaultRoot, [
-      { id: 'delete-key.md', title: 'My Note', body: '# Body\n\nSome content.\n', raw: NOTE_WITH_FM },
+      {
+        id: 'delete-key.md',
+        title: 'My Note',
+        body: '# Body\n\nSome content.\n',
+        raw: NOTE_WITH_FM,
+      },
     ]);
 
     const result = await patchFrontmatter(ctx, {

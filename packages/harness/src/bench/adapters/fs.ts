@@ -1,4 +1,4 @@
-import { readdir, readFile, writeFile } from 'node:fs/promises';
+import { readFile, readdir, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import fg from 'fast-glob';
 import MiniSearch from 'minisearch';
@@ -118,7 +118,11 @@ export class FsAdapter implements Backend {
   async read(path: string): Promise<BackendResponse<string>> {
     const absPath = join(this.vaultRoot, path);
     const content = await readFile(absPath, 'utf8');
-    return { result: content, payloadBytes: Buffer.byteLength(content, 'utf8'), payloadText: content };
+    return {
+      result: content,
+      payloadBytes: Buffer.byteLength(content, 'utf8'),
+      payloadText: content,
+    };
   }
 
   async write(path: string, content: string): Promise<BackendResponse<void>> {
