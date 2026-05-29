@@ -1,0 +1,22 @@
+{
+  "name": "@seekstone/harness",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Profiler + benchmark harness for an Obsidian vault. Measures vault shape; benchmarks pluggable adapters (Obsidian Local REST API today, filesystem-direct next); verifies byte-faithful YAML round-trip.",
+  "bin": {
+    "seekstone-harness": "./src/cli.ts"
+  },
+  "scripts": {
+    "start": "tsx src/cli.ts",
+    "build": "tsc -p tsconfig.json",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "cac": "^6.7.14",
+    "fast-glob": "^3.3.2",
+    "undici": "^7.2.0",
+    "yaml": "^2.6.1"
+  }
+}

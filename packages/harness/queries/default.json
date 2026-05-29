@@ -1,0 +1,37 @@
+{
+  "$schema": "../src/bench/queries.schema.json",
+  "comment": "Version-controlled query set. Edit per-vault so 'rare' actually matches and 'phrase' actually exists. Re-running with the same set is what makes results comparable across snapshots and adapters.",
+  "queries": [
+    {
+      "id": "single-term",
+      "kind": "single",
+      "query": "okr",
+      "notes": "Replace with a single high-frequency term in your vault."
+    },
+    {
+      "id": "multi-term",
+      "kind": "multi",
+      "query": "context window",
+      "notes": "Two common terms ANDed together."
+    },
+    {
+      "id": "phrase",
+      "kind": "phrase",
+      "query": "\"long term memory\"",
+      "notes": "Quoted phrase. Confirm the plugin's simple-search supports phrase syntax for your version."
+    },
+    {
+      "id": "rare-term",
+      "kind": "rare",
+      "query": "zorblax",
+      "notes": "Should match very few or zero notes. Picks up cold-cache pathological behaviour."
+    }
+  ],
+  "reads": {
+    "small": null,
+    "large": null,
+    "_hint": "After running `harness profile`, paste the smallest and one of the largest note paths from vault-stats.json here. Leave null to have bench auto-pick from the stats file."
+  },
+  "runs": 20,
+  "_runsHint": "N≥20 per the build brief. Increase for noisier numbers; decrease only when iterating."
+}

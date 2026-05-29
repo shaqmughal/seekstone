@@ -1,0 +1,34 @@
+# deps
+node_modules/
+
+# build outputs
+dist/
+*.tsbuildinfo
+
+# logs
+*.log
+npm-debug.log*
+
+# env / local config
+.env
+.env.local
+.env.*.local
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
+
+# claude code local-only settings
+.claude/settings.local.json
+
+# harness outputs — committed reports live under reports/, ad-hoc runs go here
+out/
+tmp/
+*.tmp
+
+# write-safety scratch vaults (defensive — must never be committed)
+safety-scratch/
