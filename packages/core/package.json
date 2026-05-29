@@ -10,6 +10,9 @@
     "./extract": "./src/extract.ts",
     "./percentiles": "./src/percentiles.ts"
   },
+  "scripts": {
+    "test": "vitest run"
+  },
   "dependencies": {
     "fast-glob": "^3.3.2",
     "yaml": "^2.6.1"
