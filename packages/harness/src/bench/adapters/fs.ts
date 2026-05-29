@@ -98,13 +98,13 @@ export class FsAdapter implements Backend {
     });
 
     const payload = JSON.stringify(hits);
-    return { result: hits, payloadBytes: Buffer.byteLength(payload, 'utf8') };
+    return { result: hits, payloadBytes: Buffer.byteLength(payload, 'utf8'), payloadText: payload };
   }
 
   async read(path: string): Promise<BackendResponse<string>> {
     const absPath = join(this.vaultRoot, path);
     const content = await readFile(absPath, 'utf8');
-    return { result: content, payloadBytes: Buffer.byteLength(content, 'utf8') };
+    return { result: content, payloadBytes: Buffer.byteLength(content, 'utf8'), payloadText: content };
   }
 
   async write(path: string, content: string): Promise<BackendResponse<void>> {
@@ -125,7 +125,7 @@ export class FsAdapter implements Backend {
         isDirectory: e.isDirectory(),
       }));
     const payload = JSON.stringify(result);
-    return { result, payloadBytes: Buffer.byteLength(payload, 'utf8') };
+    return { result, payloadBytes: Buffer.byteLength(payload, 'utf8'), payloadText: payload };
   }
 }
 

@@ -1,4 +1,7 @@
+import { get_encoding } from 'tiktoken';
 import { type Distribution, summarise } from '../util/percentiles.js';
+
+const enc = get_encoding('cl100k_base');
 
 export interface Timing<T> {
   result: T;
@@ -22,7 +25,7 @@ export interface RunStats {
   all: Distribution;
   /** Mean payload bytes across runs. */
   payloadBytesMean: number;
-  /** Estimated tokens (bytes/4) for the mean payload. */
+  /** Token count for the mean payload (tiktoken cl100k_base; falls back to bytes÷4 when no payload text is available). */
   payloadTokensMean: number;
   runs: number;
 }
@@ -36,25 +39,31 @@ export interface RunStats {
  * - We report both so a cheap warm number can't hide a brutal cold start.
  */
 export async function runN<T>(
-  fn: () => Promise<{ result: T; payloadBytes: number }>,
+  fn: () => Promise<{ result: T; payloadBytes: number; payloadText?: string }>,
   runs: number,
 ): Promise<RunStats> {
   const durations: number[] = [];
   const payloads: number[] = [];
+  let sampleText: string | undefined;
   for (let i = 0; i < runs; i++) {
     const t = await timed(fn);
     durations.push(t.durationMs);
     payloads.push(t.result.payloadBytes);
+    if (sampleText === undefined && t.result.payloadText !== undefined) {
+      sampleText = t.result.payloadText;
+    }
   }
   const cold = durations[0] ?? 0;
   const warmRuns = durations.slice(1);
   const payloadMean = payloads.reduce((a, b) => a + b, 0) / Math.max(1, payloads.length);
+  const payloadTokensMean =
+    sampleText !== undefined ? enc.encode(sampleText).length : Math.ceil(payloadMean / 4);
   return {
     coldMs: cold,
     warm: summarise(warmRuns),
     all: summarise(durations),
     payloadBytesMean: payloadMean,
-    payloadTokensMean: Math.ceil(payloadMean / 4),
+    payloadTokensMean,
     runs,
   };
 }
