@@ -26,8 +26,8 @@ log.info('index ready', { notes: notes.size, buildMs });
 
 const ctx: ServerContext = { vaultRoot, index, notes };
 
-const stopWatcher = startWatcher(ctx, log);
-process.on('exit', stopWatcher);
+const watcher = startWatcher(ctx, log);
+process.on('exit', watcher.stop);
 
 const server = new Server({ name: 'seekstone', version: '0.1.0' }, { capabilities: { tools: {} } });
 
