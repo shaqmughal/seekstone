@@ -1,4 +1,4 @@
-#!/usr/bin/env -S npx tsx
+#!/usr/bin/env node
 import { Server } from '@modelcontextprotocol/sdk/server/index.js';
 import { StdioServerTransport } from '@modelcontextprotocol/sdk/server/stdio.js';
 import { CallToolRequestSchema, ListToolsRequestSchema } from '@modelcontextprotocol/sdk/types.js';
@@ -254,7 +254,7 @@ process.stderr.write(
       mcpServers: {
         seekstone: {
           command: 'npx',
-          args: ['tsx', `${import.meta.dirname}/../src/index.ts`],
+          args: ['-y', 'seekstone'],
           env: { SEEKSTONE_VAULT: vaultRoot },
         },
       },
