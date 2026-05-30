@@ -1,23 +1,55 @@
 {
-  "name": "@seekstone/server",
+  "name": "seekstone",
   "version": "0.0.0",
-  "private": true,
   "type": "module",
   "description": "Seekstone MCP server — filesystem-direct Obsidian vault access, low context-tax.",
+  "keywords": [
+    "obsidian",
+    "mcp",
+    "model-context-protocol",
+    "claude",
+    "markdown",
+    "notes",
+    "vault",
+    "knowledge-base"
+  ],
+  "license": "MIT",
+  "author": "Shaq Mughal",
+  "homepage": "https://github.com/shaqmughal/seekstone#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaqmughal/seekstone.git",
+    "directory": "packages/server"
+  },
+  "bugs": {
+    "url": "https://github.com/shaqmughal/seekstone/issues"
+  },
+  "engines": {
+    "node": ">=22"
+  },
   "bin": {
-    "seekstone": "./src/index.ts"
+    "seekstone": "./dist/index.js"
+  },
+  "main": "./dist/index.js",
+  "files": ["dist"],
+  "publishConfig": {
+    "access": "public"
   },
   "scripts": {
     "start": "tsx src/index.ts",
-    "build": "tsc -p tsconfig.json",
+    "build": "tsup",
+    "prepack": "tsup",
     "test": "vitest run",
     "test:watch": "vitest"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.12.0",
-    "@seekstone/core": "*",
+    "fast-glob": "^3.3.2",
     "minisearch": "^7.1.1",
     "yaml": "^2.6.1",
     "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "@seekstone/core": "*"
   }
 }
