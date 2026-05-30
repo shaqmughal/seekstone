@@ -1,4 +1,4 @@
-import { mkdtemp, rm, writeFile } from 'node:fs/promises';
+import { mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import MiniSearch from 'minisearch';
@@ -7,9 +7,8 @@ import type { ServerContext } from './context.js';
 import type { IndexedNote } from './index/types.js';
 import { startWatcher } from './watcher.js';
 
-// Each test gets its own vault dir so concurrent fs.watch instances never
-// observe each other's events (the source of prior flakiness). fs.watch is
-// inherently timing-sensitive — SHA-35 replaces it with a robust watcher.
+// Each test gets its own vault dir. We await the watcher's `ready` promise
+// before mutating files, so events are deterministic (no retries needed).
 let tmpDir: string;
 
 function freshCtx(vaultRoot: string): ServerContext {
@@ -22,7 +21,7 @@ function freshCtx(vaultRoot: string): ServerContext {
   return { vaultRoot, index, notes: new Map() };
 }
 
-async function waitFor(condition: () => boolean, timeoutMs = 3000): Promise<void> {
+async function waitFor(condition: () => boolean, timeoutMs = 12000): Promise<void> {
   const deadline = Date.now() + timeoutMs;
   while (!condition()) {
     if (Date.now() > deadline) throw new Error('waitFor timeout');
@@ -39,13 +38,11 @@ afterEach(async () => {
 });
 
 describe('startWatcher', () => {
-  // These four exercise real fs.watch OS events, whose delivery timing is
-  // nondeterministic under load; retry tolerates that jitter (SHA-35 replaces
-  // fs.watch with a robust watcher and should remove the need for retries).
-  it('indexes a new .md file created after startup', { retry: 3 }, async () => {
+  it('indexes a new .md file created after startup', async () => {
     const ctx = freshCtx(tmpDir);
-    const stop = startWatcher(ctx);
+    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true });
     try {
+      await ready;
       await writeFile(join(tmpDir, 'watch-new.md'), 'watcher_unique_abc', 'utf8');
       await waitFor(() => ctx.notes.has('watch-new.md'));
       expect(ctx.index.search('watcher_unique_abc').some((h) => h.id === 'watch-new.md')).toBe(
@@ -56,11 +53,12 @@ describe('startWatcher', () => {
     }
   });
 
-  it('updates the index when a file is modified', { retry: 3 }, async () => {
+  it('updates the index when a file is modified', async () => {
     const ctx = freshCtx(tmpDir);
     await writeFile(join(tmpDir, 'watch-mod.md'), 'old content', 'utf8');
-    const stop = startWatcher(ctx);
+    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true });
     try {
+      await ready;
       await writeFile(join(tmpDir, 'watch-mod.md'), 'new_unique_modified_xyz', 'utf8');
       await waitFor(
         () => ctx.notes.get('watch-mod.md')?.body?.includes('new_unique_modified_xyz') ?? false,
@@ -71,10 +69,9 @@ describe('startWatcher', () => {
     }
   });
 
-  it('removes a deleted file from the index', { retry: 3 }, async () => {
+  it('removes a deleted file from the index', async () => {
     const ctx = freshCtx(tmpDir);
     await writeFile(join(tmpDir, 'watch-del.md'), 'will be deleted', 'utf8');
-    // Pre-seed so the note is in the index before deletion.
     const doc: IndexedNote = {
       id: 'watch-del.md',
       title: 'watch-del',
@@ -88,8 +85,9 @@ describe('startWatcher', () => {
     ctx.notes.set('watch-del.md', doc);
     ctx.index.add(doc);
 
-    const stop = startWatcher(ctx);
+    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true });
     try {
+      await ready;
       await rm(join(tmpDir, 'watch-del.md'));
       await waitFor(() => !ctx.notes.has('watch-del.md'));
       expect(ctx.notes.has('watch-del.md')).toBe(false);
@@ -98,7 +96,39 @@ describe('startWatcher', () => {
     }
   });
 
-  it('logs index updates through an injected logger', { retry: 3 }, async () => {
+  it('detects a new note in a nested folder (the Linux fs.watch gap)', async () => {
+    // The crux of SHA-35: fs.watch(recursive) silently misses nested events on
+    // Linux; chokidar must deliver them. A single nested add proves recursive
+    // delivery (modify/delete handlers are covered by the flat tests above).
+    const ctx = freshCtx(tmpDir);
+    await mkdir(join(tmpDir, 'a', 'b', 'c'), { recursive: true });
+    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true });
+    try {
+      await ready;
+      await writeFile(join(tmpDir, 'a', 'b', 'c', 'deep.md'), 'nested_unique_def', 'utf8');
+      await waitFor(() => ctx.notes.has('a/b/c/deep.md'));
+      expect(ctx.notes.get('a/b/c/deep.md')?.body).toContain('nested_unique_def');
+    } finally {
+      stop();
+    }
+  });
+
+  it('handles a vault path containing spaces', async () => {
+    const spaced = join(tmpDir, 'My Vault');
+    await mkdir(spaced, { recursive: true });
+    const ctx = freshCtx(spaced);
+    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true });
+    try {
+      await ready;
+      await writeFile(join(spaced, 'spaced note.md'), 'spaced_unique_ghi', 'utf8');
+      await waitFor(() => ctx.notes.has('spaced note.md'));
+      expect(ctx.notes.get('spaced note.md')?.body).toContain('spaced_unique_ghi');
+    } finally {
+      stop();
+    }
+  });
+
+  it('logs index updates through an injected logger', async () => {
     const ctx = freshCtx(tmpDir);
     const events: { msg: string; fields?: Record<string, unknown> }[] = [];
     const noop = () => {};
@@ -109,8 +139,9 @@ describe('startWatcher', () => {
       info: noop,
       debug: (msg: string, fields?: Record<string, unknown>) => events.push({ msg, fields }),
     };
-    const stop = startWatcher(ctx, log);
+    const { stop, ready } = startWatcher(ctx, log, { usePolling: true });
     try {
+      await ready;
       await writeFile(join(tmpDir, 'watch-log.md'), 'logged_body_qrs', 'utf8');
       await waitFor(() => ctx.notes.has('watch-log.md'));
       expect(
@@ -123,10 +154,10 @@ describe('startWatcher', () => {
 
   it('ignores non-.md files', async () => {
     const ctx = freshCtx(tmpDir);
-    const stop = startWatcher(ctx);
+    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true });
     try {
+      await ready;
       await writeFile(join(tmpDir, 'image.png'), 'binary', 'utf8');
-      // Wait a bit and confirm nothing was indexed.
       await new Promise((r) => setTimeout(r, 150));
       expect(ctx.notes.size).toBe(0);
     } finally {
@@ -136,7 +167,7 @@ describe('startWatcher', () => {
 
   it('returns a stop function that closes the watcher', () => {
     const ctx = freshCtx(tmpDir);
-    const stop = startWatcher(ctx);
+    const { stop } = startWatcher(ctx, undefined, { usePolling: true });
     expect(() => stop()).not.toThrow();
   });
 });

@@ -34,6 +34,11 @@ Restart the client. On startup seekstone walks the vault and builds an in-memory
 | Env var | Required | Description |
 |---|---|---|
 | `SEEKSTONE_VAULT` | yes | Absolute path to the Obsidian vault. |
+| `SEEKSTONE_LOG_LEVEL` | no | `error` \| `warn` \| `info` (default) \| `debug`. |
+| `SEEKSTONE_LOG_FILE` | no | Absolute path; when set, JSON-line logs are appended here (size-rotated). |
+| `SEEKSTONE_WATCH_POLL` | no | Set to `1` to stat-poll for changes instead of native OS events — slower but reliable on network drives, WSL, and some containers. |
+
+Works on macOS, Linux, and Windows.
 
 ## Tools
 
