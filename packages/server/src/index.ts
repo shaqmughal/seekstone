@@ -1,32 +1,32 @@
 #!/usr/bin/env node
 import { Server } from '@modelcontextprotocol/sdk/server/index.js';
 import { StdioServerTransport } from '@modelcontextprotocol/sdk/server/stdio.js';
-import { CallToolRequestSchema, ListToolsRequestSchema } from '@modelcontextprotocol/sdk/types.js';
+import {
+  CallToolRequestSchema,
+  type CallToolResult,
+  ListToolsRequestSchema,
+} from '@modelcontextprotocol/sdk/types.js';
 import type { ServerContext } from './context.js';
+import { dispatch } from './dispatch.js';
 import { buildIndex } from './index/build.js';
-import { AppendNoteInput, appendNote } from './tools/append_note.js';
-import { CreateNoteInput, createNote } from './tools/create_note.js';
-import { DeleteNoteInput, deleteNote } from './tools/delete_note.js';
-import { ListNotesInput, listNotes } from './tools/list_notes.js';
-import { MoveNoteInput, moveNote } from './tools/move_note.js';
-import { PatchFrontmatterInput, patchFrontmatter } from './tools/patch_frontmatter.js';
-import { ReadNoteInput, readNote } from './tools/read_note.js';
-import { SearchInput, search } from './tools/search.js';
+import { createLogger } from './log.js';
 import { startWatcher } from './watcher.js';
+
+const log = createLogger();
 
 const vaultRoot = process.env.SEEKSTONE_VAULT;
 if (!vaultRoot) {
-  process.stderr.write('seekstone: SEEKSTONE_VAULT env var is required.\n');
+  log.error('SEEKSTONE_VAULT env var is required');
   process.exit(1);
 }
 
-process.stderr.write(`seekstone: building index for ${vaultRoot}…\n`);
+log.info('building index', { vault: vaultRoot });
 const { index, notes, buildMs } = await buildIndex(vaultRoot);
-process.stderr.write(`seekstone: indexed ${notes.size} notes in ${buildMs}ms.\n`);
+log.info('index ready', { notes: notes.size, buildMs });
 
 const ctx: ServerContext = { vaultRoot, index, notes };
 
-const stopWatcher = startWatcher(ctx);
+const stopWatcher = startWatcher(ctx, log);
 process.on('exit', stopWatcher);
 
 const server = new Server({ name: 'seekstone', version: '0.1.0' }, { capabilities: { tools: {} } });
@@ -162,94 +162,17 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
   ],
 }));
 
-server.setRequestHandler(CallToolRequestSchema, async (req) => {
+server.setRequestHandler(CallToolRequestSchema, async (req): Promise<CallToolResult> => {
   const { name, arguments: args } = req.params;
-  try {
-    switch (name) {
-      case 'search': {
-        const input = SearchInput.parse(args);
-        const hits = search(ctx, input);
-        return {
-          content: [{ type: 'text', text: JSON.stringify(hits, null, 2) }],
-        };
-      }
-      case 'read_note': {
-        const input = ReadNoteInput.parse(args);
-        const result = await readNote(ctx, input);
-        return {
-          content: [{ type: 'text', text: result.content }],
-        };
-      }
-      case 'list_notes': {
-        const input = ListNotesInput.parse(args);
-        const entries = listNotes(ctx, input);
-        return {
-          content: [{ type: 'text', text: JSON.stringify(entries, null, 2) }],
-        };
-      }
-      case 'create_note': {
-        const input = CreateNoteInput.parse(args);
-        const result = await createNote(ctx, input);
-        return {
-          content: [
-            {
-              type: 'text',
-              text: `Created ${result.path} (${result.bytesWritten} bytes).`,
-            },
-          ],
-        };
-      }
-      case 'delete_note': {
-        const input = DeleteNoteInput.parse(args);
-        await deleteNote(ctx, input);
-        return {
-          content: [{ type: 'text', text: `Deleted ${input.path}.` }],
-        };
-      }
-      case 'move_note': {
-        const input = MoveNoteInput.parse(args);
-        const result = await moveNote(ctx, input);
-        return {
-          content: [{ type: 'text', text: `Moved ${result.from} → ${result.to}.` }],
-        };
-      }
-      case 'append_note': {
-        const input = AppendNoteInput.parse(args);
-        const result = await appendNote(ctx, input);
-        return {
-          content: [
-            {
-              type: 'text',
-              text: `Appended ${result.bytesWritten} bytes to ${result.path}.`,
-            },
-          ],
-        };
-      }
-      case 'patch_frontmatter': {
-        const input = PatchFrontmatterInput.parse(args);
-        const result = await patchFrontmatter(ctx, input);
-        return {
-          content: [{ type: 'text', text: JSON.stringify(result, null, 2) }],
-        };
-      }
-      default:
-        throw new Error(`Unknown tool: ${name}`);
-    }
-  } catch (err) {
-    return {
-      content: [
-        { type: 'text', text: `Error: ${err instanceof Error ? err.message : String(err)}` },
-      ],
-      isError: true,
-    };
-  }
+  return dispatch(ctx, name, args, log);
 });
 
 const transport = new StdioServerTransport();
 await server.connect(transport);
+log.info('ready', { tools: 8, transport: 'stdio' });
 
 process.stderr.write(
-  `seekstone: ready. Add to Claude Desktop:\n${JSON.stringify(
+  `seekstone: add to Claude Desktop:\n${JSON.stringify(
     {
       mcpServers: {
         seekstone: {
