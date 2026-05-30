@@ -1,0 +1,11 @@
+# Normalize line endings to LF on checkout across all platforms.
+# Biome enforces LF; without this, Windows checkouts get CRLF and fail `lint`.
+* text=auto eol=lf
+
+# Binary assets — never apply text/eol conversion.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
