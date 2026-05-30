@@ -15,7 +15,7 @@
     "format": "biome format --write .",
     "harness": "npm run -w @seekstone/harness start --",
     "smoke": "node scripts/smoke-install.mjs",
-    "version-packages": "changeset version",
+    "version-packages": "changeset version && biome format --write .",
     "release": "changeset publish"
   },
   "devDependencies": {
