@@ -1,6 +1,6 @@
 import { mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
-import { join } from 'node:path';
+import { join, sep } from 'node:path';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import { _testJoin, classify, walkVault } from './walk.js';
 
@@ -72,6 +72,6 @@ describe('walkVault', () => {
 
 describe('_testJoin', () => {
   it('joins path segments with the platform separator', () => {
-    expect(_testJoin('a', 'b', 'c')).toBe('a/b/c');
+    expect(_testJoin('a', 'b', 'c')).toBe(['a', 'b', 'c'].join(sep));
   });
 });
