@@ -21,7 +21,7 @@ function freshCtx(vaultRoot: string): ServerContext {
   return { vaultRoot, index, notes: new Map() };
 }
 
-async function waitFor(condition: () => boolean, timeoutMs = 12000): Promise<void> {
+async function waitFor(condition: () => boolean, timeoutMs = 30000): Promise<void> {
   const deadline = Date.now() + timeoutMs;
   while (!condition()) {
     if (Date.now() > deadline) throw new Error('waitFor timeout');
@@ -37,7 +37,11 @@ afterEach(async () => {
   await rm(tmpDir, { recursive: true, force: true });
 });
 
-describe('startWatcher', () => {
+// Real-filesystem integration tests. The coverage gate skips them
+// (SEEKSTONE_COVERAGE=1): watcher.ts is excluded from coverage and validated
+// here in the normal cross-platform Test run, where v8 instrumentation isn't
+// starving the event loop.
+describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
   it('indexes a new .md file created after startup', async () => {
     const ctx = freshCtx(tmpDir);
     const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true });
