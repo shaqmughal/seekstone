@@ -1,0 +1,65 @@
+name: Release
+
+on:
+  push:
+    branches: [main]
+
+# Never run two releases at once.
+concurrency: release-${{ github.ref }}
+
+permissions:
+  contents: write # changesets opens the version PR and pushes tags
+  pull-requests: write # changesets opens the version PR
+  id-token: write # npm provenance attestation
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+          cache: 'npm'
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Install dependencies
+        run: npm install
+
+      # Publish gates — a bad build/test/smoke must block the release.
+      - name: Typecheck
+        run: |
+          npx tsc -p packages/core/tsconfig.json --noEmit
+          npx tsc -p packages/harness/tsconfig.json --noEmit
+          npx tsc -p packages/server/tsconfig.json --noEmit
+
+      - name: Test
+        run: npm test
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Smoke-test the published tarball
+        run: npm run smoke
+
+      # On a push that still has changesets pending → opens/updates a "Version
+      # Packages" PR. On the push that merges that PR (no changesets left) →
+      # publishes to npm with provenance. Re-publishing an existing version is
+      # a no-op, so this is safe to re-run.
+      - name: Create release PR or publish
+        uses: changesets/action@v1
+        with:
+          version: npm run version-packages
+          publish: npm run release
+          commit: 'chore: version packages'
+          title: 'chore: version packages'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NPM_CONFIG_PROVENANCE: 'true'
