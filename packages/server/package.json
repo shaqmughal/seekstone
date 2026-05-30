@@ -1,6 +1,6 @@
 {
   "name": "seekstone",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "description": "Seekstone MCP server — filesystem-direct Obsidian vault access, low context-tax.",
   "keywords": [
@@ -31,7 +31,9 @@
     "seekstone": "./dist/index.js"
   },
   "main": "./dist/index.js",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "publishConfig": {
     "access": "public"
   },
