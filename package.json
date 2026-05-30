@@ -13,10 +13,14 @@
     "test": "npm run -ws --if-present test",
     "lint": "biome check .",
     "format": "biome format --write .",
-    "harness": "npm run -w @seekstone/harness start --"
+    "harness": "npm run -w @seekstone/harness start --",
+    "smoke": "node scripts/smoke-install.mjs",
+    "version-packages": "changeset version",
+    "release": "changeset publish"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
+    "@changesets/cli": "^2.31.0",
     "@types/node": "^22.10.0",
     "@vitest/coverage-v8": "^2.1.9",
     "tsup": "^8.3.5",
