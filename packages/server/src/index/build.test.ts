@@ -69,24 +69,29 @@ describe('buildIndex', () => {
     expect(note?.title).toBe('plain');
   });
 
-  it('unreadable file is skipped gracefully — index still contains other notes', async () => {
-    const unreadableVault = await mkdtemp(join(tmpdir(), 'seekstone-unreadable-'));
-    try {
-      await writeFile(join(unreadableVault, 'readable.md'), '# Readable\n\nContent.\n', 'utf8');
-      await writeFile(join(unreadableVault, 'unreadable.md'), '# Secret\n\nHidden.\n', 'utf8');
-      await chmod(join(unreadableVault, 'unreadable.md'), 0o000);
+  // chmod 0o000 does not restrict reads on Windows, so this Unix-permission
+  // behavior can only be exercised on POSIX platforms.
+  it.skipIf(process.platform === 'win32')(
+    'unreadable file is skipped gracefully — index still contains other notes',
+    async () => {
+      const unreadableVault = await mkdtemp(join(tmpdir(), 'seekstone-unreadable-'));
+      try {
+        await writeFile(join(unreadableVault, 'readable.md'), '# Readable\n\nContent.\n', 'utf8');
+        await writeFile(join(unreadableVault, 'unreadable.md'), '# Secret\n\nHidden.\n', 'utf8');
+        await chmod(join(unreadableVault, 'unreadable.md'), 0o000);
 
-      const { notes } = await buildIndex(unreadableVault);
+        const { notes } = await buildIndex(unreadableVault);
 
-      // The readable note must be indexed; the unreadable one silently skipped.
-      expect(notes.has('readable.md')).toBe(true);
-      expect(notes.has('unreadable.md')).toBe(false);
-    } finally {
-      // Restore permissions so rm can clean up.
-      await chmod(join(unreadableVault, 'unreadable.md'), 0o644).catch(() => {});
-      await rm(unreadableVault, { recursive: true, force: true });
-    }
-  });
+        // The readable note must be indexed; the unreadable one silently skipped.
+        expect(notes.has('readable.md')).toBe(true);
+        expect(notes.has('unreadable.md')).toBe(false);
+      } finally {
+        // Restore permissions so rm can clean up.
+        await chmod(join(unreadableVault, 'unreadable.md'), 0o644).catch(() => {});
+        await rm(unreadableVault, { recursive: true, force: true });
+      }
+    },
+  );
 
   it('empty vault returns empty index and empty notes map', async () => {
     const emptyVault = await mkdtemp(join(tmpdir(), 'seekstone-empty-vault-'));
