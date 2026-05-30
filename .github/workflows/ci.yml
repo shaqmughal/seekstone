@@ -43,4 +43,6 @@ jobs:
       # vitest config and fail the build if logic coverage regresses.
       - name: Coverage gate
         if: matrix.os == 'ubuntu-latest'
+        env:
+          SEEKSTONE_COVERAGE: '1'
         run: npx vitest run --coverage --root packages/server
