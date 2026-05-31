@@ -29,6 +29,10 @@ jobs:
           cache: 'npm'
           registry-url: 'https://registry.npmjs.org'
 
+      # OIDC trusted publishing requires npm >= 11.5.1.
+      - name: Upgrade npm
+        run: npm install -g npm@latest
+
       - name: Install dependencies
         run: npm install
 
@@ -60,6 +64,8 @@ jobs:
           commit: 'chore: version packages'
           title: 'chore: version packages'
         env:
+          # No NODE_AUTH_TOKEN: npm authenticates via OIDC trusted publishing.
+          # Requires a Trusted Publisher configured for `seekstone` on npmjs.com
+          # (GitHub Actions, repo shaqmughal/seekstone, workflow release.yml).
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
           NPM_CONFIG_PROVENANCE: 'true'
