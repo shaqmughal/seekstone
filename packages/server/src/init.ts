@@ -1,3 +1,4 @@
+import type { Dirent } from 'node:fs';
 import { access, copyFile, mkdir, readFile, readdir, stat, writeFile } from 'node:fs/promises';
 import path, { dirname, join } from 'node:path';
 
@@ -119,7 +120,7 @@ export async function validateVault(vaultPath: string): Promise<VaultCheck> {
 async function countMarkdown(root: string): Promise<number> {
   let count = 0;
   async function walk(dir: string): Promise<void> {
-    let entries: Awaited<ReturnType<typeof readdir>>;
+    let entries: Dirent[];
     try {
       entries = await readdir(dir, { withFileTypes: true });
     } catch {
