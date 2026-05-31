@@ -1,6 +1,7 @@
 {
   "name": "seekstone",
   "version": "0.2.0",
+  "mcpName": "io.github.shaqmughal/seekstone",
   "type": "module",
   "description": "Seekstone MCP server — filesystem-direct Obsidian vault access, low context-tax.",
   "keywords": [
