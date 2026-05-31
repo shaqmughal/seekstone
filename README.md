@@ -47,6 +47,22 @@ Requires [Node.js](https://nodejs.org) ≥ 22. Works on macOS, Linux, and Window
 
 To confirm the package is reachable before wiring it into a client, run `npx -y seekstone --version` (prints the version and exits) or `npx -y seekstone --help`.
 
+### Guided setup
+
+Prefer not to hand-edit JSON? `seekstone init` validates your vault and prints the exact config to paste — or patches the Claude Desktop config for you:
+
+```bash
+# Validate the vault and print the config block to copy
+npx -y seekstone init --vault "/absolute/path/to/your/vault"
+
+# Or patch the Claude Desktop config in place (backs it up first, never
+# touches your other MCP servers)
+npx -y seekstone init --vault "/absolute/path/to/your/vault" --write
+
+# Print the Claude Code command instead
+npx -y seekstone init --vault "/absolute/path/to/your/vault" --client code
+```
+
 ## Tools
 
 | Tool | Description |
