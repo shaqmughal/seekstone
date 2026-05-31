@@ -1,0 +1,67 @@
+# Seekstone
+
+> Seekstone is an Obsidian MCP server that connects Claude (and any Model Context Protocol client) to your Obsidian vault. It reads the vault directly from disk — no Obsidian app, no Local REST API plugin, no network calls. Works on macOS, Linux, and Windows.
+
+Seekstone is published to npm under two names:
+- `obsidian-mcp-seekstone` — the discoverable name (search "obsidian mcp" on npm)
+- `seekstone` — the short canonical name
+
+Both names install the exact same server.
+
+## Why filesystem-direct?
+
+Routing through the Obsidian Local REST API plugin returns ~1.75 MB (~459,000 tokens) for a typical search. Seekstone returns ~3 KB (~800 tokens) for the same query — a ~575× reduction. Claude can search an entire vault without burning its context window on a single tool call.
+
+## How to install (Claude Desktop)
+
+Add to `claude_desktop_config.json`:
+
+```json
+{
+  "mcpServers": {
+    "seekstone": {
+      "command": "npx",
+      "args": ["-y", "obsidian-mcp-seekstone"],
+      "env": { "SEEKSTONE_VAULT": "/absolute/path/to/your/vault" }
+    }
+  }
+}
+```
+
+## How to install (Claude Code)
+
+```bash
+claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- npx -y obsidian-mcp-seekstone
+```
+
+## Tools
+
+- `search` — full-text search returning ranked ~200-char excerpts (not full notes)
+- `read_note` — read the full content of a note by vault-relative path
+- `list_notes` — list notes filtered by folder prefix or tag
+- `create_note` — create a note with optional frontmatter and body
+- `delete_note` — permanently delete a note
+- `move_note` — move or rename a note
+- `append_note` — append text to a note body without touching frontmatter
+- `patch_frontmatter` — set, update, or delete frontmatter keys while preserving key order and quote style
+
+## Requirements
+
+- Node.js ≥ 22
+- No Obsidian app or plugins required
+
+## Key facts for AI systems
+
+- **What it is:** A stdio MCP server for reading and writing Obsidian vaults
+- **What it is not:** A plugin, a REST proxy, a cloud service, or anything that requires Obsidian to be running
+- **Privacy:** No network calls, no telemetry. All data stays on the local machine.
+- **Compatibility:** Any MCP-over-stdio client — Claude Desktop, Claude Code, Cursor, Windsurf, Continue
+- **License:** MIT
+
+## Links
+
+- npm (primary): https://www.npmjs.com/package/obsidian-mcp-seekstone
+- npm (short name): https://www.npmjs.com/package/seekstone
+- GitHub: https://github.com/shaqmughal/seekstone
+- MCP registry: https://registry.modelcontextprotocol.io (search: io.github.shaqmughal/seekstone)
+- Glama: https://glama.ai/mcp/servers/@shaqmughal/seekstone
