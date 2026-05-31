@@ -64,6 +64,10 @@ Before opening a PR, make sure **`npm test`, `npm run lint`, and the typechecks 
 
 Use the [issue templates](https://github.com/shaqmughal/seekstone/issues/new/choose). For security issues, **do not open a public issue** — see [SECURITY.md](SECURITY.md).
 
+## Writing a PRD
+
+Larger features start with a short product requirements doc. Copy [`docs/PRD_TEMPLATE.md`](docs/PRD_TEMPLATE.md) into the Linear issue (or `docs/prd/<slug>.md`) and fill it in. The template is execution-ready — a complete PRD should let someone (or Claude Code) build, test, and verify the feature without further design decisions.
+
 ## License
 
 By contributing, you agree that your contributions are licensed under the project's [MIT License](LICENSE).
