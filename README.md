@@ -45,6 +45,8 @@ Restart the client. On startup seekstone walks the vault and builds an in-memory
 
 Requires [Node.js](https://nodejs.org) ≥ 22. Works on macOS, Linux, and Windows.
 
+To confirm the package is reachable before wiring it into a client, run `npx -y seekstone --version` (prints the version and exits) or `npx -y seekstone --help`.
+
 ## Tools
 
 | Tool | Description |
