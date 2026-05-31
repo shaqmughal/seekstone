@@ -29,6 +29,16 @@ claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- n
 
 Restart the client. On startup seekstone walks the vault and builds an in-memory full-text index (a couple of seconds for a few thousand notes), then keeps it in sync as notes change.
 
+### Guided setup
+
+`seekstone init` validates your vault and prints the config to paste, or patches the Claude Desktop config for you (with a backup, leaving other MCP servers untouched):
+
+```bash
+npx -y seekstone init --vault "/absolute/path/to/your/vault"          # print config
+npx -y seekstone init --vault "/absolute/path/to/your/vault" --write  # patch Claude Desktop
+npx -y seekstone init --vault "/absolute/path/to/your/vault" --client code  # print Claude Code command
+```
+
 ## Configuration
 
 | Env var | Required | Description |

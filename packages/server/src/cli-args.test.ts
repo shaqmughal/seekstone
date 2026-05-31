@@ -24,6 +24,11 @@ describe('parseCliIntent', () => {
   it('ignores unrelated args', () => {
     expect(parseCliIntent(['--vault', '/x'])).toBe('run');
   });
+
+  it('recognizes the init subcommand', () => {
+    expect(parseCliIntent(['init'])).toBe('init');
+    expect(parseCliIntent(['init', '--vault', '/x', '--write'])).toBe('init');
+  });
 });
 
 describe('helpText', () => {
@@ -32,5 +37,9 @@ describe('helpText', () => {
     expect(text).toContain('seekstone 1.2.3');
     expect(text).toContain('SEEKSTONE_VAULT');
     expect(text).toContain('claude mcp add seekstone');
+  });
+
+  it('documents the init subcommand', () => {
+    expect(helpText('1.2.3')).toContain('seekstone init');
   });
 });
