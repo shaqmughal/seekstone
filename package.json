@@ -14,6 +14,7 @@
     "lint": "biome check .",
     "format": "biome format --write .",
     "harness": "npm run -w @seekstone/harness start --",
+    "publish:shim": "npm publish -w obsidian-mcp-seekstone",
     "smoke": "node scripts/smoke-install.mjs",
     "version-packages": "changeset version && biome format --write .",
     "release": "changeset publish"
