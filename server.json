@@ -10,6 +10,21 @@
   "packages": [
     {
       "registryType": "npm",
+      "identifier": "obsidian-mcp-seekstone",
+      "version": "0.2.1",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "SEEKSTONE_VAULT",
+          "description": "Absolute path to your Obsidian vault.",
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "registryType": "npm",
       "identifier": "seekstone",
       "version": "0.2.1",
       "transport": {
