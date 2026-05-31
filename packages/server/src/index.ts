@@ -10,6 +10,7 @@ import { helpText, parseCliIntent } from './cli-args.js';
 import type { ServerContext } from './context.js';
 import { dispatch } from './dispatch.js';
 import { buildIndex } from './index/build.js';
+import { parseInitArgs, runInit } from './init.js';
 import { createLogger } from './log.js';
 import { startWatcher } from './watcher.js';
 
@@ -17,8 +18,8 @@ import { startWatcher } from './watcher.js';
 declare const __SEEKSTONE_VERSION__: string;
 const VERSION = typeof __SEEKSTONE_VERSION__ === 'string' ? __SEEKSTONE_VERSION__ : '0.0.0-dev';
 
-// --version / --help exit before any server setup, and print to stdout (these
-// are explicit CLI invocations, not the MCP stdio session).
+// CLI subcommands / flags exit before any server setup, printing to stdout
+// (these are explicit invocations, not the MCP stdio session).
 const intent = parseCliIntent(process.argv.slice(2));
 if (intent === 'version') {
   process.stdout.write(`${VERSION}\n`);
@@ -27,6 +28,15 @@ if (intent === 'version') {
 if (intent === 'help') {
   process.stdout.write(`${helpText(VERSION)}\n`);
   process.exit(0);
+}
+if (intent === 'init') {
+  const result = await runInit(parseInitArgs(process.argv.slice(3)), {
+    env: process.env,
+    platform: process.platform,
+    timestamp: new Date().toISOString().replace(/[:.]/g, '-'),
+  });
+  process.stdout.write(`${result.output.join('\n')}\n`);
+  process.exit(result.exitCode);
 }
 
 const log = createLogger();
