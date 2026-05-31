@@ -36,7 +36,13 @@
   },
   "files": ["bin", "README.md", "LICENSE"],
   "dependencies": {
-    "seekstone": ">=0.2.1"
+    "seekstone": "0.2.1"
+  },
+  "devDependencies": {
+    "seekstone": "0.2.1"
+  },
+  "scripts": {
+    "test": "vitest run"
   },
   "publishConfig": {
     "access": "public"

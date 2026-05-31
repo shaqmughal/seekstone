@@ -58,8 +58,8 @@ jobs:
 
       # On a push that still has changesets pending → opens/updates a "Version
       # Packages" PR. On the push that merges that PR (no changesets left) →
-      # publishes to npm with provenance. Re-publishing an existing version is
-      # a no-op, so this is safe to re-run.
+      # publishes both seekstone and obsidian-mcp-seekstone to npm with
+      # provenance. Re-publishing an existing version is a no-op.
       - name: Create release PR or publish
         uses: changesets/action@v1
         with:
@@ -69,7 +69,8 @@ jobs:
           title: 'chore: version packages'
         env:
           # No NODE_AUTH_TOKEN: npm authenticates via OIDC trusted publishing.
-          # Requires a Trusted Publisher configured for `seekstone` on npmjs.com
-          # (GitHub Actions, repo shaqmughal/seekstone, workflow release.yml).
+          # Requires a Trusted Publisher configured for BOTH packages on npmjs.com:
+          #   - seekstone (GitHub Actions, repo shaqmughal/seekstone, workflow release.yml)
+          #   - obsidian-mcp-seekstone (same settings)
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_CONFIG_PROVENANCE: 'true'
