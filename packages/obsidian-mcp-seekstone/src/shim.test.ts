@@ -23,30 +23,41 @@ const shimPkg = require('../package.json') as {
   version: string;
   dependencies: Record<string, string>;
 };
-const seekstonePkg = require('seekstone/package.json') as { version: string };
+
+// Read the seekstone version from its package.json in the monorepo. This
+// avoids relying on require.resolve('seekstone') which may not work in the
+// shim's own workspace context during testing.
+const monorepoRoot = new URL('../../../../', import.meta.url).pathname;
+const seekstoneVersion: string = JSON.parse(
+  require('node:fs').readFileSync(join(monorepoRoot, 'packages/server/package.json'), 'utf8'),
+).version;
+
+// Provide NODE_PATH so the shim bin can find seekstone when spawned by tests.
+// In the monorepo, seekstone is installed at the root node_modules via workspaces.
+const testEnv = {
+  ...process.env,
+  NODE_PATH: join(monorepoRoot, 'node_modules'),
+};
 
 describe('obsidian-mcp-seekstone shim', () => {
   it('shim version matches seekstone version (linked versioning)', () => {
-    expect(shimPkg.version).toBe(seekstonePkg.version);
+    expect(shimPkg.version).toBe(seekstoneVersion);
   });
 
   it('shim dependency is pinned to the exact same seekstone version', () => {
-    expect(shimPkg.dependencies.seekstone).toBe(seekstonePkg.version);
+    expect(shimPkg.dependencies.seekstone).toBe(seekstoneVersion);
   });
 
   it('--version passes through to seekstone and prints a semver string', async () => {
     const { stdout } = await execFileAsync(process.execPath, [shimBin, '--version'], {
-      env: process.env,
+      env: testEnv,
     });
-    // The shim proxies to whatever seekstone is installed; assert it returns
-    // a semver-shaped string rather than a hardcoded version (workspace vs
-    // published may differ in version but both are valid semver).
     expect(stdout.trim()).toMatch(/^\d+\.\d+\.\d+/);
   });
 
   it('--help passes through and mentions SEEKSTONE_VAULT', async () => {
     const { stdout } = await execFileAsync(process.execPath, [shimBin, '--help'], {
-      env: process.env,
+      env: testEnv,
     });
     expect(stdout).toContain('SEEKSTONE_VAULT');
   });
@@ -76,7 +87,7 @@ describe('obsidian-mcp-seekstone smoke: full boot via shim', () => {
       let stderr = '';
       let stdout = '';
       const child = spawn(process.execPath, [shimBin], {
-        env: { ...process.env, SEEKSTONE_VAULT: vaultRoot },
+        env: { ...testEnv, SEEKSTONE_VAULT: vaultRoot },
         stdio: ['ignore', 'pipe', 'pipe'],
       });
       child.stdout.on('data', (d: Buffer) => {
