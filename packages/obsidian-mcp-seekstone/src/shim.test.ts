@@ -1,39 +1,36 @@
 /**
  * Tests for the obsidian-mcp-seekstone shim.
  *
- * The shim has one job: proxy all invocations to the real seekstone binary.
- * These tests verify that contract end-to-end — the shim passes args and env
- * through correctly, reports the seekstone version, and fails gracefully when
- * the dep is missing.
+ * The shim's job: proxy all invocations to the real seekstone binary.
+ * NODE_PATH is set to the monorepo root node_modules in every spawned
+ * process so seekstone resolves correctly in both local dev and CI.
  */
 import { execFile } from 'node:child_process';
-import { mkdtemp, rm, writeFile } from 'node:fs/promises';
-import { createRequire } from 'node:module';
+import { readFileSync } from 'node:fs';
+import { mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { promisify } from 'node:util';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 
 const execFileAsync = promisify(execFile);
-const require = createRequire(import.meta.url);
 
-// Resolve the shim entry from the package root.
-const shimBin = join(new URL('../bin/seekstone.js', import.meta.url).pathname);
-const shimPkg = require('../package.json') as {
-  version: string;
-  dependencies: Record<string, string>;
-};
-
-// Read the seekstone version from its package.json in the monorepo. This
-// avoids relying on require.resolve('seekstone') which may not work in the
-// shim's own workspace context during testing.
+const shimBin = new URL('../bin/seekstone.js', import.meta.url).pathname;
 const monorepoRoot = new URL('../../../../', import.meta.url).pathname;
+
+// Read versions directly from package.json files — no require.resolve needed.
+const shimVersion: string = JSON.parse(
+  readFileSync(join(monorepoRoot, 'packages/obsidian-mcp-seekstone/package.json'), 'utf8'),
+).version;
+const shimDeps: Record<string, string> = JSON.parse(
+  readFileSync(join(monorepoRoot, 'packages/obsidian-mcp-seekstone/package.json'), 'utf8'),
+).dependencies;
 const seekstoneVersion: string = JSON.parse(
-  require('node:fs').readFileSync(join(monorepoRoot, 'packages/server/package.json'), 'utf8'),
+  readFileSync(join(monorepoRoot, 'packages/server/package.json'), 'utf8'),
 ).version;
 
-// Provide NODE_PATH so the shim bin can find seekstone when spawned by tests.
-// In the monorepo, seekstone is installed at the root node_modules via workspaces.
+// Provide NODE_PATH so the shim bin can resolve 'seekstone' at the monorepo
+// root node_modules in both local dev (workspace link) and CI.
 const testEnv = {
   ...process.env,
   NODE_PATH: join(monorepoRoot, 'node_modules'),
@@ -41,11 +38,11 @@ const testEnv = {
 
 describe('obsidian-mcp-seekstone shim', () => {
   it('shim version matches seekstone version (linked versioning)', () => {
-    expect(shimPkg.version).toBe(seekstoneVersion);
+    expect(shimVersion).toBe(seekstoneVersion);
   });
 
   it('shim dependency is pinned to the exact same seekstone version', () => {
-    expect(shimPkg.dependencies.seekstone).toBe(seekstoneVersion);
+    expect(shimDeps.seekstone).toBe(seekstoneVersion);
   });
 
   it('--version passes through to seekstone and prints a semver string', async () => {
@@ -68,10 +65,6 @@ describe('obsidian-mcp-seekstone smoke: full boot via shim', () => {
 
   beforeAll(async () => {
     vaultRoot = await mkdtemp(join(tmpdir(), 'shim-smoke-'));
-    await writeFile(join(vaultRoot, '.obsidian'), ''); // not a dir but enough to satisfy init
-    // Create a proper .obsidian dir.
-    const { mkdir } = await import('node:fs/promises');
-    await rm(join(vaultRoot, '.obsidian')); // remove placeholder file
     await mkdir(join(vaultRoot, '.obsidian'), { recursive: true });
     await writeFile(join(vaultRoot, 'note.md'), '# Hi\nbody text\n');
   });
