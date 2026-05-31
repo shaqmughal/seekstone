@@ -36,12 +36,9 @@ const seekstoneVersion: string = JSON.parse(
   readFileSync(join(monorepoRoot, 'packages/server/package.json'), 'utf8'),
 ).version;
 
-// Provide NODE_PATH so the shim bin can resolve 'seekstone' at the monorepo
-// root node_modules in both local dev (workspace link) and CI.
-const testEnv = {
-  ...process.env,
-  NODE_PATH: join(monorepoRoot, 'node_modules'),
-};
+// The shim resolves seekstone via multi-path require.resolve; no special
+// env vars needed — it handles workspace / installed cases itself.
+const testEnv = { ...process.env };
 
 describe('obsidian-mcp-seekstone shim', () => {
   it('shim version matches seekstone version (linked versioning)', () => {
