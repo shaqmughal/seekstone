@@ -1,0 +1,28 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "io.github.shaqmughal/seekstone",
+  "description": "Filesystem-direct Obsidian MCP server with low context-tax: search and edit your vault without routing through the Local REST API plugin.",
+  "version": "0.2.1",
+  "repository": {
+    "url": "https://github.com/shaqmughal/seekstone",
+    "source": "github"
+  },
+  "packages": [
+    {
+      "registryType": "npm",
+      "registryBaseUrl": "https://registry.npmjs.org",
+      "identifier": "seekstone",
+      "version": "0.2.1",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "SEEKSTONE_VAULT",
+          "description": "Absolute path to your Obsidian vault.",
+          "isRequired": true
+        }
+      ]
+    }
+  ]
+}

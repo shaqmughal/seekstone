@@ -1,0 +1,19 @@
+# Smithery configuration — describes how to launch the stdio MCP server.
+# https://smithery.ai/docs
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    required:
+      - vaultPath
+    properties:
+      vaultPath:
+        type: string
+        title: Obsidian vault path
+        description: Absolute path to your Obsidian vault.
+  commandFunction: |
+    (config) => ({
+      command: 'npx',
+      args: ['-y', 'seekstone'],
+      env: { SEEKSTONE_VAULT: config.vaultPath }
+    })
