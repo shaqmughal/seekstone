@@ -18,21 +18,30 @@ remains are the authenticated submission steps a maintainer runs by hand.
 
 ## 1. Official MCP registry  (requires the 0.2.1 release to be live first)
 
-Prereq: `seekstone@0.2.1` published (it carries the `mcp-name` field the
+Prereq: `seekstone@0.2.1` published (it carries the `mcpName` field the
 registry validates). `server.json` at the repo root is ready.
 
 ```bash
-# Install the publisher CLI (see modelcontextprotocol/registry releases for the latest)
-# then, from the repo root:
-mcp-publisher login github     # authorizes the io.github.shaqmughal/* namespace
-mcp-publisher publish          # validates server.json + the mcp-name linkage, then lists it
+# Install the publisher CLI (macOS/Linux):
+curl -L "https://github.com/modelcontextprotocol/registry/releases/latest/download/mcp-publisher_$(uname -s | tr '[:upper:]' '[:lower:]')_$(uname -m | sed 's/x86_64/amd64/;s/aarch64/arm64/').tar.gz" | tar xz mcp-publisher && sudo mv mcp-publisher /usr/local/bin/
+# (or: brew install mcp-publisher)
+
+# From the repo root:
+mcp-publisher login github     # device-code auth; authorizes the io.github.shaqmughal/* namespace
+mcp-publisher publish          # validates server.json against the mcpName in the published package, then lists it
 ```
 
-Verify: the server resolves in the registry under `io.github.shaqmughal/seekstone`.
-If the CLI reports a schema mismatch, re-check the `$schema` date in `server.json`
-against the current registry docs and bump it. The registry verifies ownership by
-matching the `name` here to the `mcp-name` field in the published `package.json`
-(both are `io.github.shaqmughal/seekstone`), so 0.2.1 must be live on npm first.
+Verify:
+
+```bash
+curl "https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.shaqmughal/seekstone"
+```
+
+The registry verifies ownership by matching `name` in `server.json` to the
+`mcpName` field in the published `package.json` (both `io.github.shaqmughal/seekstone`),
+so **0.2.1 must be live on npm first**. If the CLI reports a schema mismatch,
+re-check the `$schema` date in `server.json` against the current quickstart docs.
+The registry is in **preview** — expect occasional breaking changes.
 
 ## 2. Smithery
 
