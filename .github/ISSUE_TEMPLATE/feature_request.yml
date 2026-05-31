@@ -1,0 +1,33 @@
+name: Feature request
+description: Suggest a new tool, option, or improvement
+labels: ["Feature"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: What are you trying to do that Seekstone doesn't support today?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: What should it do? If it's a new tool, sketch the inputs/outputs.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Workarounds you've tried, or other approaches you weighed.
+    validations:
+      required: false
+  - type: checkboxes
+    id: thesis
+    attributes:
+      label: Fit with Seekstone's design
+      description: Seekstone is filesystem-direct — no Obsidian app, no network, low payload.
+      options:
+        - label: This can work by reading/writing the vault on disk (no running Obsidian app required).
+          required: false
