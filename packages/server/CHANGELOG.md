@@ -1,5 +1,11 @@
 # seekstone
 
+## 0.2.1
+
+### Patch Changes
+
+- 326ccf3: Add the `mcp-name` package field (`io.github.shaqmughal/seekstone`) so the package can be verified and listed in the official MCP registry.
+
 ## 0.2.0
 
 ### Minor Changes
