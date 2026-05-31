@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-**seekstone** is an in-progress Obsidian MCP server. Today only the **measurement harness** ships — a profiler + benchmark + write-safety suite that the eventual server is being designed against. The harness is not throwaway: its `Backend` interface and `profiler/` modules are intended to be reused by `packages/server`.
+**seekstone** is an Obsidian MCP server, published to npm as [`seekstone`](https://www.npmjs.com/package/seekstone). The MCP server (`packages/server`) is the product: filesystem-direct vault access with low context-tax, shipped as a built single-file bundle. Alongside it lives the **measurement harness** (`packages/harness`) — a profiler + benchmark + write-safety suite that produced the payload numbers the server is designed around. The harness shares `packages/core` primitives with the server and is dev-only (run from source, not published).
 
 The product story behind the harness (kept in version control because it's how the project will be evaluated): **filesystem-direct beats REST-proxy, and the win is mostly payload size ("context tax"), not raw CPU**. The harness exists to produce reproducible numbers that demonstrate that.
 
@@ -26,7 +26,7 @@ npm run harness -- bench   --queries packages/harness/queries/default.json --sta
 npm run harness -- safety  --vault "$SEEKSTONE_VAULT"
 ```
 
-There is **no build step** — the harness runs via `tsx`. `tsc` is used for typecheck only. Tests are co-located as `*.test.ts` next to source.
+The **server** has a real build — `npm run build -w seekstone` bundles it (and `packages/core`) to `dist/index.js` via tsup for publishing. The **harness** has no build step; it runs via `tsx`. `tsc` is used for typecheck only. Tests are co-located as `*.test.ts` next to source.
 
 ## Required env vars
 

@@ -8,261 +8,123 @@
 <p align="center"><em>An Obsidian MCP server — filesystem-direct, low context-tax.</em></p>
 
 <p align="center">
+  <a href="https://www.npmjs.com/package/seekstone"><img src="https://img.shields.io/npm/v/seekstone?color=cb3837&logo=npm" alt="npm" /></a>
   <a href="https://github.com/shaqmughal/seekstone/actions/workflows/ci.yml"><img src="https://github.com/shaqmughal/seekstone/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
   <img src="https://img.shields.io/badge/Node.js-%E2%89%A522-339933?logo=node.js&logoColor=white" alt="Node.js ≥ 22" />
-  <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/platform-macOS-lightgrey?logo=apple" alt="Platform: macOS" />
+  <img src="https://img.shields.io/badge/platform-macOS%20%C2%B7%20Linux%20%C2%B7%20Windows-lightgrey" alt="Platforms" />
 </p>
 
-Seekstone reads your vault **directly from disk** instead of routing through the Obsidian Local REST API plugin. The practical difference: a search that returns 1.75 MB and ~459,000 tokens via the REST plugin returns **3 KB and ~800 tokens** via seekstone — a 575× reduction. The payoff is that Claude can search and read notes without burning most of its context window on a single tool call.
+Seekstone reads your Obsidian vault **directly from disk** instead of routing through the Obsidian Local REST API plugin. The practical difference: a search that returns ~1.75 MB and ~459,000 tokens via the REST plugin returns **~3 KB and ~800 tokens** via seekstone — a **~575× reduction**. The payoff is that Claude can search and read notes without burning most of its context window on a single tool call.
 
-## What's in this repo
+It runs as a standard [MCP](https://modelcontextprotocol.io) stdio server. No Obsidian app and no plugins required — just point it at a vault folder.
 
-| Package | Purpose |
-|---|---|
-| `packages/core` | Shared vault primitives — walk, frontmatter parser, link/tag extractor, percentiles |
-| `packages/server` | The MCP server (8 tools, stdio transport, MiniSearch full-text index, FSEvents watcher) |
-| `packages/harness` | Profiler + benchmark + write-safety harness with REST and fs backends |
+## Install
 
----
-
-## MCP server
-
-### Tools
-
-| Tool | Description |
-|---|---|
-| `search` | Full-text search. Returns ranked ~200-char excerpts, not full notes. Supports fuzzy, prefix, and phrase queries. |
-| `read_note` | Read the full content of a note by vault-relative path. |
-| `list_notes` | List notes, optionally filtered by folder prefix or tag. |
-| `create_note` | Create a new note at a vault-relative path. Optionally sets frontmatter and body. Parent directories are created automatically. |
-| `delete_note` | Permanently delete a note from the vault. |
-| `move_note` | Move or rename a note to a new vault-relative path. Parent directories are created automatically. |
-| `append_note` | Append text to a note body without touching the frontmatter. |
-| `patch_frontmatter` | Set, update, or delete frontmatter keys while preserving key order and quote style. |
-
-### Claude Desktop setup
-
-```bash
-npm install
-```
-
-Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
+**Claude Desktop** — add to `claude_desktop_config.json` (Settings → Developer → Edit Config):
 
 ```json
 {
   "mcpServers": {
     "seekstone": {
       "command": "npx",
-      "args": ["tsx", "/path/to/seekstone/packages/server/src/index.ts"],
-      "env": {
-        "SEEKSTONE_VAULT": "/path/to/your/Obsidian Vault"
-      }
+      "args": ["-y", "seekstone"],
+      "env": { "SEEKSTONE_VAULT": "/absolute/path/to/your/vault" }
     }
   }
 }
 ```
 
-Restart Claude Desktop. On startup, seekstone walks the vault and builds a MiniSearch index (~1.3 s for ~2,000 notes). All eight tools are then available in Claude. An FSEvents watcher keeps the index in sync as notes are added, edited, or deleted while the server is running.
+**Claude Code:**
+
+```bash
+claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- npx -y seekstone
+```
+
+Restart the client. On startup seekstone walks the vault and builds an in-memory full-text index (a couple of seconds for a few thousand notes), then keeps it in sync as notes change. The eight tools below are then available to Claude.
+
+Requires [Node.js](https://nodejs.org) ≥ 22. Works on macOS, Linux, and Windows.
+
+## Tools
+
+| Tool | Description |
+|---|---|
+| `search` | Full-text search. Returns ranked ~200-char excerpts, not full notes. Fuzzy, prefix, and phrase queries. |
+| `read_note` | Read the full content of a note by vault-relative path. |
+| `list_notes` | List notes, optionally filtered by folder prefix or tag. |
+| `create_note` | Create a note (optional frontmatter + body); parent directories are created automatically. |
+| `delete_note` | Permanently delete a note. **Irreversible.** |
+| `move_note` | Move or rename a note; destination directories are created automatically. |
+| `append_note` | Append text to a note body without touching frontmatter. |
+| `patch_frontmatter` | Set, update, or delete frontmatter keys without reordering existing keys or changing quote style. |
+
+## Configuration
+
+| Variable | Required | Description |
+|---|---|---|
+| `SEEKSTONE_VAULT` | Yes | Absolute path to your Obsidian vault. |
+| `SEEKSTONE_LOG_LEVEL` | No | `error` \| `warn` \| `info` (default) \| `debug`. |
+| `SEEKSTONE_LOG_FILE` | No | Absolute path; when set, JSON-line logs are appended here (size-rotated). |
+| `SEEKSTONE_WATCH_POLL` | No | Set to `1` to stat-poll for changes instead of native OS events — slower but reliable on network drives, WSL, and some containers. |
+
+## How it works
+
+Seekstone walks the vault with `fast-glob`, parses each note's frontmatter (byte-aware, so writes can prove the frontmatter region is byte-identical), and builds a [MiniSearch](https://github.com/lucaong/minisearch) full-text index in memory. Search returns short ranked excerpts rather than whole notes — that excerpt-not-document design is where the context-tax win comes from. A cross-platform file watcher ([chokidar](https://github.com/paulmillr/chokidar)) keeps the index current as you edit.
+
+Writes are conservative by design: `append_note` never touches frontmatter, and `patch_frontmatter` preserves key order, quote style, and comments (it edits the YAML document in place rather than re-serializing it).
+
+## Security & privacy
+
+Seekstone reads — and, via the write tools, modifies — files under `SEEKSTONE_VAULT` on your local disk. It makes **no network calls** and sends **no telemetry**. Logs are metadata-only by default (note contents appear only at `debug`). Nothing is written outside the vault except an optional log file you configure. Note that `delete_note` is irreversible.
 
 ---
 
-## Benchmark harness
+## Contributing & development
 
-The harness produces reproducible, citable numbers for the context-tax comparison. Methodology is version-controlled so re-runs against the same vault snapshot are directly comparable.
-
-### Measured results (1,936-note vault, Apple M-series, Node v25)
-
-| Query | REST warm p50 | fs warm p50 | REST payload | fs payload | Reduction |
-|---|---:|---:|---:|---:|---:|
-| `engineering` | 47 ms | 1.6 ms | 1.75 MB | 3.1 KB | **575×** |
-| `team dynamics` | 57 ms | 2.9 ms | 1.28 MB | 3.2 KB | **409×** |
-| `"radical candor"` | 24 ms | 1.0 ms | 0 hits | 10 hits | — ¹ |
-| `excalidraw thumbnail` | 28 ms | 3.3 ms | 0 hits | 10 hits | — ¹ |
-
-¹ The REST plugin returns 0 hits for phrase queries and certain multi-word queries — it does not support quoted-phrase syntax. seekstone (MiniSearch) handles both.
-
-**Write safety** (25 notes, three ops each):
-
-| Op | REST | seekstone |
-|---|---|---|
-| identity | ✅ 25/25 | ✅ 25/25 |
-| body-append | ❌ 0/25 (silent data loss) | ✅ 25/25 |
-| fm-edit | ✅ 25/25 | ✅ 25/25 |
-
-The REST plugin returns HTTP 204 on body-append but silently discards the content. seekstone writes raw bytes directly and verifies them.
-
-### Running the harness
+Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) if present, otherwise:
 
 ```bash
-npm install
+npm install        # install all workspace deps
+npm test           # run all tests
+npm run lint       # biome
+npm run build -w seekstone   # build the publishable server (tsup → dist/)
 
-# Required env vars
-export SEEKSTONE_VAULT="/path/to/your/Obsidian Vault"
+npx vitest run packages/server/src/tools/search.test.ts   # a single test file
+npx vitest run -t 'parses a typical frontmatter'          # a single test by name
+npx tsc -p packages/server/tsconfig.json --noEmit         # typecheck
+```
 
-# Profile the vault (generates vault-stats.json used by bench to auto-pick read targets)
-npx tsx packages/harness/src/cli.ts profile \
-  --vault "$SEEKSTONE_VAULT" --out reports
+### Repository layout
 
-# Benchmark — filesystem-direct (no other setup needed)
+| Package | Purpose |
+|---|---|
+| `packages/server` | The published `seekstone` MCP server (8 tools, stdio, MiniSearch index, chokidar watcher). |
+| `packages/core` | Shared vault primitives — walk, frontmatter parser, link/tag extractor, percentiles. Bundled into the server build. |
+| `packages/harness` | Profiler + benchmark + write-safety harness (REST vs filesystem) that produced the payload numbers above. Dev-only; not published. |
+
+The server has a real build (tsup → `dist/`) and is published to npm. The harness is run from source via `tsx` and is not published. Releases are automated — see [docs/RELEASING.md](docs/RELEASING.md).
+
+### The harness
+
+The harness measures the thing the server is designed around: payload size. It needs the Local REST API plugin for the `rest` backend.
+
+```bash
+export SEEKSTONE_VAULT="/absolute/path/to/your/vault"
+
+# Profile vault shape
+npx tsx packages/harness/src/cli.ts profile --vault "$SEEKSTONE_VAULT"
+
+# Benchmark adapters (filesystem vs REST)
 npx tsx packages/harness/src/cli.ts bench \
-  --backend fs \
   --queries packages/harness/queries/default.json \
-  --stats reports/vault-stats.json \
-  --out reports
+  --stats reports/vault-stats.json
 
-# Benchmark — Obsidian Local REST API plugin (Obsidian must be running with plugin enabled)
-export SEEKSTONE_REST_API_KEY="<paste from plugin settings>"
-npx tsx packages/harness/src/cli.ts bench \
-  --backend rest \
-  --queries packages/harness/queries/default.json \
-  --stats reports/vault-stats.json \
-  --out reports
-
-# Write-safety — fs backend (single step, no Obsidian required)
-npx tsx packages/harness/src/cli.ts safety \
-  --vault "$SEEKSTONE_VAULT" \
-  --backend fs \
-  --out reports
-
-# Write-safety — REST backend (two-step: copy vault, point Obsidian at the copy, then run)
+# Write-safety suite
 npx tsx packages/harness/src/cli.ts safety --vault "$SEEKSTONE_VAULT"
-#   prints the scratch copy path and exits
-# Open that path as a vault in Obsidian, then:
-npx tsx packages/harness/src/cli.ts safety \
-  --vault "$SEEKSTONE_VAULT" \
-  --backend rest \
-  --copy-vault-root /tmp/seekstone-safety-XXXXXXXXXX \
-  --out reports
 ```
 
-Output files are written to `reports/` (gitignored — they contain vault-specific paths).
+Harness-specific env vars: `SEEKSTONE_REST_API_KEY` (required for the `rest` backend, from the Local REST API plugin) and `SEEKSTONE_REST_URL` (defaults to `https://127.0.0.1:27124`).
 
-### Query set
+## License
 
-`packages/harness/queries/default.json` is the pinned query set. Edit it for your vault (particularly the `rare` query — pick a term that exists but is uncommon), commit, and re-run to keep results comparable across snapshots and adapters.
-
-### Methodology
-
-- **N ≥ 20 runs** per measurement (override with `--runs`).
-- **Cold** = run 1 — includes any one-time tax (TCP handshake, JIT, page-cache miss, index build).
-- **Warm p50/p95** = runs 2..N — what a live session actually feels like.
-- **Payload bytes** = raw response byte length as returned by the adapter. Token count uses tiktoken `cl100k_base`.
-- The **write-safety harness never touches the live vault.** All write ops run against a scratch copy under `os.tmpdir()`, and the copy path is asserted to not equal or sit inside the original before any write runs.
-
----
-
-## Development
-
-```bash
-npm install                                           # install all workspace deps
-npm test                                              # vitest across all packages (237 tests)
-npm run -w @seekstone/harness test                    # harness tests only
-npx vitest run packages/server/src/tools/search.test.ts   # single file
-npx vitest run -t 'parses a typical frontmatter'     # single test by name
-npx tsc -p packages/harness/tsconfig.json --noEmit   # typecheck
-npm run lint                                          # biome check
-npm run format                                        # biome write
-```
-
-There is no build step — the project runs via `tsx`. `tsc` is typecheck-only.
-
-### Required env vars
-
-| Var | Used by | Required |
-|---|---|---|
-| `SEEKSTONE_VAULT` | Server, harness profile/safety | Always |
-| `SEEKSTONE_REST_API_KEY` | Harness REST adapter | REST bench/safety only |
-| `SEEKSTONE_REST_URL` | Harness REST adapter | Defaults to `https://127.0.0.1:27124` |
-
-### Test coverage
-
-237 tests across three packages, all co-located as `*.test.ts` next to source. Every exported function has at least one positive and one negative test.
-
-| Package | Test files | Tests |
-|---|---:|---:|
-| core | 4 | 29 |
-| harness | 16 | 131 |
-| server | 11 | 77 |
-
-Not covered by unit tests (integration/entry-point concerns): `cli.ts`, `server/index.ts` (MCP entry point), `rest.ts` (all methods require a live HTTP server).
-
----
-
-## Repo layout
-
-```
-seekstone/
-├── packages/
-│   ├── core/                     ← shared primitives (no deps on harness or server)
-│   │   └── src/
-│   │       ├── walk.ts           ← vault walker, file classifier
-│   │       ├── frontmatter.ts    ← byte-aware YAML frontmatter parser
-│   │       ├── extract.ts        ← wikilink / URL / tag extractors
-│   │       └── percentiles.ts    ← Distribution type, summarise()
-│   ├── harness/
-│   │   ├── queries/default.json  ← version-controlled query set
-│   │   └── src/
-│   │       ├── cli.ts            ← profile / bench / safety commands
-│   │       ├── profiler/         ← vault profiler (counts, sizes, links, tags)
-│   │       ├── bench/
-│   │       │   ├── backend.ts    ← Backend interface (search/read/write/list)
-│   │       │   ├── adapters/
-│   │       │   │   ├── rest.ts   ← Obsidian Local REST API plugin adapter
-│   │       │   │   └── fs.ts     ← Filesystem-direct adapter (MiniSearch)
-│   │       │   ├── runner.ts     ← benchmark orchestrator
-│   │       │   └── timer.ts      ← high-res timing, cold/warm distributions
-│   │       └── safety/           ← vault copy, identity/append/fm-edit ops
-│   └── server/
-│       └── src/
-│           ├── index.ts          ← MCP server entry point (stdio)
-│           ├── context.ts        ← ServerContext type
-│           ├── watcher.ts        ← FSEvents hot-reload watcher
-│           ├── index/
-│           │   ├── build.ts      ← MiniSearch index builder
-│           │   ├── doc.ts        ← buildDoc / upsertDoc helpers
-│           │   ├── excerpt.ts    ← ~200-char excerpt extractor
-│           │   └── types.ts      ← IndexedNote, SearchHit
-│           └── tools/
-│               ├── search.ts
-│               ├── read_note.ts
-│               ├── list_notes.ts
-│               ├── create_note.ts
-│               ├── delete_note.ts
-│               ├── move_note.ts
-│               ├── append_note.ts
-│               └── patch_frontmatter.ts
-└── reports/                      ← harness outputs (gitignored)
-```
-
-### Key design notes
-
-**Frontmatter parsing is byte-aware.** `parseFrontmatter` returns `bodyStart` as a byte offset so write operations can prove the FM region is byte-identical before and after. Never route reads through `yaml.stringify` to "normalise" — that destroys the round-trip contract.
-
-**Module imports use `.js` extensions** throughout, even when importing `.ts` source. That's what NodeNext + tsx + tsc all agree on.
-
-**`Distribution`** (`min`/`median`/`p90`/`p95`/`p99`/`max`/`mean`) is the single percentile shape across the codebase. Any new metric should go through `summarise()`.
-
-**Reports are deterministic** for a fixed vault snapshot. The safety sample is selected by sorting lexically then striding, so the same 25 notes are picked on every run. No `Math.random()` in profiler or safety paths.
-
----
-
-## Adding a backend
-
-Implement `Backend` in `packages/harness/src/bench/adapters/`. Wire it up in `cli.ts`'s `buildBackend()`. Reports automatically use the adapter's `name` field for output filenames (`benchmark-<name>.{json,md}`, `safety-<name>.{json,md}`).
-
----
-
-## Roadmap
-
-- [x] Profiler
-- [x] Benchmark harness — REST adapter
-- [x] Write-safety suite
-- [x] Filesystem-direct adapter (harness)
-- [x] MCP server (8 tools, stdio transport)
-- [x] Claude Desktop integration
-- [x] Index hot-reload on vault change (FSEvents watcher)
-- [x] Test suite (237 tests)
-- [x] Token counting via tiktoken `cl100k_base`
-- [ ] Streaming search + TTFR measurement
+MIT © Shaq Mughal
