@@ -1,5 +1,5 @@
 import { access, copyFile, mkdir, readFile, readdir, stat, writeFile } from 'node:fs/promises';
-import { dirname, join } from 'node:path';
+import path, { dirname, join } from 'node:path';
 
 /**
  * `seekstone init` — a guided setup helper. Validates an Obsidian vault and
@@ -59,16 +59,20 @@ export function claudeDesktopConfigPath(
   platform: NodeJS.Platform,
   env: { home?: string; appData?: string },
 ): string {
+  // Use the target platform's path semantics, not the host's, so the result is
+  // correct in production AND deterministic in tests on any CI OS.
   if (platform === 'win32') {
-    const base = env.appData ?? join(env.home ?? '', 'AppData', 'Roaming');
-    return join(base, 'Claude', 'claude_desktop_config.json');
+    const j = path.win32.join;
+    const base = env.appData ?? j(env.home ?? '', 'AppData', 'Roaming');
+    return j(base, 'Claude', 'claude_desktop_config.json');
   }
+  const j = path.posix.join;
   const home = env.home ?? '';
   if (platform === 'darwin') {
-    return join(home, 'Library', 'Application Support', 'Claude', 'claude_desktop_config.json');
+    return j(home, 'Library', 'Application Support', 'Claude', 'claude_desktop_config.json');
   }
   // Linux / other
-  return join(home, '.config', 'Claude', 'claude_desktop_config.json');
+  return j(home, '.config', 'Claude', 'claude_desktop_config.json');
 }
 
 type McpConfig = { mcpServers?: Record<string, unknown> } & Record<string, unknown>;
