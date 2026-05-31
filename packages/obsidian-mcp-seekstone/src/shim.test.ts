@@ -16,7 +16,8 @@ import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 const execFileAsync = promisify(execFile);
 
 const shimBin = new URL('../bin/seekstone.js', import.meta.url).pathname;
-const monorepoRoot = new URL('../../../../', import.meta.url).pathname;
+// src/shim.test.ts → src/ → obsidian-mcp-seekstone/ → packages/ → seekstone/
+const monorepoRoot = new URL('../../../..', import.meta.url).pathname;
 
 // Read versions directly from package.json files — no require.resolve needed.
 const shimVersion: string = JSON.parse(
