@@ -1,5 +1,6 @@
 {
   "name": "obsidian-mcp-seekstone",
+  "type": "module",
   "version": "0.2.1",
   "description": "Filesystem-direct Obsidian MCP server — a discoverability alias for seekstone. Reads your vault directly from disk with ~575× smaller payloads than the REST plugin.",
   "keywords": [
