@@ -1,11 +1,11 @@
 #!/usr/bin/env node
+import { spawn } from 'node:child_process';
 // obsidian-mcp-seekstone — discoverability alias for seekstone.
 // Passes all arguments and env through to the real server so
 // `npx -y obsidian-mcp-seekstone` is a drop-in for `npx -y seekstone`.
 import { createRequire } from 'node:module';
-import { spawn } from 'node:child_process';
-import { fileURLToPath } from 'node:url';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 
 const require = createRequire(import.meta.url);
 let entry;
