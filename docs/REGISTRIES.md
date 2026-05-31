@@ -16,6 +16,8 @@ remains are the authenticated submission steps a maintainer runs by hand.
 - **Tools:** search, read_note, list_notes, create_note, delete_note, move_note, append_note, patch_frontmatter
 - **Categories/tags:** obsidian, notes, knowledge-base, markdown, search
 
+<!-- Note: the official registry caps server.json `description` at 100 characters. -->
+
 ## 1. Official MCP registry  (requires the 0.2.1 release to be live first)
 
 Prereq: `seekstone@0.2.1` published (it carries the `mcpName` field the
