@@ -14,6 +14,6 @@ startCommand:
   commandFunction: |
     (config) => ({
       command: 'npx',
-      args: ['-y', 'seekstone'],
+      args: ['-y', 'obsidian-mcp-seekstone'],
       env: { SEEKSTONE_VAULT: config.vaultPath }
     })

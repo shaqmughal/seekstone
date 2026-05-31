@@ -1,49 +1,55 @@
-# seekstone
+# seekstone / obsidian-mcp-seekstone
 
 **An Obsidian MCP server — filesystem-direct, low context-tax.**
 
-Seekstone reads your Obsidian vault **directly from disk** instead of routing through the Obsidian Local REST API plugin. The practical difference: a search that returns ~1.75 MB / ~459,000 tokens via the REST plugin returns **~3 KB / ~800 tokens** via seekstone — a ~575× reduction. Claude can search and read notes without burning its context window on a single tool call.
+Seekstone reads your Obsidian vault **directly from disk** instead of routing through the Local REST API plugin. The practical difference: a search that returns ~1.75 MB / ~459,000 tokens via the REST plugin returns **~3 KB / ~800 tokens** via seekstone — a ~575× reduction. No context window wasted on a single tool call.
 
-It runs as a standard [MCP](https://modelcontextprotocol.io) stdio server with no Obsidian app or plugin required — just point it at a vault directory.
+It runs as a standard [MCP](https://modelcontextprotocol.io) stdio server. No Obsidian app, no plugin, no network calls — just point it at a vault folder.
+
+**Two npm names, same server:**
+
+| Package | Best for |
+|---|---|
+| [`obsidian-mcp-seekstone`](https://www.npmjs.com/package/obsidian-mcp-seekstone) | Searching npm for "obsidian mcp" |
+| [`seekstone`](https://www.npmjs.com/package/seekstone) | Shorter name if you already know it |
 
 ## Install
 
-```jsonc
-// Claude Desktop — claude_desktop_config.json
+**Claude Desktop** — `claude_desktop_config.json`:
+
+```json
 {
   "mcpServers": {
     "seekstone": {
       "command": "npx",
-      "args": ["-y", "seekstone"],
+      "args": ["-y", "obsidian-mcp-seekstone"],
       "env": { "SEEKSTONE_VAULT": "/absolute/path/to/your/vault" }
     }
   }
 }
 ```
 
-Or with Claude Code:
+**Claude Code:**
 
 ```bash
-claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- npx -y seekstone
+claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- npx -y obsidian-mcp-seekstone
 ```
-
-Restart the client. On startup seekstone walks the vault and builds an in-memory full-text index (a couple of seconds for a few thousand notes), then keeps it in sync as notes change.
 
 ### Guided setup
 
 `seekstone init` validates your vault and prints the config to paste, or patches the Claude Desktop config for you (with a backup, leaving other MCP servers untouched):
 
 ```bash
-npx -y seekstone init --vault "/absolute/path/to/your/vault"          # print config
-npx -y seekstone init --vault "/absolute/path/to/your/vault" --write  # patch Claude Desktop
-npx -y seekstone init --vault "/absolute/path/to/your/vault" --client code  # print Claude Code command
+npx -y obsidian-mcp-seekstone init --vault "/absolute/path/to/your/vault"          # print config
+npx -y obsidian-mcp-seekstone init --vault "/absolute/path/to/your/vault" --write  # patch Claude Desktop
+npx -y obsidian-mcp-seekstone init --vault "/absolute/path/to/your/vault" --client code
 ```
 
 ## Configuration
 
 | Env var | Required | Description |
 |---|---|---|
-| `SEEKSTONE_VAULT` | yes | Absolute path to the Obsidian vault. |
+| `SEEKSTONE_VAULT` | yes | Absolute path to your Obsidian vault. |
 | `SEEKSTONE_LOG_LEVEL` | no | `error` \| `warn` \| `info` (default) \| `debug`. |
 | `SEEKSTONE_LOG_FILE` | no | Absolute path; when set, JSON-line logs are appended here (size-rotated). |
 | `SEEKSTONE_WATCH_POLL` | no | Set to `1` to stat-poll for changes instead of native OS events — slower but reliable on network drives, WSL, and some containers. |
