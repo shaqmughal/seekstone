@@ -8,7 +8,8 @@
 <p align="center"><em>An Obsidian MCP server — filesystem-direct, low context-tax.</em></p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/seekstone"><img src="https://img.shields.io/npm/v/seekstone?color=cb3837&logo=npm" alt="npm" /></a>
+  <a href="https://www.npmjs.com/package/obsidian-mcp-seekstone"><img src="https://img.shields.io/npm/v/obsidian-mcp-seekstone?color=cb3837&logo=npm&label=obsidian-mcp-seekstone" alt="npm" /></a>
+  <a href="https://www.npmjs.com/package/seekstone"><img src="https://img.shields.io/npm/v/seekstone?color=cb3837&logo=npm&label=seekstone" alt="npm (seekstone)" /></a>
   <a href="https://github.com/shaqmughal/seekstone/actions/workflows/ci.yml"><img src="https://github.com/shaqmughal/seekstone/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
   <img src="https://img.shields.io/badge/Node.js-%E2%89%A522-339933?logo=node.js&logoColor=white" alt="Node.js ≥ 22" />
@@ -21,6 +22,15 @@ It runs as a standard [MCP](https://modelcontextprotocol.io) stdio server. No Ob
 
 ## Install
 
+Seekstone is published to npm under two names — use whichever you prefer:
+
+| Package | Best for |
+|---|---|
+| `obsidian-mcp-seekstone` | Searching npm/GitHub for "obsidian mcp" |
+| `seekstone` | Shorter name if you already know it |
+
+Both run the exact same server.
+
 **Claude Desktop** — add to `claude_desktop_config.json` (Settings → Developer → Edit Config):
 
 ```json
@@ -28,7 +38,7 @@ It runs as a standard [MCP](https://modelcontextprotocol.io) stdio server. No Ob
   "mcpServers": {
     "seekstone": {
       "command": "npx",
-      "args": ["-y", "seekstone"],
+      "args": ["-y", "obsidian-mcp-seekstone"],
       "env": { "SEEKSTONE_VAULT": "/absolute/path/to/your/vault" }
     }
   }
@@ -38,14 +48,14 @@ It runs as a standard [MCP](https://modelcontextprotocol.io) stdio server. No Ob
 **Claude Code:**
 
 ```bash
-claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- npx -y seekstone
+claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- npx -y obsidian-mcp-seekstone
 ```
 
 Restart the client. On startup seekstone walks the vault and builds an in-memory full-text index (a couple of seconds for a few thousand notes), then keeps it in sync as notes change. The eight tools below are then available to Claude.
 
 Requires [Node.js](https://nodejs.org) ≥ 22. Works on macOS, Linux, and Windows.
 
-To confirm the package is reachable before wiring it into a client, run `npx -y seekstone --version` (prints the version and exits) or `npx -y seekstone --help`.
+To confirm the package is reachable before wiring it into a client, run `npx -y obsidian-mcp-seekstone --version` (prints the version and exits).
 
 ### Guided setup
 
@@ -53,14 +63,14 @@ Prefer not to hand-edit JSON? `seekstone init` validates your vault and prints t
 
 ```bash
 # Validate the vault and print the config block to copy
-npx -y seekstone init --vault "/absolute/path/to/your/vault"
+npx -y obsidian-mcp-seekstone init --vault "/absolute/path/to/your/vault"
 
 # Or patch the Claude Desktop config in place (backs it up first, never
 # touches your other MCP servers)
-npx -y seekstone init --vault "/absolute/path/to/your/vault" --write
+npx -y obsidian-mcp-seekstone init --vault "/absolute/path/to/your/vault" --write
 
 # Print the Claude Code command instead
-npx -y seekstone init --vault "/absolute/path/to/your/vault" --client code
+npx -y obsidian-mcp-seekstone init --vault "/absolute/path/to/your/vault" --client code
 ```
 
 ## Tools
