@@ -16,8 +16,14 @@ import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 const execFileAsync = promisify(execFile);
 
 const shimBin = new URL('../bin/seekstone.js', import.meta.url).pathname;
-// src/shim.test.ts → src/ → obsidian-mcp-seekstone/ → packages/ → seekstone/
-const monorepoRoot = new URL('../../../..', import.meta.url).pathname;
+// Resolve monorepo root via dirname chain — more reliable than URL math.
+// this file: packages/obsidian-mcp-seekstone/src/shim.test.ts
+// root: 3 dirnames up from this file's dir
+import { dirname } from 'node:path';
+const thisDir = dirname(new URL(import.meta.url).pathname); // .../src
+const shimPkgDir = dirname(thisDir); // .../obsidian-mcp-seekstone
+const packagesDir = dirname(shimPkgDir); // .../packages
+const monorepoRoot = dirname(packagesDir); // .../seekstone
 
 // Read versions directly from package.json files — no require.resolve needed.
 const shimVersion: string = JSON.parse(
