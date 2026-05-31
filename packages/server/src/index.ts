@@ -6,11 +6,28 @@ import {
   type CallToolResult,
   ListToolsRequestSchema,
 } from '@modelcontextprotocol/sdk/types.js';
+import { helpText, parseCliIntent } from './cli-args.js';
 import type { ServerContext } from './context.js';
 import { dispatch } from './dispatch.js';
 import { buildIndex } from './index/build.js';
 import { createLogger } from './log.js';
 import { startWatcher } from './watcher.js';
+
+// Inlined at build time by tsup (see tsup.config.ts); falls back in tsx dev.
+declare const __SEEKSTONE_VERSION__: string;
+const VERSION = typeof __SEEKSTONE_VERSION__ === 'string' ? __SEEKSTONE_VERSION__ : '0.0.0-dev';
+
+// --version / --help exit before any server setup, and print to stdout (these
+// are explicit CLI invocations, not the MCP stdio session).
+const intent = parseCliIntent(process.argv.slice(2));
+if (intent === 'version') {
+  process.stdout.write(`${VERSION}\n`);
+  process.exit(0);
+}
+if (intent === 'help') {
+  process.stdout.write(`${helpText(VERSION)}\n`);
+  process.exit(0);
+}
 
 const log = createLogger();
 

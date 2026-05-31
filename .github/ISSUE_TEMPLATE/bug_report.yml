@@ -1,0 +1,60 @@
+name: Bug report
+description: Something isn't working as expected
+labels: ["Bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to file a bug. Please do **not** report security issues here — see [SECURITY.md](https://github.com/shaqmughal/seekstone/blob/main/SECURITY.md).
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear description of the bug, including what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      description: How can we reproduce it? Include the tool call or action if relevant.
+      placeholder: |
+        1. Configure seekstone with vault at ...
+        2. Ask Claude to ...
+        3. See ...
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: seekstone version
+      description: "Output of `npx seekstone --version` or the version in your config. Run the latest if you can."
+      placeholder: "0.1.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options:
+        - macOS
+        - Linux
+        - Windows
+    validations:
+      required: true
+  - type: input
+    id: node
+    attributes:
+      label: Node.js version
+      description: "Output of `node --version` (must be ≥ 22)."
+      placeholder: "v22.x"
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant logs
+      description: "Run with `SEEKSTONE_LOG_LEVEL=debug` and paste any relevant stderr output. Redact anything private."
+      render: shell
+    validations:
+      required: false
