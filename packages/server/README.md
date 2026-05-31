@@ -1,12 +1,12 @@
 # seekstone / obsidian-mcp-seekstone
 
-**An Obsidian MCP server — filesystem-direct, low context-tax.**
+**The MCP server that connects Claude to your Obsidian vault — filesystem-direct, no plugins, no context waste.**
 
-Seekstone reads your Obsidian vault **directly from disk** instead of routing through the Local REST API plugin. The practical difference: a search that returns ~1.75 MB / ~459,000 tokens via the REST plugin returns **~3 KB / ~800 tokens** via seekstone — a ~575× reduction. No context window wasted on a single tool call.
+Seekstone is an Obsidian MCP server that gives Claude (and any [Model Context Protocol](https://modelcontextprotocol.io) client) direct read and write access to your Obsidian vault. No Obsidian app needs to be running, no plugins are required, and nothing leaves your machine.
 
-It runs as a standard [MCP](https://modelcontextprotocol.io) stdio server. No Obsidian app, no plugin, no network calls — just point it at a vault folder.
+It reads your vault **directly from disk** instead of routing through the Obsidian Local REST API plugin. The practical difference: a search that returns ~1.75 MB and ~459,000 tokens via the REST plugin returns **~3 KB and ~800 tokens** via Seekstone — a **~575× reduction**. Claude can search and read your entire note library without burning most of its context window on a single tool call.
 
-**Two npm names, same server:**
+**Two npm names, one server:**
 
 | Package | Best for |
 |---|---|
@@ -45,16 +45,16 @@ npx -y obsidian-mcp-seekstone init --vault "/absolute/path/to/your/vault" --writ
 npx -y obsidian-mcp-seekstone init --vault "/absolute/path/to/your/vault" --client code
 ```
 
-## Configuration
+## What can Claude do with your vault?
 
-| Env var | Required | Description |
-|---|---|---|
-| `SEEKSTONE_VAULT` | yes | Absolute path to your Obsidian vault. |
-| `SEEKSTONE_LOG_LEVEL` | no | `error` \| `warn` \| `info` (default) \| `debug`. |
-| `SEEKSTONE_LOG_FILE` | no | Absolute path; when set, JSON-line logs are appended here (size-rotated). |
-| `SEEKSTONE_WATCH_POLL` | no | Set to `1` to stat-poll for changes instead of native OS events — slower but reliable on network drives, WSL, and some containers. |
+Once connected, ask Claude things like:
 
-Works on macOS, Linux, and Windows.
+- **"Search my notes for everything about [topic] and summarize"** — ranked excerpts, not full files
+- **"Find all notes tagged #project and list their titles"** — folder and tag filtering
+- **"Read my note on [topic] and suggest improvements"** — full note content
+- **"Create a meeting note for today with this template"** — creates note + parent dirs
+- **"Add a summary section to the bottom of [note]"** — appends without touching frontmatter
+- **"Update the status field in this note's frontmatter to 'done'"** — key-safe YAML edit
 
 ## Tools
 
@@ -69,9 +69,31 @@ Works on macOS, Linux, and Windows.
 | `append_note` | Append to a note body without touching frontmatter. |
 | `patch_frontmatter` | Set/update/delete frontmatter keys without reordering existing keys or changing quote style. |
 
+## Configuration
+
+| Env var | Required | Description |
+|---|---|---|
+| `SEEKSTONE_VAULT` | yes | Absolute path to your Obsidian vault. |
+| `SEEKSTONE_LOG_LEVEL` | no | `error` \| `warn` \| `info` (default) \| `debug`. |
+| `SEEKSTONE_LOG_FILE` | no | Absolute path; when set, JSON-line logs are appended here (size-rotated). |
+| `SEEKSTONE_WATCH_POLL` | no | Set to `1` to stat-poll for changes instead of native OS events — reliable on network drives, WSL, containers. |
+
+## Frequently asked questions
+
+**Does the Obsidian app need to be running?** No — Seekstone reads the vault folder from disk directly.
+
+**Do I need the Local REST API plugin?** No — Seekstone bypasses it entirely (that's where the 575× reduction comes from).
+
+**Which AI clients does it support?** Any MCP-over-stdio client: Claude Desktop, Claude Code, Cursor, Windsurf, Continue, and others.
+
+**Does it work on Windows?** Yes — tested on macOS, Linux, and Windows in CI on every commit.
+
+**Is it safe?** No network calls, no telemetry. The vault path is sandboxed — no tool reads or writes outside it.
+
 ## Requirements
 
 - Node.js ≥ 22
+- Works on macOS, Linux, and Windows
 
 ## License
 
