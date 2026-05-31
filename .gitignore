@@ -37,3 +37,6 @@ tmp/
 
 # write-safety scratch vaults (defensive — must never be committed)
 safety-scratch/
+
+# claude code local task state
+.claude/scheduled_tasks.lock
