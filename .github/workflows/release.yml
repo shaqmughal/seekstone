@@ -23,11 +23,15 @@ jobs:
         with:
           fetch-depth: 0
 
+      # NOTE: no `registry-url` here on purpose. setup-node's registry-url
+      # writes an ~/.npmrc with `//registry.npmjs.org/:_authToken=${NODE_AUTH_TOKEN}`;
+      # with no token that line is empty and shadows OIDC (configured auth wins),
+      # causing an unauthenticated publish → E404. Omitting it lets npm's
+      # automatic OIDC trusted publishing handle auth against the default registry.
       - uses: actions/setup-node@v5
         with:
           node-version: '22'
           cache: 'npm'
-          registry-url: 'https://registry.npmjs.org'
 
       # OIDC trusted publishing requires npm >= 11.5.1.
       - name: Upgrade npm
