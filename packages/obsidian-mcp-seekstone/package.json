@@ -1,0 +1,44 @@
+{
+  "name": "obsidian-mcp-seekstone",
+  "type": "module",
+  "version": "0.2.1",
+  "description": "Filesystem-direct Obsidian MCP server — a discoverability alias for seekstone. Reads your vault directly from disk with ~575× smaller payloads than the REST plugin.",
+  "keywords": [
+    "obsidian",
+    "mcp",
+    "obsidian-mcp",
+    "model-context-protocol",
+    "obsidian-ai",
+    "vault",
+    "notes",
+    "markdown",
+    "pkm",
+    "personal-knowledge-management",
+    "knowledge-base",
+    "note-taking"
+  ],
+  "license": "MIT",
+  "author": "Shaq Mughal",
+  "homepage": "https://github.com/shaqmughal/seekstone#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaqmughal/seekstone.git",
+    "directory": "packages/obsidian-mcp-seekstone"
+  },
+  "bugs": {
+    "url": "https://github.com/shaqmughal/seekstone/issues"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "bin": {
+    "obsidian-mcp-seekstone": "./bin/seekstone.js"
+  },
+  "files": ["bin", "README.md", "LICENSE"],
+  "dependencies": {
+    "seekstone": ">=0.2.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
