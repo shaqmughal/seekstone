@@ -10,15 +10,16 @@ import { fileURLToPath } from 'node:url';
 const require = createRequire(import.meta.url);
 const binDir = dirname(fileURLToPath(import.meta.url));
 
-// Search ancestor node_modules directories. npm workspaces hoists seekstone
-// to the monorepo root, which may be several levels above the bin file.
+// require.resolve's `paths` option takes directory paths; Node appends
+// 'node_modules' itself when searching. npm workspaces hoists seekstone to
+// the monorepo root, so we search ancestor directories up to 4 levels up.
 const searchPaths = [
   binDir,
   join(binDir, '..'),
   join(binDir, '..', '..'),
   join(binDir, '..', '..', '..'),
   join(binDir, '..', '..', '..', '..'),
-].map((d) => join(d, 'node_modules'));
+];
 
 let entry;
 try {
