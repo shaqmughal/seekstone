@@ -1,6 +1,6 @@
 import { readFile } from 'node:fs/promises';
-import { parseFrontmatter } from '../profiler/frontmatter.js';
-import { walkVault } from '../profiler/walk.js';
+import { parseFrontmatter } from '@seekstone/core/frontmatter';
+import { walkVault } from '@seekstone/core/walk';
 
 export interface Candidate {
   relPath: string;

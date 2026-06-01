@@ -1,8 +1,8 @@
 import { readFile, readdir, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
+import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import fg from 'fast-glob';
 import MiniSearch from 'minisearch';
-import { parseFrontmatter } from '../../profiler/frontmatter.js';
 import type { Backend, BackendResponse, ListEntry, SearchHit } from '../backend.js';
 
 interface IndexedDoc {
