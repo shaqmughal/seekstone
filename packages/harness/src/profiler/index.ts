@@ -1,10 +1,15 @@
 import { readFile } from 'node:fs/promises';
 import { cpus } from 'node:os';
 import { basename } from 'node:path';
-import { type Distribution, summarise } from '../util/percentiles.js';
-import { extractInlineTags, extractUrls, extractWikilinks, frontmatterTags } from './extract.js';
-import { parseFrontmatter } from './frontmatter.js';
-import { type FileEntry, type FileKind, walkVault } from './walk.js';
+import {
+  extractInlineTags,
+  extractUrls,
+  extractWikilinks,
+  frontmatterTags,
+} from '@seekstone/core/extract';
+import { parseFrontmatter } from '@seekstone/core/frontmatter';
+import { type Distribution, summarise } from '@seekstone/core/percentiles';
+import { type FileEntry, type FileKind, walkVault } from '@seekstone/core/walk';
 
 export interface NoteRecord {
   relPath: string;
