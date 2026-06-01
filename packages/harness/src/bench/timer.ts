@@ -1,5 +1,5 @@
+import { type Distribution, summarise } from '@seekstone/core/percentiles';
 import { get_encoding } from 'tiktoken';
-import { type Distribution, summarise } from '../util/percentiles.js';
 
 const enc = get_encoding('cl100k_base');
 

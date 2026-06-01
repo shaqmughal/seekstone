@@ -1,5 +1,5 @@
+import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { parseDocument } from 'yaml';
-import { parseFrontmatter } from '../profiler/frontmatter.js';
 
 export type OpKind = 'identity' | 'body-append' | 'fm-edit';
 
