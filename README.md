@@ -35,6 +35,8 @@ It reads your vault **directly from disk** rather than routing through the Obsid
 
 ## Install
 
+**One-click (Claude Desktop)** — download `seekstone.mcpb` from [GitHub Releases](https://github.com/shaqmughal/seekstone/releases/latest), double-click it in Claude Desktop, and pick your vault folder. No terminal, no JSON editing required.
+
 **Claude Desktop** — add to `claude_desktop_config.json` (Settings → Developer → Edit Config):
 
 ```json

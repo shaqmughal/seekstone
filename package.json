@@ -15,11 +15,13 @@
     "format": "biome format --write .",
     "harness": "npm run -w @seekstone/harness start --",
     "publish:shim": "npm publish -w obsidian-mcp-seekstone",
+    "build:mcpb": "node scripts/build-mcpb.mjs",
     "smoke": "node scripts/smoke-install.mjs",
     "version-packages": "changeset version && biome format --write .",
     "release": "changeset publish"
   },
   "devDependencies": {
+    "@anthropic-ai/mcpb": "^2.1.2",
     "@biomejs/biome": "^1.9.4",
     "@changesets/cli": "^2.31.0",
     "@types/node": "^22.10.0",

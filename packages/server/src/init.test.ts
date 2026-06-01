@@ -102,9 +102,9 @@ describe('obsidianRegistryPath', () => {
     );
   });
   it('windows uses APPDATA', () => {
-    expect(
-      obsidianRegistryPath('win32', { appData: 'C:\\Users\\x\\AppData\\Roaming' }),
-    ).toContain('obsidian\\obsidian.json');
+    expect(obsidianRegistryPath('win32', { appData: 'C:\\Users\\x\\AppData\\Roaming' })).toContain(
+      'obsidian\\obsidian.json',
+    );
   });
 });
 
@@ -136,10 +136,11 @@ describe('parseObsidianVaults', () => {
       },
     });
     const result = parseObsidianVaults(json);
-    expect(result[0]!.path).toBe('/a/vault');
-    expect(result[0]!.open).toBe(true);
-    expect(result[1]!.path).toBe('/m/vault');
-    expect(result[2]!.path).toBe('/z/vault');
+    const [r0, r1, r2] = result;
+    expect(r0?.path).toBe('/a/vault');
+    expect(r0?.open).toBe(true);
+    expect(r1?.path).toBe('/m/vault');
+    expect(r2?.path).toBe('/z/vault');
   });
   it('tolerates entries without an open field', () => {
     const json = JSON.stringify({ vaults: { x: { path: '/v' } } });

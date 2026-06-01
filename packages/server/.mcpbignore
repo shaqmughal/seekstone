@@ -1,0 +1,7 @@
+src/
+node_modules/
+*.test.ts
+*.config.ts
+tsconfig.json
+CHANGELOG.md
+.changeset/

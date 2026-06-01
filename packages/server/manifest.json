@@ -1,0 +1,35 @@
+{
+  "manifest_version": "0.3",
+  "name": "seekstone",
+  "version": "0.2.1",
+  "description": "Obsidian MCP server — filesystem-direct vault access, low context-tax.",
+  "author": {
+    "name": "Shaq Mughal",
+    "url": "https://github.com/shaqmughal/seekstone"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaqmughal/seekstone"
+  },
+  "license": "MIT",
+  "keywords": ["obsidian", "mcp", "notes", "vault", "knowledge-base"],
+  "server": {
+    "type": "node",
+    "entry_point": "dist/index.js",
+    "mcp_config": {
+      "command": "node",
+      "args": ["${__dirname}/dist/index.js"],
+      "env": {
+        "SEEKSTONE_VAULT": "${user_config.vault}"
+      }
+    }
+  },
+  "user_config": {
+    "vault": {
+      "type": "directory",
+      "title": "Obsidian vault",
+      "description": "Pick your Obsidian vault folder. Seekstone will index and search it.",
+      "required": true
+    }
+  }
+}

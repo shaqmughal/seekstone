@@ -244,7 +244,8 @@ export async function runInit(
     }
 
     if (vaults.length === 1) {
-      vaultPath = vaults[0]!.path;
+      const [first] = vaults;
+      vaultPath = first?.path ?? '';
     } else {
       const list = vaults
         .map((v, i) => `  ${i + 1}. ${v.path}${v.open ? ' (currently open)' : ''}`)
