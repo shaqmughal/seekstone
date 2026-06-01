@@ -5,8 +5,8 @@
   </picture>
 </p>
 
-<p align="center"><strong>The MCP server that connects Claude to your Obsidian vault.</strong></p>
-<p align="center"><em>Filesystem-direct · No plugins · No context waste · macOS · Linux · Windows</em></p>
+<p align="center"><strong>The Obsidian MCP server for Claude — search and edit your vault without burning context.</strong></p>
+<p align="center"><em>Filesystem-direct · No plugins · No Obsidian app required · macOS · Linux · Windows</em></p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/obsidian-mcp-seekstone"><img src="https://img.shields.io/npm/v/obsidian-mcp-seekstone?color=cb3837&logo=npm&label=obsidian-mcp-seekstone" alt="npm" /></a>
@@ -35,9 +35,43 @@ It reads your vault **directly from disk** rather than routing through the Obsid
 
 ## Install
 
-**One-click (Claude Desktop)** — download `seekstone.mcpb` from [GitHub Releases](https://github.com/shaqmughal/seekstone/releases/latest), double-click it in Claude Desktop, and pick your vault folder. No terminal, no JSON editing required.
+Choose the method that suits you best.
 
-**Claude Desktop** — add to `claude_desktop_config.json` (Settings → Developer → Edit Config):
+### Option 1 — One-click (Claude Desktop, no terminal needed)
+
+1. Download `seekstone.mcpb` from [GitHub Releases](https://github.com/shaqmughal/seekstone/releases/latest)
+2. Double-click the file in Claude Desktop
+3. Pick your Obsidian vault folder when prompted
+
+No JSON editing, no terminal, no Node.js setup required. Claude Desktop handles everything.
+
+### Option 2 — Guided setup (recommended for CLI users)
+
+Run the setup helper and let Seekstone find your vault automatically:
+
+```bash
+npx -y obsidian-mcp-seekstone init
+```
+
+Seekstone reads Obsidian's own vault registry to detect your vault, validates it, and either prints the config block to paste or patches Claude Desktop directly:
+
+```bash
+# Auto-detect vault, print config to paste
+npx -y obsidian-mcp-seekstone init
+
+# Auto-detect vault, patch Claude Desktop in place (with backup)
+npx -y obsidian-mcp-seekstone init --write
+
+# Specify vault explicitly if you have multiple
+npx -y obsidian-mcp-seekstone init --vault "/path/to/vault"
+
+# Generate the Claude Code command instead
+npx -y obsidian-mcp-seekstone init --client code
+```
+
+### Option 3 — Manual config (Claude Desktop)
+
+Add to `claude_desktop_config.json` (Settings → Developer → Edit Config):
 
 ```json
 {
@@ -51,30 +85,17 @@ It reads your vault **directly from disk** rather than routing through the Obsid
 }
 ```
 
-**Claude Code:**
+### Option 4 — Claude Code
 
 ```bash
 claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- npx -y obsidian-mcp-seekstone
 ```
 
-Restart the client. On startup Seekstone walks the vault, builds an in-memory full-text index (a few seconds for thousands of notes), and keeps it live as you edit. The eight tools below are then available to Claude.
+---
 
-Requires [Node.js](https://nodejs.org) ≥ 22.
+After installing, restart the client. On startup Seekstone walks the vault, builds an in-memory full-text index (a few seconds for thousands of notes), and keeps it live as you edit. The eight tools below are then available to Claude.
 
-### Guided setup
-
-Prefer not to hand-edit JSON? `seekstone init` validates your vault and either prints the config block or patches the Claude Desktop config in place (with a backup, leaving your other MCP servers untouched):
-
-```bash
-# Print the config block to copy-paste
-npx -y obsidian-mcp-seekstone init --vault "/absolute/path/to/your/vault"
-
-# Patch the Claude Desktop config directly
-npx -y obsidian-mcp-seekstone init --vault "/absolute/path/to/your/vault" --write
-
-# Print the Claude Code command instead
-npx -y obsidian-mcp-seekstone init --vault "/absolute/path/to/your/vault" --client code
-```
+Requires [Node.js](https://nodejs.org) ≥ 22 for the CLI options. The one-click `.mcpb` bundle has no external requirements.
 
 ---
 
@@ -155,6 +176,12 @@ Yes. Seekstone is tested on macOS, Linux, and Windows in CI on every commit.
 **What Obsidian vault sizes does it handle?**
 Seekstone has been profiled against vaults with thousands of notes. The in-memory index is small (a few MB for a typical vault) and starts in a few seconds.
 
+**How does `seekstone init` find my vault automatically?**
+It reads Obsidian's own vault registry (`obsidian.json`) — the same file Obsidian uses to track your known vaults. If you have one vault, it's selected automatically. If you have multiple, it lists them and asks you to pick with `--vault`.
+
+**What is the `.mcpb` file?**
+An MCP Bundle — a zip file containing the server and its manifest. Claude Desktop can install it with a double-click, no terminal required. It's the easiest way to get started for non-developers.
+
 ---
 
 ## Contributing & development
@@ -166,6 +193,7 @@ npm install                                          # install all workspace dep
 npm test                                             # run all tests
 npm run lint                                         # biome check
 npm run build -w seekstone                           # tsup → dist/
+npm run build:mcpb                                   # build seekstone.mcpb bundle
 
 npx vitest run packages/server/src/tools/search.test.ts  # single test file
 npx vitest run -t 'parses a typical frontmatter'         # single test by name
