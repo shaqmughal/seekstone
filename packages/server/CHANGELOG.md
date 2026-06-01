@@ -1,5 +1,26 @@
 # seekstone
 
+## 0.3.0
+
+### Minor Changes
+
+- f6f6770: Auto-detect the Obsidian vault in `seekstone init`
+
+  When `--vault` is omitted and `SEEKSTONE_VAULT` is not set, `seekstone init`
+  now reads Obsidian's own vault registry (`obsidian.json`) to find known vaults
+  automatically. One vault → auto-selected and validated. Multiple vaults → lists
+  them numbered with a `--vault` re-run hint. Registry missing/malformed → falls
+  back to the existing "pass --vault" guidance.
+
+- f2c6d7c: Ship Seekstone as a one-click MCP Bundle (MCPB)
+
+  Adds a `seekstone.mcpb` build artifact that lets non-developers install
+  Seekstone in Claude Desktop with a double-click and a vault directory picker —
+  no terminal, no JSON editing required. The bundle packages `dist/index.js` and
+  `manifest.json` into a 15 KB zip. CI attaches it to every GitHub Release.
+
+  The `npx -y seekstone` path is unchanged.
+
 ## 0.2.1
 
 ### Patch Changes
