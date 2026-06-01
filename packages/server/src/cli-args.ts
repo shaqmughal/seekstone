@@ -30,7 +30,7 @@ Usage:
   seekstone --help     Print this help and exit
 
 "seekstone init" options:
-  --vault <path>       Vault to use (default: $SEEKSTONE_VAULT)
+  --vault <path>       Vault to use (auto-detected from Obsidian if omitted; fallback: $SEEKSTONE_VAULT)
   --client <name>      desktop (default) | code
   --write              Patch the Claude Desktop config in place (backs it up first)
 
