@@ -61,6 +61,7 @@ jobs:
       # publishes to npm with provenance. Re-publishing an existing version is
       # a no-op, so this is safe to re-run.
       - name: Create release PR or publish
+        id: changesets
         uses: changesets/action@v1
         with:
           version: npm run version-packages
@@ -73,3 +74,15 @@ jobs:
           # (GitHub Actions, repo shaqmughal/seekstone, workflow release.yml).
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_CONFIG_PROVENANCE: 'true'
+
+      - name: Build MCP Bundle
+        if: steps.changesets.outputs.published == 'true'
+        run: npm run build:mcpb
+
+      - name: Attach MCPB to GitHub Release
+        if: steps.changesets.outputs.published == 'true'
+        run: |
+          VERSION=$(node -p "require('./packages/server/package.json').version")
+          gh release upload "seekstone@${VERSION}" seekstone.mcpb --clobber
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

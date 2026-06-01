@@ -40,3 +40,4 @@ safety-scratch/
 
 # claude code local task state
 .claude/scheduled_tasks.lock
+seekstone.mcpb
