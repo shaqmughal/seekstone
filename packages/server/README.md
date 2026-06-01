@@ -1,6 +1,6 @@
 # seekstone / obsidian-mcp-seekstone
 
-**The MCP server that connects Claude to your Obsidian vault — filesystem-direct, no plugins, no context waste.**
+**The Obsidian MCP server for Claude — search and edit your vault without burning context.**
 
 Seekstone is an Obsidian MCP server that gives Claude (and any [Model Context Protocol](https://modelcontextprotocol.io) client) direct read and write access to your Obsidian vault. No Obsidian app needs to be running, no plugins are required, and nothing leaves your machine.
 
@@ -13,9 +13,43 @@ It reads your vault **directly from disk** instead of routing through the Obsidi
 | [`obsidian-mcp-seekstone`](https://www.npmjs.com/package/obsidian-mcp-seekstone) | Searching npm for "obsidian mcp" |
 | [`seekstone`](https://www.npmjs.com/package/seekstone) | Shorter name if you already know it |
 
+---
+
 ## Install
 
-**Claude Desktop** — `claude_desktop_config.json`:
+Choose the method that suits you best.
+
+### Option 1 — One-click (Claude Desktop, no terminal needed)
+
+Download `seekstone.mcpb` from [GitHub Releases](https://github.com/shaqmughal/seekstone/releases/latest), double-click it in Claude Desktop, and pick your Obsidian vault folder when prompted. No JSON editing, no terminal, no Node.js setup required.
+
+### Option 2 — Guided setup (recommended for CLI users)
+
+Run the setup helper and let Seekstone find your vault automatically:
+
+```bash
+npx -y obsidian-mcp-seekstone init
+```
+
+Seekstone reads Obsidian's own vault registry to detect your vault, validates it, and either prints the config to paste or patches Claude Desktop directly:
+
+```bash
+# Auto-detect vault, print config to paste
+npx -y obsidian-mcp-seekstone init
+
+# Auto-detect vault, patch Claude Desktop in place (with backup)
+npx -y obsidian-mcp-seekstone init --write
+
+# Specify vault explicitly if you have multiple
+npx -y obsidian-mcp-seekstone init --vault "/path/to/vault"
+
+# Generate the Claude Code command instead
+npx -y obsidian-mcp-seekstone init --client code
+```
+
+### Option 3 — Manual config (Claude Desktop)
+
+Add to `claude_desktop_config.json` (Settings → Developer → Edit Config):
 
 ```json
 {
@@ -29,32 +63,13 @@ It reads your vault **directly from disk** instead of routing through the Obsidi
 }
 ```
 
-**Claude Code:**
+### Option 4 — Claude Code
 
 ```bash
 claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- npx -y obsidian-mcp-seekstone
 ```
 
-### Guided setup
-
-`seekstone init` validates your vault and prints the config to paste, or patches the Claude Desktop config for you (with a backup, leaving other MCP servers untouched):
-
-```bash
-npx -y obsidian-mcp-seekstone init --vault "/absolute/path/to/your/vault"          # print config
-npx -y obsidian-mcp-seekstone init --vault "/absolute/path/to/your/vault" --write  # patch Claude Desktop
-npx -y obsidian-mcp-seekstone init --vault "/absolute/path/to/your/vault" --client code
-```
-
-## What can Claude do with your vault?
-
-Once connected, ask Claude things like:
-
-- **"Search my notes for everything about [topic] and summarize"** — ranked excerpts, not full files
-- **"Find all notes tagged #project and list their titles"** — folder and tag filtering
-- **"Read my note on [topic] and suggest improvements"** — full note content
-- **"Create a meeting note for today with this template"** — creates note + parent dirs
-- **"Add a summary section to the bottom of [note]"** — appends without touching frontmatter
-- **"Update the status field in this note's frontmatter to 'done'"** — key-safe YAML edit
+---
 
 ## Tools
 
@@ -69,6 +84,8 @@ Once connected, ask Claude things like:
 | `append_note` | Append to a note body without touching frontmatter. |
 | `patch_frontmatter` | Set/update/delete frontmatter keys without reordering existing keys or changing quote style. |
 
+---
+
 ## Configuration
 
 | Env var | Required | Description |
@@ -78,23 +95,40 @@ Once connected, ask Claude things like:
 | `SEEKSTONE_LOG_FILE` | no | Absolute path; when set, JSON-line logs are appended here (size-rotated). |
 | `SEEKSTONE_WATCH_POLL` | no | Set to `1` to stat-poll for changes instead of native OS events — reliable on network drives, WSL, containers. |
 
+---
+
 ## Frequently asked questions
 
-**Does the Obsidian app need to be running?** No — Seekstone reads the vault folder from disk directly.
+**Does the Obsidian app need to be running?**
+No — Seekstone reads the vault folder from disk directly.
 
-**Do I need the Local REST API plugin?** No — Seekstone bypasses it entirely (that's where the 575× reduction comes from).
+**Do I need the Local REST API plugin?**
+No — Seekstone bypasses it entirely (that's where the 575× reduction comes from).
 
-**Which AI clients does it support?** Any MCP-over-stdio client: Claude Desktop, Claude Code, Cursor, Windsurf, Continue, and others.
+**How does `seekstone init` find my vault automatically?**
+It reads Obsidian's own vault registry (`obsidian.json`) — the same file Obsidian uses to track your known vaults. One vault → auto-selected. Multiple → lists them and asks you to pick with `--vault`.
 
-**Does it work on Windows?** Yes — tested on macOS, Linux, and Windows in CI on every commit.
+**What is the `.mcpb` file?**
+An MCP Bundle — a zip containing the server and its manifest. Claude Desktop installs it with a double-click, no terminal required.
 
-**Is it safe?** No network calls, no telemetry. The vault path is sandboxed — no tool reads or writes outside it.
+**Which AI clients does it support?**
+Any MCP-over-stdio client: Claude Desktop, Claude Code, Cursor, Windsurf, Continue, and others.
+
+**Does it work on Windows?**
+Yes — tested on macOS, Linux, and Windows in CI on every commit.
+
+**Is it safe?**
+No network calls, no telemetry. The vault path is sandboxed — no tool reads or writes outside it.
+
+---
 
 ## Requirements
 
-- Node.js ≥ 22
-- Works on macOS, Linux, and Windows
+- Node.js ≥ 22 (for CLI install options; the `.mcpb` bundle has no external requirements)
+- macOS, Linux, or Windows
+
+---
 
 ## License
 
-MIT © Shaq Mughal. Source and issues: <https://github.com/shaqmughal/seekstone>
+MIT © Shaq Mughal · [GitHub](https://github.com/shaqmughal/seekstone) · [Issues](https://github.com/shaqmughal/seekstone/issues)
