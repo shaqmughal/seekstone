@@ -1,8 +1,8 @@
 # Publishing to MCP registries
 
 How Seekstone gets listed where people discover MCP servers. The repo contains
-the config files each registry reads (`server.json`, `smithery.yaml`,
-`glama.json`) and the `mcpName` field in `packages/server/package.json`.
+the config files each registry reads (`server.json`, `glama.json`) and the
+`mcpName` field in `packages/server/package.json`.
 
 ## Two npm packages, one server
 
@@ -46,15 +46,9 @@ curl "https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.sha
 
 The registry is in **preview** — if the CLI reports a schema mismatch, re-check the `$schema` date in `server.json`.
 
-## 2. Smithery
+## 2. Smithery — not pursued
 
-`smithery.yaml` (repo root) tells Smithery how to launch the server. It uses `obsidian-mcp-seekstone` as the install command so users who find it via Smithery get the discoverable name.
-
-1. Sign in at https://smithery.ai with GitHub.
-2. Connect the `shaqmughal/seekstone` repo.
-3. Confirm the vault-path config field renders and a test launch works.
-
-Note: Smithery's UI is currently oriented toward hosted/remote servers. The `smithery.yaml` is in place; the listing may appear via auto-indexing.
+Smithery's current platform is oriented toward hosted/remote servers with Streamable HTTP transport. The only path for a stdio/npm server is an MCPB bundle, which is undocumented with no available tooling on their end. The old `smithery.yaml` GitHub-connect flow is no longer supported. **Permanently excluded.**
 
 ## 3. Glama
 
@@ -74,5 +68,5 @@ Entry uses `obsidian-mcp-seekstone` for discoverability. Update the PR if the en
 ## Keeping listings current
 
 - **Official registry:** bump the version in `server.json` and re-run `mcp-publisher publish` after each release. The `version` field should always match the current `seekstone` npm version.
-- **Smithery / Glama:** track the repo automatically — no action needed on release.
+- **Glama:** tracks the repo automatically — no action needed on release.
 - **awesome-mcp-servers:** static PR; only needs updating if the description or install command changes.
