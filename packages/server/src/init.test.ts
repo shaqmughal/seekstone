@@ -6,7 +6,9 @@ import {
   claudeDesktopConfigPath,
   mcpAddCommand,
   mergeSeekstoneConfig,
+  obsidianRegistryPath,
   parseInitArgs,
+  parseObsidianVaults,
   runInit,
   seekstoneServerConfig,
   validateVault,
@@ -85,6 +87,64 @@ describe('mergeSeekstoneConfig', () => {
     const once = mergeSeekstoneConfig(null, '/v');
     const twice = mergeSeekstoneConfig(once, '/v');
     expect(twice).toEqual(once);
+  });
+});
+
+describe('obsidianRegistryPath', () => {
+  it('macOS', () => {
+    expect(obsidianRegistryPath('darwin', { home: '/Users/x' })).toBe(
+      '/Users/x/Library/Application Support/obsidian/obsidian.json',
+    );
+  });
+  it('linux', () => {
+    expect(obsidianRegistryPath('linux', { home: '/home/x' })).toBe(
+      '/home/x/.config/obsidian/obsidian.json',
+    );
+  });
+  it('windows uses APPDATA', () => {
+    expect(
+      obsidianRegistryPath('win32', { appData: 'C:\\Users\\x\\AppData\\Roaming' }),
+    ).toContain('obsidian\\obsidian.json');
+  });
+});
+
+describe('parseObsidianVaults', () => {
+  it('returns empty array for malformed JSON', () => {
+    expect(parseObsidianVaults('not json')).toEqual([]);
+  });
+  it('returns empty array for empty string', () => {
+    expect(parseObsidianVaults('')).toEqual([]);
+  });
+  it('returns empty array when vaults key is missing', () => {
+    expect(parseObsidianVaults(JSON.stringify({}))).toEqual([]);
+  });
+  it('returns empty array when vaults is empty object', () => {
+    expect(parseObsidianVaults(JSON.stringify({ vaults: {} }))).toEqual([]);
+  });
+  it('parses a typical registry with one vault', () => {
+    const json = JSON.stringify({
+      vaults: { abc123: { path: '/Users/x/Notes', ts: 1000 } },
+    });
+    expect(parseObsidianVaults(json)).toEqual([{ path: '/Users/x/Notes', open: false }]);
+  });
+  it('sorts open vault first, then lexically', () => {
+    const json = JSON.stringify({
+      vaults: {
+        a: { path: '/z/vault', open: false },
+        b: { path: '/a/vault', open: true },
+        c: { path: '/m/vault', open: false },
+      },
+    });
+    const result = parseObsidianVaults(json);
+    expect(result[0]!.path).toBe('/a/vault');
+    expect(result[0]!.open).toBe(true);
+    expect(result[1]!.path).toBe('/m/vault');
+    expect(result[2]!.path).toBe('/z/vault');
+  });
+  it('tolerates entries without an open field', () => {
+    const json = JSON.stringify({ vaults: { x: { path: '/v' } } });
+    const result = parseObsidianVaults(json);
+    expect(result).toEqual([{ path: '/v', open: false }]);
   });
 });
 
@@ -213,5 +273,79 @@ describe('runInit', () => {
     const res2 = await runInit({ vault, write: true, client: 'desktop' }, deps());
     const written = JSON.parse(await readFile(res2.wrotePath as string, 'utf8'));
     expect(Object.keys(written.mcpServers)).toEqual(['seekstone']);
+  });
+
+  // Auto-detect tests via injected readFile
+  const makeRegistry = (vaults: Record<string, { path: string; open?: boolean }>) =>
+    JSON.stringify({ vaults });
+
+  it('auto-detects a single vault when --vault is omitted', async () => {
+    const registry = makeRegistry({ a: { path: vault, open: true } });
+    const res = await runInit(
+      { write: false, client: 'desktop' },
+      { ...deps(), readFile: async () => registry },
+    );
+    expect(res.exitCode).toBe(0);
+    expect(res.output.join('\n')).toContain(vault);
+  });
+
+  it('lists multiple vaults and exits 1 when more than one is found', async () => {
+    const registry = makeRegistry({
+      a: { path: vault },
+      b: { path: '/other/vault' },
+    });
+    const res = await runInit(
+      { write: false, client: 'desktop' },
+      { ...deps(), readFile: async () => registry },
+    );
+    expect(res.exitCode).toBe(1);
+    const text = res.output.join('\n');
+    expect(text).toContain('Multiple Obsidian vaults');
+    expect(text).toContain('--vault');
+  });
+
+  it('falls back to No vault specified when registry is missing', async () => {
+    const res = await runInit(
+      { write: false, client: 'desktop' },
+      {
+        ...deps(),
+        readFile: async () => {
+          throw new Error('ENOENT');
+        },
+      },
+    );
+    expect(res.exitCode).toBe(1);
+    expect(res.output.join('\n')).toContain('No vault specified');
+  });
+
+  it('--vault takes precedence over auto-detect', async () => {
+    const registry = makeRegistry({ a: { path: '/other/vault' } });
+    const res = await runInit(
+      { vault, write: false, client: 'desktop' },
+      { ...deps(), readFile: async () => registry },
+    );
+    expect(res.exitCode).toBe(0);
+    expect(res.output.join('\n')).toContain(vault);
+    expect(res.output.join('\n')).not.toContain('/other/vault');
+  });
+
+  it('SEEKSTONE_VAULT takes precedence over auto-detect', async () => {
+    const registry = makeRegistry({ a: { path: '/other/vault' } });
+    const res = await runInit(
+      { write: false, client: 'desktop' },
+      { ...deps({ SEEKSTONE_VAULT: vault }), readFile: async () => registry },
+    );
+    expect(res.exitCode).toBe(0);
+    expect(res.output.join('\n')).toContain(vault);
+  });
+
+  it('auto-detected path that fails validateVault reports vault error', async () => {
+    const registry = makeRegistry({ a: { path: home } }); // home has no .obsidian
+    const res = await runInit(
+      { write: false, client: 'desktop' },
+      { ...deps(), readFile: async () => registry },
+    );
+    expect(res.exitCode).toBe(1);
+    expect(res.output.join('\n')).toContain('.obsidian');
   });
 });

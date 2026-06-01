@@ -76,6 +76,59 @@ export function claudeDesktopConfigPath(
   return j(home, '.config', 'Claude', 'claude_desktop_config.json');
 }
 
+/**
+ * Resolve the Obsidian vault registry path for a platform. Pure — mirrors the
+ * claudeDesktopConfigPath pattern so it can be tested without real filesystem.
+ */
+export function obsidianRegistryPath(
+  platform: NodeJS.Platform,
+  env: { home?: string; appData?: string },
+): string {
+  if (platform === 'win32') {
+    const j = path.win32.join;
+    const base = env.appData ?? j(env.home ?? '', 'AppData', 'Roaming');
+    return j(base, 'obsidian', 'obsidian.json');
+  }
+  const j = path.posix.join;
+  const home = env.home ?? '';
+  if (platform === 'darwin') {
+    return j(home, 'Library', 'Application Support', 'obsidian', 'obsidian.json');
+  }
+  return j(home, '.config', 'obsidian', 'obsidian.json');
+}
+
+export type ObsidianVaultEntry = { path: string; open?: boolean };
+
+/**
+ * Parse Obsidian's obsidian.json vault registry. Tolerant of missing/extra
+ * keys and malformed JSON — always returns an array. Sorted: open vault first,
+ * then lexically by path for determinism across runs.
+ */
+export function parseObsidianVaults(json: string): ObsidianVaultEntry[] {
+  let data: unknown;
+  try {
+    data = JSON.parse(json);
+  } catch {
+    return [];
+  }
+  if (!data || typeof data !== 'object') return [];
+  const raw = (data as Record<string, unknown>).vaults;
+  if (!raw || typeof raw !== 'object') return [];
+  const entries: ObsidianVaultEntry[] = [];
+  for (const v of Object.values(raw as Record<string, unknown>)) {
+    if (v && typeof v === 'object') {
+      const entry = v as Record<string, unknown>;
+      if (typeof entry.path === 'string') {
+        entries.push({ path: entry.path, open: entry.open === true });
+      }
+    }
+  }
+  return entries.sort((a, b) => {
+    if (a.open !== b.open) return a.open ? -1 : 1;
+    return a.path.localeCompare(b.path);
+  });
+}
+
 type McpConfig = { mcpServers?: Record<string, unknown> } & Record<string, unknown>;
 
 /**
@@ -159,18 +212,55 @@ export async function runInit(
     platform: NodeJS.Platform;
     /** ISO timestamp for the backup filename (injected for determinism in tests). */
     timestamp: string;
+    /** Injectable for testing; defaults to fs/promises readFile. */
+    readFile?: (p: string, enc: 'utf8') => Promise<string>;
   },
 ): Promise<InitResult> {
-  const vaultPath = opts.vault ?? deps.env.SEEKSTONE_VAULT;
+  const rf = deps.readFile ?? readFile;
+  let vaultPath = opts.vault ?? deps.env.SEEKSTONE_VAULT;
+
   if (!vaultPath) {
-    return {
-      ok: false,
-      exitCode: 1,
-      output: [
-        'No vault specified. Pass --vault <path> or set SEEKSTONE_VAULT.',
-        'Example: seekstone init --vault "/Users/you/Obsidian/My Vault"',
-      ],
-    };
+    // Auto-detect from Obsidian's vault registry.
+    const registryPath = obsidianRegistryPath(deps.platform, {
+      home: deps.env.HOME,
+      appData: deps.env.APPDATA,
+    });
+    let vaults: ObsidianVaultEntry[] = [];
+    try {
+      vaults = parseObsidianVaults(await rf(registryPath, 'utf8'));
+    } catch {
+      // Registry missing or unreadable — fall through to error.
+    }
+
+    if (vaults.length === 0) {
+      return {
+        ok: false,
+        exitCode: 1,
+        output: [
+          'No vault specified. Pass --vault <path> or set SEEKSTONE_VAULT.',
+          'Example: seekstone init --vault "/Users/you/Obsidian/My Vault"',
+        ],
+      };
+    }
+
+    if (vaults.length === 1) {
+      vaultPath = vaults[0]!.path;
+    } else {
+      const list = vaults
+        .map((v, i) => `  ${i + 1}. ${v.path}${v.open ? ' (currently open)' : ''}`)
+        .join('\n');
+      return {
+        ok: false,
+        exitCode: 1,
+        output: [
+          'Multiple Obsidian vaults found. Re-run with --vault to pick one:',
+          '',
+          list,
+          '',
+          'Example: seekstone init --vault "/path/to/vault"',
+        ],
+      };
+    }
   }
 
   const check = await validateVault(vaultPath);
@@ -216,7 +306,7 @@ export async function runInit(
   let existing: McpConfig | null = null;
   let existingRaw: string | null = null;
   try {
-    existingRaw = await readFile(configPath, 'utf8');
+    existingRaw = await rf(configPath, 'utf8');
     existing = JSON.parse(existingRaw) as McpConfig;
   } catch (err) {
     if (existingRaw !== null) {
