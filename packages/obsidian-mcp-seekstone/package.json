@@ -41,6 +41,9 @@
     "obsidian-mcp-seekstone": "./bin/seekstone.js"
   },
   "files": ["bin", "README.md", "LICENSE"],
+  "scripts": {
+    "test": "vitest run"
+  },
   "dependencies": {
     "seekstone": ">=0.2.1"
   },
