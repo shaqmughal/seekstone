@@ -34,6 +34,35 @@ It reads your vault **directly from disk** rather than routing through the Obsid
 
 ---
 
+## Why Seekstone? The numbers.
+
+Most Obsidian MCP servers proxy the [Obsidian Local REST API plugin](https://github.com/coddingtonbear/obsidian-local-rest-api), which returns **full note content for every search hit**. On a popular query that's megabytes of text your LLM has to process — most of it irrelevant.
+
+Seekstone returns ~200-character ranked excerpts instead. We benchmarked three approaches on a real vault, 20 runs each:
+
+**Search payload — bytes returned per query (lower is better)**
+
+| Query | Seekstone | REST-proxy servers¹ | Multiplier |
+|---|---|---|---|
+| Single common term | 3.2 KB | 802 KB | **250×** |
+| Two-word search | 3.2 KB | 1.29 MB | **413×** |
+| Common phrase | 3.1 KB | 2.45 MB | **811×** |
+| Rare term | 3.2 KB | 336 KB | **105×** |
+
+**Search latency — warm median (lower is better)**
+
+| | Seekstone | mcpvault² | REST-proxy servers¹ |
+|---|---|---|---|
+| Range | **1.5–3.9 ms** | 189–225 ms | 40–61 ms |
+
+¹ REST-proxy = [mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) (3,800 ★), [obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server), and others that route through the Local REST API plugin. Benchmarked against the plugin directly (best-case for the REST approach — no wrapper overhead).
+
+² [mcpvault](https://github.com/bitbonsai/mcpvault) is also filesystem-direct but spawns a subprocess per session, adding a stdio round-trip per query.
+
+The harness and methodology are [open source](packages/harness) — run it against your own vault.
+
+---
+
 ## Install
 
 Choose the method that suits you best.
