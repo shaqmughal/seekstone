@@ -70,10 +70,14 @@ export function startWatcher(
     binaryInterval: 100,
     // Skip dot-dirs (.obsidian, .git, .trash, …) regardless of where the vault
     // lives — matched on the path relative to the vault root.
-    ignored: (p: string) =>
-      relative(ctx.vaultRoot, p)
+    ignored: (p: string) => {
+      const rel = relative(ctx.vaultRoot, p);
+      if (!rel || rel === '.') return false;
+      return rel
         .split(sep)
-        .some((seg) => seg.startsWith('.')),
+        .filter(Boolean)
+        .some((seg) => seg.startsWith('.'));
+    },
   });
 
   watcher
