@@ -5,32 +5,32 @@
     {
       "id": "single-term",
       "kind": "single",
-      "query": "engineering",
-      "notes": "High-frequency single term — replace with a common word in your vault."
+      "query": "leadership",
+      "notes": "Top tag in vault — #leadership with 156 occurrences."
     },
     {
       "id": "multi-term",
       "kind": "multi",
       "query": "team dynamics",
-      "notes": "Matches a top tag (#team-dynamics, 112 occurrences); realistic two-word search."
+      "notes": "Top tag #team-dynamics with 112 occurrences; realistic two-word search."
     },
     {
       "id": "phrase",
       "kind": "phrase",
-      "query": "\"radical candor\"",
-      "notes": "Known phrase in the vault — replace with a quoted phrase you know exists."
+      "query": "deep work",
+      "notes": "Common phrase from top tag #deep-work (164 occurrences) and book highlights."
     },
     {
       "id": "rare-term",
       "kind": "rare",
-      "query": "excalidraw thumbnail",
-      "notes": "Low expected hit count; stresses cold-cache behaviour and near-zero payload path."
+      "query": "market problem discovery",
+      "notes": "Specific project name — low hit count, stresses cold-cache and near-zero payload path."
     }
   ],
   "reads": {
     "small": null,
     "large": null,
-    "_hint": "After running `harness profile`, paste the smallest and one of the largest note paths from vault-stats.json here. Leave null to have bench auto-pick from the stats file."
+    "_hint": "After running `harness profile`, paste a small (~2 KB) and large (>50 KB) note path from vault-stats.json here. Leave null to auto-pick from the stats file."
   },
   "runs": 20,
   "_runsHint": "N≥20 per the build brief. Increase for noisier numbers; decrease only when iterating."
