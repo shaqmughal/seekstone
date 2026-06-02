@@ -117,6 +117,14 @@ Add to `claude_desktop_config.json` (Settings → Developer → Edit Config):
 
 ### Option 4 — Claude Code
 
+Auto-detects your vault and configures Claude Code in one command:
+
+```bash
+npx -y obsidian-mcp-seekstone init --client code --write
+```
+
+Or manually, if you prefer to specify the vault path explicitly:
+
 ```bash
 claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- npx -y obsidian-mcp-seekstone
 ```
