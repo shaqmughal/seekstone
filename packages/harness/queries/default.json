@@ -6,25 +6,25 @@
       "id": "single-term",
       "kind": "single",
       "query": "leadership",
-      "notes": "Top tag in vault — #leadership with 156 occurrences."
+      "notes": "High-frequency single term — replace with a common word in your vault."
     },
     {
       "id": "multi-term",
       "kind": "multi",
       "query": "team dynamics",
-      "notes": "Top tag #team-dynamics with 112 occurrences; realistic two-word search."
+      "notes": "Two-word search — replace with a common multi-word phrase in your vault."
     },
     {
       "id": "phrase",
       "kind": "phrase",
       "query": "deep work",
-      "notes": "Common phrase from top tag #deep-work (164 occurrences) and book highlights."
+      "notes": "Known phrase — replace with a quoted phrase you know exists in your vault."
     },
     {
       "id": "rare-term",
       "kind": "rare",
       "query": "market problem discovery",
-      "notes": "Specific project name — low hit count, stresses cold-cache and near-zero payload path."
+      "notes": "Low-frequency term — replace with a rare or niche phrase to stress cold-cache and near-zero payload paths."
     }
   ],
   "reads": {
