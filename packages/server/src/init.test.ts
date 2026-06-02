@@ -232,6 +232,46 @@ describe('runInit', () => {
     expect(res.output.join('\n')).toContain('claude mcp add seekstone');
   });
 
+  it('--write --client code calls spawnClaudeMcp with correct args', async () => {
+    const calls: string[][] = [];
+    const spawnClaudeMcp = (args: string[]) => {
+      calls.push(args);
+      return { ok: true };
+    };
+    const res = await runInit(
+      { vault, write: true, client: 'code' },
+      { ...deps(), spawnClaudeMcp },
+    );
+    expect(res.exitCode).toBe(0);
+    expect(res.ranClaudeMcpAdd).toBe(true);
+    expect(calls).toHaveLength(1);
+    expect(calls[0]).toEqual([
+      'mcp',
+      'add',
+      'seekstone',
+      '--env',
+      `SEEKSTONE_VAULT=${vault}`,
+      '--',
+      'npx',
+      '-y',
+      'seekstone',
+    ]);
+    expect(res.output.join('\n')).toContain('seekstone added to Claude Code');
+  });
+
+  it('--write --client code falls back gracefully when claude is not on PATH', async () => {
+    const spawnClaudeMcp = (_args: string[]) => ({ ok: false, error: 'command not found: claude' });
+    const res = await runInit(
+      { vault, write: true, client: 'code' },
+      { ...deps(), spawnClaudeMcp },
+    );
+    expect(res.exitCode).toBe(1);
+    expect(res.ranClaudeMcpAdd).toBeUndefined();
+    const text = res.output.join('\n');
+    expect(text).toContain('Could not run');
+    expect(text).toContain('claude mcp add seekstone');
+  });
+
   it('--write creates a new config when none exists', async () => {
     const res = await runInit({ vault, write: true, client: 'desktop' }, deps());
     expect(res.exitCode).toBe(0);
