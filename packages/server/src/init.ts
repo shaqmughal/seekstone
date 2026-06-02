@@ -1,3 +1,4 @@
+import { execFileSync } from 'node:child_process';
 import type { Dirent } from 'node:fs';
 import { access, copyFile, mkdir, readFile, readdir, stat, writeFile } from 'node:fs/promises';
 import path, { dirname, join } from 'node:path';
@@ -196,9 +197,11 @@ export interface InitResult {
   output: string[];
   /** Process exit code. */
   exitCode: number;
-  /** Set when --write actually patched a file. */
+  /** Set when --write patched Claude Desktop config. */
   wrotePath?: string;
   backupPath?: string;
+  /** Set when --write --client code successfully ran `claude mcp add`. */
+  ranClaudeMcpAdd?: boolean;
 }
 
 /**
@@ -214,6 +217,11 @@ export async function runInit(
     timestamp: string;
     /** Injectable for testing; defaults to fs/promises readFile. */
     readFile?: (p: string, enc: 'utf8') => Promise<string>;
+    /**
+     * Injectable for testing; defaults to execFileSync('claude', args).
+     * Returns ok:true on success, ok:false with an error string on failure.
+     */
+    spawnClaudeMcp?: (args: string[]) => { ok: boolean; error?: string };
   },
 ): Promise<InitResult> {
   const rf = deps.readFile ?? readFile;
@@ -276,6 +284,49 @@ export async function runInit(
   ];
 
   if (opts.client === 'code') {
+    if (opts.write) {
+      const spawn =
+        deps.spawnClaudeMcp ??
+        ((args: string[]) => {
+          try {
+            execFileSync('claude', args, { stdio: 'inherit' });
+            return { ok: true };
+          } catch (err) {
+            return { ok: false, error: err instanceof Error ? err.message : String(err) };
+          }
+        });
+
+      const mcpArgs = [
+        'mcp',
+        'add',
+        'seekstone',
+        '--env',
+        `SEEKSTONE_VAULT=${vaultPath}`,
+        '--',
+        'npx',
+        '-y',
+        'seekstone',
+      ];
+      const result = spawn(mcpArgs);
+
+      if (result.ok) {
+        out.push('✓ seekstone added to Claude Code.', '', 'Restart Claude Code to load seekstone.');
+        return { ok: true, exitCode: 0, output: out, ranClaudeMcpAdd: true };
+      }
+
+      // claude not on PATH or command failed — fall back to manual instructions.
+      out.push(
+        '⚠ Could not run `claude mcp add` automatically.',
+        result.error ? `  ${result.error}` : '',
+        '',
+        'Run this command manually instead:',
+        '',
+        `  ${mcpAddCommand(vaultPath)}`,
+        '',
+      );
+      return { ok: false, exitCode: 1, output: out };
+    }
+
     out.push('Add to Claude Code by running:', '', `  ${mcpAddCommand(vaultPath)}`, '');
     return { ok: true, exitCode: 0, output: out };
   }
