@@ -1,7 +1,10 @@
 #!/usr/bin/env -S npx tsx
 import { mkdir, writeFile } from 'node:fs/promises';
+import { readFile } from 'node:fs/promises';
 import { join, resolve } from 'node:path';
 import { cac } from 'cac';
+import { McpvaultAdapter } from './bench/adapters/mcpvault.js';
+import { renderComparisonMarkdown } from './bench/compare.js';
 import {
   FsAdapter,
   RestAdapter,
@@ -129,6 +132,29 @@ cli
     }
   });
 
+// ---------- compare ----------
+cli
+  .command('compare', 'Generate a cross-adapter comparison report from benchmark JSON files.')
+  .option('--reports <files>', 'Comma-separated paths to benchmark-*.json files.')
+  .option('--out <dir>', 'Output directory.', { default: 'reports' })
+  .action(async (opts) => {
+    const paths = needArg(opts.reports as string, 'reports')
+      .split(',')
+      .map((p: string) => resolve(p.trim()));
+    const summaries = await Promise.all(
+      paths.map(async (p: string) => {
+        const raw = await readFile(p, 'utf8');
+        return JSON.parse(raw) as import('./bench/runner.js').BenchmarkSummary;
+      }),
+    );
+    const outDir = resolve(opts.out);
+    await mkdir(outDir, { recursive: true });
+    const md = renderComparisonMarkdown(summaries);
+    const outPath = join(outDir, 'comparison.md');
+    await writeFile(outPath, md);
+    console.log(`compare: wrote ${outPath}`);
+  });
+
 cli.help();
 cli.version('0.0.0');
 cli.parse();
@@ -159,6 +185,15 @@ async function buildBackend(
     process.stderr.write(`fs: index ready.\n`);
     return adapter;
   }
-  console.error(`Unknown backend: ${name}. Known: rest, fs.`);
+  if (name === 'mcpvault') {
+    const root = resolve(
+      needArg(vaultRoot, 'vault (--vault or SEEKSTONE_VAULT for mcpvault backend)'),
+    );
+    process.stderr.write(`mcpvault: starting subprocess for ${root}…\n`);
+    const adapter = await McpvaultAdapter.build({ vaultRoot: root });
+    process.stderr.write(`mcpvault: ready.\n`);
+    return adapter;
+  }
+  console.error(`Unknown backend: ${name}. Known: rest, fs, mcpvault.`);
   process.exit(2);
 }
