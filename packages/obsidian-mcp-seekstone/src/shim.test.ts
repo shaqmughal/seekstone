@@ -1,5 +1,6 @@
 import { execFile } from 'node:child_process';
 import { mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
+import { createRequire } from 'node:module';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { promisify } from 'node:util';
@@ -9,6 +10,21 @@ const execFileAsync = promisify(execFile);
 
 const shimPkgDir = join(import.meta.dirname, '..');
 const shimBin = join(shimPkgDir, 'bin', 'seekstone.js');
+
+const shimRequire = createRequire(join(shimPkgDir, 'package.json'));
+const shimPkg: { version: string; dependencies: Record<string, string> } =
+  shimRequire('./package.json');
+const seekstonePkg: { version: string } = shimRequire('seekstone/package.json');
+
+describe('obsidian-mcp-seekstone versioning', () => {
+  it('shim version matches seekstone version', () => {
+    expect(shimPkg.version).toBe(seekstonePkg.version);
+  });
+
+  it('seekstone dependency is pinned to the exact same version', () => {
+    expect(shimPkg.dependencies.seekstone).toBe(seekstonePkg.version);
+  });
+});
 
 describe('obsidian-mcp-seekstone shim', () => {
   it('--version passes through and returns a semver string', async () => {
