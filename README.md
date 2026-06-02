@@ -95,7 +95,10 @@ npx -y obsidian-mcp-seekstone init --write
 # Specify vault explicitly if you have multiple
 npx -y obsidian-mcp-seekstone init --vault "/path/to/vault"
 
-# Generate the Claude Code command instead
+# Auto-configure Claude Code in one step (auto-detects vault, runs claude mcp add)
+npx -y obsidian-mcp-seekstone init --client code --write
+
+# Or just print the Claude Code command without running it
 npx -y obsidian-mcp-seekstone init --client code
 ```
 
