@@ -73,8 +73,9 @@ jobs:
           title: 'chore: version packages'
         env:
           # No NODE_AUTH_TOKEN: npm authenticates via OIDC trusted publishing.
-          # Requires a Trusted Publisher configured for `seekstone` on npmjs.com
-          # (GitHub Actions, repo shaqmughal/seekstone, workflow release.yml).
+          # Requires a Trusted Publisher configured for BOTH packages on npmjs.com:
+          #   - seekstone (GitHub Actions, repo shaqmughal/seekstone, workflow release.yml)
+          #   - obsidian-mcp-seekstone (same settings)
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_CONFIG_PROVENANCE: 'true'
 
