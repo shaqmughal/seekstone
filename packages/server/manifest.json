@@ -1,7 +1,7 @@
 {
-  "manifest_version": "0.3",
+  "manifest_version": "0.4",
   "name": "seekstone",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Obsidian MCP server — filesystem-direct vault access, low context-tax.",
   "author": {
     "name": "Shaq Mughal",
@@ -28,7 +28,7 @@
     "vault": {
       "type": "directory",
       "title": "Obsidian vault",
-      "description": "Pick your Obsidian vault folder. Seekstone will index and search it.",
+      "description": "Your Obsidian vault folder. To find it: open Obsidian → click the vault icon (bottom-left) → Manage vaults, or go to Settings → About. On macOS, vaults are typically in ~/Documents, ~/Desktop, or ~/Obsidian. On Windows, usually in C:\\Users\\<you>\\Documents.",
       "required": true
     }
   }
