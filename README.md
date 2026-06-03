@@ -76,6 +76,8 @@ Choose the method that suits you best.
 
 You'll know it worked when seekstone appears in Claude's toolbar. No JSON editing, no terminal, no Node.js required.
 
+<img src="docs/mcpb-install-dialog.png" width="420" alt="Claude Desktop showing the seekstone installation dialog" />
+
 ### Option 2 — Guided setup (recommended for CLI users)
 
 Run the setup helper and let Seekstone find your vault automatically:
