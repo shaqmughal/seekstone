@@ -87,6 +87,8 @@ jobs:
         if: steps.changesets.outputs.published == 'true'
         run: |
           VERSION=$(node -p "require('./packages/server/package.json').version")
+          OMCP_VERSION=$(node -p "require('./packages/obsidian-mcp-seekstone/package.json').version")
           gh release upload "seekstone@${VERSION}" seekstone.mcpb --clobber
+          gh release upload "obsidian-mcp-seekstone@${OMCP_VERSION}" seekstone.mcpb --clobber
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
