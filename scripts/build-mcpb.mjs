@@ -29,9 +29,10 @@ manifest.version = version;
 await writeFile(manifestPath, `${JSON.stringify(manifest, null, 2)}\n`);
 console.log(`Stamped manifest.json with version ${version}`);
 
-// 3. Build the server.
-console.log('Building server...');
-execSync('npm run build -w seekstone', { stdio: 'inherit', cwd: root });
+// 3. Build a fully-bundled version for the mcpb (all deps inlined — no node_modules
+//    available when Claude Desktop runs it with built-in Node.js).
+console.log('Building server (mcpb — all deps bundled)...');
+execSync('npx tsup --config tsup.mcpb.config.ts', { stdio: 'inherit', cwd: serverDir });
 
 // 4. Pack into seekstone.mcpb.
 console.log('Packing...');
