@@ -104,6 +104,31 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
       },
     },
     {
+      name: 'list_tags',
+      description:
+        'List all tags in the vault with usage counts. Supports substring filtering, minimum count threshold, and sort order. Nested tags (e.g. area/work) include a parent field.',
+      inputSchema: {
+        type: 'object',
+        properties: {
+          pattern: {
+            type: 'string',
+            description:
+              'Substring filter on tag name. Example: "work" matches "work" and "area/work".',
+          },
+          minCount: {
+            type: 'number',
+            description: 'Only return tags used in at least this many notes.',
+          },
+          sort: {
+            type: 'string',
+            enum: ['count', 'name'],
+            description: 'Sort by usage count descending (default) or alphabetically.',
+          },
+        },
+        required: [],
+      },
+    },
+    {
       name: 'create_note',
       description:
         'Create a new note at a vault-relative path. Optionally sets frontmatter and body content. Parent directories are created automatically. Fails if the note already exists unless overwrite is true.',
@@ -196,7 +221,7 @@ server.setRequestHandler(CallToolRequestSchema, async (req): Promise<CallToolRes
 
 const transport = new StdioServerTransport();
 await server.connect(transport);
-log.info('ready', { tools: 8, transport: 'stdio' });
+log.info('ready', { tools: 9, transport: 'stdio' });
 
 process.stderr.write(
   `seekstone: add to Claude Desktop:\n${JSON.stringify(
