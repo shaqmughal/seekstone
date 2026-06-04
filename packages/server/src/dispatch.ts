@@ -4,6 +4,7 @@ import { AppendNoteInput, appendNote } from './tools/append_note.js';
 import { CreateNoteInput, createNote } from './tools/create_note.js';
 import { DeleteNoteInput, deleteNote } from './tools/delete_note.js';
 import { ListNotesInput, listNotes } from './tools/list_notes.js';
+import { ListTagsInput, listTags } from './tools/list_tags.js';
 import { MoveNoteInput, moveNote } from './tools/move_note.js';
 import { PatchFrontmatterInput, patchFrontmatter } from './tools/patch_frontmatter.js';
 import { ReadNoteInput, readNote } from './tools/read_note.js';
@@ -19,6 +20,7 @@ export const HANDLED_TOOLS = [
   'search',
   'read_note',
   'list_notes',
+  'list_tags',
   'create_note',
   'delete_note',
   'move_note',
@@ -29,7 +31,18 @@ export const HANDLED_TOOLS = [
 // Metadata-safe keys: logged at info. Note content (`content`, `frontmatter`,
 // `patch`) and the raw `query` string are intentionally excluded — they only
 // reach logs via the debug-level `args` dump.
-const META_KEYS = ['path', 'from', 'to', 'folder', 'tag', 'limit', 'overwrite'] as const;
+const META_KEYS = [
+  'path',
+  'from',
+  'to',
+  'folder',
+  'tag',
+  'limit',
+  'overwrite',
+  'pattern',
+  'minCount',
+  'sort',
+] as const;
 
 function safeMeta(args: unknown): Record<string, unknown> {
   if (typeof args !== 'object' || args === null) return {};
@@ -97,6 +110,11 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
       const input = ListNotesInput.parse(args);
       const entries = listNotes(ctx, input);
       return { content: [{ type: 'text', text: JSON.stringify(entries, null, 2) }] };
+    }
+    case 'list_tags': {
+      const input = ListTagsInput.parse(args);
+      const result = listTags(ctx, input);
+      return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
     }
     case 'create_note': {
       const input = CreateNoteInput.parse(args);
