@@ -147,7 +147,10 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     try {
       await ready;
       await writeFile(join(tmpDir, 'watch-log.md'), 'logged_body_qrs', 'utf8');
-      await waitFor(() => ctx.notes.has('watch-log.md'));
+      await waitFor(() =>
+        events.some((e) => e.msg === 'index updated' && e.fields?.path === 'watch-log.md'),
+      );
+      expect(ctx.notes.has('watch-log.md')).toBe(true);
       expect(
         events.some((e) => e.msg === 'index updated' && e.fields?.path === 'watch-log.md'),
       ).toBe(true);
