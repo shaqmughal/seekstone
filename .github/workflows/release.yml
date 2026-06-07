@@ -95,6 +95,24 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Install mcp-publisher
+        if: steps.changesets.outputs.published == 'true'
+        run: |
+          curl -fsSL "https://github.com/modelcontextprotocol/registry/releases/latest/download/mcp-publisher_$(uname -s | tr '[:upper:]' '[:lower:]')_$(uname -m | sed 's/x86_64/amd64/;s/aarch64/arm64/').tar.gz" | tar xz mcp-publisher
+
+      - name: Sync server.json version
+        if: steps.changesets.outputs.published == 'true'
+        run: |
+          VERSION=$(node -p "require('./packages/server/package.json').version")
+          OMCP_VERSION=$(node -p "require('./packages/obsidian-mcp-seekstone/package.json').version")
+          jq --arg v "$VERSION" --arg ov "$OMCP_VERSION" \
+            '.version = $v | .packages[] |= if .identifier == "seekstone" then .version = $v elif .identifier == "obsidian-mcp-seekstone" then .version = $ov else . end' \
+            server.json > server.tmp && mv server.tmp server.json
+
+      - name: Publish to MCP Registry
+        if: steps.changesets.outputs.published == 'true'
+        run: ./mcp-publisher publish
+
       # NOTE: a manual Glama release step is still required after every publish.
       # Glama has no public API for programmatic release creation (investigated SHA-85).
       # See RELEASING.md for the manual steps and the placeholder curl command to
