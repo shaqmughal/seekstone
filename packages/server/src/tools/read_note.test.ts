@@ -39,7 +39,7 @@ beforeAll(async () => {
     fields: ['title', 'body', 'tags', 'fmKeys'],
     storeFields: ['id', 'title', 'tags', 'sizeBytes', 'mtimeMs'],
   });
-  ctx = { vaultRoot, index, notes: new Map() };
+  ctx = { vaultRoot, index, notes: new Map(), backlinks: new Map() };
   await writeFile(join(vaultRoot, 'note.md'), NOTE, 'utf8');
   await writeFile(join(vaultRoot, 'hello.md'), '# Hello\n\nSome content here.\n', 'utf8');
 });
