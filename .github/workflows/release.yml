@@ -92,3 +92,8 @@ jobs:
           gh release upload "obsidian-mcp-seekstone@${OMCP_VERSION}" seekstone.mcpb --clobber
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # NOTE: a manual Glama release step is still required after every publish.
+      # Glama has no public API for programmatic release creation (investigated SHA-85).
+      # See RELEASING.md for the manual steps and the placeholder curl command to
+      # drop in here once Glama exposes an API or webhook.
