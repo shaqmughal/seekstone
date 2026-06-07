@@ -53,7 +53,7 @@ function buildCtx(vaultRoot: string): ServerContext {
     storeFields: ['id', 'title', 'tags', 'sizeBytes', 'mtimeMs'],
     searchOptions: { boost: { title: 3, tags: 2, body: 1 }, fuzzy: 0.2, prefix: true },
   });
-  return { vaultRoot, index, notes: new Map() };
+  return { vaultRoot, index, notes: new Map(), backlinks: new Map() };
 }
 
 let vaultRoot: string;

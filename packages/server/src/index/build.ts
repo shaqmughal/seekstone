@@ -1,9 +1,11 @@
 import { readFile } from 'node:fs/promises';
 import { basename, extname } from 'node:path';
-import { extractInlineTags, frontmatterTags } from '@seekstone/core/extract';
+import { extractInlineTags, extractLinksWithLines, frontmatterTags } from '@seekstone/core/extract';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { walkVault } from '@seekstone/core/walk';
 import MiniSearch from 'minisearch';
+import type { BacklinkRef } from '../context.js';
+import { resolveLink } from './resolve.js';
 import type { IndexedNote } from './types.js';
 
 export type VaultIndex = MiniSearch<IndexedNote>;
@@ -11,6 +13,7 @@ export type VaultIndex = MiniSearch<IndexedNote>;
 export interface BuildResult {
   index: VaultIndex;
   notes: Map<string, IndexedNote>;
+  backlinks: Map<string, BacklinkRef[]>;
   buildMs: number;
 }
 
@@ -68,5 +71,32 @@ export async function buildIndex(vaultRoot: string): Promise<BuildResult> {
 
   index.addAll(docs);
 
-  return { index, notes, buildMs: Date.now() - t0 };
+  const backlinks = buildBacklinks(notes);
+
+  return { index, notes, backlinks, buildMs: Date.now() - t0 };
+}
+
+function buildBacklinks(notes: Map<string, IndexedNote>): Map<string, BacklinkRef[]> {
+  const result = new Map<string, BacklinkRef[]>();
+  for (const [srcPath, doc] of notes) {
+    const seen = new Set<string>();
+    for (const link of extractLinksWithLines(doc.raw)) {
+      const resolved = resolveLink(link.target, notes);
+      if (resolved === undefined) continue;
+      // De-duplicate: one entry per (source, resolved-target) pair
+      const dedupeKey = `${srcPath}\0${resolved}`;
+      if (seen.has(dedupeKey)) continue;
+      seen.add(dedupeKey);
+      let arr = result.get(resolved);
+      if (arr === undefined) {
+        arr = [];
+        result.set(resolved, arr);
+      }
+      arr.push({ path: srcPath, line: link.line, linkType: link.linkType });
+    }
+  }
+  for (const arr of result.values()) {
+    arr.sort((a, b) => a.path.localeCompare(b.path));
+  }
+  return result;
 }

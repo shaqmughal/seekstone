@@ -1,8 +1,10 @@
 import { readFile } from 'node:fs/promises';
 import { join, relative, sep } from 'node:path';
+import { extractLinksWithLines } from '@seekstone/core/extract';
 import chokidar from 'chokidar';
-import type { ServerContext } from './context.js';
+import type { BacklinkRef, ServerContext } from './context.js';
 import { buildDoc, upsertDoc } from './index/doc.js';
+import { resolveLink } from './index/resolve.js';
 import type { Logger } from './log.js';
 
 /**
@@ -30,6 +32,38 @@ export interface WatcherOptions {
   usePolling?: boolean;
 }
 
+function removeNoteBacklinks(ctx: ServerContext, relPath: string): void {
+  const oldDoc = ctx.notes.get(relPath);
+  if (oldDoc === undefined) return;
+  for (const link of extractLinksWithLines(oldDoc.raw)) {
+    const resolved = resolveLink(link.target, ctx.notes);
+    if (resolved === undefined) continue;
+    const arr = ctx.backlinks.get(resolved);
+    if (arr === undefined) continue;
+    const filtered = arr.filter((r) => r.path !== relPath);
+    ctx.backlinks.set(resolved, filtered);
+  }
+}
+
+function addNoteBacklinks(ctx: ServerContext, relPath: string, raw: string): void {
+  const seen = new Set<string>();
+  for (const link of extractLinksWithLines(raw)) {
+    const resolved = resolveLink(link.target, ctx.notes);
+    if (resolved === undefined) continue;
+    const dedupeKey = `${relPath}\0${resolved}`;
+    if (seen.has(dedupeKey)) continue;
+    seen.add(dedupeKey);
+    let arr = ctx.backlinks.get(resolved);
+    if (arr === undefined) {
+      arr = [];
+      ctx.backlinks.set(resolved, arr);
+    }
+    const ref: BacklinkRef = { path: relPath, line: link.line, linkType: link.linkType };
+    arr.push(ref);
+    arr.sort((a, b) => a.path.localeCompare(b.path));
+  }
+}
+
 export function startWatcher(
   ctx: ServerContext,
   log?: Logger,
@@ -42,7 +76,9 @@ export function startWatcher(
   async function upsert(relPath: string, op: 'add' | 'change'): Promise<void> {
     try {
       const raw = await readFile(join(ctx.vaultRoot, relPath), 'utf8');
+      removeNoteBacklinks(ctx, relPath);
       upsertDoc(ctx, buildDoc(relPath, raw));
+      addNoteBacklinks(ctx, relPath, raw);
       log?.debug('index updated', { path: relPath, op });
     } catch {
       // File vanished between event and read — ignore; an unlink will follow.
@@ -51,6 +87,7 @@ export function startWatcher(
 
   function remove(relPath: string): void {
     if (ctx.notes.has(relPath)) {
+      removeNoteBacklinks(ctx, relPath);
       ctx.index.discard(relPath);
       ctx.notes.delete(relPath);
       log?.debug('index removed', { path: relPath, op: 'delete' });
