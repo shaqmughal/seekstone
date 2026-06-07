@@ -78,13 +78,39 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
     {
       name: 'read_note',
       description:
-        'Read the full content of a specific note by its vault-relative path. Use search first to find the right path.',
+        'Read a note or a span of it — by heading section, block reference, or line range. Returns structured JSON with the content, bytes returned, and total note size so payload savings are measurable. Use search or outline_note first to find the right path and section names.',
       inputSchema: {
         type: 'object',
         properties: {
           path: {
             type: 'string',
             description: 'Vault-relative path, e.g. "Daily Notes/2026-05-29.md".',
+          },
+          section: {
+            type: 'string',
+            description:
+              'Return only this heading section (heading text, # prefix optional). First match wins.',
+          },
+          block: {
+            type: 'string',
+            description: 'Return only the line anchored by this block id (^ prefix optional).',
+          },
+          lines: {
+            type: 'object',
+            description: 'Return only this line range (1-indexed, inclusive).',
+            properties: {
+              from: { type: 'number', description: 'First line (1-indexed).' },
+              to: {
+                type: 'number',
+                description: 'Last line (1-indexed, inclusive). Defaults to EOF.',
+              },
+            },
+            required: ['from'],
+          },
+          includeFrontmatter: {
+            type: 'boolean',
+            description:
+              'Prepend frontmatter to section/block span results. Default false for spans.',
           },
         },
         required: ['path'],

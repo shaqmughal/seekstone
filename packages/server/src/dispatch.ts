@@ -108,7 +108,7 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
     case 'read_note': {
       const input = ReadNoteInput.parse(args);
       const result = await readNote(ctx, input);
-      return { content: [{ type: 'text', text: result.content }] };
+      return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
     }
     case 'list_notes': {
       const input = ListNotesInput.parse(args);
