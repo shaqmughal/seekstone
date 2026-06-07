@@ -8,7 +8,8 @@
     "./walk": "./src/walk.ts",
     "./frontmatter": "./src/frontmatter.ts",
     "./extract": "./src/extract.ts",
-    "./percentiles": "./src/percentiles.ts"
+    "./percentiles": "./src/percentiles.ts",
+    "./outline": "./src/outline.ts"
   },
   "scripts": {
     "test": "vitest run"
