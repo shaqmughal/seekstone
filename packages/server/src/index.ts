@@ -211,6 +211,27 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
         required: ['path', 'patch'],
       },
     },
+    {
+      name: 'outline_note',
+      description:
+        "Return a note's structure — heading tree with offsets, block-reference anchors, and frontmatter key list — without returning any prose. Use this before section reads or patches to discover what sections exist at a fraction of the cost of reading the full note.",
+      inputSchema: {
+        type: 'object',
+        properties: {
+          path: { type: 'string', description: 'Vault-relative path to the note.' },
+          includeBlocks: {
+            type: 'boolean',
+            description: 'Include block-reference anchors (^id). Default true.',
+          },
+          includeSizes: {
+            type: 'boolean',
+            description:
+              'Include per-section character length in each heading entry. Default false.',
+          },
+        },
+        required: ['path'],
+      },
+    },
   ],
 }));
 
@@ -221,7 +242,7 @@ server.setRequestHandler(CallToolRequestSchema, async (req): Promise<CallToolRes
 
 const transport = new StdioServerTransport();
 await server.connect(transport);
-log.info('ready', { tools: 9, transport: 'stdio' });
+log.info('ready', { tools: 10, transport: 'stdio' });
 
 process.stderr.write(
   `seekstone: add to Claude Desktop:\n${JSON.stringify(

@@ -6,6 +6,7 @@ import { DeleteNoteInput, deleteNote } from './tools/delete_note.js';
 import { ListNotesInput, listNotes } from './tools/list_notes.js';
 import { ListTagsInput, listTags } from './tools/list_tags.js';
 import { MoveNoteInput, moveNote } from './tools/move_note.js';
+import { OutlineNoteInput, outlineNote } from './tools/outline_note.js';
 import { PatchFrontmatterInput, patchFrontmatter } from './tools/patch_frontmatter.js';
 import { ReadNoteInput, readNote } from './tools/read_note.js';
 import { SearchInput, search } from './tools/search.js';
@@ -26,6 +27,7 @@ export const HANDLED_TOOLS = [
   'move_note',
   'append_note',
   'patch_frontmatter',
+  'outline_note',
 ] as const;
 
 // Metadata-safe keys: logged at info. Note content (`content`, `frontmatter`,
@@ -145,6 +147,11 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
     case 'patch_frontmatter': {
       const input = PatchFrontmatterInput.parse(args);
       const result = await patchFrontmatter(ctx, input);
+      return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
+    }
+    case 'outline_note': {
+      const input = OutlineNoteInput.parse(args);
+      const result = await outlineNote(ctx, input);
       return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
     }
     default:
