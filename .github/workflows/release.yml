@@ -3,6 +3,7 @@ name: Release
 on:
   push:
     branches: [main]
+  workflow_dispatch:
 
 # Never run two releases at once.
 concurrency: release-${{ github.ref }}
