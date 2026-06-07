@@ -72,11 +72,12 @@ jobs:
           commit: 'chore: version packages'
           title: 'chore: version packages'
         env:
-          # No NODE_AUTH_TOKEN: npm authenticates via OIDC trusted publishing.
-          # Requires a Trusted Publisher configured for BOTH packages on npmjs.com:
-          #   - seekstone (GitHub Actions, repo shaqmughal/seekstone, workflow release.yml)
-          #   - obsidian-mcp-seekstone (same settings)
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # GH_PAT (fine-grained PAT, Contents+PRs read/write) is required here
+          # instead of GITHUB_TOKEN. PRs opened with GITHUB_TOKEN are created by
+          # github-actions[bot] and GitHub intentionally blocks pull_request CI
+          # events on them to prevent recursive workflow loops. A PAT makes the PR
+          # look like it came from a real user, so CI fires normally.
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
           NPM_CONFIG_PROVENANCE: 'true'
 
       - name: Build MCP Bundle
