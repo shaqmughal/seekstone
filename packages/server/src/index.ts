@@ -232,6 +232,35 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
         required: ['path'],
       },
     },
+    {
+      name: 'patch_note',
+      description:
+        'Surgically edit a section of a note — targeted by heading or block reference — without rewriting the whole file. Operations: append (add after section), prepend (add after heading line), replace (swap section content). Frontmatter is never touched.',
+      inputSchema: {
+        type: 'object',
+        properties: {
+          path: { type: 'string', description: 'Vault-relative path to the note.' },
+          target: {
+            type: 'object',
+            description:
+              'Exactly one of: { heading: "Section Title" } or { block: "block-id" } (without the ^ prefix).',
+          },
+          operation: {
+            type: 'string',
+            enum: ['append', 'prepend', 'replace'],
+            description:
+              'append: insert after section content. prepend: insert after heading line. replace: swap section content.',
+          },
+          content: { type: 'string', description: 'Content to insert or replace with.' },
+          createIfMissing: {
+            type: 'boolean',
+            description:
+              'If the heading target is not found, append a new heading (level 2) + content. Only valid for heading targets. Default false.',
+          },
+        },
+        required: ['path', 'target', 'operation', 'content'],
+      },
+    },
   ],
 }));
 
@@ -242,7 +271,7 @@ server.setRequestHandler(CallToolRequestSchema, async (req): Promise<CallToolRes
 
 const transport = new StdioServerTransport();
 await server.connect(transport);
-log.info('ready', { tools: 10, transport: 'stdio' });
+log.info('ready', { tools: 11, transport: 'stdio' });
 
 process.stderr.write(
   `seekstone: add to Claude Desktop:\n${JSON.stringify(
