@@ -18,6 +18,46 @@ export interface Wikilink {
 }
 
 const WIKILINK_RE = /\[\[([^\]|#\n]+)(#[^\]|\n]+)?(\|[^\]\n]+)?\]\]/g;
+
+// Matches both embeds (![[...]]) and plain wikilinks ([[...]]).
+const LINK_WITH_LINES_RE_SRC = /(!?\[\[)([^\]|#\n]+)(#[^\]|\n]+)?(\|[^\]\n]+)?(\]\])/.source;
+
+export type LinkType = 'wikilink' | 'embed';
+
+export interface LinkRecord {
+  /** Full raw match, e.g. "[[Note Name|alias]]" or "![[embed.png]]". */
+  raw: string;
+  /** Raw target before `#` and `|`. */
+  target: string;
+  fragment: string | null;
+  alias: string | null;
+  linkType: LinkType;
+  /** 1-indexed line number in the source file. */
+  line: number;
+}
+
+/**
+ * Extract all wikilinks and embeds from a raw note (including frontmatter),
+ * annotating each with its 1-indexed line number.
+ */
+export function extractLinksWithLines(raw: string): LinkRecord[] {
+  const out: LinkRecord[] = [];
+  const lines = raw.split('\n');
+  for (const [lineIdx, lineText] of lines.entries()) {
+    for (const m of lineText.matchAll(new RegExp(LINK_WITH_LINES_RE_SRC, 'g'))) {
+      const prefix = m[1] ?? '';
+      out.push({
+        raw: m[0] ?? '',
+        target: (m[2] ?? '').trim(),
+        fragment: m[3] ? m[3].slice(1).trim() : null,
+        alias: m[4] ? m[4].slice(1).trim() : null,
+        linkType: prefix.startsWith('!') ? 'embed' : 'wikilink',
+        line: lineIdx + 1,
+      });
+    }
+  }
+  return out;
+}
 const URL_RE = /https?:\/\/[^\s<>"')]+/g;
 // Obsidian inline tag: must start with letter or underscore, then word chars, /, -.
 // Must not be immediately preceded by `]` (avoids matching `]#` from links) or be

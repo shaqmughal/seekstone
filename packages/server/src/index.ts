@@ -48,10 +48,10 @@ if (!vaultRoot) {
 }
 
 log.info('building index', { vault: vaultRoot });
-const { index, notes, buildMs } = await buildIndex(vaultRoot);
+const { index, notes, backlinks, buildMs } = await buildIndex(vaultRoot);
 log.info('index ready', { notes: notes.size, buildMs });
 
-const ctx: ServerContext = { vaultRoot, index, notes };
+const ctx: ServerContext = { vaultRoot, index, notes, backlinks };
 
 const watcher = startWatcher(ctx, log);
 process.on('exit', watcher.stop);
@@ -287,6 +287,39 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
         required: ['path', 'target', 'operation', 'content'],
       },
     },
+    {
+      name: 'get_backlinks',
+      description:
+        'Return every note that links to the target note, with the source line and an optional excerpt. Results come from the pre-built reverse-link index so this is a fast, pure index lookup. Sort order: source path ascending.',
+      inputSchema: {
+        type: 'object',
+        properties: {
+          path: { type: 'string', description: 'Vault-relative path to the target note.' },
+          includeContext: {
+            type: 'boolean',
+            description:
+              'Include a short excerpt (~200 chars) from the linking line. Default true.',
+          },
+          limit: {
+            type: 'number',
+            description: 'Max backlinks to return (1–500). Default 50.',
+          },
+        },
+        required: ['path'],
+      },
+    },
+    {
+      name: 'get_links',
+      description:
+        'Return all outgoing wikilinks and embeds from a note. Each link is marked resolved (with target path) or unresolved. Duplicate targets are de-duplicated; results sorted by line number.',
+      inputSchema: {
+        type: 'object',
+        properties: {
+          path: { type: 'string', description: 'Vault-relative path to the note.' },
+        },
+        required: ['path'],
+      },
+    },
   ],
 }));
 
@@ -297,7 +330,7 @@ server.setRequestHandler(CallToolRequestSchema, async (req): Promise<CallToolRes
 
 const transport = new StdioServerTransport();
 await server.connect(transport);
-log.info('ready', { tools: 11, transport: 'stdio' });
+log.info('ready', { tools: 13, transport: 'stdio' });
 
 process.stderr.write(
   `seekstone: add to Claude Desktop:\n${JSON.stringify(

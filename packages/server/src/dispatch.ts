@@ -3,6 +3,8 @@ import type { Logger } from './log.js';
 import { AppendNoteInput, appendNote } from './tools/append_note.js';
 import { CreateNoteInput, createNote } from './tools/create_note.js';
 import { DeleteNoteInput, deleteNote } from './tools/delete_note.js';
+import { GetBacklinksInput, getBacklinks } from './tools/get_backlinks.js';
+import { GetLinksInput, getLinks } from './tools/get_links.js';
 import { ListNotesInput, listNotes } from './tools/list_notes.js';
 import { ListTagsInput, listTags } from './tools/list_tags.js';
 import { MoveNoteInput, moveNote } from './tools/move_note.js';
@@ -30,6 +32,8 @@ export const HANDLED_TOOLS = [
   'patch_frontmatter',
   'outline_note',
   'patch_note',
+  'get_backlinks',
+  'get_links',
 ] as const;
 
 // Metadata-safe keys: logged at info. Note content (`content`, `frontmatter`,
@@ -159,6 +163,16 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
     case 'patch_note': {
       const input = PatchNoteInput.parse(args);
       const result = await patchNote(ctx, input);
+      return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
+    }
+    case 'get_backlinks': {
+      const input = GetBacklinksInput.parse(args);
+      const result = getBacklinks(ctx, input);
+      return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
+    }
+    case 'get_links': {
+      const input = GetLinksInput.parse(args);
+      const result = getLinks(ctx, input);
       return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
     }
     default:

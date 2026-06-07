@@ -32,7 +32,7 @@ beforeAll(async () => {
   );
   await writeFile(join(vaultRoot, 'b.md'), '# B\nmore text linking [[A]]\n', 'utf8');
   const built = await buildIndex(vaultRoot);
-  ctx = { vaultRoot, index: built.index, notes: built.notes };
+  ctx = { vaultRoot, index: built.index, notes: built.notes, backlinks: built.backlinks };
 });
 
 afterAll(async () => {

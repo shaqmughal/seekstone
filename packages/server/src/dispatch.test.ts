@@ -40,7 +40,7 @@ beforeAll(async () => {
   vaultRoot = await mkdtemp(join(tmpdir(), 'seekstone-dispatch-'));
   await writeFile(join(vaultRoot, 'note.md'), '---\ntitle: A\n---\n# A\nhello world\n', 'utf8');
   const { index, notes } = await buildIndex(vaultRoot);
-  ctx = { vaultRoot, index, notes };
+  ctx = { vaultRoot, index, notes, backlinks: new Map() };
 });
 
 afterAll(async () => {

@@ -38,7 +38,7 @@ function buildCtx(
   }));
   index.addAll(docs);
   for (const doc of docs) notesMap.set(doc.id, doc);
-  return { vaultRoot, index, notes: notesMap };
+  return { vaultRoot, index, notes: notesMap, backlinks: new Map() };
 }
 
 let vaultRoot: string;
