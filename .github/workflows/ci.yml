@@ -49,3 +49,43 @@ jobs:
         env:
           SEEKSTONE_COVERAGE: '1'
         run: npx vitest run --coverage --root packages/server
+
+  changeset:
+    name: changeset check
+    runs-on: ubuntu-latest
+    # Only meaningful on PRs; skip the automated "Version Packages" branch.
+    if: |
+      github.event_name == 'pull_request' &&
+      github.head_ref != 'changeset-release/main'
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Require changeset for publishable package changes
+        env:
+          BASE: ${{ github.base_ref }}
+        run: |
+          # Which publishable packages did this PR touch?
+          PACKAGES_CHANGED=$(git diff --name-only "origin/${BASE}...HEAD" \
+            | grep -E '^packages/(server|obsidian-mcp-seekstone)/' \
+            | wc -l | tr -d ' ')
+
+          if [ "$PACKAGES_CHANGED" -eq 0 ]; then
+            echo "No publishable package files changed — no changeset required."
+            exit 0
+          fi
+
+          # Did this PR add a changeset file?
+          CHANGESET_ADDED=$(git diff --name-only --diff-filter=A "origin/${BASE}...HEAD" \
+            | grep -E '^\.changeset/.+\.md$' \
+            | grep -v 'README' \
+            | wc -l | tr -d ' ')
+
+          if [ "$CHANGESET_ADDED" -eq 0 ]; then
+            echo "❌ This PR modifies a publishable package but contains no changeset."
+            echo "   Run 'npx changeset' and commit the generated file."
+            exit 1
+          fi
+
+          echo "✅ Changeset found."
