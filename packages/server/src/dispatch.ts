@@ -12,6 +12,7 @@ import { OutlineNoteInput, outlineNote } from './tools/outline_note.js';
 import { PatchFrontmatterInput, patchFrontmatter } from './tools/patch_frontmatter.js';
 import { PatchNoteInput, patchNote } from './tools/patch_note.js';
 import { ReadNoteInput, readNote } from './tools/read_note.js';
+import { ReplaceInNoteInput, replaceInNote } from './tools/replace_in_note.js';
 import { SearchInput, search } from './tools/search.js';
 
 export type ToolResult = {
@@ -34,6 +35,7 @@ export const HANDLED_TOOLS = [
   'patch_note',
   'get_backlinks',
   'get_links',
+  'replace_in_note',
 ] as const;
 
 // Metadata-safe keys: logged at info. Note content (`content`, `frontmatter`,
@@ -173,6 +175,11 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
     case 'get_links': {
       const input = GetLinksInput.parse(args);
       const result = getLinks(ctx, input);
+      return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
+    }
+    case 'replace_in_note': {
+      const input = ReplaceInNoteInput.parse(args);
+      const result = await replaceInNote(ctx, input);
       return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
     }
     default:
