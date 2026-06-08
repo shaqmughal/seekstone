@@ -67,8 +67,11 @@ jobs:
           BASE: ${{ github.base_ref }}
         run: |
           # Which publishable packages did this PR touch?
+          # Only src/ and package.json count — config, test, and manifest files
+          # don't affect what's published to npm and don't need a changeset.
           PACKAGES_CHANGED=$(git diff --name-only "origin/${BASE}...HEAD" \
-            | grep -E '^packages/(server|obsidian-mcp-seekstone)/' \
+            | grep -E '^packages/(server|obsidian-mcp-seekstone)/(src/|package\.json$)' \
+            | grep -v '\.test\.ts$' \
             | wc -l | tr -d ' ')
 
           if [ "$PACKAGES_CHANGED" -eq 0 ]; then
