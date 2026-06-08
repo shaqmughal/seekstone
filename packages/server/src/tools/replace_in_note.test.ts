@@ -275,9 +275,8 @@ describe('replaceInNote — dryRun', () => {
       dryRun: true,
     });
     expect(result.matches).toHaveLength(1);
-    const first = result.matches[0]!;
-    expect(first.line).toBeGreaterThan(0);
-    expect(first.byteOffset).toBeGreaterThan(0);
+    expect(result.matches.at(0)?.line).toBeGreaterThan(0);
+    expect(result.matches.at(0)?.byteOffset).toBeGreaterThan(0);
   });
 });
 
