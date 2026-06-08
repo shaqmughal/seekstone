@@ -12,20 +12,14 @@ export const ReplaceInNoteInput = z.object({
     .describe('Replacement text. Supports $1, $2, … backreferences in regex mode.'),
   regex: z.boolean().default(false).describe('Treat find as a regular expression.'),
   caseSensitive: z.boolean().default(false).describe('Case-sensitive matching.'),
-  wholeWord: z
-    .boolean()
-    .default(false)
-    .describe('Match whole words only (\\b word-boundary).'),
+  wholeWord: z.boolean().default(false).describe('Match whole words only (\\b word-boundary).'),
   limit: z
     .number()
     .int()
     .min(1)
     .optional()
     .describe('Maximum number of replacements. Omit to replace all.'),
-  dryRun: z
-    .boolean()
-    .default(false)
-    .describe('If true, report matches without writing anything.'),
+  dryRun: z.boolean().default(false).describe('If true, report matches without writing anything.'),
 });
 export type ReplaceInNoteInput = z.infer<typeof ReplaceInNoteInput>;
 
@@ -98,7 +92,12 @@ export async function replaceInNote(
   });
 
   if (input.dryRun || toReplace.length === 0) {
-    return { path: input.path, replacements: toReplace.length, matches, frontmatterUnchanged: true };
+    return {
+      path: input.path,
+      replacements: toReplace.length,
+      matches,
+      frontmatterUnchanged: true,
+    };
   }
 
   // Apply replacements left-to-right, resolving backreferences per match.
@@ -106,11 +105,10 @@ export async function replaceInNote(
   let newBody = '';
   let lastIndex = 0;
   for (const m of toReplace) {
-    newBody += body.slice(lastIndex, m.index!);
-    newBody += input.regex
-      ? m[0].replace(singleRe, input.replace)
-      : input.replace;
-    lastIndex = m.index! + m[0].length;
+    const matchIndex = m.index ?? 0;
+    newBody += body.slice(lastIndex, matchIndex);
+    newBody += input.regex ? m[0].replace(singleRe, input.replace) : input.replace;
+    lastIndex = matchIndex + m[0].length;
   }
   newBody += body.slice(lastIndex);
 
