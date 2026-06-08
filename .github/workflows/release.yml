@@ -109,7 +109,9 @@ jobs:
 
       - name: Publish to MCP Registry
         if: steps.changesets.outputs.published == 'true' || github.event_name == 'workflow_dispatch'
-        run: ./mcp-publisher publish
+        run: |
+          ./mcp-publisher login github-oidc
+          ./mcp-publisher publish
 
       # NOTE: a manual Glama release step is still required after every publish.
       # Glama has no public API for programmatic release creation (investigated SHA-85).
