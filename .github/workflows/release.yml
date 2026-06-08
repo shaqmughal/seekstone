@@ -89,17 +89,17 @@ jobs:
         if: steps.changesets.outputs.published == 'true'
         run: |
           VERSION=$(node -p "require('./packages/server/package.json').version")
-          gh release upload "v${VERSION}" seekstone.mcpb --clobber
+          gh release upload "seekstone@${VERSION}" seekstone.mcpb --clobber
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Install mcp-publisher
-        if: steps.changesets.outputs.published == 'true'
+        if: steps.changesets.outputs.published == 'true' || github.event_name == 'workflow_dispatch'
         run: |
           curl -fsSL "https://github.com/modelcontextprotocol/registry/releases/latest/download/mcp-publisher_$(uname -s | tr '[:upper:]' '[:lower:]')_$(uname -m | sed 's/x86_64/amd64/;s/aarch64/arm64/').tar.gz" | tar xz mcp-publisher
 
       - name: Sync server.json version
-        if: steps.changesets.outputs.published == 'true'
+        if: steps.changesets.outputs.published == 'true' || github.event_name == 'workflow_dispatch'
         run: |
           VERSION=$(node -p "require('./packages/server/package.json').version")
           OMCP_VERSION=$(node -p "require('./packages/obsidian-mcp-seekstone/package.json').version")
@@ -108,7 +108,7 @@ jobs:
             server.json > server.tmp && mv server.tmp server.json
 
       - name: Publish to MCP Registry
-        if: steps.changesets.outputs.published == 'true'
+        if: steps.changesets.outputs.published == 'true' || github.event_name == 'workflow_dispatch'
         run: ./mcp-publisher publish
 
       # NOTE: a manual Glama release step is still required after every publish.
