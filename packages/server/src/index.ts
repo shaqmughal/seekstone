@@ -56,7 +56,7 @@ const ctx: ServerContext = { vaultRoot, index, notes, backlinks };
 const watcher = startWatcher(ctx, log);
 process.on('exit', watcher.stop);
 
-const server = new Server({ name: 'seekstone', version: '0.1.0' }, { capabilities: { tools: {} } });
+const server = new Server({ name: 'seekstone', version: VERSION }, { capabilities: { tools: {} } });
 
 server.setRequestHandler(ListToolsRequestSchema, async () => ({
   tools: [
