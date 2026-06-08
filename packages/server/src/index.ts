@@ -320,6 +320,43 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
         required: ['path'],
       },
     },
+    {
+      name: 'replace_in_note',
+      description:
+        'Find and replace text within a note body. Supports literal and regex search, case sensitivity, whole-word matching, and a replacement limit. Frontmatter is never touched. Use dryRun to preview matches before writing.',
+      inputSchema: {
+        type: 'object',
+        properties: {
+          path: { type: 'string', description: 'Vault-relative path to the note.' },
+          find: { type: 'string', description: 'Text or pattern to find.' },
+          replace: {
+            type: 'string',
+            description: 'Replacement text. Supports $1, $2, … backreferences in regex mode.',
+          },
+          regex: {
+            type: 'boolean',
+            description: 'Treat find as a regular expression. Default false.',
+          },
+          caseSensitive: {
+            type: 'boolean',
+            description: 'Case-sensitive matching. Default false.',
+          },
+          wholeWord: {
+            type: 'boolean',
+            description: 'Match whole words only (\\b boundary). Default false.',
+          },
+          limit: {
+            type: 'number',
+            description: 'Maximum number of replacements. Omit to replace all.',
+          },
+          dryRun: {
+            type: 'boolean',
+            description: 'If true, report matches without writing. Default false.',
+          },
+        },
+        required: ['path', 'find', 'replace'],
+      },
+    },
   ],
 }));
 
@@ -330,7 +367,7 @@ server.setRequestHandler(CallToolRequestSchema, async (req): Promise<CallToolRes
 
 const transport = new StdioServerTransport();
 await server.connect(transport);
-log.info('ready', { tools: 13, transport: 'stdio' });
+log.info('ready', { tools: 14, transport: 'stdio' });
 
 process.stderr.write(
   `seekstone: add to Claude Desktop:\n${JSON.stringify(
