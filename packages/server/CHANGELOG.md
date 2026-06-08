@@ -1,5 +1,15 @@
 # seekstone
 
+## 0.5.0
+
+### Minor Changes
+
+- c430b48: Add `replace_in_note` tool — literal and regex find/replace within a note body. Supports case-insensitive matching (default), whole-word boundaries, capture-group backreferences in regex mode, a replacement limit, and a dry-run preview mode. Frontmatter is never touched.
+
+### Patch Changes
+
+- c3d3cda: Fix serverInfo.version in MCP handshake — was hardcoded to "0.1.0" instead of using the build-time version constant. MCP clients that surface server metadata now see the correct version.
+
 ## 0.4.1
 
 ### Patch Changes
