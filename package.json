@@ -20,6 +20,9 @@
     "version-packages": "changeset version && biome format --write .",
     "release": "changeset publish"
   },
+  "overrides": {
+    "tmp": ">=0.2.6"
+  },
   "devDependencies": {
     "@anthropic-ai/mcpb": "^2.1.2",
     "@biomejs/biome": "^1.9.4",
