@@ -37,28 +37,35 @@ It reads your vault **directly from disk** rather than routing through the Obsid
 
 ## Why Seekstone? The numbers.
 
-Most Obsidian MCP servers proxy the [Obsidian Local REST API plugin](https://github.com/coddingtonbear/obsidian-local-rest-api), which returns **full note content for every search hit**. On a popular query that's megabytes of text your LLM has to process — most of it irrelevant.
+Most Obsidian MCP servers return **full note content for every search hit**. On a broad query that's megabytes of text your LLM has to process — most of it irrelevant, all of it burning context window.
 
-Seekstone returns ~200-character ranked excerpts instead. We benchmarked three approaches on a real vault, 20 runs each:
-
-**Search payload — bytes returned per query (lower is better)**
-
-| Query | Seekstone | REST-proxy servers¹ | Multiplier |
-|---|---|---|---|
-| Single common term | 3.2 KB | 802 KB | **250×** |
-| Two-word search | 3.2 KB | 1.29 MB | **413×** |
-| Common phrase | 3.1 KB | 2.45 MB | **811×** |
-| Rare term | 3.2 KB | 336 KB | **105×** |
+Seekstone returns ~200-character ranked excerpts instead. We benchmarked Seekstone against 5 popular Obsidian MCP servers on a real vault (1,955 notes, 20 runs each):
 
 **Search latency — warm median (lower is better)**
 
-| | Seekstone | mcpvault² | REST-proxy servers¹ |
+| Server | Architecture | Warm p50 | vs Seekstone |
 |---|---|---|---|
-| Range | **1.5–3.9 ms** | 189–225 ms | 40–61 ms |
+| **Seekstone** | in-process MiniSearch index | **1.4–3.2 ms** | — |
+| [obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) | REST API | 45–71 ms | ~25–32× slower |
+| [mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) | REST API | 53–109 ms | ~35–50× slower |
+| [obsidian-mcp-pro](https://github.com/rps321321/obsidian-mcp-pro) | fs-direct subprocess | 100–107 ms | ~45× slower |
+| [mcpvault](https://github.com/bitbonsai/mcpvault) | fs-direct subprocess | 181–217 ms | ~130× slower |
+| [obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp) | fs-direct subprocess | 214–224 ms | ~160× slower |
 
-¹ REST-proxy = [mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) (3,800 ★), [obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server), and others that route through the Local REST API plugin. Benchmarked against the plugin directly (best-case for the REST approach — no wrapper overhead).
+The gap is architectural: every competitor spawns a subprocess or makes HTTP round-trips per query. Seekstone holds a warm MiniSearch index in-process — no IPC, no network.
 
-² [mcpvault](https://github.com/bitbonsai/mcpvault) is also filesystem-direct but spawns a subprocess per session, adding a stdio round-trip per query.
+**Search payload — bytes returned per query (lower is better)**
+
+| Server | Range | vs Seekstone |
+|---|---|---|
+| **Seekstone** | **3–5 KB** | — |
+| mcpvault | 3–4 KB | ~1× |
+| obsidian-mcp-pro | 3–180 KB | up to 28× |
+| obsidian-mcp-server | 81–135 KB | ~28× |
+| obsidian-mcp | 1 KB–823 KB | up to 56× |
+| mcp-obsidian | 509 KB–3.84 MB | up to **478×** |
+
+REST-proxy servers return full note content for every match. A single "deep work" query via mcp-obsidian returned 3.84 MB — over a million tokens. Seekstone returns the same query in 4 KB.
 
 The harness and methodology are [open source](packages/harness) — run it against your own vault.
 
@@ -80,11 +87,13 @@ You'll know it worked when seekstone appears in Claude's toolbar. No JSON editin
 
 ### Option 2 — Guided setup (recommended for CLI users)
 
-Run the setup helper and let Seekstone find your vault automatically:
+Open **Terminal** (macOS: `Cmd+Space`, type "Terminal", press Enter) and run:
 
 ```bash
 npx -y obsidian-mcp-seekstone init
 ```
+
+You'll know it worked when Seekstone appears in Claude's toolbar under the plug icon.
 
 Seekstone reads Obsidian's own vault registry to detect your vault, validates it, and either prints the config block to paste or patches Claude Desktop directly:
 
@@ -162,16 +171,33 @@ Claude never sees your full vault at once — it searches and reads selectively,
 
 ## Tools
 
+### Read
+
 | Tool | Description |
 |---|---|
 | `search` | Full-text search. Returns ranked ~200-char excerpts, not full notes. Fuzzy, prefix, and phrase queries. |
-| `read_note` | Read the full content of a note by vault-relative path. |
+| `read_note` | Read the full content of a note by vault-relative path. Supports returning a single section, block, or line range. |
 | `list_notes` | List notes, optionally filtered by folder prefix or tag. |
+| `list_tags` | List all tags in the vault sorted by usage count (or alphabetically). |
+| `outline_note` | Return a note's heading and block structure without its full content — cheap navigation before a targeted read. |
+| `get_backlinks` | Find all notes that link to a given note. |
+| `get_links` | List all outgoing wikilinks and markdown links from a note. |
+| `get_periodic_note` | Read today's (or any date's) daily, weekly, or monthly note. |
+
+### Write
+
+| Tool | Description |
+|---|---|
 | `create_note` | Create a note (optional frontmatter + body); parent directories are created automatically. |
 | `delete_note` | Permanently delete a note. **Irreversible.** |
 | `move_note` | Move or rename a note; destination directories are created automatically. |
 | `append_note` | Append text to a note body without touching frontmatter. |
 | `patch_frontmatter` | Set, update, or delete frontmatter keys without reordering existing keys or changing quote style. |
+| `patch_note` | Insert text immediately after a heading without touching frontmatter. |
+| `replace_in_note` | Replace the first occurrence of a word or phrase in the note body. |
+| `append_periodic_note` | Append to today's periodic note, creating it from a template if it doesn't yet exist. |
+
+Seekstone is the only Obsidian MCP server in our benchmark set to implement `list_tags`, `outline_note`, `get_backlinks`, and `get_links`. Every other tested server supports only search, read, list, and write.
 
 ---
 
