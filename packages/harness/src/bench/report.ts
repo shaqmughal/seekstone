@@ -69,6 +69,53 @@ export function renderBenchmarkMarkdown(s: BenchmarkSummary): string {
     );
   }
   push();
+
+  // ── Extended tool table ──────────────────────────────────────────────────────
+  if (s.tools) {
+    const t = s.tools;
+    const hasAny =
+      t.list || t.listTags || t.outline || t.getBacklinks || t.getLinks || t.getPeriodicNote;
+
+    if (hasAny) {
+      push(`## Tools`);
+      push();
+      push(
+        `Latency for tools beyond search/read. Cold = first call; Warm p50 = median of subsequent calls.`,
+      );
+      push();
+      push(`| Tool | Target | Cold | Warm p50 | Warm p95 | Payload |`);
+      push(`| --- | --- | ---: | ---: | ---: | ---: |`);
+
+      const toolRow = (name: string, target: string, stats: import('./timer.js').RunStats) =>
+        `| \`${name}\` | ${target} | ${fmtMs(stats.coldMs)} | ${fmtMs(stats.warm.median)} | ${fmtMs(stats.warm.p95)} | ${fmtBytes(stats.payloadBytesMean)} |`;
+
+      if (t.list) push(toolRow('list_notes', 'vault root', t.list));
+      if (t.listTags) push(toolRow('list_tags', 'all tags', t.listTags));
+      if (t.outline) push(toolRow('outline_note', `\`${t.outline.path}\``, t.outline.stats));
+      if (t.getBacklinks)
+        push(toolRow('get_backlinks', `\`${t.getBacklinks.path}\``, t.getBacklinks.stats));
+      if (t.getLinks) push(toolRow('get_links', `\`${t.getLinks.path}\``, t.getLinks.stats));
+      if (t.getPeriodicNote) push(toolRow('get_periodic_note', 'today (daily)', t.getPeriodicNote));
+
+      push();
+
+      // Support matrix for tools not benchmarked
+      const unsupported: string[] = [];
+      if (!t.list) unsupported.push('list_notes');
+      if (!t.listTags) unsupported.push('list_tags');
+      if (!t.outline) unsupported.push('outline_note');
+      if (!t.getBacklinks) unsupported.push('get_backlinks');
+      if (!t.getLinks) unsupported.push('get_links');
+      if (!t.getPeriodicNote) unsupported.push('get_periodic_note');
+      if (unsupported.length > 0) {
+        push(
+          `> **Not supported by this backend:** ${unsupported.map((t) => `\`${t}\``).join(', ')}.`,
+        );
+        push();
+      }
+    }
+  }
+
   push(`## Methodology notes`);
   push();
   push(

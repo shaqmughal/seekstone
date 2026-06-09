@@ -1,7 +1,7 @@
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { parseDocument } from 'yaml';
 
-export type OpKind = 'identity' | 'body-append' | 'fm-edit';
+export type OpKind = 'identity' | 'body-append' | 'fm-edit' | 'patch-note' | 'replace-in-note';
 
 export interface OpResult {
   /** The bytes to write back via the adapter. */
@@ -61,6 +61,85 @@ export function bodyAppendOp(
           ? undefined
           : 'appended file does not match original + marker',
       };
+    },
+  };
+}
+
+/**
+ * Patch note: insert a marker line immediately after the first heading.
+ * Verifies frontmatter region is byte-identical and the marker is present.
+ * Returns null if the body has no heading lines.
+ */
+export function patchNoteOp(original: Buffer): OpResult | null {
+  const text = original.toString('utf8');
+  const fm = parseFrontmatter(text);
+  const body = fm.body;
+  const lines = body.split('\n');
+  const headingIdx = lines.findIndex((l) => /^#{1,6} /.test(l));
+  if (headingIdx === -1) return null;
+
+  const marker = '<!-- seekstone-harness-patch -->';
+  const newLines = [...lines.slice(0, headingIdx + 1), marker, ...lines.slice(headingIdx + 1)];
+  const newBody = newLines.join('\n');
+  const fmRegion = text.slice(0, fm.bodyStart);
+  const newText = fmRegion + newBody;
+  const newBytes = Buffer.from(newText, 'utf8');
+  const fmBytesLen = Buffer.byteLength(fmRegion, 'utf8');
+
+  return {
+    bytes: newBytes,
+    change: `insert marker after heading at line ${headingIdx}`,
+    verify: (post, orig) => {
+      const fmPre = orig.subarray(0, fmBytesLen);
+      const fmPost = post.subarray(0, fmBytesLen);
+      if (!fmPre.equals(fmPost)) {
+        return { pass: false, reason: 'frontmatter bytes mutated by patch-note op' };
+      }
+      const postText = post.toString('utf8');
+      if (!postText.includes(marker)) {
+        return { pass: false, reason: 'marker line not found after write' };
+      }
+      return { pass: true };
+    },
+  };
+}
+
+/**
+ * Replace-in-note: replace the first occurrence of a 4+ letter word in the
+ * body with itself + a marker suffix.
+ * Verifies frontmatter region is byte-identical and the marker appears exactly once.
+ * Returns null if no eligible word is found.
+ */
+export function replaceInNoteOp(original: Buffer): OpResult | null {
+  const text = original.toString('utf8');
+  const fm = parseFrontmatter(text);
+  const body = fm.body;
+  const match = body.match(/\b([A-Za-z]{4,})\b/);
+  if (!match || match.index == null || !match[1]) return null;
+
+  const word = match[1];
+  const marker = `${word}<!-- seekstone-harness-replace -->`;
+  const newBody = body.slice(0, match.index) + marker + body.slice(match.index + word.length);
+  const fmRegion = text.slice(0, fm.bodyStart);
+  const newText = fmRegion + newBody;
+  const newBytes = Buffer.from(newText, 'utf8');
+  const fmBytesLen = Buffer.byteLength(fmRegion, 'utf8');
+
+  return {
+    bytes: newBytes,
+    change: `replace first occurrence of "${word}" with marked version`,
+    verify: (post, orig) => {
+      const fmPre = orig.subarray(0, fmBytesLen);
+      const fmPost = post.subarray(0, fmBytesLen);
+      if (!fmPre.equals(fmPost)) {
+        return { pass: false, reason: 'frontmatter bytes mutated by replace-in-note op' };
+      }
+      const postText = post.toString('utf8');
+      const count = postText.split('<!-- seekstone-harness-replace -->').length - 1;
+      if (count !== 1) {
+        return { pass: false, reason: `expected 1 replacement marker, found ${count}` };
+      }
+      return { pass: true };
     },
   };
 }

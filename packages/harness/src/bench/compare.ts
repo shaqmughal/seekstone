@@ -171,6 +171,65 @@ export function renderComparisonMarkdown(summaries: BenchmarkSummary[]): string 
     lines.push('');
   }
 
+  // ── Tool support matrix ───────────────────────────────────────────────────
+  const toolNames: Array<[string, keyof import('./runner.js').ToolBenchmarks]> = [
+    ['list_notes', 'list'],
+    ['list_tags', 'listTags'],
+    ['outline_note', 'outline'],
+    ['get_backlinks', 'getBacklinks'],
+    ['get_links', 'getLinks'],
+    ['get_periodic_note', 'getPeriodicNote'],
+  ];
+
+  const hasToolData = summaries.some((s) => s.tools);
+  if (hasToolData) {
+    lines.push('## Tool support matrix');
+    lines.push('');
+    lines.push('✅ = benchmarked · ❌ = not supported · — = benchmark skipped (no sample path)');
+    lines.push('');
+    lines.push(`| Tool | ${summaries.map((s) => s.backend.name).join(' | ')} |`);
+    lines.push(`| --- | ${summaries.map(() => '---').join(' | ')} |`);
+
+    for (const [label, key] of toolNames) {
+      const cells = summaries.map((s) => {
+        if (!s.tools) return '❌';
+        const entry = s.tools[key];
+        if (entry === null) return '❌';
+        if (entry === undefined) return '—';
+        return '✅';
+      });
+      lines.push(`| \`${label}\` | ${cells.join(' | ')} |`);
+    }
+    lines.push('');
+
+    // Per-tool latency comparison for tools all adapters share
+    const sharedTools = toolNames.filter(([, key]) =>
+      summaries.every((s) => s.tools?.[key] != null),
+    );
+    if (sharedTools.length > 0) {
+      lines.push('### Tool latency comparison (ms)');
+      lines.push('');
+      lines.push(
+        `| Tool | ${summaries.flatMap((s) => [`${s.backend.name} cold`, `${s.backend.name} warm p50`]).join(' | ')} |`,
+      );
+      lines.push(`| --- | ${summaries.flatMap(() => ['---', '---']).join(' | ')} |`);
+      for (const [label, key] of sharedTools) {
+        const cells = summaries.flatMap((s) => {
+          const entry = s.tools?.[key];
+          if (!entry) return ['—', '—'];
+          const stats = 'stats' in entry ? entry.stats : entry;
+          if (!stats || typeof stats !== 'object' || !('coldMs' in stats)) return ['—', '—'];
+          return [
+            `${(stats as import('./timer.js').RunStats).coldMs.toFixed(1)}`,
+            `${(stats as import('./timer.js').RunStats).warm.median.toFixed(1)}`,
+          ];
+        });
+        lines.push(`| \`${label}\` | ${cells.join(' | ')} |`);
+      }
+      lines.push('');
+    }
+  }
+
   // ── Adapter descriptions ──────────────────────────────────────────────────
   lines.push('## Adapters');
   lines.push('');

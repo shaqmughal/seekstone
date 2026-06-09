@@ -31,7 +31,7 @@ export interface ListEntry {
 }
 
 export interface Backend {
-  /** Stable, short name used in report tables. e.g. "rest", "fs". */
+  /** Stable, short name used in report tables. e.g. "rest", "fs", "seekstone". */
   readonly name: string;
   /** Human-readable description shown in benchmark.md. */
   readonly description: string;
@@ -53,6 +53,23 @@ export interface Backend {
    */
   write(path: string, content: string): Promise<BackendResponse<void>>;
   list(path?: string): Promise<BackendResponse<ListEntry[]>>;
+
+  /**
+   * Extended tool methods. Optional — backends that do not implement a method
+   * simply omit it. The runner records `null` for unsupported tools so the
+   * comparison report can show a ✅/❌ support matrix.
+   */
+
+  /** list_tags — all tags with usage counts. */
+  listTags?(): Promise<BackendResponse<unknown>>;
+  /** outline_note — heading tree + block anchors without body content. */
+  outline?(path: string): Promise<BackendResponse<unknown>>;
+  /** get_backlinks — reverse-link lookup. */
+  getBacklinks?(path: string): Promise<BackendResponse<unknown>>;
+  /** get_links — outgoing wikilink/embed enumeration. */
+  getLinks?(path: string): Promise<BackendResponse<unknown>>;
+  /** get_periodic_note — resolve today's or a given date's periodic note path. */
+  getPeriodicNote?(period?: string, date?: string): Promise<BackendResponse<unknown>>;
 
   /** Optional cleanup (close keep-alive connections, etc). */
   close?(): Promise<void>;

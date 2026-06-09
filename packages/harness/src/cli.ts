@@ -4,6 +4,7 @@ import { readFile } from 'node:fs/promises';
 import { join, resolve } from 'node:path';
 import { cac } from 'cac';
 import { McpvaultAdapter } from './bench/adapters/mcpvault.js';
+import { SeekstoneAdapter } from './bench/adapters/seekstone.js';
 import { renderComparisonMarkdown } from './bench/compare.js';
 import {
   FsAdapter,
@@ -124,9 +125,10 @@ cli
         JSON.stringify(summary, null, 2),
       );
       await writeFile(join(outDir, `safety-${backend.name}.md`), renderSafetyMarkdown(summary));
-      console.log(
-        `safety (${backend.name}): identity ${summary.passByOp.identity.pass}/${summary.passByOp.identity.pass + summary.passByOp.identity.fail}, body-append ${summary.passByOp['body-append'].pass}/${summary.passByOp['body-append'].pass + summary.passByOp['body-append'].fail}, fm-edit ${summary.passByOp['fm-edit'].pass}/${summary.passByOp['fm-edit'].pass + summary.passByOp['fm-edit'].fail}`,
-      );
+      const safetyOps = Object.entries(summary.passByOp)
+        .map(([op, r]) => `${op} ${r.pass}/${r.pass + r.fail}`)
+        .join(', ');
+      console.log(`safety (${backend.name}): ${safetyOps}`);
     } finally {
       await backend.close?.();
     }
@@ -194,6 +196,15 @@ async function buildBackend(
     process.stderr.write(`mcpvault: ready.\n`);
     return adapter;
   }
-  console.error(`Unknown backend: ${name}. Known: rest, fs, mcpvault.`);
+  if (name === 'seekstone') {
+    const root = resolve(
+      needArg(vaultRoot, 'vault (--vault or SEEKSTONE_VAULT for seekstone backend)'),
+    );
+    process.stderr.write(`seekstone: building index for ${root}…\n`);
+    const adapter = await SeekstoneAdapter.build({ vaultRoot: root });
+    process.stderr.write(`seekstone: index ready.\n`);
+    return adapter;
+  }
+  console.error(`Unknown backend: ${name}. Known: rest, fs, mcpvault, seekstone.`);
   process.exit(2);
 }
