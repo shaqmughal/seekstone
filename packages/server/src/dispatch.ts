@@ -11,6 +11,12 @@ import { MoveNoteInput, moveNote } from './tools/move_note.js';
 import { OutlineNoteInput, outlineNote } from './tools/outline_note.js';
 import { PatchFrontmatterInput, patchFrontmatter } from './tools/patch_frontmatter.js';
 import { PatchNoteInput, patchNote } from './tools/patch_note.js';
+import {
+  AppendPeriodicNoteInput,
+  GetPeriodicNoteInput,
+  appendPeriodicNote,
+  getPeriodicNote,
+} from './tools/periodic_note.js';
 import { ReadNoteInput, readNote } from './tools/read_note.js';
 import { ReplaceInNoteInput, replaceInNote } from './tools/replace_in_note.js';
 import { SearchInput, search } from './tools/search.js';
@@ -36,6 +42,8 @@ export const HANDLED_TOOLS = [
   'get_backlinks',
   'get_links',
   'replace_in_note',
+  'get_periodic_note',
+  'append_periodic_note',
 ] as const;
 
 // Metadata-safe keys: logged at info. Note content (`content`, `frontmatter`,
@@ -52,6 +60,8 @@ const META_KEYS = [
   'pattern',
   'minCount',
   'sort',
+  'period',
+  'date',
 ] as const;
 
 function safeMeta(args: unknown): Record<string, unknown> {
@@ -181,6 +191,23 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
       const input = ReplaceInNoteInput.parse(args);
       const result = await replaceInNote(ctx, input);
       return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
+    }
+    case 'get_periodic_note': {
+      const input = GetPeriodicNoteInput.parse(args);
+      const result = await getPeriodicNote(ctx, input);
+      return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
+    }
+    case 'append_periodic_note': {
+      const input = AppendPeriodicNoteInput.parse(args);
+      const result = await appendPeriodicNote(ctx, input);
+      return {
+        content: [
+          {
+            type: 'text',
+            text: `Appended ${result.bytesWritten} bytes to ${result.path}.`,
+          },
+        ],
+      };
     }
     default:
       throw new Error(`Unknown tool: ${name}`);

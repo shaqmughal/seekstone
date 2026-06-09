@@ -357,6 +357,59 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
         required: ['path', 'find', 'replace'],
       },
     },
+    {
+      name: 'get_periodic_note',
+      description:
+        'Get the path and existence status of a periodic note (daily, weekly, monthly, quarterly, or yearly) for a given date. Reads folder/format config from .obsidian/daily-notes.json (daily) or the periodic-notes plugin data.json. Optionally creates the note from the configured template if it is missing.',
+      inputSchema: {
+        type: 'object',
+        properties: {
+          period: {
+            type: 'string',
+            enum: ['daily', 'weekly', 'monthly', 'quarterly', 'yearly'],
+            description: 'Period type. Default: daily.',
+          },
+          date: {
+            type: 'string',
+            description: 'ISO date string (YYYY-MM-DD). Defaults to today when omitted.',
+          },
+          createIfMissing: {
+            type: 'boolean',
+            description:
+              'Create the note from the configured template if it does not exist. Default false.',
+          },
+        },
+        required: [],
+      },
+    },
+    {
+      name: 'append_periodic_note',
+      description:
+        'Append text to a periodic note (daily, weekly, monthly, quarterly, or yearly). Preserves existing frontmatter exactly. Creates the note first (from template if configured) when createIfMissing is true (default).',
+      inputSchema: {
+        type: 'object',
+        properties: {
+          period: {
+            type: 'string',
+            enum: ['daily', 'weekly', 'monthly', 'quarterly', 'yearly'],
+            description: 'Period type. Default: daily.',
+          },
+          date: {
+            type: 'string',
+            description: 'ISO date string (YYYY-MM-DD). Defaults to today when omitted.',
+          },
+          content: {
+            type: 'string',
+            description: 'Text to append to the note body.',
+          },
+          createIfMissing: {
+            type: 'boolean',
+            description: 'Create the note if it does not exist before appending. Default true.',
+          },
+        },
+        required: ['content'],
+      },
+    },
   ],
 }));
 
@@ -367,7 +420,7 @@ server.setRequestHandler(CallToolRequestSchema, async (req): Promise<CallToolRes
 
 const transport = new StdioServerTransport();
 await server.connect(transport);
-log.info('ready', { tools: 14, transport: 'stdio' });
+log.info('ready', { tools: 16, transport: 'stdio' });
 
 process.stderr.write(
   `seekstone: add to Claude Desktop:\n${JSON.stringify(
