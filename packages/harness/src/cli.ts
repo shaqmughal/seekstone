@@ -5,6 +5,7 @@ import { join, resolve } from 'node:path';
 import { cac } from 'cac';
 import { McpObsidianAdapter } from './bench/adapters/mcp-obsidian.js';
 import { McpvaultAdapter } from './bench/adapters/mcpvault.js';
+import { ObsidianMcpProAdapter } from './bench/adapters/obsidian-mcp-pro.js';
 import { ObsidianMcpServerAdapter } from './bench/adapters/obsidian-mcp-server.js';
 import { ObsidianMcpAdapter } from './bench/adapters/obsidian-mcp.js';
 import { SeekstoneAdapter } from './bench/adapters/seekstone.js';
@@ -233,6 +234,15 @@ async function buildBackend(
     process.stderr.write(`obsidian-mcp: ready.\n`);
     return adapter;
   }
+  if (name === 'obsidian-mcp-pro') {
+    const root = resolve(
+      needArg(vaultRoot, 'vault (--vault or SEEKSTONE_VAULT for obsidian-mcp-pro backend)'),
+    );
+    process.stderr.write(`obsidian-mcp-pro: starting subprocess for ${root}…\n`);
+    const adapter = await ObsidianMcpProAdapter.build({ vaultRoot: root });
+    process.stderr.write(`obsidian-mcp-pro: ready.\n`);
+    return adapter;
+  }
   if (name === 'obsidian-mcp-server') {
     const apiKey = needArg(
       process.env.SEEKSTONE_REST_API_KEY,
@@ -245,7 +255,7 @@ async function buildBackend(
     return adapter;
   }
   console.error(
-    `Unknown backend: ${name}. Known: rest, fs, mcpvault, seekstone, mcp-obsidian, obsidian-mcp, obsidian-mcp-server.`,
+    `Unknown backend: ${name}. Known: rest, fs, mcpvault, seekstone, mcp-obsidian, obsidian-mcp, obsidian-mcp-pro, obsidian-mcp-server.`,
   );
   process.exit(2);
 }
