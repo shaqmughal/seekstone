@@ -1,6 +1,12 @@
 export { FsAdapter } from './adapters/fs.js';
+export { McpObsidianAdapter } from './adapters/mcp-obsidian.js';
+export { McpvaultAdapter } from './adapters/mcpvault.js';
+export { ObsidianMcpAdapter } from './adapters/obsidian-mcp.js';
+export { ObsidianMcpProAdapter } from './adapters/obsidian-mcp-pro.js';
+export { ObsidianMcpServerAdapter } from './adapters/obsidian-mcp-server.js';
 export { RestAdapter } from './adapters/rest.js';
+export { SeekstoneAdapter } from './adapters/seekstone.js';
 export type { Backend, BackendResponse, ListEntry, SearchHit } from './backend.js';
 export { loadQuerySet, type QueryDef, type QuerySet } from './queries.js';
 export { renderBenchmarkMarkdown } from './report.js';
-export { type BenchmarkSummary, runBenchmark } from './runner.js';
+export { type BenchmarkSummary, type ToolBenchmarks, runBenchmark } from './runner.js';

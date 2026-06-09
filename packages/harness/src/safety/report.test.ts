@@ -12,6 +12,8 @@ const allPassSummary: SafetySummary = {
     identity: { pass: 2, fail: 0 },
     'body-append': { pass: 2, fail: 0 },
     'fm-edit': { pass: 2, fail: 0 },
+    'patch-note': { pass: 2, fail: 0 },
+    'replace-in-note': { pass: 2, fail: 0 },
   },
   notes: [
     {
@@ -45,6 +47,8 @@ const bodyAppendFailSummary: SafetySummary = {
     identity: { pass: 1, fail: 0 },
     'body-append': { pass: 0, fail: 1 },
     'fm-edit': { pass: 1, fail: 0 },
+    'patch-note': { pass: 1, fail: 0 },
+    'replace-in-note': { pass: 1, fail: 0 },
   },
   notes: [
     {
@@ -73,8 +77,8 @@ describe('renderSafetyMarkdown', () => {
   it('all-pass output contains "✅ Pass" for each op row', () => {
     const md = renderSafetyMarkdown(allPassSummary);
     const passCount = (md.match(/✅ Pass/g) ?? []).length;
-    // identity, body-append, fm-edit all pass → 3 rows
-    expect(passCount).toBe(3);
+    // identity, body-append, fm-edit, patch-note, replace-in-note all pass → 5 rows
+    expect(passCount).toBe(5);
   });
 
   it('all-pass output does NOT contain "CAUTION"', () => {

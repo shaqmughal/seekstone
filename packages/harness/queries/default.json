@@ -28,8 +28,8 @@
     }
   ],
   "reads": {
-    "small": null,
-    "large": null,
+    "small": "Daily Notes/2026-05-17.md",
+    "large": "2 Personal/1.2 Projects/Market Problem Discovery/01-inventory.md",
     "_hint": "After running `harness profile`, paste a small (~2 KB) and large (>50 KB) note path from vault-stats.json here. Leave null to auto-pick from the stats file."
   },
   "runs": 20,

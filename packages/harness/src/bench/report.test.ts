@@ -40,6 +40,14 @@ const minimalSummary: BenchmarkSummary = {
     },
     large: null,
   },
+  tools: {
+    list: null,
+    listTags: null,
+    outline: null,
+    getBacklinks: null,
+    getLinks: null,
+    getPeriodicNote: null,
+  },
 };
 
 describe('renderBenchmarkMarkdown', () => {
