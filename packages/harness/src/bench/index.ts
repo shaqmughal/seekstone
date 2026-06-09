@@ -1,4 +1,8 @@
 export { FsAdapter } from './adapters/fs.js';
+export { McpObsidianAdapter } from './adapters/mcp-obsidian.js';
+export { McpvaultAdapter } from './adapters/mcpvault.js';
+export { ObsidianMcpAdapter } from './adapters/obsidian-mcp.js';
+export { ObsidianMcpServerAdapter } from './adapters/obsidian-mcp-server.js';
 export { RestAdapter } from './adapters/rest.js';
 export { SeekstoneAdapter } from './adapters/seekstone.js';
 export type { Backend, BackendResponse, ListEntry, SearchHit } from './backend.js';

@@ -7,7 +7,6 @@ import { getLinks as getLinksTool } from '../../../../server/src/tools/get_links
 import { listNotes } from '../../../../server/src/tools/list_notes.js';
 import { listTags as listTagsTool } from '../../../../server/src/tools/list_tags.js';
 import { outlineNote } from '../../../../server/src/tools/outline_note.js';
-import { getPeriodicNote } from '../../../../server/src/tools/periodic_note.js';
 import { readNote } from '../../../../server/src/tools/read_note.js';
 import { search as searchTool } from '../../../../server/src/tools/search.js';
 import type { Backend, BackendResponse, ListEntry, SearchHit } from '../backend.js';
@@ -118,16 +117,6 @@ export class SeekstoneAdapter implements Backend {
 
   async getLinks(path: string): Promise<BackendResponse<unknown>> {
     const result = await getLinksTool(this.ctx, { path });
-    const payload = JSON.stringify(result);
-    return {
-      result,
-      payloadBytes: Buffer.byteLength(payload, 'utf8'),
-      payloadText: payload,
-    };
-  }
-
-  async getPeriodicNote(period = 'daily', date?: string): Promise<BackendResponse<unknown>> {
-    const result = await getPeriodicNote(this.ctx, { period: period as 'daily', date });
     const payload = JSON.stringify(result);
     return {
       result,

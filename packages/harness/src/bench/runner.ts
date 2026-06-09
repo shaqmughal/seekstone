@@ -148,11 +148,13 @@ async function runToolBenchmarks(
     return stats;
   };
 
-  // list
-  const list = backend.list ? await bench(() => backend.list?.()) : null;
+  // Capture optional methods bound to `backend` so TypeScript narrows away
+  // undefined inside the bench() lambda without losing `this` context.
+  const listFn = backend.list?.bind(backend);
+  const list = listFn ? await bench(() => listFn()) : null;
 
-  // listTags
-  const listTags = backend.listTags ? await bench(() => backend.listTags?.()) : null;
+  const listTagsFn = backend.listTags?.bind(backend);
+  const listTags = listTagsFn ? await bench(() => listTagsFn()) : null;
 
   // outline, getBacklinks, getLinks — all need a note path
   let outline: ToolBenchmarks['outline'] = null;
@@ -160,30 +162,32 @@ async function runToolBenchmarks(
   let getLinks: ToolBenchmarks['getLinks'] = null;
 
   if (samplePath) {
-    if (backend.outline) {
+    const outlineFn = backend.outline?.bind(backend);
+    if (outlineFn) {
       outline = {
         path: samplePath,
-        stats: await bench(() => backend.outline?.(samplePath)),
+        stats: await bench(() => outlineFn(samplePath)),
       };
     }
-    if (backend.getBacklinks) {
+    const getBacklinksFn = backend.getBacklinks?.bind(backend);
+    if (getBacklinksFn) {
       getBacklinks = {
         path: samplePath,
-        stats: await bench(() => backend.getBacklinks?.(samplePath)),
+        stats: await bench(() => getBacklinksFn(samplePath)),
       };
     }
-    if (backend.getLinks) {
+    const getLinksFn = backend.getLinks?.bind(backend);
+    if (getLinksFn) {
       getLinks = {
         path: samplePath,
-        stats: await bench(() => backend.getLinks?.(samplePath)),
+        stats: await bench(() => getLinksFn(samplePath)),
       };
     }
   }
 
   // getPeriodicNote — no side effects (existence check only)
-  const getPeriodicNote = backend.getPeriodicNote
-    ? await bench(() => backend.getPeriodicNote?.('daily'))
-    : null;
+  const getPeriodicNoteFn = backend.getPeriodicNote?.bind(backend);
+  const getPeriodicNote = getPeriodicNoteFn ? await bench(() => getPeriodicNoteFn('daily')) : null;
 
   return { list, listTags, outline, getBacklinks, getLinks, getPeriodicNote };
 }
