@@ -3,6 +3,21 @@ import type { Backend } from './backend.js';
 import type { QuerySet } from './queries.js';
 import { type RunStats, type StreamStats, runN, runNStream } from './timer.js';
 
+export interface ToolBenchmarks {
+  /** list_notes — vault-wide listing, no filters. */
+  list: RunStats | null;
+  /** list_tags — all tags sorted by count. */
+  listTags: RunStats | null;
+  /** outline_note — heading/block structure of the small read target. */
+  outline: { path: string; stats: RunStats } | null;
+  /** get_backlinks — reverse-link lookup for the small read target. */
+  getBacklinks: { path: string; stats: RunStats } | null;
+  /** get_links — outgoing link enumeration for the small read target. */
+  getLinks: { path: string; stats: RunStats } | null;
+  /** get_periodic_note — today's daily note (existence check, no side effects). */
+  getPeriodicNote: RunStats | null;
+}
+
 export interface BenchmarkSummary {
   snapshotDate: string;
   machine: { platform: string; arch: string; node: string; cpus: number };
@@ -24,6 +39,8 @@ export interface BenchmarkSummary {
     small: { path: string; stats: RunStats } | null;
     large: { path: string; stats: RunStats } | null;
   };
+  /** Per-tool latency for tools beyond search/read. Null when backend does not implement. */
+  tools: ToolBenchmarks;
 }
 
 export interface RunnerOptions {
@@ -44,6 +61,7 @@ export async function runBenchmark(opts: RunnerOptions): Promise<BenchmarkSummar
     if (r > rssPeak) rssPeak = r;
   };
 
+  // ── Search ──────────────────────────────────────────────────────────────────
   const search: BenchmarkSummary['search'] = [];
   for (const q of querySet.queries) {
     let firstHits = 0;
@@ -69,6 +87,7 @@ export async function runBenchmark(opts: RunnerOptions): Promise<BenchmarkSummar
     });
   }
 
+  // ── Read ────────────────────────────────────────────────────────────────────
   const readSmall = reads.small
     ? {
         path: reads.small,
@@ -91,6 +110,9 @@ export async function runBenchmark(opts: RunnerOptions): Promise<BenchmarkSummar
       }
     : null;
 
+  // ── Extended tool benchmarks ─────────────────────────────────────────────────
+  const tools = await runToolBenchmarks(backend, reads.small, querySet.runs, samplePeak);
+
   return {
     snapshotDate: new Date().toISOString(),
     machine: {
@@ -105,7 +127,69 @@ export async function runBenchmark(opts: RunnerOptions): Promise<BenchmarkSummar
     rssPeak,
     search,
     read: { small: readSmall, large: readLarge },
+    tools,
   };
+}
+
+async function runToolBenchmarks(
+  backend: Backend,
+  samplePath: string | null,
+  runs: number,
+  samplePeak: () => void,
+): Promise<ToolBenchmarks> {
+  const bench = async <T>(
+    fn: () => Promise<{ result: T; payloadBytes: number; payloadText?: string }>,
+  ) => {
+    const stats = await runN(async () => {
+      const r = await fn();
+      samplePeak();
+      return r;
+    }, runs);
+    return stats;
+  };
+
+  // Capture optional methods bound to `backend` so TypeScript narrows away
+  // undefined inside the bench() lambda without losing `this` context.
+  const listFn = backend.list?.bind(backend);
+  const list = listFn ? await bench(() => listFn()) : null;
+
+  const listTagsFn = backend.listTags?.bind(backend);
+  const listTags = listTagsFn ? await bench(() => listTagsFn()) : null;
+
+  // outline, getBacklinks, getLinks — all need a note path
+  let outline: ToolBenchmarks['outline'] = null;
+  let getBacklinks: ToolBenchmarks['getBacklinks'] = null;
+  let getLinks: ToolBenchmarks['getLinks'] = null;
+
+  if (samplePath) {
+    const outlineFn = backend.outline?.bind(backend);
+    if (outlineFn) {
+      outline = {
+        path: samplePath,
+        stats: await bench(() => outlineFn(samplePath)),
+      };
+    }
+    const getBacklinksFn = backend.getBacklinks?.bind(backend);
+    if (getBacklinksFn) {
+      getBacklinks = {
+        path: samplePath,
+        stats: await bench(() => getBacklinksFn(samplePath)),
+      };
+    }
+    const getLinksFn = backend.getLinks?.bind(backend);
+    if (getLinksFn) {
+      getLinks = {
+        path: samplePath,
+        stats: await bench(() => getLinksFn(samplePath)),
+      };
+    }
+  }
+
+  // getPeriodicNote — no side effects (existence check only)
+  const getPeriodicNoteFn = backend.getPeriodicNote?.bind(backend);
+  const getPeriodicNote = getPeriodicNoteFn ? await bench(() => getPeriodicNoteFn('daily')) : null;
+
+  return { list, listTags, outline, getBacklinks, getLinks, getPeriodicNote };
 }
 
 async function resolveReadPaths(

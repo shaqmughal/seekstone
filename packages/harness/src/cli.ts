@@ -3,7 +3,12 @@ import { mkdir, writeFile } from 'node:fs/promises';
 import { readFile } from 'node:fs/promises';
 import { join, resolve } from 'node:path';
 import { cac } from 'cac';
+import { McpObsidianAdapter } from './bench/adapters/mcp-obsidian.js';
 import { McpvaultAdapter } from './bench/adapters/mcpvault.js';
+import { ObsidianMcpProAdapter } from './bench/adapters/obsidian-mcp-pro.js';
+import { ObsidianMcpServerAdapter } from './bench/adapters/obsidian-mcp-server.js';
+import { ObsidianMcpAdapter } from './bench/adapters/obsidian-mcp.js';
+import { SeekstoneAdapter } from './bench/adapters/seekstone.js';
 import { renderComparisonMarkdown } from './bench/compare.js';
 import {
   FsAdapter,
@@ -124,9 +129,10 @@ cli
         JSON.stringify(summary, null, 2),
       );
       await writeFile(join(outDir, `safety-${backend.name}.md`), renderSafetyMarkdown(summary));
-      console.log(
-        `safety (${backend.name}): identity ${summary.passByOp.identity.pass}/${summary.passByOp.identity.pass + summary.passByOp.identity.fail}, body-append ${summary.passByOp['body-append'].pass}/${summary.passByOp['body-append'].pass + summary.passByOp['body-append'].fail}, fm-edit ${summary.passByOp['fm-edit'].pass}/${summary.passByOp['fm-edit'].pass + summary.passByOp['fm-edit'].fail}`,
-      );
+      const safetyOps = Object.entries(summary.passByOp)
+        .map(([op, r]) => `${op} ${r.pass}/${r.pass + r.fail}`)
+        .join(', ');
+      console.log(`safety (${backend.name}): ${safetyOps}`);
     } finally {
       await backend.close?.();
     }
@@ -194,6 +200,62 @@ async function buildBackend(
     process.stderr.write(`mcpvault: ready.\n`);
     return adapter;
   }
-  console.error(`Unknown backend: ${name}. Known: rest, fs, mcpvault.`);
+  if (name === 'seekstone') {
+    const root = resolve(
+      needArg(vaultRoot, 'vault (--vault or SEEKSTONE_VAULT for seekstone backend)'),
+    );
+    process.stderr.write(`seekstone: building index for ${root}…\n`);
+    const adapter = await SeekstoneAdapter.build({ vaultRoot: root });
+    process.stderr.write(`seekstone: index ready.\n`);
+    return adapter;
+  }
+  if (name === 'mcp-obsidian') {
+    const apiKey = needArg(
+      process.env.SEEKSTONE_REST_API_KEY,
+      'SEEKSTONE_REST_API_KEY env var (mcp-obsidian requires Obsidian running)',
+    );
+    const restUrl = new URL(process.env.SEEKSTONE_REST_URL ?? 'https://127.0.0.1:27124');
+    process.stderr.write(`mcp-obsidian: starting subprocess (requires Obsidian running)…\n`);
+    const adapter = await McpObsidianAdapter.build({
+      apiKey,
+      host: restUrl.hostname,
+      port: Number(restUrl.port) || 27124,
+      protocol: restUrl.protocol.replace(':', ''),
+    });
+    process.stderr.write(`mcp-obsidian: ready.\n`);
+    return adapter;
+  }
+  if (name === 'obsidian-mcp') {
+    const root = resolve(
+      needArg(vaultRoot, 'vault (--vault or SEEKSTONE_VAULT for obsidian-mcp backend)'),
+    );
+    process.stderr.write(`obsidian-mcp: starting subprocess for ${root}…\n`);
+    const adapter = await ObsidianMcpAdapter.build({ vaultRoot: root });
+    process.stderr.write(`obsidian-mcp: ready.\n`);
+    return adapter;
+  }
+  if (name === 'obsidian-mcp-pro') {
+    const root = resolve(
+      needArg(vaultRoot, 'vault (--vault or SEEKSTONE_VAULT for obsidian-mcp-pro backend)'),
+    );
+    process.stderr.write(`obsidian-mcp-pro: starting subprocess for ${root}…\n`);
+    const adapter = await ObsidianMcpProAdapter.build({ vaultRoot: root });
+    process.stderr.write(`obsidian-mcp-pro: ready.\n`);
+    return adapter;
+  }
+  if (name === 'obsidian-mcp-server') {
+    const apiKey = needArg(
+      process.env.SEEKSTONE_REST_API_KEY,
+      'SEEKSTONE_REST_API_KEY env var (obsidian-mcp-server requires Obsidian running)',
+    );
+    const baseUrl = process.env.SEEKSTONE_REST_URL ?? 'https://127.0.0.1:27124';
+    process.stderr.write(`obsidian-mcp-server: starting subprocess (requires Obsidian running)…\n`);
+    const adapter = await ObsidianMcpServerAdapter.build({ apiKey, baseUrl });
+    process.stderr.write(`obsidian-mcp-server: ready.\n`);
+    return adapter;
+  }
+  console.error(
+    `Unknown backend: ${name}. Known: rest, fs, mcpvault, seekstone, mcp-obsidian, obsidian-mcp, obsidian-mcp-pro, obsidian-mcp-server.`,
+  );
   process.exit(2);
 }

@@ -2,7 +2,15 @@ import { readFile } from 'node:fs/promises';
 import { join, resolve } from 'node:path';
 import type { Backend } from '../bench/backend.js';
 import { copyVault } from './copy.js';
-import { type OpKind, type OpResult, bodyAppendOp, fmEditOp, identityOp } from './ops.js';
+import {
+  type OpKind,
+  type OpResult,
+  bodyAppendOp,
+  fmEditOp,
+  identityOp,
+  patchNoteOp,
+  replaceInNoteOp,
+} from './ops.js';
 import { type Candidate, selectFrontmatterHeavyNotes } from './select.js';
 
 export interface SafetyOpResult {
@@ -68,11 +76,19 @@ export async function runSafety(opts: SafetyRunnerOptions): Promise<SafetySummar
     identity: { pass: 0, fail: 0 },
     'body-append': { pass: 0, fail: 0 },
     'fm-edit': { pass: 0, fail: 0 },
+    'patch-note': { pass: 0, fail: 0 },
+    'replace-in-note': { pass: 0, fail: 0 },
   };
 
   for (const c of candidates) {
     const noteResults: SafetyOpResult[] = [];
-    for (const opKind of ['identity', 'body-append', 'fm-edit'] as OpKind[]) {
+    for (const opKind of [
+      'identity',
+      'body-append',
+      'fm-edit',
+      'patch-note',
+      'replace-in-note',
+    ] as OpKind[]) {
       // Always re-read fresh — previous ops may have left the file modified.
       const original = await readFile(c.absPath);
       const op = buildOp(opKind, original);
@@ -110,6 +126,10 @@ function buildOp(kind: OpKind, original: Buffer): OpResult | null {
       return bodyAppendOp(original);
     case 'fm-edit':
       return fmEditOp(original);
+    case 'patch-note':
+      return patchNoteOp(original);
+    case 'replace-in-note':
+      return replaceInNoteOp(original);
   }
 }
 
