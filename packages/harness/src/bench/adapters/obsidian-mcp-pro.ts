@@ -52,15 +52,14 @@ export class ObsidianMcpProAdapter implements Backend {
     });
     let hits: SearchHit[] = [];
     try {
-      const parsed = JSON.parse(text) as
-        | Array<{
-            path?: string;
-            score?: number;
-            excerpt?: string;
-            snippet?: string;
-            matches?: Array<{ context?: string }>;
-          }>
-        | { results?: Array<{ path?: string; score?: number; excerpt?: string }> };
+      type RawHit = {
+        path?: string;
+        score?: number;
+        excerpt?: string;
+        snippet?: string;
+        matches?: Array<{ context?: string }>;
+      };
+      const parsed = JSON.parse(text) as Array<RawHit> | { results?: Array<RawHit> };
       const raw = Array.isArray(parsed) ? parsed : (parsed.results ?? []);
       hits = raw.map((h) => ({
         path: h.path ?? '',
