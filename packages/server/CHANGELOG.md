@@ -1,5 +1,16 @@
 # seekstone
 
+## 0.6.0
+
+### Minor Changes
+
+- dd136ae: Add `get_periodic_note` and `append_periodic_note` tools for filesystem-direct access to daily, weekly, monthly, quarterly, and yearly periodic notes. Reads folder/format/template config from `.obsidian/daily-notes.json` and the periodic-notes plugin data.json with moment.js-compatible date tokens. No running Obsidian required.
+
+### Patch Changes
+
+- 0d7e2d1: Add HTML reporter to server vitest coverage config so `--coverage` runs generate an interactive report at `coverage/index.html`.
+- 95c6f0b: Sync manifest.json version to 0.5.0 (was left at 0.3.0 after changeset release) and ignore the mcp-publisher binary from git.
+
 ## 0.5.0
 
 ### Minor Changes
