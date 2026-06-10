@@ -6,7 +6,7 @@ export default defineConfig({
     // load (worse under coverage instrumentation), event delivery can lag many
     // seconds. A generous per-test timeout prevents false failures (passing
     // assertions still resolve immediately).
-    testTimeout: 35000,
+    testTimeout: 65000,
     coverage: {
       provider: 'v8',
       reporter: ['text', 'html', 'lcov'],

@@ -30,6 +30,14 @@ export interface WatcherOptions {
    * SEEKSTONE_WATCH_POLL=1.
    */
   usePolling?: boolean;
+  /**
+   * Diagnostic hook fired for every raw chokidar event, before .md filtering
+   * and before the index is updated. Receives the chokidar event name, the
+   * absolute path as chokidar reported it, and the vault-relative key as
+   * computed by toRel(). Use in tests only to capture what chokidar actually
+   * emits when a failure needs investigation.
+   */
+  onRawEvent?: (event: 'add' | 'change' | 'unlink', absPath: string, relPath: string) => void;
 }
 
 function removeNoteBacklinks(ctx: ServerContext, relPath: string): void {
@@ -96,6 +104,7 @@ export function startWatcher(
 
   const onUpsert = (op: 'add' | 'change') => (abs: string) => {
     const relPath = toRel(abs);
+    opts?.onRawEvent?.(op, abs, relPath);
     if (relPath.endsWith('.md')) void upsert(relPath, op);
   };
 
@@ -122,6 +131,7 @@ export function startWatcher(
     .on('change', onUpsert('change'))
     .on('unlink', (abs: string) => {
       const relPath = toRel(abs);
+      opts?.onRawEvent?.('unlink', abs, relPath);
       if (relPath.endsWith('.md')) remove(relPath);
     });
 
