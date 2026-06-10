@@ -50,6 +50,15 @@ jobs:
           SEEKSTONE_COVERAGE: '1'
         run: npx vitest run --coverage --root packages/server
 
+      - name: Upload coverage to Codecov
+        if: matrix.os == 'ubuntu-latest'
+        uses: codecov/codecov-action@v5
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
+          files: packages/server/coverage/lcov.info
+          flags: server
+          fail_ci_if_error: false
+
   changeset:
     name: changeset check
     runs-on: ubuntu-latest
