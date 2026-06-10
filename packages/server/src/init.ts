@@ -1,3 +1,7 @@
+// execFileSync is used (not exec/execSync) because it bypasses the shell
+// entirely — it exec's the named binary directly. There is no shell injection
+// risk. Socket.dev flags the child_process import as "shellAccess" regardless
+// of which function is used; that score penalty is accepted. See SHA-139.
 import { execFileSync } from 'node:child_process';
 import type { Dirent } from 'node:fs';
 import { access, copyFile, mkdir, readFile, readdir, stat, writeFile } from 'node:fs/promises';
@@ -289,6 +293,10 @@ export async function runInit(
         deps.spawnClaudeMcp ??
         ((args: string[]) => {
           try {
+            // Runs `claude mcp add …` — the canonical way to register an MCP
+            // server with Claude Code. execFileSync (no shell) is intentional;
+            // writing ~/.claude.json directly would couple us to an internal
+            // format Anthropic can change without notice.
             execFileSync('claude', args, { stdio: 'inherit' });
             return { ok: true };
           } catch (err) {
