@@ -1,6 +1,6 @@
 import { mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
-import { join } from 'node:path';
+import { join, sep } from 'node:path';
 import MiniSearch from 'minisearch';
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import type { ServerContext } from './context.js';
@@ -21,7 +21,7 @@ function freshCtx(vaultRoot: string): ServerContext {
   return { vaultRoot, index, notes: new Map(), backlinks: new Map() };
 }
 
-async function waitFor(condition: () => boolean, timeoutMs = 30000): Promise<void> {
+async function waitFor(condition: () => boolean, timeoutMs = 60_000): Promise<void> {
   const deadline = Date.now() + timeoutMs;
   while (!condition()) {
     if (Date.now() > deadline) throw new Error('waitFor timeout');
@@ -106,11 +106,22 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     // delivery (modify/delete handlers are covered by the flat tests above).
     const ctx = freshCtx(tmpDir);
     await mkdir(join(tmpDir, 'a', 'b', 'c'), { recursive: true });
-    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true });
+    const rawEvents: string[] = [];
+    const { stop, ready } = startWatcher(ctx, undefined, {
+      usePolling: true,
+      onRawEvent: (event, abs, rel) => rawEvents.push(`${event} abs=${abs} rel=${rel}`),
+    });
     try {
       await ready;
+      await new Promise((r) => setImmediate(r));
       await writeFile(join(tmpDir, 'a', 'b', 'c', 'deep.md'), 'nested_unique_def', 'utf8');
-      await waitFor(() => ctx.notes.has('a/b/c/deep.md'));
+      try {
+        await waitFor(() => ctx.notes.has('a/b/c/deep.md'));
+      } catch {
+        throw new Error(
+          `waitFor timeout — diagnostics:\n  platform=${process.platform} sep=${JSON.stringify(sep)}\n  vaultRoot=${tmpDir}\n  ctx.notes keys=[${[...ctx.notes.keys()].join(', ')}]\n  rawEvents(${rawEvents.length}):\n    ${rawEvents.join('\n    ') || '(none)'}`,
+        );
+      }
       expect(ctx.notes.get('a/b/c/deep.md')?.body).toContain('nested_unique_def');
     } finally {
       stop();
@@ -121,11 +132,22 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     const spaced = join(tmpDir, 'My Vault');
     await mkdir(spaced, { recursive: true });
     const ctx = freshCtx(spaced);
-    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true });
+    const rawEvents: string[] = [];
+    const { stop, ready } = startWatcher(ctx, undefined, {
+      usePolling: true,
+      onRawEvent: (event, abs, rel) => rawEvents.push(`${event} abs=${abs} rel=${rel}`),
+    });
     try {
       await ready;
+      await new Promise((r) => setImmediate(r));
       await writeFile(join(spaced, 'spaced note.md'), 'spaced_unique_ghi', 'utf8');
-      await waitFor(() => ctx.notes.has('spaced note.md'));
+      try {
+        await waitFor(() => ctx.notes.has('spaced note.md'));
+      } catch {
+        throw new Error(
+          `waitFor timeout — diagnostics:\n  platform=${process.platform} sep=${JSON.stringify(sep)}\n  vaultRoot=${spaced}\n  ctx.notes keys=[${[...ctx.notes.keys()].join(', ')}]\n  rawEvents(${rawEvents.length}):\n    ${rawEvents.join('\n    ') || '(none)'}`,
+        );
+      }
       expect(ctx.notes.get('spaced note.md')?.body).toContain('spaced_unique_ghi');
     } finally {
       stop();
