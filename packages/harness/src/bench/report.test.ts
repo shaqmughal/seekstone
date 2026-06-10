@@ -150,6 +150,7 @@ describe('renderBenchmarkMarkdown', () => {
           ...baseSearch,
           ttfr: {
             coldTtfrMs: 5.25,
+            runs: 5,
             warmTtfr: {
               n: 4,
               min: 1,
