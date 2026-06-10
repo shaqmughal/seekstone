@@ -9,7 +9,7 @@ export default defineConfig({
     testTimeout: 35000,
     coverage: {
       provider: 'v8',
-      reporter: ['text', 'html'],
+      reporter: ['text', 'html', 'lcov'],
       include: ['src/**/*.ts'],
       // Excluded from the gate: the thin bootstrap entry (side-effecting, only
       // exercised by the smoke test), type-only modules, the fs-integration
