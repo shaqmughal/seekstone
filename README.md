@@ -16,8 +16,8 @@
   <a href="https://github.com/shaqmughal/seekstone/actions/workflows/ci.yml"><img src="https://github.com/shaqmughal/seekstone/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
   <img src="https://img.shields.io/badge/Node.js-%E2%89%A522-339933?logo=node.js&logoColor=white" alt="Node.js ≥ 22" />
-  <a href="https://buymeacoffee.com/shaqmughal"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%98%95-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
   <a href="https://glama.ai/mcp/servers/shaqmughal/seekstone"><img src="https://glama.ai/mcp/servers/shaqmughal/seekstone/badges/score.svg" alt="shaqmughal/seekstone MCP server" /></a>
+  <a href="https://buymeacoffee.com/shaqmughal"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%98%95-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
 </p>
 
 ---
