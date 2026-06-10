@@ -3,7 +3,7 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import { FsAdapter } from '../bench/adapters/fs.js';
-import { runSafety } from './runner.js';
+import { prepareSafetyVault, runSafety } from './runner.js';
 
 const NOTE1 = `---
 title: T1
@@ -11,7 +11,9 @@ tags: [a]
 date: 2026-01-01
 status: done
 ---
-Body one.
+# Note One
+
+Body one with some words.
 `;
 
 const NOTE2 = `---
@@ -20,7 +22,9 @@ tags: [b]
 date: 2026-01-02
 status: draft
 ---
-Body two.
+# Note Two
+
+Body two with some words.
 `;
 
 const NOTE3 = `---
@@ -29,7 +33,9 @@ tags: [c]
 date: 2026-01-03
 status: active
 ---
-Body three.
+# Note Three
+
+Body three with some words.
 `;
 
 async function writeNotes(dir: string): Promise<void> {
@@ -124,5 +130,47 @@ describe('runSafety', () => {
         vaultCopyRoot: origDir,
       }),
     ).rejects.toThrow('Refusing to run');
+  });
+
+  it('passByOp["patch-note"].pass = 3 (notes all have headings)', async () => {
+    await writeNotes(copyDir);
+    const freshAdapter = await FsAdapter.build({ vaultRoot: copyDir });
+    const summary = await runSafety({
+      originalVaultRoot: origDir,
+      backend: freshAdapter,
+      vaultCopyRoot: copyDir,
+      sampleSize: 25,
+    });
+    expect(summary.passByOp['patch-note'].pass).toBe(3);
+  });
+
+  it('passByOp["replace-in-note"].pass = 3 (notes all have 4+ letter words)', async () => {
+    await writeNotes(copyDir);
+    const freshAdapter = await FsAdapter.build({ vaultRoot: copyDir });
+    const summary = await runSafety({
+      originalVaultRoot: origDir,
+      backend: freshAdapter,
+      vaultCopyRoot: copyDir,
+      sampleSize: 25,
+    });
+    expect(summary.passByOp['replace-in-note'].pass).toBe(3);
+  });
+});
+
+describe('prepareSafetyVault', () => {
+  it('returns a copyRoot under os.tmpdir() containing the source files', async () => {
+    const { realpath } = await import('node:fs/promises');
+    const srcDir = await mkdtemp(join(tmpdir(), 'seekstone-prepare-safety-src-'));
+    await writeFile(join(srcDir, 'note.md'), '---\ntitle: T\n---\nBody.\n', 'utf8');
+    let copyRoot: string | undefined;
+    try {
+      copyRoot = await prepareSafetyVault(srcDir);
+      const tmpdirReal = await realpath(tmpdir());
+      expect(copyRoot.startsWith(tmpdirReal)).toBe(true);
+      expect(copyRoot).not.toBe(await realpath(srcDir));
+    } finally {
+      await rm(srcDir, { recursive: true, force: true });
+      if (copyRoot) await rm(copyRoot, { recursive: true, force: true });
+    }
   });
 });
