@@ -109,7 +109,7 @@ export function startWatcher(
     // lives — matched on the path relative to the vault root.
     ignored: (p: string) => {
       const rel = relative(ctx.vaultRoot, p);
-      if (!rel || rel === '.') return false;
+      if (!rel || rel === '.' || rel.startsWith('..')) return false;
       return rel
         .split(sep)
         .filter(Boolean)

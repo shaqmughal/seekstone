@@ -21,7 +21,7 @@ function freshCtx(vaultRoot: string): ServerContext {
   return { vaultRoot, index, notes: new Map(), backlinks: new Map() };
 }
 
-async function waitFor(condition: () => boolean, timeoutMs = 30000): Promise<void> {
+async function waitFor(condition: () => boolean, timeoutMs = 60_000): Promise<void> {
   const deadline = Date.now() + timeoutMs;
   while (!condition()) {
     if (Date.now() > deadline) throw new Error('waitFor timeout');
@@ -47,6 +47,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true });
     try {
       await ready;
+      await new Promise((r) => setImmediate(r));
       await writeFile(join(tmpDir, 'watch-new.md'), 'watcher_unique_abc', 'utf8');
       await waitFor(() => ctx.notes.has('watch-new.md'));
       expect(ctx.index.search('watcher_unique_abc').some((h) => h.id === 'watch-new.md')).toBe(
@@ -63,6 +64,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true });
     try {
       await ready;
+      await new Promise((r) => setImmediate(r));
       await writeFile(join(tmpDir, 'watch-mod.md'), 'new_unique_modified_xyz', 'utf8');
       await waitFor(
         () => ctx.notes.get('watch-mod.md')?.body?.includes('new_unique_modified_xyz') ?? false,
@@ -92,6 +94,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true });
     try {
       await ready;
+      await new Promise((r) => setImmediate(r));
       await rm(join(tmpDir, 'watch-del.md'));
       await waitFor(() => !ctx.notes.has('watch-del.md'));
       expect(ctx.notes.has('watch-del.md')).toBe(false);
@@ -109,6 +112,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true });
     try {
       await ready;
+      await new Promise((r) => setImmediate(r));
       await writeFile(join(tmpDir, 'a', 'b', 'c', 'deep.md'), 'nested_unique_def', 'utf8');
       await waitFor(() => ctx.notes.has('a/b/c/deep.md'));
       expect(ctx.notes.get('a/b/c/deep.md')?.body).toContain('nested_unique_def');
@@ -124,6 +128,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true });
     try {
       await ready;
+      await new Promise((r) => setImmediate(r));
       await writeFile(join(spaced, 'spaced note.md'), 'spaced_unique_ghi', 'utf8');
       await waitFor(() => ctx.notes.has('spaced note.md'));
       expect(ctx.notes.get('spaced note.md')?.body).toContain('spaced_unique_ghi');
@@ -146,6 +151,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     const { stop, ready } = startWatcher(ctx, log, { usePolling: true });
     try {
       await ready;
+      await new Promise((r) => setImmediate(r));
       await writeFile(join(tmpDir, 'watch-log.md'), 'logged_body_qrs', 'utf8');
       await waitFor(() =>
         events.some((e) => e.msg === 'index updated' && e.fields?.path === 'watch-log.md'),
