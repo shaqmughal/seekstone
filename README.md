@@ -14,6 +14,7 @@
   <a href="https://www.npmjs.com/package/seekstone"><img src="https://img.shields.io/npm/dt/seekstone?color=7c3aed&label=downloads" alt="npm total downloads" /></a>
   <a href="https://www.npmjs.com/package/seekstone"><img src="https://img.shields.io/npm/dw/seekstone?color=7c3aed&label=downloads%2Fwk" alt="npm weekly downloads" /></a>
   <a href="https://codecov.io/gh/shaqmughal/seekstone"><img src="https://codecov.io/gh/shaqmughal/seekstone/branch/main/graph/badge.svg" alt="Coverage" /></a>
+  <a href="https://app.codacy.com/gh/shaqmughal/seekstone/dashboard"><img src="https://app.codacy.com/project/badge/Grade/EUPSJNGG8B" alt="Codacy grade" /></a>
   <a href="https://github.com/shaqmughal/seekstone/actions/workflows/ci.yml"><img src="https://github.com/shaqmughal/seekstone/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
   <img src="https://img.shields.io/badge/Node.js-%E2%89%A522-339933?logo=node.js&logoColor=white" alt="Node.js ≥ 22" />
