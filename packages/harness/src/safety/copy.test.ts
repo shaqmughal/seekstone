@@ -87,4 +87,21 @@ describe('copyVault', () => {
       await rm(srcEqualsDest, { recursive: true, force: true });
     }
   });
+
+  it('throws when destination is inside source', async () => {
+    // Exercise the `destAbs.startsWith(srcAbs + '/')` guard in copyVault.
+    // On macOS, tmpdir() returns a symlink path (/var/...) while realpath
+    // resolves it to /private/var/..., so the guard string-comparison may
+    // not fire before the OS raises EINVAL from cp. Either way, copying a
+    // directory into itself must reject.
+    const outerLabel = `seekstone-test-outer-${Date.now()}`;
+    const innerLabel = `${outerLabel}/inner`;
+    const srcDir = join(tmpdir(), outerLabel);
+    await mkdir(srcDir, { recursive: true });
+    try {
+      await expect(copyVault(srcDir, { label: innerLabel })).rejects.toThrow();
+    } finally {
+      await rm(srcDir, { recursive: true, force: true });
+    }
+  });
 });
