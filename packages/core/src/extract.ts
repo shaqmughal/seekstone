@@ -17,10 +17,14 @@ export interface Wikilink {
   alias: string | null;
 }
 
-const WIKILINK_RE = /\[\[([^\]|#\n]+)(#[^\]|\n]+)?(\|[^\]\n]+)?\]\]/g;
+// Quantifiers are bounded at 512 chars — well above any real Obsidian note name
+// or heading (~255 byte OS limit) — to eliminate O(n²) backtracking on
+// pathological inputs where many [[... sequences appear with no closing ]].
+const WIKILINK_RE = /\[\[([^\]|#\n]{1,512})(#[^\]|\n]{1,512})?(\|[^\]\n]{1,512})?\]\]/g;
 
 // Matches both embeds (![[...]]) and plain wikilinks ([[...]]).
-const LINK_WITH_LINES_RE_SRC = /(!?\[\[)([^\]|#\n]+)(#[^\]|\n]+)?(\|[^\]\n]+)?(\]\])/.source;
+const LINK_WITH_LINES_RE_SRC =
+  /(!?\[\[)([^\]|#\n]{1,512})(#[^\]|\n]{1,512})?(\|[^\]\n]{1,512})?(\]\])/.source;
 
 export type LinkType = 'wikilink' | 'embed';
 
@@ -77,10 +81,15 @@ export function extractWikilinks(body: string): Wikilink[] {
 }
 
 export function extractUrls(body: string): string[] {
+  const TRAILING_PUNCT = '.,;:!?)';
   const out: string[] = [];
   for (const m of body.matchAll(URL_RE)) {
-    // Strip trailing punctuation that almost certainly isn't part of the URL.
-    out.push((m[0] ?? '').replace(/[.,;:!?)]+$/, ''));
+    // Strip trailing punctuation with a backward walk — avoids the O(n²)
+    // backtracking that /[.,;:!?)]+$/ exhibits on strings with many punct chars.
+    const raw = m[0] ?? '';
+    let end = raw.length;
+    while (end > 0 && TRAILING_PUNCT.includes(raw.charAt(end - 1))) end--;
+    out.push(raw.slice(0, end));
   }
   return out;
 }
