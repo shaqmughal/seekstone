@@ -8,19 +8,20 @@ on:
 # Never run two releases at once.
 concurrency: release-${{ github.ref }}
 
-permissions:
-  contents: write # changesets opens the version PR and pushes tags
-  pull-requests: write # changesets opens the version PR
-  id-token: write # npm provenance attestation
+permissions: read-all
 
 jobs:
   release:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # changesets opens the version PR and pushes tags
+      pull-requests: write # changesets opens the version PR
+      id-token: write # npm provenance attestation
     defaults:
       run:
         shell: bash
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5
         with:
           fetch-depth: 0
 
@@ -29,17 +30,17 @@ jobs:
       # with no token that line is empty and shadows OIDC (configured auth wins),
       # causing an unauthenticated publish → E404. Omitting it lets npm's
       # automatic OIDC trusted publishing handle auth against the default registry.
-      - uses: actions/setup-node@v5
+      - uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5
         with:
           node-version: '22'
           cache: 'npm'
 
       # OIDC trusted publishing requires npm >= 11.5.1.
       - name: Upgrade npm
-        run: npm install -g npm@latest
+        run: npm install -g npm@11.16.0
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Build server
         run: npm run build -w seekstone
@@ -66,7 +67,7 @@ jobs:
       # a no-op, so this is safe to re-run.
       - name: Create release PR or publish
         id: changesets
-        uses: changesets/action@v1
+        uses: changesets/action@3841a0683d3cfa6dae0f9bb335290003010fe3f0 # v1.9.0
         with:
           version: npm run version-packages
           publish: npm run release
