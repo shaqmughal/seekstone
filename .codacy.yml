@@ -1,0 +1,22 @@
+---
+# Codacy analysis configuration.
+# Docs: https://docs.codacy.com/repositories-configure/codacy-configuration-file/
+
+exclude_paths:
+  # Dependency trees — not our code, would inflate duplication + complexity.
+  - "node_modules/**"
+  - "packages/**/node_modules/**"
+
+  # Generated benchmark reports — markdown artifacts, not source.
+  - "reports/**"
+
+  # Query fixtures — JSON input data for the harness, not source code.
+  - "packages/harness/queries/**"
+
+  # Build output.
+  - "dist/**"
+  - "packages/**/dist/**"
+
+  # Coverage artefacts.
+  - "coverage/**"
+  - "packages/**/coverage/**"
