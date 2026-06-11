@@ -61,6 +61,13 @@ jobs:
           flags: server
           fail_ci_if_error: false
 
+      - name: Upload coverage to Codacy
+        if: matrix.os == 'ubuntu-latest'
+        uses: codacy/codacy-coverage-reporter-action@89d6c85cfafaec52c72b6c5e8b2878d33104c699 # v1.3.0
+        with:
+          project-token: ${{ secrets.CODACY_PROJECT_TOKEN }}
+          coverage-reports: packages/server/coverage/lcov.info
+
   changeset:
     name: changeset check
     runs-on: ubuntu-latest
