@@ -182,7 +182,7 @@ export function fmEditOp(original: Buffer): OpResult | null {
   const head = opensWithCRLF ? '---\r\n' : '---\n';
   const tail = opensWithCRLF ? '---\r\n' : '---\n';
   // doc.toString() ends with `\n`, which is the boundary before `---`.
-  const rebuilt = head + newYaml + tail.replace(/^/, '') + fm.body;
+  const rebuilt = head + newYaml + tail + fm.body;
   const newBytes = Buffer.from(rebuilt, 'utf8');
 
   return {
