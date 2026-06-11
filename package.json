@@ -27,10 +27,10 @@
     "@anthropic-ai/mcpb": "^2.1.2",
     "@biomejs/biome": "^1.9.4",
     "@changesets/cli": "^2.31.0",
-    "@types/node": "^22.10.0",
+    "@types/node": "^25.9.3",
     "@vitest/coverage-v8": "^4.1.8",
     "tsup": "^8.3.5",
-    "tsx": "^4.19.2",
+    "tsx": "^4.22.4",
     "typescript": "^5.7.2",
     "vitest": "^4.1.8"
   }
