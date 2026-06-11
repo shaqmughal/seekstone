@@ -1,3 +1,4 @@
+import { realpathSync } from 'node:fs';
 import { readFile } from 'node:fs/promises';
 import { join, relative, sep } from 'node:path';
 import { extractLinksWithLines } from '@seekstone/core/extract';
@@ -78,12 +79,27 @@ export function startWatcher(
   opts?: WatcherOptions,
 ): WatcherHandle {
   const usePolling = opts?.usePolling ?? process.env.SEEKSTONE_WATCH_POLL === '1';
+
+  // chokidar's followSymlinks=true (the default) calls fs.realpath() on the
+  // watched path, so events arrive with the real (resolved) path. On Windows,
+  // os.tmpdir() can return 8.3 short paths (e.g. RUNNER~1) while realpath()
+  // expands them to the long form. Without pre-resolving here, relative()
+  // inside the ignored predicate and toRel() would produce ".." segments;
+  // ".." starts with "." and trips the dot-directory filter, silencing every
+  // event — the root cause of the flaky "vault path containing spaces" test.
+  let vaultRoot = ctx.vaultRoot;
+  try {
+    vaultRoot = realpathSync(ctx.vaultRoot);
+  } catch {
+    // Vault doesn't exist yet or can't be resolved — keep original path.
+  }
+
   // Index keys are forward-slash vault-relative paths on every platform.
-  const toRel = (abs: string): string => relative(ctx.vaultRoot, abs).split(sep).join('/');
+  const toRel = (abs: string): string => relative(vaultRoot, abs).split(sep).join('/');
 
   async function upsert(relPath: string, op: 'add' | 'change'): Promise<void> {
     try {
-      const raw = await readFile(join(ctx.vaultRoot, relPath), 'utf8');
+      const raw = await readFile(join(vaultRoot, relPath), 'utf8');
       removeNoteBacklinks(ctx, relPath);
       upsertDoc(ctx, buildDoc(relPath, raw));
       addNoteBacklinks(ctx, relPath, raw);
@@ -108,7 +124,7 @@ export function startWatcher(
     if (relPath.endsWith('.md')) void upsert(relPath, op);
   };
 
-  const watcher = chokidar.watch(ctx.vaultRoot, {
+  const watcher = chokidar.watch(vaultRoot, {
     // The startup index build already covers existing files.
     ignoreInitial: true,
     usePolling,
@@ -117,12 +133,15 @@ export function startWatcher(
     // Skip dot-dirs (.obsidian, .git, .trash, …) regardless of where the vault
     // lives — matched on the path relative to the vault root.
     ignored: (p: string) => {
-      const rel = relative(ctx.vaultRoot, p);
+      const rel = relative(vaultRoot, p);
       if (!rel || rel === '.') return false;
+      // Exclude ".." — it means "outside the vault root" (a path normalisation
+      // mismatch), not a dotfile. Treating ".." as a dot-segment would silence
+      // all events if the ignored predicate ever receives an out-of-root path.
       return rel
         .split(sep)
         .filter(Boolean)
-        .some((seg) => seg.startsWith('.'));
+        .some((seg) => seg.startsWith('.') && seg !== '..');
     },
   });
 
