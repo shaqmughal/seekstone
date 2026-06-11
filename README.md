@@ -19,6 +19,7 @@
   <a href="https://snyk.io/test/github/shaqmughal/seekstone"><img src="https://snyk.io/test/github/shaqmughal/seekstone/badge.svg?targetFile=packages/server/package.json" alt="Known vulnerabilities" /></a>
   <a href="https://github.com/shaqmughal/seekstone/actions/workflows/ci.yml"><img src="https://github.com/shaqmughal/seekstone/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
   <a href="https://scorecard.dev/viewer/?uri=github.com/shaqmughal/seekstone"><img src="https://api.scorecard.dev/projects/github.com/shaqmughal/seekstone/badge" alt="OpenSSF Scorecard" /></a>
+  <a href="https://www.bestpractices.dev/projects/13166"><img src="https://www.bestpractices.dev/projects/13166/badge" alt="OpenSSF Best Practices" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
   <img src="https://img.shields.io/badge/Node.js-%E2%89%A522-339933?logo=node.js&logoColor=white" alt="Node.js ≥ 22" />
   <a href="https://glama.ai/mcp/servers/shaqmughal/seekstone"><img src="https://glama.ai/mcp/servers/shaqmughal/seekstone/badges/score.svg" alt="shaqmughal/seekstone MCP server" /></a>
