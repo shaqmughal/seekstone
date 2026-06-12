@@ -109,7 +109,9 @@ export function formatMomentDate(date: Date, format: string): string {
     .replace(/W/g, String(isoWeek))
     .replace(/Q/g, String(quarter));
 
-  // Restore literals.
+  // Restore literals. Built via RegExp constructor because the placeholder is a
+  // control char (\x00) that Biome disallows in a regex literal; Codacy's
+  // non-literal-RegExp pattern is disabled repo-wide for this safe internal use.
   return s.replace(
     new RegExp(`${PLACEHOLDER}(\\d+)${PLACEHOLDER}`, 'g'),
     (_, i) => literals[+i] ?? '',

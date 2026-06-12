@@ -23,8 +23,8 @@ export interface Wikilink {
 const WIKILINK_RE = /\[\[([^\]|#\n]{1,512})(#[^\]|\n]{1,512})?(\|[^\]\n]{1,512})?\]\]/g;
 
 // Matches both embeds (![[...]]) and plain wikilinks ([[...]]).
-const LINK_WITH_LINES_RE_SRC =
-  /(!?\[\[)([^\]|#\n]{1,512})(#[^\]|\n]{1,512})?(\|[^\]\n]{1,512})?(\]\])/.source;
+const LINK_WITH_LINES_RE =
+  /(!?\[\[)([^\]|#\n]{1,512})(#[^\]|\n]{1,512})?(\|[^\]\n]{1,512})?(\]\])/g;
 
 export type LinkType = 'wikilink' | 'embed';
 
@@ -48,7 +48,7 @@ export function extractLinksWithLines(raw: string): LinkRecord[] {
   const out: LinkRecord[] = [];
   const lines = raw.split('\n');
   for (const [lineIdx, lineText] of lines.entries()) {
-    for (const m of lineText.matchAll(new RegExp(LINK_WITH_LINES_RE_SRC, 'g'))) {
+    for (const m of lineText.matchAll(LINK_WITH_LINES_RE)) {
       const prefix = m[1] ?? '';
       out.push({
         raw: m[0] ?? '',
