@@ -2,7 +2,7 @@ import { mkdir, mkdtemp, realpath, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
-import { copyVault, scratchPath } from './copy.js';
+import { copyVault, isCopyExcluded, scratchPath } from './copy.js';
 
 describe('scratchPath', () => {
   it('returns a string containing tmpdir() and the label', () => {
@@ -16,6 +16,31 @@ describe('scratchPath', () => {
     const a = scratchPath('label-a');
     const b = scratchPath('label-b');
     expect(a).not.toBe(b);
+  });
+});
+
+describe('isCopyExcluded', () => {
+  it('excludes .obsidian / .git / .trash with POSIX separators', () => {
+    expect(isCopyExcluded('/.obsidian')).toBe(true);
+    expect(isCopyExcluded('/sub/.obsidian/app.json')).toBe(true);
+    expect(isCopyExcluded('/.git')).toBe(true);
+    expect(isCopyExcluded('/notes/.trash/old.md')).toBe(true);
+  });
+
+  it('excludes the same dirs with Windows backslash separators', () => {
+    // fs.cp passes native paths; on Windows these arrive with backslashes.
+    expect(isCopyExcluded('\\.obsidian')).toBe(true);
+    expect(isCopyExcluded('\\sub\\.obsidian\\app.json')).toBe(true);
+    expect(isCopyExcluded('\\.git')).toBe(true);
+    expect(isCopyExcluded('\\notes\\.trash\\old.md')).toBe(true);
+  });
+
+  it('does not exclude the vault root, regular notes, or look-alike names', () => {
+    expect(isCopyExcluded('')).toBe(false); // root itself — must be copied
+    expect(isCopyExcluded('/note.md')).toBe(false);
+    expect(isCopyExcluded('\\folder\\note.md')).toBe(false);
+    expect(isCopyExcluded('/my.obsidian.md')).toBe(false); // substring, not a dir
+    expect(isCopyExcluded('/.obsidianfoo')).toBe(false); // prefix, not exact dir
   });
 });
 
