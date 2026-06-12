@@ -6,7 +6,11 @@ import type { ServerContext } from '../context.js';
 
 export const ReplaceInNoteInput = z.object({
   path: z.string().describe('Vault-relative path to the note.'),
-  find: z.string().min(1).describe('Text or pattern to find.'),
+  find: z
+    .string()
+    .min(1)
+    .max(1000)
+    .describe('Text or pattern to find (max 1000 chars; bounds regex-mode pattern size).'),
   replace: z
     .string()
     .describe('Replacement text. Supports $1, $2, … backreferences in regex mode.'),
