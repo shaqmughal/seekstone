@@ -65,7 +65,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
       await ready;
       await writeFile(join(tmpDir, 'watch-mod.md'), 'new_unique_modified_xyz', 'utf8');
       await waitFor(
-        () => ctx.notes.get('watch-mod.md')?.body?.includes('new_unique_modified_xyz') ?? false,
+        () => ctx.notes.get('watch-mod.md')?.body.includes('new_unique_modified_xyz') ?? false,
       );
       expect(ctx.notes.get('watch-mod.md')?.body).toContain('new_unique_modified_xyz');
     } finally {
@@ -197,6 +197,8 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
   it('returns a stop function that closes the watcher', () => {
     const ctx = freshCtx(tmpDir);
     const { stop } = startWatcher(ctx, undefined, { usePolling: true });
-    expect(() => stop()).not.toThrow();
+    expect(() => {
+      stop();
+    }).not.toThrow();
   });
 });

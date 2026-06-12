@@ -74,7 +74,7 @@ describe('obsidian-mcp-seekstone smoke: full boot via shim', () => {
         child.kill();
         resolve({ stderr, stdout });
       }, 3000);
-      t.unref?.();
+      t.unref();
     });
     expect(result.stderr).toContain('ready');
     expect(result.stdout).toBe('');
