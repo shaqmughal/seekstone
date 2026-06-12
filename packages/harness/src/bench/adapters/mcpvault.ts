@@ -113,7 +113,11 @@ export class McpvaultAdapter implements Backend {
   async close(): Promise<void> {
     this.rl.close();
     this.proc.kill();
-    await new Promise<void>((resolve) => this.proc.once('exit', () => resolve()));
+    await new Promise<void>((resolve) => {
+      this.proc.once('exit', () => {
+        resolve();
+      });
+    });
   }
 
   async search(query: string): Promise<BackendResponse<SearchHit[]>> {
