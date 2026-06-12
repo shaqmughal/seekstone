@@ -1,12 +1,29 @@
 import { cp, mkdir, realpath } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
-import { join, resolve } from 'node:path';
+import { join, resolve, sep } from 'node:path';
 
 export interface CopyResult {
   /** Absolute, real path of the safety copy. */
   copyRoot: string;
   /** Absolute, real path of the original (for the guard check). */
   originalRoot: string;
+}
+
+/**
+ * Vault-relative paths skipped when copying a scratch vault: the big
+ * .obsidian / .git / .trash dirs that write-safety tests don't need and that
+ * would blow the scratch budget on large vaults.
+ *
+ * Separator-agnostic: fs.cp passes native paths (backslashes on Windows), so
+ * we normalise before matching — otherwise these exclusions silently never
+ * fire on Windows.
+ */
+export function isCopyExcluded(rel: string): boolean {
+  const norm = rel.replaceAll('\\', '/');
+  for (const dir of ['.obsidian', '.trash', '.git']) {
+    if (norm.includes(`/${dir}/`) || norm.endsWith(`/${dir}`)) return true;
+  }
+  return false;
 }
 
 /**
@@ -24,29 +41,31 @@ export async function copyVault(
 ): Promise<CopyResult> {
   const srcAbs = await realpath(resolve(srcRoot));
   const label = opts.label ?? `seekstone-safety-${Date.now()}`;
-  const destAbs = resolve(tmpdir(), label);
+  // realpath the tmpdir base so destAbs is the same (long) form as srcAbs.
+  // On Windows, os.tmpdir() can return an 8.3 short path (e.g. RUNNER~1);
+  // leaving it unresolved makes the dest==src / inside-source guards compare
+  // mismatched path forms (so they never fire) and feeds fs.cp a short path it
+  // intermittently mis-resolves into a spurious ENOENT. Same root cause as the
+  // watcher fix in SHA-144; see SHA-152.
+  const destAbs = resolve(await realpath(tmpdir()), label);
 
   if (destAbs === srcAbs) {
     throw new Error(`Refusing to copy: destination equals source (${srcAbs}).`);
   }
-  if (destAbs.startsWith(`${srcAbs}/`)) {
+  if (destAbs.startsWith(`${srcAbs}${sep}`)) {
     throw new Error(`Refusing to copy: destination is inside source.`);
   }
 
   await mkdir(destAbs, { recursive: true });
   await cp(srcAbs, destAbs, {
     recursive: true,
-    force: true,
+    // force defaults to true, which makes fs.cp unlink-before-overwrite — a
+    // step that intermittently throws a spurious ENOENT on Windows. The dest is
+    // a freshly created, uniquely-labelled empty dir, so there is nothing to
+    // overwrite and force buys us nothing.
+    force: false,
     preserveTimestamps: true,
-    // Skip the giant .obsidian/.git/.trash dirs — write-safety tests don't need them
-    // and copying them blows the scratch budget on big vaults.
-    filter: (src) => {
-      const rel = src.slice(srcAbs.length);
-      if (rel.includes('/.obsidian/') || rel.endsWith('/.obsidian')) return false;
-      if (rel.includes('/.trash/') || rel.endsWith('/.trash')) return false;
-      if (rel.includes('/.git/') || rel.endsWith('/.git')) return false;
-      return true;
-    },
+    filter: (src) => !isCopyExcluded(src.slice(srcAbs.length)),
   });
 
   return {
