@@ -73,9 +73,9 @@ export function createLogger(opts: LoggerOptions = {}): Logger {
   const stderr = opts.stderr ?? ((line: string): void => void process.stderr.write(line));
   const now = opts.now ?? ((): Date => new Date());
 
-  const level = parseLevel(env.SEEKSTONE_LOG_LEVEL, (m) =>
-    stderr(`WARN  ${now().toISOString()} ${m}\n`),
-  );
+  const level = parseLevel(env.SEEKSTONE_LOG_LEVEL, (m) => {
+    stderr(`WARN  ${now().toISOString()} ${m}\n`);
+  });
   const threshold = ORDER.indexOf(level);
 
   const filePath = env.SEEKSTONE_LOG_FILE;
@@ -125,9 +125,17 @@ export function createLogger(opts: LoggerOptions = {}): Logger {
 
   return {
     level,
-    error: (m, f) => emit('error', m, f),
-    warn: (m, f) => emit('warn', m, f),
-    info: (m, f) => emit('info', m, f),
-    debug: (m, f) => emit('debug', m, f),
+    error: (m, f) => {
+      emit('error', m, f);
+    },
+    warn: (m, f) => {
+      emit('warn', m, f);
+    },
+    info: (m, f) => {
+      emit('info', m, f);
+    },
+    debug: (m, f) => {
+      emit('debug', m, f);
+    },
   };
 }

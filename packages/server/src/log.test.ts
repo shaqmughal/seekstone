@@ -122,7 +122,9 @@ describe('createLogger file sink', () => {
     const log = createLogger({ env: { SEEKSTONE_LOG_FILE: bad }, stderr: s.write, now });
     // Warns about the file, then keeps logging to stderr without throwing.
     expect(s.lines.some((l) => l.includes('cannot write log file'))).toBe(true);
-    expect(() => log.info('still works')).not.toThrow();
+    expect(() => {
+      log.info('still works');
+    }).not.toThrow();
     expect(s.lines.some((l) => l.includes('still works'))).toBe(true);
   });
 });

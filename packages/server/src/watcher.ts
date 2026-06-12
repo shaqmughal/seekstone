@@ -155,7 +155,9 @@ export function startWatcher(
     });
 
   const ready = new Promise<void>((resolve) => {
-    watcher.once('ready', () => resolve());
+    watcher.once('ready', () => {
+      resolve();
+    });
   });
 
   return {
