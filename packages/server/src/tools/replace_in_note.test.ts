@@ -5,7 +5,7 @@ import MiniSearch from 'minisearch';
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
 import type { IndexedNote } from '../index/types.js';
-import { replaceInNote } from './replace_in_note.js';
+import { ReplaceInNoteInput, replaceInNote } from './replace_in_note.js';
 
 const NOTE = `---
 title: Test Note
@@ -240,6 +240,20 @@ describe('replaceInNote — regex mode', () => {
     ).rejects.toThrow('Invalid regex');
     const after = await readFile(join(vaultRoot, 'note.md'), 'utf8');
     expect(after).toBe(before);
+  });
+});
+
+describe('ReplaceInNoteInput — find length bound (ReDoS guard)', () => {
+  const base = { path: 'note.md', replace: 'x' };
+
+  it('rejects a find longer than 1000 chars', () => {
+    const parsed = ReplaceInNoteInput.safeParse({ ...base, find: 'a'.repeat(1001) });
+    expect(parsed.success).toBe(false);
+  });
+
+  it('accepts a find at the 1000-char cap', () => {
+    const parsed = ReplaceInNoteInput.safeParse({ ...base, find: 'a'.repeat(1000) });
+    expect(parsed.success).toBe(true);
   });
 });
 
