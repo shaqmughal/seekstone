@@ -115,7 +115,7 @@ function detectSystemicFailures(s: SafetySummary): SystemicFinding[] {
   return findings;
 }
 
-function opVerdict(op: string, pass: number, fail: number, total: number): string {
+function opVerdict(_op: string, pass: number, fail: number, total: number): string {
   if (fail === 0) return '✅ Pass';
   if (pass === 0) return `❌ **Fail — all ${total} notes** (systemic)`;
   return `⚠️ Partial — ${fail}/${total} failed`;

@@ -1,19 +1,18 @@
 #!/usr/bin/env -S npx tsx
-import { mkdir, writeFile } from 'node:fs/promises';
-import { readFile } from 'node:fs/promises';
+import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { join, resolve } from 'node:path';
 import { cac } from 'cac';
 import { McpObsidianAdapter } from './bench/adapters/mcp-obsidian.js';
 import { McpvaultAdapter } from './bench/adapters/mcpvault.js';
+import { ObsidianMcpAdapter } from './bench/adapters/obsidian-mcp.js';
 import { ObsidianMcpProAdapter } from './bench/adapters/obsidian-mcp-pro.js';
 import { ObsidianMcpServerAdapter } from './bench/adapters/obsidian-mcp-server.js';
-import { ObsidianMcpAdapter } from './bench/adapters/obsidian-mcp.js';
 import { SeekstoneAdapter } from './bench/adapters/seekstone.js';
 import { renderComparisonMarkdown } from './bench/compare.js';
 import {
   FsAdapter,
-  RestAdapter,
   loadQuerySet,
+  RestAdapter,
   renderBenchmarkMarkdown,
   runBenchmark,
 } from './bench/index.js';

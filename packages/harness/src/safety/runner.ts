@@ -3,15 +3,15 @@ import { join, resolve } from 'node:path';
 import type { Backend } from '../bench/backend.js';
 import { copyVault } from './copy.js';
 import {
-  type OpKind,
-  type OpResult,
   bodyAppendOp,
   fmEditOp,
   identityOp,
+  type OpKind,
+  type OpResult,
   patchNoteOp,
   replaceInNoteOp,
 } from './ops.js';
-import { type Candidate, selectFrontmatterHeavyNotes } from './select.js';
+import { selectFrontmatterHeavyNotes } from './select.js';
 
 export interface SafetyOpResult {
   op: OpKind;

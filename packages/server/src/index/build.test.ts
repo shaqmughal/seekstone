@@ -1,4 +1,4 @@
-import { chmod, mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
+import { chmod, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
@@ -33,9 +33,6 @@ afterAll(async () => {
 
 describe('buildIndex', () => {
   it('index contains all .md files in vault', async () => {
-    const { index } = await buildIndex(vaultRoot);
-    // MiniSearch doesn't expose a direct count, but search for common words
-    // and count unique ids — instead use notes map
     const { notes } = await buildIndex(vaultRoot);
     expect(notes.size).toBe(2);
   });

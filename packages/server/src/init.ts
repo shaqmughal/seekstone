@@ -4,7 +4,7 @@
 // of which function is used; that score penalty is accepted. See SHA-139.
 import { execFileSync } from 'node:child_process';
 import type { Dirent } from 'node:fs';
-import { access, copyFile, mkdir, readFile, readdir, stat, writeFile } from 'node:fs/promises';
+import { access, copyFile, mkdir, readdir, readFile, stat, writeFile } from 'node:fs/promises';
 import path, { dirname, join } from 'node:path';
 
 /**
