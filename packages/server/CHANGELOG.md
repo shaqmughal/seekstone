@@ -1,5 +1,15 @@
 # seekstone
 
+## 0.6.1
+
+### Patch Changes
+
+- d1a7fb1: Bump chokidar from 4.x to 5.x (bundled dependency — no API surface change for consumers).
+- 3bafa80: Bump zod from 3.x to 4.x (bundled dependency — no API surface change for consumers).
+- d2ac3d5: Fix watcher silently dropping all events on Windows when the vault path contains 8.3 short names (e.g. `RUNNER~1`). chokidar's `followSymlinks: true` expands short paths to long form via `realpath()`, causing `relative()` to produce `..` segments that the dot-directory filter incorrectly matched. Now resolves the vault root via `realpathSync` at startup so path comparisons are consistent.
+- 2cda8b8: Bound `replace_in_note`'s `find` parameter to 1000 chars at the schema boundary, capping the size of any caller-supplied pattern in `regex: true` mode (ReDoS / self-DoS guard). Also converts an internal `new RegExp(constant.source)` in the link extractor to a direct regex literal — behavior-neutral, removes a per-line allocation, and clears a Codacy non-literal-RegExp false positive.
+- 2d9588f: Add a process-level `unhandledRejection` guard to the server entrypoint. A stray unhandled promise rejection now logs to stderr and the long-lived stdio session stays up (preserving the in-memory index) instead of crashing the user's MCP session. `uncaughtException` is intentionally left to Node's default crash behaviour.
+
 ## 0.6.0
 
 ### Minor Changes

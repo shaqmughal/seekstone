@@ -1,6 +1,6 @@
 {
   "name": "@seekstone/core",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "type": "module",
   "description": "Shared vault primitives — walk, frontmatter, extract, percentiles. Used by both harness and server.",
