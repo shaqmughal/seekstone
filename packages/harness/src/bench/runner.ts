@@ -1,7 +1,7 @@
 import { readFile } from 'node:fs/promises';
 import type { Backend } from './backend.js';
 import type { QuerySet } from './queries.js';
-import { type RunStats, type StreamStats, runN, runNStream } from './timer.js';
+import { type RunStats, runN, runNStream, type StreamStats } from './timer.js';
 
 export interface ToolBenchmarks {
   /** list_notes — vault-wide listing, no filters. */

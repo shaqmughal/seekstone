@@ -1,5 +1,5 @@
 import { type ChildProcess, spawn } from 'node:child_process';
-import { type Interface, createInterface } from 'node:readline';
+import { createInterface, type Interface } from 'node:readline';
 import type { Backend, BackendResponse, ListEntry, SearchHit } from '../backend.js';
 
 /**
