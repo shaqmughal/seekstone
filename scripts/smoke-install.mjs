@@ -72,7 +72,7 @@ try {
   writeFileSync(join(vault, 'Notes', 'Hello.md'), '---\ntitle: Hi\n---\n# Hi\nbody\n');
 
   // 4. Boot each bin and verify: ready on stderr, clean stdout.
-  async function bootAndVerify(binPath, label) {
+  const bootAndVerify = async (binPath, label) => {
     console.log(`• booting ${label}…`);
     await new Promise((resolve, reject) => {
       const child = spawn(process.execPath, [binPath], {
@@ -100,7 +100,7 @@ try {
       }, 4000);
       timer.unref?.();
     });
-  }
+  };
 
   const seekstoneEntry = join(proj, 'node_modules', 'seekstone', 'dist', 'index.js');
   await bootAndVerify(seekstoneEntry, 'seekstone');
