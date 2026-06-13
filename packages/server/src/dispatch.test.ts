@@ -3,10 +3,10 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterAll, beforeAll, describe, expect, it, vi } from 'vitest';
 import type { ServerContext } from './context.js';
-import { HANDLED_TOOLS, dispatch } from './dispatch.js';
+import { dispatch, HANDLED_TOOLS } from './dispatch.js';
 import { buildIndex } from './index/build.js';
-import { createLogger } from './log.js';
 import type { Logger } from './log.js';
+import { createLogger } from './log.js';
 
 interface LogRecord {
   level: string;

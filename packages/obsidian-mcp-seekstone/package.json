@@ -40,7 +40,11 @@
   "bin": {
     "obsidian-mcp-seekstone": "./bin/seekstone.js"
   },
-  "files": ["bin", "README.md", "LICENSE"],
+  "files": [
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
   "scripts": {
     "test": "vitest run"
   },

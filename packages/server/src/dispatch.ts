@@ -13,8 +13,8 @@ import { PatchFrontmatterInput, patchFrontmatter } from './tools/patch_frontmatt
 import { PatchNoteInput, patchNote } from './tools/patch_note.js';
 import {
   AppendPeriodicNoteInput,
-  GetPeriodicNoteInput,
   appendPeriodicNote,
+  GetPeriodicNoteInput,
   getPeriodicNote,
 } from './tools/periodic_note.js';
 import { ReadNoteInput, readNote } from './tools/read_note.js';

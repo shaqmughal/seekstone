@@ -1,6 +1,6 @@
 import { join } from 'node:path';
-import { extractLinksWithLines } from '@seekstone/core/extract';
 import type { LinkType } from '@seekstone/core/extract';
+import { extractLinksWithLines } from '@seekstone/core/extract';
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
 import { resolveLink } from '../index/resolve.js';
