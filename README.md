@@ -5,8 +5,8 @@
   </picture>
 </p>
 
-<p align="center"><strong>The Obsidian MCP server for Claude — search and edit your vault without burning context.</strong></p>
-<p align="center"><em>Filesystem-direct · No plugins · No Obsidian app required · macOS · Linux · Windows</em></p>
+<p align="center"><strong>The fastest Obsidian MCP server for Claude — search and edit your vault in milliseconds, without burning context.</strong></p>
+<p align="center"><em>Filesystem-direct · 16 tools · No plugins · No Obsidian app required · macOS · Linux · Windows</em></p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/obsidian-mcp-seekstone"><img src="https://img.shields.io/npm/v/obsidian-mcp-seekstone?color=cb3837&logo=npm&label=obsidian-mcp-seekstone" alt="npm" /></a>
@@ -32,7 +32,12 @@
 
 **Seekstone is an Obsidian MCP server** — it gives Claude (and any [Model Context Protocol](https://modelcontextprotocol.io) client) direct read and write access to your Obsidian vault. No Obsidian app needs to be open, no plugins are required, and nothing leaves your machine.
 
-It reads your vault **directly from disk** rather than routing through the Obsidian Local REST API plugin. The practical difference: a search that returns ~1.75 MB and ~459,000 tokens via the REST plugin returns **~3 KB and ~800 tokens** via Seekstone — a **~575× reduction**. Claude can search and read your entire note library without burning most of its context window on a single tool call.
+It reads your vault **directly from disk** rather than routing through the Obsidian Local REST API plugin, and holds a warm full-text index in-process. The practical difference is twofold:
+
+- **Speed.** Searches return in **1.4–3.2 ms** warm — **25–160× faster** than every other Obsidian MCP server we benchmarked, because there's no subprocess to spawn and no HTTP round-trip per query.
+- **Context.** A search that returns ~1.75 MB and ~459,000 tokens via the REST plugin returns **~3 KB and ~800 tokens** via Seekstone — a **~575× reduction**.
+
+Claude can search and read your entire note library, in milliseconds, without burning most of its context window on a single tool call.
 
 **Two npm names, one server** — published under both for discoverability:
 
@@ -53,7 +58,7 @@ Seekstone returns ~200-character ranked excerpts instead. We benchmarked Seeksto
 
 | Server | Architecture | Warm p50 | vs Seekstone |
 |---|---|---|---|
-| **Seekstone** | in-process MiniSearch index | **1.4–3.2 ms** | — |
+| 🥇 **Seekstone** | **in-process MiniSearch index** | **1.4–3.2 ms** | **—** |
 | [obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) | REST API | 45–71 ms | ~25–32× slower |
 | [mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) | REST API | 53–109 ms | ~35–50× slower |
 | [obsidian-mcp-pro](https://github.com/rps321321/obsidian-mcp-pro) | fs-direct subprocess | 100–107 ms | ~45× slower |
@@ -66,7 +71,7 @@ The gap is architectural: every competitor spawns a subprocess or makes HTTP rou
 
 | Server | Range | vs Seekstone |
 |---|---|---|
-| **Seekstone** | **3–5 KB** | — |
+| 🥇 **Seekstone** | **3–5 KB** | **—** |
 | mcpvault | 3–4 KB | ~1× |
 | obsidian-mcp-pro | 3–180 KB | up to 28× |
 | obsidian-mcp-server | 81–135 KB | ~28× |
@@ -75,7 +80,7 @@ The gap is architectural: every competitor spawns a subprocess or makes HTTP rou
 
 REST-proxy servers return full note content for every match. A single "deep work" query via mcp-obsidian returned 3.84 MB — over a million tokens. Seekstone returns the same query in 4 KB.
 
-The harness and methodology are [open source](packages/harness) — run it against your own vault.
+Seekstone is the only Obsidian MCP server with published, reproducible benchmarks: the harness and methodology are [open source](packages/harness) — run it against your own vault and verify every number here.
 
 ---
 
@@ -154,7 +159,7 @@ claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- n
 
 ---
 
-After installing, restart the client. On startup Seekstone walks the vault, builds an in-memory full-text index (a few seconds for thousands of notes), and keeps it live as you edit. The eight tools below are then available to Claude.
+After installing, restart the client. On startup Seekstone walks the vault, builds an in-memory full-text index (a few seconds for thousands of notes), and keeps it live as you edit. The 16 tools below are then available to Claude.
 
 Requires [Node.js](https://nodejs.org) ≥ 22 for the CLI options. The one-click `.mcpb` bundle has no external requirements.
 
@@ -166,12 +171,14 @@ Once Seekstone is connected, you can ask Claude things like:
 
 - **"Search my notes for everything about [topic] and give me a summary"** — uses `search`, returns ranked excerpts, not full files
 - **"Find all notes tagged #project and list their titles"** — uses `list_notes` with a tag filter
-- **"Read my note on [topic] and suggest improvements"** — uses `read_note`
-- **"Create a new meeting note for today with a standard template"** — uses `create_note`
+- **"Read just the 'Decisions' section of my [project] note"** — uses `read_note` with a section selector, so only that slice enters context
+- **"What links to my [topic] note, and what does it link out to?"** — uses `get_backlinks` and `get_links` to walk your graph
+- **"Append today's standup notes to my daily note"** — uses `append_periodic_note`, resolving the daily-note path from your vault config (Obsidian doesn't need to be open)
+- **"Fix every occurrence of the old project name in this note"** — uses `replace_in_note`, with a dry-run preview before it writes
 - **"Add a summary section to the bottom of [note]"** — uses `append_note`, never touches frontmatter
 - **"Move all notes in /inbox to /archive/[year]"** — uses `move_note`
 - **"Update the status field in this note's frontmatter to 'done'"** — uses `patch_frontmatter`, preserves key order and quote style
-- **"Delete the scratch note at [path]"** — uses `delete_note`
+- **"Create a new meeting note for today with a standard template"** — uses `create_note`
 
 Claude never sees your full vault at once — it searches and reads selectively, so even large vaults (10k+ notes) stay within context budget.
 
@@ -190,7 +197,7 @@ Claude never sees your full vault at once — it searches and reads selectively,
 | `outline_note` | Return a note's heading and block structure without its full content — cheap navigation before a targeted read. |
 | `get_backlinks` | Find all notes that link to a given note. |
 | `get_links` | List all outgoing wikilinks and markdown links from a note. |
-| `get_periodic_note` | Read today's (or any date's) daily, weekly, or monthly note. |
+| `get_periodic_note` | Read today's (or any date's) daily, weekly, monthly, quarterly, or yearly note — path resolved from your vault config, no Obsidian required. |
 
 ### Write
 
@@ -205,7 +212,11 @@ Claude never sees your full vault at once — it searches and reads selectively,
 | `replace_in_note` | Replace the first occurrence of a word or phrase in the note body. |
 | `append_periodic_note` | Append to today's periodic note, creating it from a template if it doesn't yet exist. |
 
-Seekstone is the only Obsidian MCP server in our benchmark set to implement `list_tags`, `outline_note`, `get_backlinks`, and `get_links`. Every other tested server supports only search, read, list, and write.
+**Fast *and* complete.** Seekstone is the only Obsidian MCP server in our benchmark set to implement `list_tags`, `outline_note`, `get_backlinks`, and `get_links` — every other tested server supports only search, read, list, and write. Three more capabilities set it apart:
+
+- **Periodic notes, filesystem-direct.** `get_periodic_note` and `append_periodic_note` resolve daily, weekly, monthly, quarterly, and yearly note paths by reading your vault's own config (`.obsidian/daily-notes.json` and the Periodic Notes plugin) — **with Obsidian closed.** Every REST-based server can only do this while the app is running.
+- **Byte-identical frontmatter, guaranteed.** `patch_frontmatter` edits YAML in place — preserving key order, quote style, and comments — and write-safety is proven byte-for-byte by the test harness. No other server we surveyed makes this guarantee.
+- **Zero coupling.** No Obsidian app, no Local REST API plugin, no plugin-version drift. Just your files on disk.
 
 ---
 
@@ -225,6 +236,8 @@ Seekstone is the only Obsidian MCP server in our benchmark set to implement `lis
 Seekstone walks the vault with `fast-glob`, parses each note's frontmatter (byte-aware, so writes can prove the frontmatter region is byte-identical pre- and post-write), and builds a [MiniSearch](https://github.com/lucaong/minisearch) full-text index in memory. Search returns short ranked excerpts rather than whole notes — that excerpt-not-document design is where the context-tax win comes from. A cross-platform file watcher ([chokidar](https://github.com/paulmillr/chokidar)) keeps the index current as you edit in Obsidian.
 
 Writes are conservative by design: `append_note` never touches frontmatter, and `patch_frontmatter` edits the YAML document in place rather than re-serializing it, preserving key order, quote style, and comments.
+
+It's built to stay up. Seekstone is tested on macOS, Linux, and Windows in CI on every commit, its write tools are hardened against pathological (ReDoS) inputs, and a stray unhandled rejection is logged rather than crashed on — so your long-lived MCP session keeps its warm index instead of dropping out mid-conversation.
 
 ---
 
@@ -246,7 +259,7 @@ No. Seekstone bypasses it entirely — that's the source of the 575× payload re
 Any client that supports the [Model Context Protocol](https://modelcontextprotocol.io) (MCP) over stdio — Claude Desktop, Claude Code, Cursor, Windsurf, Continue, and others.
 
 **Is it safe to use on my vault?**
-Seekstone never modifies files except when you explicitly invoke a write tool (`create_note`, `append_note`, `patch_frontmatter`, `move_note`, `delete_note`). It makes no network requests. The vault path is sandboxed — no tool can read or write outside it.
+Seekstone never modifies files except when you explicitly invoke one of its write tools (the eight in the table above — `create_note`, `append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `move_note`, `delete_note`, `append_periodic_note`). It makes no network requests. The vault path is sandboxed — no tool can read or write outside it.
 
 **Does it work on Windows?**
 Yes. Seekstone is tested on macOS, Linux, and Windows in CI on every commit.
@@ -282,7 +295,7 @@ npx tsc -p packages/server/tsconfig.json --noEmit        # typecheck
 
 | Package | Purpose |
 |---|---|
-| `packages/server` | The published `seekstone` MCP server (8 tools, stdio, MiniSearch index, chokidar watcher). |
+| `packages/server` | The published `seekstone` MCP server (16 tools, stdio, MiniSearch index, chokidar watcher). |
 | `packages/core` | Shared vault primitives — walk, frontmatter parser, link/tag extractor, percentiles. Bundled into the server build. |
 | `packages/harness` | Profiler + benchmark + write-safety harness (REST vs filesystem) that produced the payload numbers above. Dev-only; not published. |
 
