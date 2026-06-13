@@ -1,7 +1,12 @@
 {
   "extends": "../../tsconfig.base.json",
   "compilerOptions": {
-    "outDir": "dist"
+    "outDir": "dist",
+    // The seekstone benchmark adapter imports server *source* directly (the
+    // harness is dev-only and runs via tsx — tsc is typecheck-only and never
+    // emits). Widen rootDir to the repo root so TS 6's strict rootDir check
+    // accepts those cross-package imports.
+    "rootDir": "../.."
   },
   "include": ["src/**/*.ts"],
   "exclude": ["dist", "node_modules"]
