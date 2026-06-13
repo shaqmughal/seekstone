@@ -12,6 +12,7 @@ import { dispatch } from './dispatch.js';
 import { buildIndex } from './index/build.js';
 import { parseInitArgs, runInit } from './init.js';
 import { createLogger } from './log.js';
+import { installProcessGuards } from './process-guards.js';
 import { startWatcher } from './watcher.js';
 
 // Inlined at build time by tsup (see tsup.config.ts); falls back in tsx dev.
@@ -40,6 +41,10 @@ if (intent === 'init') {
 }
 
 const log = createLogger();
+
+// Long-lived stdio session: keep the server alive (and its in-memory index)
+// on a stray unhandled rejection rather than crashing the user's session.
+installProcessGuards(log);
 
 const vaultRoot = process.env.SEEKSTONE_VAULT;
 if (!vaultRoot) {
