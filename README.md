@@ -80,7 +80,7 @@ The gap is architectural: every competitor spawns a subprocess or makes HTTP rou
 
 REST-proxy servers return full note content for every match. A single "deep work" query via mcp-obsidian returned 3.84 MB — over a million tokens. Seekstone returns the same query in 4 KB.
 
-The harness and methodology are [open source](packages/harness) — run it against your own vault.
+Seekstone is the only Obsidian MCP server with published, reproducible benchmarks: the harness and methodology are [open source](packages/harness) — run it against your own vault and verify every number here.
 
 ---
 
