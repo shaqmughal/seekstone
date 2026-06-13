@@ -58,7 +58,7 @@ Seekstone returns ~200-character ranked excerpts instead. We benchmarked Seeksto
 
 | Server | Architecture | Warm p50 | vs Seekstone |
 |---|---|---|---|
-| **Seekstone** | in-process MiniSearch index | **1.4–3.2 ms** | — |
+| 🥇 **Seekstone** | **in-process MiniSearch index** | **1.4–3.2 ms** | **—** |
 | [obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) | REST API | 45–71 ms | ~25–32× slower |
 | [mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) | REST API | 53–109 ms | ~35–50× slower |
 | [obsidian-mcp-pro](https://github.com/rps321321/obsidian-mcp-pro) | fs-direct subprocess | 100–107 ms | ~45× slower |
@@ -71,7 +71,7 @@ The gap is architectural: every competitor spawns a subprocess or makes HTTP rou
 
 | Server | Range | vs Seekstone |
 |---|---|---|
-| **Seekstone** | **3–5 KB** | — |
+| 🥇 **Seekstone** | **3–5 KB** | **—** |
 | mcpvault | 3–4 KB | ~1× |
 | obsidian-mcp-pro | 3–180 KB | up to 28× |
 | obsidian-mcp-server | 81–135 KB | ~28× |
