@@ -16,7 +16,8 @@ jobs:
     permissions:
       contents: write # changesets opens the version PR and pushes tags
       pull-requests: write # changesets opens the version PR
-      id-token: write # npm provenance attestation
+      id-token: write # npm provenance + sigstore signing
+      attestations: write # write the MCPB build-provenance attestation
     defaults:
       run:
         shell: bash
@@ -86,11 +87,24 @@ jobs:
         if: steps.changesets.outputs.published == 'true'
         run: npm run build:mcpb
 
-      - name: Attach MCPB to GitHub Release
+      # Keyless (OIDC → Fulcio → Rekor) SLSA build-provenance attestation for the
+      # exact bytes of the shipped bundle. Verifiable with `gh attestation verify`.
+      - name: Attest build provenance for MCPB
+        id: attest
+        if: steps.changesets.outputs.published == 'true'
+        uses: actions/attest-build-provenance@a2bbfa25375fe432b6a289bc6b6cd05ecd0c4c32 # v4.1.0
+        with:
+          subject-path: seekstone.mcpb
+
+      - name: Attach MCPB + provenance to GitHub Release
         if: steps.changesets.outputs.published == 'true'
         run: |
           VERSION=$(node -p "require('./packages/server/package.json').version")
-          gh release upload "seekstone@${VERSION}" seekstone.mcpb --clobber
+          # Upload the attestation under a Scorecard-recognized extension so the
+          # Signed-Releases check detects it as a release signature asset.
+          cp "${{ steps.attest.outputs.bundle-path }}" seekstone.mcpb.intoto.jsonl
+          gh release upload "seekstone@${VERSION}" \
+            seekstone.mcpb seekstone.mcpb.intoto.jsonl --clobber
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
