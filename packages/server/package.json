@@ -1,6 +1,6 @@
 {
   "name": "seekstone",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "mcpName": "io.github.shaqmughal/seekstone",
   "type": "module",
   "description": "Obsidian MCP server for Claude — filesystem-direct vault access, 575× smaller payloads than the REST plugin.",
