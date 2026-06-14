@@ -1,5 +1,11 @@
 # seekstone
 
+## 0.6.2
+
+### Patch Changes
+
+- cc3bd9d: Point package `homepage` at the new site, https://seekstone.dev (was the GitHub readme).
+
 ## 0.6.1
 
 ### Patch Changes
