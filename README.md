@@ -8,6 +8,8 @@
 <p align="center"><strong>The fastest Obsidian MCP server for Claude — search and edit your vault in milliseconds, without burning context.</strong></p>
 <p align="center"><em>Filesystem-direct · 16 tools · No plugins · No Obsidian app required · macOS · Linux · Windows</em></p>
 
+<p align="center"><a href="https://seekstone.dev"><strong>seekstone.dev →</strong></a></p>
+
 <p align="center">
   <a href="https://www.npmjs.com/package/obsidian-mcp-seekstone"><img src="https://img.shields.io/npm/v/obsidian-mcp-seekstone?color=cb3837&logo=npm&label=obsidian-mcp-seekstone" alt="npm" /></a>
   <a href="https://www.npmjs.com/package/seekstone"><img src="https://img.shields.io/npm/v/seekstone?color=cb3837&logo=npm&label=seekstone" alt="npm (seekstone)" /></a>
