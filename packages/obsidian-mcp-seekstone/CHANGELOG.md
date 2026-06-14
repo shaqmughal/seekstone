@@ -1,5 +1,13 @@
 # obsidian-mcp-seekstone
 
+## 0.6.2
+
+### Patch Changes
+
+- cc3bd9d: Point package `homepage` at the new site, https://seekstone.dev (was the GitHub readme).
+- Updated dependencies [cc3bd9d]
+  - seekstone@0.6.2
+
 ## 0.6.1
 
 ### Patch Changes
