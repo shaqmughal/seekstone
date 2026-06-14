@@ -2,6 +2,8 @@
 
 > Seekstone is an Obsidian MCP server that connects Claude (and any Model Context Protocol client) to your Obsidian vault. It reads the vault directly from disk — no Obsidian app, no Local REST API plugin, no network calls. Works on macOS, Linux, and Windows.
 
+Website: https://seekstone.dev
+
 Seekstone is published to npm under two names:
 - `obsidian-mcp-seekstone` — the discoverable name (search "obsidian mcp" on npm)
 - `seekstone` — the short canonical name
