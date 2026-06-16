@@ -1,5 +1,12 @@
 # obsidian-mcp-seekstone
 
+## 0.6.3
+
+### Patch Changes
+
+- Updated dependencies [0a192cc]
+  - seekstone@0.6.3
+
 ## 0.6.2
 
 ### Patch Changes
