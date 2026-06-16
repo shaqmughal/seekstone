@@ -92,11 +92,14 @@ Choose the method that suits you best.
 
 ### Option 1 — One-click (Claude Desktop, no terminal needed)
 
-1. Download `seekstone.mcpb` from [GitHub Releases](https://github.com/shaqmughal/seekstone/releases/latest)
-2. Open it with Claude Desktop — double-click in Finder, or right-click → Open With → Claude Desktop
-3. Pick your Obsidian vault folder when prompted
+1. **Open Claude Desktop** and make sure it's up to date (the install prompt only appears when the app is already running).
+2. Download `seekstone.mcpb` from [GitHub Releases](https://github.com/shaqmughal/seekstone/releases/latest).
+3. Install it — **drag `seekstone.mcpb` into the Claude Desktop window** (most reliable), or double-click it in Finder.
+4. Review the details, click **Install**, and pick your Obsidian vault folder when prompted.
 
 You'll know it worked when seekstone appears in Claude's toolbar. No JSON editing, no terminal, no Node.js required.
+
+> **Nothing happens when you open the file?** Make sure Claude Desktop is running and on the latest version, then drag the `.mcpb` into the window (or use **Settings → Extensions**) rather than double-clicking from Finder. Still stuck? Use **Option 2** below — it doesn't rely on the desktop installer.
 
 <img src="docs/mcpb-install-dialog.png" width="420" alt="Claude Desktop showing the seekstone installation dialog" />
 
@@ -273,7 +276,7 @@ Seekstone has been profiled against vaults with thousands of notes. The in-memor
 It reads Obsidian's own vault registry (`obsidian.json`) — the same file Obsidian uses to track your known vaults. If you have one vault, it's selected automatically. If you have multiple, it lists them and asks you to pick with `--vault`.
 
 **What is the `.mcpb` file?**
-An MCP Bundle — a self-contained zip with the server and its manifest. To install: double-click in Finder (or right-click → Open With → Claude Desktop), pick your vault, and you're done. No terminal or Node.js required.
+An MCP Bundle — a self-contained zip with the server and its manifest. To install, open Claude Desktop first, then drag the file into the window (or double-click it in Finder), review the details, and pick your vault. No terminal or Node.js required. If opening the file does nothing, make sure Claude Desktop is running and up to date, or use `npx -y obsidian-mcp-seekstone init` instead.
 
 ---
 

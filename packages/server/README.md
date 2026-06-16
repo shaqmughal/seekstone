@@ -21,7 +21,7 @@ Choose the method that suits you best.
 
 ### Option 1 — One-click (Claude Desktop, no terminal needed)
 
-Download `seekstone.mcpb` from [GitHub Releases](https://github.com/shaqmughal/seekstone/releases/latest), double-click it in Claude Desktop, and pick your Obsidian vault folder when prompted. No JSON editing, no terminal, no Node.js setup required.
+Open Claude Desktop (and make sure it's up to date), download `seekstone.mcpb` from [GitHub Releases](https://github.com/shaqmughal/seekstone/releases/latest), then drag it into the Claude Desktop window — or double-click it in Finder. Review the details, click **Install**, and pick your Obsidian vault folder when prompted. No JSON editing, no terminal, no Node.js setup required. (If opening the file does nothing, make sure Claude Desktop is running and current, or use Option 2 below.)
 
 ### Option 2 — Guided setup (recommended for CLI users)
 
@@ -109,7 +109,7 @@ No — Seekstone bypasses it entirely (that's where the 575× reduction comes fr
 It reads Obsidian's own vault registry (`obsidian.json`) — the same file Obsidian uses to track your known vaults. One vault → auto-selected. Multiple → lists them and asks you to pick with `--vault`.
 
 **What is the `.mcpb` file?**
-An MCP Bundle — a zip containing the server and its manifest. Claude Desktop installs it with a double-click, no terminal required.
+An MCP Bundle — a zip containing the server and its manifest. With Claude Desktop open, drag the file into the window (or double-click it in Finder) and pick your vault — no terminal required.
 
 **Which AI clients does it support?**
 Any MCP-over-stdio client: Claude Desktop, Claude Code, Cursor, Windsurf, Continue, and others.
