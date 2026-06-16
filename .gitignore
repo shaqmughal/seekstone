@@ -4,6 +4,7 @@ node_modules/
 # build outputs
 dist/
 *.tsbuildinfo
+.mcpb-build/
 
 # coverage reports
 coverage/

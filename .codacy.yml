@@ -17,6 +17,11 @@ exclude_paths:
   - "dist/**"
   - "packages/**/dist/**"
 
+  # .mcpb distribution shim. Its one intentional dynamic import() — of a
+  # content-hashed temp file we wrote ourselves from local shards (SHA-169) —
+  # trips Codacy's "unsafe import" heuristic with no external input involved.
+  - "packages/server/mcpb-loader.mjs"
+
   # Coverage artefacts.
   - "coverage/**"
   - "packages/**/coverage/**"
