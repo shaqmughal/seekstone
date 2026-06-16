@@ -7,6 +7,11 @@ const { version } = JSON.parse(readFileSync(new URL('./package.json', import.met
 // its built-in Node.js in an isolated directory — no node_modules available.
 // Everything must be inlined; nothing can remain external.
 //
+// scripts/build-mcpb.mjs then shards this single file into <95KB pieces, because
+// Claude Desktop's install preview silently rejects any bundle file >~108KB
+// (SHA-169). Sourcemaps are off: the .map would be a multi-MB file we'd only
+// have to drop anyway, and it ships no value to end users.
+//
 // Banner trick: yaml's node build is CJS and calls require('process'). tsup's
 // ESM __require shim checks `typeof require !== "undefined"` at init time.
 // Injecting `var require = createRequire(...)` in the banner runs BEFORE that
@@ -25,6 +30,6 @@ export default defineConfig({
   },
   define: { __SEEKSTONE_VERSION__: JSON.stringify(version) },
   dts: false,
-  sourcemap: true,
+  sourcemap: false,
   clean: true,
 });
