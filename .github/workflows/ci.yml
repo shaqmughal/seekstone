@@ -44,6 +44,13 @@ jobs:
       - name: Lint
         run: npm run lint
 
+      # Guard: server.json (the MCP registry manifest) must match the package
+      # versions. A manual `mcp-publisher publish` reads this file as-is, so a
+      # stale version here would regress the registry. Runs once (Linux).
+      - name: server.json version sync
+        if: matrix.os == 'ubuntu-latest'
+        run: node scripts/sync-server-json.mjs --check
+
       # Coverage gate runs once (Linux) — thresholds live in the server's
       # vitest config and fail the build if logic coverage regresses.
       - name: Coverage gate
