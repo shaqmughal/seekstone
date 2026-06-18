@@ -19,7 +19,7 @@
     "publish:shim": "npm publish -w obsidian-mcp-seekstone",
     "build:mcpb": "node scripts/build-mcpb.mjs",
     "smoke": "node scripts/smoke-install.mjs",
-    "version-packages": "changeset version && biome format --write .",
+    "version-packages": "changeset version && node scripts/sync-server-json.mjs && biome format --write .",
     "release": "changeset publish"
   },
   "overrides": {

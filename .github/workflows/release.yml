@@ -132,14 +132,13 @@ jobs:
         run: |
           curl -fsSL "https://github.com/modelcontextprotocol/registry/releases/latest/download/mcp-publisher_$(uname -s | tr '[:upper:]' '[:lower:]')_$(uname -m | sed 's/x86_64/amd64/;s/aarch64/arm64/').tar.gz" | tar xz mcp-publisher
 
+      # Belt-and-suspenders: server.json is normally kept current by
+      # `version-packages` (see scripts/sync-server-json.mjs), but re-sync here
+      # in case this publish runs without a fresh version bump (e.g. manual
+      # workflow_dispatch). Same script the version step and CI guard use.
       - name: Sync server.json version
         if: steps.changesets.outputs.published == 'true' || github.event_name == 'workflow_dispatch'
-        run: |
-          VERSION=$(node -p "require('./packages/server/package.json').version")
-          OMCP_VERSION=$(node -p "require('./packages/obsidian-mcp-seekstone/package.json').version")
-          jq --arg v "$VERSION" --arg ov "$OMCP_VERSION" \
-            '.version = $v | .packages[] |= if .identifier == "seekstone" then .version = $v elif .identifier == "obsidian-mcp-seekstone" then .version = $ov else . end' \
-            server.json > server.tmp && mv server.tmp server.json
+        run: node scripts/sync-server-json.mjs
 
       - name: Publish to MCP Registry
         if: steps.changesets.outputs.published == 'true' || github.event_name == 'workflow_dispatch'
