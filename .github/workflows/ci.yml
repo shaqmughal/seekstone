@@ -51,6 +51,13 @@ jobs:
         if: matrix.os == 'ubuntu-latest'
         run: node scripts/sync-server-json.mjs --check
 
+      # Guard: docs/REGISTRIES.md is the canonical copy pasted into every registry
+      # listing — its tool count/list must match the server's HANDLED_TOOLS, or
+      # stale numbers (e.g. "8 tools") propagate to every directory. Runs once (Linux).
+      - name: REGISTRIES.md tool list sync
+        if: matrix.os == 'ubuntu-latest'
+        run: node scripts/check-registries-tools.mjs
+
       # Coverage gate runs once (Linux) — thresholds live in the server's
       # vitest config and fail the build if logic coverage regresses.
       - name: Coverage gate
