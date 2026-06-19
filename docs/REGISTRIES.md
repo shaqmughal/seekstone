@@ -17,11 +17,11 @@ Both are published automatically by the release pipeline on every version bump.
 
 - **Name:** Seekstone (also: obsidian-mcp-seekstone)
 - **Tagline:** An Obsidian MCP server — filesystem-direct, low context-tax.
-- **Description:** Seekstone reads your Obsidian vault directly from disk instead of routing through the Local REST API plugin, so Claude can search and edit notes without burning its context window on a single tool call (~575× smaller payloads in benchmarks). 8 tools over stdio; no Obsidian app or plugin required; macOS/Linux/Windows; no network, no telemetry.
+- **Description:** Seekstone reads your Obsidian vault directly from disk instead of routing through the Local REST API plugin, so Claude can search and edit notes without burning its context window on a single tool call (~575× smaller payloads in benchmarks). 16 tools over stdio; no Obsidian app or plugin required; macOS/Linux/Windows; no network, no telemetry.
 - **Install:** `npx -y obsidian-mcp-seekstone` (also: `npx -y seekstone`); env `SEEKSTONE_VAULT=/path/to/vault`
 - **Repo:** https://github.com/shaqmughal/seekstone
 - **npm:** https://www.npmjs.com/package/obsidian-mcp-seekstone / https://www.npmjs.com/package/seekstone
-- **Tools:** search, read_note, list_notes, create_note, delete_note, move_note, append_note, patch_frontmatter
+- **Tools (16):** _Read_ — search, read_note, list_notes, list_tags, outline_note, get_backlinks, get_links, get_periodic_note · _Write_ — create_note, delete_note, move_note, append_note, patch_frontmatter, patch_note, replace_in_note, append_periodic_note
 - **Categories/tags:** obsidian, notes, knowledge-base, markdown, search, obsidian-mcp
 
 <!-- Note: the official registry caps server.json `description` at 100 characters. -->
