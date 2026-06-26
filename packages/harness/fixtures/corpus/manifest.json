@@ -1,0 +1,882 @@
+{
+  "source": "Project Gutenberg — Encyclopaedia Britannica, 11th Edition (1911)",
+  "license": "Public domain (United States). PG header/footer stripped at parse time.",
+  "note": "Pinned volume slices. `npm run harness -- fetch-corpus` downloads each to corpus/raw/ (gitignored) and verifies sha256. The generated vault under fixtures/vault/ is the canonical artifact; this corpus is only needed to regenerate it.",
+  "entries": [
+    {
+      "id": 13600,
+      "range": "ANDROS, SIR EDMUND to ANISE",
+      "url": "https://www.gutenberg.org/cache/epub/13600/pg13600.txt",
+      "sha256": "b60e4f7d4cfb52715884556d1718bf57585da45998f64f28d198cd8aaf550f1a",
+      "bytes": 520130
+    },
+    {
+      "id": 19699,
+      "range": "BRÉQUIGNY, LOUIS GEORGES OUDARD FEUDRIX DE to BULGARIA",
+      "url": "https://www.gutenberg.org/cache/epub/19699/pg19699.txt",
+      "sha256": "c0059e13e3f9cd87b016025e61ca5ebc75e5e72ce2147a15d79bc61179f58248",
+      "bytes": 1946023
+    },
+    {
+      "id": 19846,
+      "range": "BULGARIA to CALGARY",
+      "url": "https://www.gutenberg.org/cache/epub/19846/pg19846.txt",
+      "sha256": "e221742a4a3971618cc79b7a86007d0a91976cfe89ceef0fe974053cf9c97b73",
+      "bytes": 2116400
+    },
+    {
+      "id": 27478,
+      "range": "AUSTRIA, LOWER to BACON",
+      "url": "https://www.gutenberg.org/cache/epub/27478/pg27478.txt",
+      "sha256": "fd750796b9da7ad8c410ce9912dea42632f1f4505fe6df25f07dbf4525c6618d",
+      "bytes": 1475631
+    },
+    {
+      "id": 27479,
+      "range": "BACONTHORPE to BANKRUPTCY",
+      "url": "https://www.gutenberg.org/cache/epub/27479/pg27479.txt",
+      "sha256": "d77744f3e1414157291c7fcb14568ba32033d5e2b69b0311e5925cda3067d60d",
+      "bytes": 1595784
+    },
+    {
+      "id": 27480,
+      "range": "BANKS to BASSOON",
+      "url": "https://www.gutenberg.org/cache/epub/27480/pg27480.txt",
+      "sha256": "e8c5450792287600b6fe815fe18410333681a8ad990b88f3d9136c613cc31a7d",
+      "bytes": 1499422
+    },
+    {
+      "id": 30073,
+      "range": "DESTRUCTORS to DIAMETER",
+      "url": "https://www.gutenberg.org/cache/epub/30073/pg30073.txt",
+      "sha256": "29b1b3104533ca9ee6049e7638f1c8be34b8d9f28992149da3b1e16565b9105a",
+      "bytes": 485961
+    },
+    {
+      "id": 30685,
+      "range": "DEMIJOHN to DESTRUCTORS",
+      "url": "https://www.gutenberg.org/cache/epub/30685/pg30685.txt",
+      "sha256": "fec098ba5640622836865784e6dacafebb07156812de55cff08c74c66e90d3c1",
+      "bytes": 1004793
+    },
+    {
+      "id": 31156,
+      "range": "CHÂTELET to CHICAGO",
+      "url": "https://www.gutenberg.org/cache/epub/31156/pg31156.txt",
+      "sha256": "c09fc4b2027fe8cb5dd1c1aa7daffc72fa04de43c5a22e563e837a6ceb80c5f5",
+      "bytes": 1176836
+    },
+    {
+      "id": 31329,
+      "range": "CHICAGO, UNIVERSITY OF to CHITON",
+      "url": "https://www.gutenberg.org/cache/epub/31329/pg31329.txt",
+      "sha256": "921ebbac193a7db68131dbfd3200d61e274497d9032d9b4b2d157713588e9abf",
+      "bytes": 1296031
+    },
+    {
+      "id": 31447,
+      "range": "CHITRAL to CINCINNATI",
+      "url": "https://www.gutenberg.org/cache/epub/31447/pg31447.txt",
+      "sha256": "6cfdb65f6e73fae7eb8985839abbc96ae134e83174c95047275b41b6e3e2709c",
+      "bytes": 1167301
+    },
+    {
+      "id": 31641,
+      "range": "CINCINNATUS to CLERUCHY",
+      "url": "https://www.gutenberg.org/cache/epub/31641/pg31641.txt",
+      "sha256": "b54710d8a107c1cfd7254b08bb5d497fb91962d095461d4d887a3c58bc25985b",
+      "bytes": 1173398
+    },
+    {
+      "id": 31793,
+      "range": "CLERVAUX to COCKADE",
+      "url": "https://www.gutenberg.org/cache/epub/31793/pg31793.txt",
+      "sha256": "d4f67bd9e2d2fbfd9d3464d1a4bd0a9326566375b76eb830f71cebdee1854c84",
+      "bytes": 1103753
+    },
+    {
+      "id": 31855,
+      "range": "COCKAIGNE to COLUMBUS, CHRISTOPHER",
+      "url": "https://www.gutenberg.org/cache/epub/31855/pg31855.txt",
+      "sha256": "5b69ecfc884b44fbf972ca7c723ac39915b0d7cf15932d7a6630bf76a2a4f9ef",
+      "bytes": 1135591
+    },
+    {
+      "id": 31950,
+      "range": "COLUMBUS to CONDOTTIERE",
+      "url": "https://www.gutenberg.org/cache/epub/31950/pg31950.txt",
+      "sha256": "2abbef85bd35b6a533172498ed707599465ed7cbf57f2c08203b4adfef34262d",
+      "bytes": 1000275
+    },
+    {
+      "id": 32097,
+      "range": "CONVENTION to COPYRIGHT",
+      "url": "https://www.gutenberg.org/cache/epub/32097/pg32097.txt",
+      "sha256": "762a8ad41f92e3206615fc16ca8e72a049e4d6fa9eafc42c3b2fbf50e392c633",
+      "bytes": 775111
+    },
+    {
+      "id": 32182,
+      "range": "COQUELIN, BENOÎT CONSTANT to COSTUME",
+      "url": "https://www.gutenberg.org/cache/epub/32182/pg32182.txt",
+      "sha256": "0b4ae97b507e8bf034c4d25eee0cc94df448346a769d90cc6802f0ff8bfcb92a",
+      "bytes": 1067055
+    },
+    {
+      "id": 32294,
+      "range": "COSWAY, RICHARD to COUCY, LE CHÂTELAIN DE",
+      "url": "https://www.gutenberg.org/cache/epub/32294/pg32294.txt",
+      "sha256": "f669d5eedfb694edd10f4e68d6a76e64d689176aef0f6bba19a417054ee04355",
+      "bytes": 565974
+    },
+    {
+      "id": 32423,
+      "range": "COUCY-LE-CHÂTEAU to CROCODILE",
+      "url": "https://www.gutenberg.org/cache/epub/32423/pg32423.txt",
+      "sha256": "b4507bf3ae9ea07383450b0720dc3687a41ad73e7404a100a28d8bef9b234679",
+      "bytes": 1585373
+    },
+    {
+      "id": 32607,
+      "range": "DIAMETER to DINARCHUS",
+      "url": "https://www.gutenberg.org/cache/epub/32607/pg32607.txt",
+      "sha256": "bb6c7e97449fe4f920f2afc707381c1f25f9d1387bdc242823bd447f7ac235c0",
+      "bytes": 1194933
+    },
+    {
+      "id": 32689,
+      "range": "DINARD to DODSWORTH, ROGER",
+      "url": "https://www.gutenberg.org/cache/epub/32689/pg32689.txt",
+      "sha256": "2a8a51ed30f999ba21010d75b5491e690cb7c4392d19b8dec4379ca04f0b034f",
+      "bytes": 918298
+    },
+    {
+      "id": 32758,
+      "range": "DODWELL, EDWARD to DRAMA",
+      "url": "https://www.gutenberg.org/cache/epub/32758/pg32758.txt",
+      "sha256": "ffe95500dcaf27092877cf8b6e0817bd61e76eaee32a7fefa60dcfcb7033e44e",
+      "bytes": 1140327
+    },
+    {
+      "id": 32783,
+      "range": "DRAMA to DUBLIN",
+      "url": "https://www.gutenberg.org/cache/epub/32783/pg32783.txt",
+      "sha256": "cc3992d900e78b2f52e74b5733606c63d465f6dabe08fbf81228c0ce17e53c8b",
+      "bytes": 1176420
+    },
+    {
+      "id": 32860,
+      "range": "EDWARDES, SIR HERBERT BENJAMIN to EHRENBREITSTEIN",
+      "url": "https://www.gutenberg.org/cache/epub/32860/pg32860.txt",
+      "sha256": "579eb04561e8a29d11f2e0f250095a28469b413242fc7fcecfac6f4e699ca93a",
+      "bytes": 1197265
+    },
+    {
+      "id": 32940,
+      "range": "ENGLAND to ENGLISH FINANCE",
+      "url": "https://www.gutenberg.org/cache/epub/32940/pg32940.txt",
+      "sha256": "780291175b3ba2216189b3e96930c3b0e0a5f4e89ef9e2c62a7d0286eb9a0879",
+      "bytes": 623083
+    },
+    {
+      "id": 32975,
+      "range": "CALHOUN to CAMOENS",
+      "url": "https://www.gutenberg.org/cache/epub/32975/pg32975.txt",
+      "sha256": "c91e04be13816eab82e697a4c4cdc1adf98cff90c151d665e462a1e97ff46c46",
+      "bytes": 1104127
+    },
+    {
+      "id": 33052,
+      "range": "CAMORRA to CAPE COLONY",
+      "url": "https://www.gutenberg.org/cache/epub/33052/pg33052.txt",
+      "sha256": "3c6bea113172a417c742a272b0eb7648b3362487ed75a69be86834e6b09a2dce",
+      "bytes": 1165781
+    },
+    {
+      "id": 33127,
+      "range": "CAPEFIGUE to CARNEADES",
+      "url": "https://www.gutenberg.org/cache/epub/33127/pg33127.txt",
+      "sha256": "53ceb3e2d3e2f4d0985f3a4191d6c9e91359baff8ecc9974843cad9d12833a44",
+      "bytes": 1078704
+    },
+    {
+      "id": 33189,
+      "range": "CARNEGIE ANDREW to CASUS BELLI",
+      "url": "https://www.gutenberg.org/cache/epub/33189/pg33189.txt",
+      "sha256": "13428bf1379448a76e7e5a32d2c0b60fff8561acbc2c12d55251b979fbb9ba53",
+      "bytes": 1147338
+    },
+    {
+      "id": 33239,
+      "range": "CAT to CELT",
+      "url": "https://www.gutenberg.org/cache/epub/33239/pg33239.txt",
+      "sha256": "a03f848ee0a322bfc97e9deec85e3df7c92efb9577f553d6f6a19ca9919eeeed",
+      "bytes": 1515335
+    },
+    {
+      "id": 33295,
+      "range": "CELTES, KONRAD to CERAMICS",
+      "url": "https://www.gutenberg.org/cache/epub/33295/pg33295.txt",
+      "sha256": "445dcaae4b1dcf064ebbba80eb222397d47098661b218d2c39e64c80c44954ae",
+      "bytes": 953675
+    },
+    {
+      "id": 33365,
+      "range": "CERARGYRITE to CHARING CROSS",
+      "url": "https://www.gutenberg.org/cache/epub/33365/pg33365.txt",
+      "sha256": "483806e10dbff1c9d4cf9a08db9ab997b267272783ad6c42bfbbe7c4835b8918",
+      "bytes": 949214
+    },
+    {
+      "id": 33427,
+      "range": "CHARIOT to CHATELAINE",
+      "url": "https://www.gutenberg.org/cache/epub/33427/pg33427.txt",
+      "sha256": "625889dbaf3ecf9a46b82c83cdf7255a05bca82879ec6b213129d9d738fc7f0e",
+      "bytes": 1008450
+    },
+    {
+      "id": 33550,
+      "range": "BISHARIN to BOHEA",
+      "url": "https://www.gutenberg.org/cache/epub/33550/pg33550.txt",
+      "sha256": "9c4f571cdc03b6491432af7c26e5d7962902a0ca599a52ffb87d559f1d6d22c0",
+      "bytes": 1113886
+    },
+    {
+      "id": 33614,
+      "range": "BOHEMIA to BORGIA, FRANCIS",
+      "url": "https://www.gutenberg.org/cache/epub/33614/pg33614.txt",
+      "sha256": "dd6dd6e32cb824418e225e4390b80bf7c14435ae4f5656022f1bda6bc77c67e5",
+      "bytes": 1119829
+    },
+    {
+      "id": 33698,
+      "range": "BORGIA, LUCREZIA to BRADFORD, JOHN",
+      "url": "https://www.gutenberg.org/cache/epub/33698/pg33698.txt",
+      "sha256": "bf5fb38fd75cfb595a4e9b90625e5661edd9be5ad30d683abe7f8fcb3da7eb87",
+      "bytes": 1098382
+    },
+    {
+      "id": 33750,
+      "range": "BRADFORD, WILLIAM to BREQUIGNY, LOUIS",
+      "url": "https://www.gutenberg.org/cache/epub/33750/pg33750.txt",
+      "sha256": "368585e884ac001d145e204d25ef55d7cf2562d7b75204429ccb3490c4996a32",
+      "bytes": 1202673
+    },
+    {
+      "id": 34018,
+      "range": "ANJAR to APOLLO",
+      "url": "https://www.gutenberg.org/cache/epub/34018/pg34018.txt",
+      "sha256": "5c86bb60a83006c3e60cf2f6606cb2f374cba014d8e834b5ccdf2fa33cbc584c",
+      "bytes": 1188344
+    },
+    {
+      "id": 34047,
+      "range": "APOLLODORUS to ARAL",
+      "url": "https://www.gutenberg.org/cache/epub/34047/pg34047.txt",
+      "sha256": "e3cb93ae6663dd754ee4ab6c2ccef0ddbaf5604b2cddddc4ae60bea29c62e2d4",
+      "bytes": 1187821
+    },
+    {
+      "id": 34082,
+      "range": "ARAM, EUGENE to ARCUEIL",
+      "url": "https://www.gutenberg.org/cache/epub/34082/pg34082.txt",
+      "sha256": "eefff55b09b651b95f5bf0ee317cd467d7a10469a82e66b7b11c52ad1af49416",
+      "bytes": 1174254
+    },
+    {
+      "id": 34116,
+      "range": "ARCULF to ARMOUR, PHILIP",
+      "url": "https://www.gutenberg.org/cache/epub/34116/pg34116.txt",
+      "sha256": "816bb52db136de25063685b33d88d3a2acd0cf1ff2c983df974a077963a02cad",
+      "bytes": 1229780
+    },
+    {
+      "id": 34162,
+      "range": "ARMOUR PLATES to ARUNDEL, EARLS OF",
+      "url": "https://www.gutenberg.org/cache/epub/34162/pg34162.txt",
+      "sha256": "60445890193c5cda450051e09b96af46df55101b989355f90f20032accb989a9",
+      "bytes": 1214637
+    },
+    {
+      "id": 34209,
+      "range": "ARUNDEL, THOMAS to ATHENS",
+      "url": "https://www.gutenberg.org/cache/epub/34209/pg34209.txt",
+      "sha256": "99e48c818e3d42cb3c4b2a8e5a6dbd58f71633e3f3cdd2f00118600c61ae682a",
+      "bytes": 1323675
+    },
+    {
+      "id": 34312,
+      "range": "ATHERSTONE to AUSTRIA",
+      "url": "https://www.gutenberg.org/cache/epub/34312/pg34312.txt",
+      "sha256": "13278df2888bbdc6d67c3cc6d22d39a053ca75b9c3d0eb55dd735cbd52e27674",
+      "bytes": 1260751
+    },
+    {
+      "id": 34405,
+      "range": "BASSO-RELIEVO to BEDFORDSHIRE",
+      "url": "https://www.gutenberg.org/cache/epub/34405/pg34405.txt",
+      "sha256": "bda2d4c9c9684aec3ee0ba7a4a600e07001b0247c3219993596270843f809490",
+      "bytes": 1136500
+    },
+    {
+      "id": 34533,
+      "range": "BEDLAM to BENSON, GEORGE",
+      "url": "https://www.gutenberg.org/cache/epub/34533/pg34533.txt",
+      "sha256": "77af06baa733dffe19d8da93812a0e7714f1777c98e2eb7634dcf4a828cf9571",
+      "bytes": 1116818
+    },
+    {
+      "id": 34612,
+      "range": "BENT, JAMES to BIBIRINE",
+      "url": "https://www.gutenberg.org/cache/epub/34612/pg34612.txt",
+      "sha256": "cd96e73f7a75dbe6b0952003a6753d6693159c2f564c399bad2a15d4750b8043",
+      "bytes": 961196
+    },
+    {
+      "id": 34702,
+      "range": "BIBLE to BISECTRIX",
+      "url": "https://www.gutenberg.org/cache/epub/34702/pg34702.txt",
+      "sha256": "23f1764d8f94ef0d1c81dfdc797301a7272bc428f0312ba7fa4a74ea86e5cc7a",
+      "bytes": 1382899
+    },
+    {
+      "id": 34751,
+      "range": "DÜBNER, JOHANN FRIEDRICH to DYEING",
+      "url": "https://www.gutenberg.org/cache/epub/34751/pg34751.txt",
+      "sha256": "9b3a920db4ea0066dc67f3ca2b27a816079f7f45b1363b7c730e265a02548b5a",
+      "bytes": 1231445
+    },
+    {
+      "id": 34878,
+      "range": "DYER, SIR EDWARD to ECHIDNA",
+      "url": "https://www.gutenberg.org/cache/epub/34878/pg34878.txt",
+      "sha256": "db29eed25721edd2c876b092d9b0bc2a6b8b1dc3ecad4f3c28f30ce16f699054",
+      "bytes": 1072826
+    },
+    {
+      "id": 34992,
+      "range": "ECHINODERMA to EDWARD, PRINCE OF WALES",
+      "url": "https://www.gutenberg.org/cache/epub/34992/pg34992.txt",
+      "sha256": "a66e1749ffe459d150b8dacb2052cf6251f757718bfb6c7d7530ced3964b2cf9",
+      "bytes": 1212884
+    },
+    {
+      "id": 35092,
+      "range": "EHUD to ELECTROSCOPE",
+      "url": "https://www.gutenberg.org/cache/epub/35092/pg35092.txt",
+      "sha256": "f3581a811707cfe9bf40ea9cb8e8e69d5c74d562525a59e863cabe8d0d19efe2",
+      "bytes": 987014
+    },
+    {
+      "id": 35169,
+      "range": "ELECTROSTATICS to ENGIS",
+      "url": "https://www.gutenberg.org/cache/epub/35169/pg35169.txt",
+      "sha256": "6c506cdb15d9056a86ef99395c17d30529af88e70cbd9ed674474f9ba49e1e82",
+      "bytes": 1544963
+    },
+    {
+      "id": 35236,
+      "range": "ENCYCLOPAEDIA BRITANNICA, 11TH EDITION, \"ENGLISH HISTORY\"",
+      "url": "https://www.gutenberg.org/cache/epub/35236/pg35236.txt",
+      "sha256": "7d95fe760e81cd6982d8e685e7529d21158b5368f5ac2369e1edb96116f2db59",
+      "bytes": 1090089
+    },
+    {
+      "id": 35306,
+      "range": "ENGLISH LANGUAGE to EPSOM SALTS",
+      "url": "https://www.gutenberg.org/cache/epub/35306/pg35306.txt",
+      "sha256": "a2a8f98790ca0e30072a2116d8c8b80e23419aea45774422d12b0054159592a1",
+      "bytes": 1127867
+    },
+    {
+      "id": 35398,
+      "range": "EQUATION to ETHICS",
+      "url": "https://www.gutenberg.org/cache/epub/35398/pg35398.txt",
+      "sha256": "2f35362a0c0154034e6e7a7e2969793bb4fdec420da38486bc2863ef0caf577d",
+      "bytes": 1279177
+    },
+    {
+      "id": 35473,
+      "range": "ETHIOPIA to EVANGELICAL ASSOCIATION",
+      "url": "https://www.gutenberg.org/cache/epub/35473/pg35473.txt",
+      "sha256": "5f453072419da8907321d7ed28a74d92e2fb13e6483a999304e33fdad0082f38",
+      "bytes": 1105043
+    },
+    {
+      "id": 35561,
+      "range": "FENTON, EDWARD to FINISTERE",
+      "url": "https://www.gutenberg.org/cache/epub/35561/pg35561.txt",
+      "sha256": "b25d86b1a0b9c0bb98f40f1f702332681fa2932ab627085e3e1f9456cd9aa07e",
+      "bytes": 1167775
+    },
+    {
+      "id": 35606,
+      "range": "FINLAND to FLEURY, ANDRE",
+      "url": "https://www.gutenberg.org/cache/epub/35606/pg35606.txt",
+      "sha256": "61b231208aeb9bb3bc84a27d3ec1a98f7be0c3ceb2b2a81ce3da8bc881d9e4c8",
+      "bytes": 1100971
+    },
+    {
+      "id": 35747,
+      "range": "FLEURY, CLAUDE to FORAKER",
+      "url": "https://www.gutenberg.org/cache/epub/35747/pg35747.txt",
+      "sha256": "f59c9b913bb584cb4a2fd44f9058d33d3d442ec53702f9e8120b29662c9d8aea",
+      "bytes": 1129385
+    },
+    {
+      "id": 35925,
+      "range": "FORAMINIFERA to FOX, EDWARD",
+      "url": "https://www.gutenberg.org/cache/epub/35925/pg35925.txt",
+      "sha256": "cff95127d16d7ba69e475d613fd0e6ac75f2fd3cbd532601bb3f961ce5207d9d",
+      "bytes": 1122340
+    },
+    {
+      "id": 36104,
+      "range": "FOX, GEORGE to FRANCE",
+      "url": "https://www.gutenberg.org/cache/epub/36104/pg36104.txt",
+      "sha256": "f6dd0dd8722fee2fa914d8591bc76edd54f516c8972ef0771897f4e4b7c521fe",
+      "bytes": 1192211
+    },
+    {
+      "id": 36226,
+      "range": "FRANCE to FRANCIS JOSEPH I.",
+      "url": "https://www.gutenberg.org/cache/epub/36226/pg36226.txt",
+      "sha256": "acff97ed6eb7c1322cde13143fe6eeb0f30ba281a8a52e0c6e2ed21c34ad3058",
+      "bytes": 480041
+    },
+    {
+      "id": 36452,
+      "range": "FAIRBANKS, ERASTUS to FENS",
+      "url": "https://www.gutenberg.org/cache/epub/36452/pg36452.txt",
+      "sha256": "d953fec004831127fccff8bc7852fc2ff73fcb1892d66cb1a8c4dda1572e147c",
+      "bytes": 1178502
+    },
+    {
+      "id": 36735,
+      "range": "EVANGELICAL CHURCH CONFERENCE to FAIRBAIRN, SIR WILLIAM",
+      "url": "https://www.gutenberg.org/cache/epub/36735/pg36735.txt",
+      "sha256": "6126ff755c9d77866606066ef91d050f8322ea519c9a033ea1db0bd1452a3808",
+      "bytes": 1264128
+    },
+    {
+      "id": 37064,
+      "range": "FROST to FYZABAD",
+      "url": "https://www.gutenberg.org/cache/epub/37064/pg37064.txt",
+      "sha256": "24a6d2bf129f52df9898a4550ca863cb4f8c6e44791d6cda2c1d6cb4073de3fb",
+      "bytes": 1256137
+    },
+    {
+      "id": 37160,
+      "range": "G to GASKELL, ELIZABETH",
+      "url": "https://www.gutenberg.org/cache/epub/37160/pg37160.txt",
+      "sha256": "81ec5a6b93182ad16a3aeb7685c62512ac78a3871ff36ff82b99ae068035f8fb",
+      "bytes": 1196823
+    },
+    {
+      "id": 37282,
+      "range": "GASSENDI, PIERRE to GEOCENTRIC",
+      "url": "https://www.gutenberg.org/cache/epub/37282/pg37282.txt",
+      "sha256": "a23481884fc19a583adeaa832a5647c72e86c779067c7c71c5e350a9072fbdbe",
+      "bytes": 975202
+    },
+    {
+      "id": 37461,
+      "range": "GEODESY to GEOMETRY",
+      "url": "https://www.gutenberg.org/cache/epub/37461/pg37461.txt",
+      "sha256": "841cf0c33e6ce2221336f113ed9dba25774bf9281ee28421284900486eb0f874",
+      "bytes": 1376096
+    },
+    {
+      "id": 37523,
+      "range": "GEOPONICI to GERMANY",
+      "url": "https://www.gutenberg.org/cache/epub/37523/pg37523.txt",
+      "sha256": "16138aa5458ce430ee8b91f2b74c7b1bd08c92078202ad68e12690bae83186c5",
+      "bytes": 1027636
+    },
+    {
+      "id": 37610,
+      "range": "GERMANY to GIBSON, WILLIAM",
+      "url": "https://www.gutenberg.org/cache/epub/37610/pg37610.txt",
+      "sha256": "28f5fbe092ed87971e2cd91dae2f958e74ff79bc099ab4bd98c2559ecdab67dd",
+      "bytes": 956056
+    },
+    {
+      "id": 37736,
+      "range": "FRENCH LITERATURE to FROST, WILLIAM",
+      "url": "https://www.gutenberg.org/cache/epub/37736/pg37736.txt",
+      "sha256": "ea63b42b3f1e15045df6b1ddafddb5703082bff2ccde81e4a50bd6b4ced90f48",
+      "bytes": 1302068
+    },
+    {
+      "id": 37806,
+      "range": "FRANCISCANS to FRENCH LANGUAGE",
+      "url": "https://www.gutenberg.org/cache/epub/37806/pg37806.txt",
+      "sha256": "40974c74f68de8281d5335cc21289cd0655a8849e4fd342327d562323a9564a9",
+      "bytes": 1078644
+    },
+    {
+      "id": 37880,
+      "range": "GLOSS to GORDON, CHARLES GEORGE",
+      "url": "https://www.gutenberg.org/cache/epub/37880/pg37880.txt",
+      "sha256": "c4ec1c24188d48983dd39a2c86af48d612056a860a92a0500ecbee87e7f8e354",
+      "bytes": 1242182
+    },
+    {
+      "id": 37984,
+      "range": "GORDON, LORD GEORGE to GRASSES",
+      "url": "https://www.gutenberg.org/cache/epub/37984/pg37984.txt",
+      "sha256": "5e654ded9df48b86c703f17f01542512c195e8dc41966292de9eb189050bfb41",
+      "bytes": 1148077
+    },
+    {
+      "id": 38143,
+      "range": "GRASSHOPPER to GREEK LANGUAGE",
+      "url": "https://www.gutenberg.org/cache/epub/38143/pg38143.txt",
+      "sha256": "fbee24cb0af148ace8e97cf0e6ab94e06ea466208eeb81d0b13e7a42d63a63cb",
+      "bytes": 1124423
+    },
+    {
+      "id": 38202,
+      "range": "GREEK LAW to GROUND-SQUIRREL",
+      "url": "https://www.gutenberg.org/cache/epub/38202/pg38202.txt",
+      "sha256": "d88a8ada33162303d6c31cc2d705fd7f1e4c0995c61bf61bc2a4269213c4ce77",
+      "bytes": 1170564
+    },
+    {
+      "id": 38304,
+      "range": "GROUPS, THEORY OF to GWYNIAD",
+      "url": "https://www.gutenberg.org/cache/epub/38304/pg38304.txt",
+      "sha256": "624deb52b13d11e01a8c415e3d896aeb9fefb20da01ee573012de570adecc3e3",
+      "bytes": 1191153
+    },
+    {
+      "id": 38401,
+      "range": "GYANTSE to HALLEL",
+      "url": "https://www.gutenberg.org/cache/epub/38401/pg38401.txt",
+      "sha256": "41da9a696c948b72a40649c51b76107d93a9d94e793b663e879e19ddf97a8838",
+      "bytes": 1014369
+    },
+    {
+      "id": 38454,
+      "range": "HALLER, ALBRECHT to HARMONIUM",
+      "url": "https://www.gutenberg.org/cache/epub/38454/pg38454.txt",
+      "sha256": "fd22e7565ce477a58dfd040d6e172bb177fa03dadbe4832f71001695700b0c4d",
+      "bytes": 975227
+    },
+    {
+      "id": 38539,
+      "range": "GICHTEL, JOHANN to GLORY",
+      "url": "https://www.gutenberg.org/cache/epub/38539/pg38539.txt",
+      "sha256": "b0506e340fc49d72d21681a78dda4dfb045730ee2c0b87db5985935dc5e7ec6e",
+      "bytes": 1195205
+    },
+    {
+      "id": 38622,
+      "range": "CROCOITE to CUBA",
+      "url": "https://www.gutenberg.org/cache/epub/38622/pg38622.txt",
+      "sha256": "9cf14481dfa2c5b7d70c209d45297b6873f1aee457cf61164b388b58c11e4c2e",
+      "bytes": 1119074
+    },
+    {
+      "id": 38709,
+      "range": "CUBE to DAGUERRE, LOUIS JACQUES MANDÉ",
+      "url": "https://www.gutenberg.org/cache/epub/38709/pg38709.txt",
+      "sha256": "41bd9772df96cd14b690eb0201e9083b76dbb0ea42303f0ca83fcccf2d892928",
+      "bytes": 1141458
+    },
+    {
+      "id": 38799,
+      "range": "DAGUPAN to DAVID",
+      "url": "https://www.gutenberg.org/cache/epub/38799/pg38799.txt",
+      "sha256": "d51f21fdd996468be0e6025748c1ed3fdaa30839f6aaa1e9f2920386c4d6131c",
+      "bytes": 1194245
+    },
+    {
+      "id": 38892,
+      "range": "DAVID, ST to DEMIDOV",
+      "url": "https://www.gutenberg.org/cache/epub/38892/pg38892.txt",
+      "sha256": "7383b3fe347afc4d64a171a90e9c5f02f9dd15d9f906388a7b99a2a06267ed9b",
+      "bytes": 1164870
+    },
+    {
+      "id": 38964,
+      "range": "HUDSON RIVER to HURSTMONCEAUX",
+      "url": "https://www.gutenberg.org/cache/epub/38964/pg38964.txt",
+      "sha256": "17f73cad2c56d6b8c7b84c12a36193ae6ee7758d0e8def5bdd025df52ef9810b",
+      "bytes": 1070415
+    },
+    {
+      "id": 39029,
+      "range": "HORTICULTURE to HUDSON BAY",
+      "url": "https://www.gutenberg.org/cache/epub/39029/pg39029.txt",
+      "sha256": "07498ed5a9adb743d044d4e183cf693be9f92e82c4e46b5be6cd26663b6e93ab",
+      "bytes": 1065928
+    },
+    {
+      "id": 39127,
+      "range": "HOME, DANIEL to HORTENSIUS, QUINTUS",
+      "url": "https://www.gutenberg.org/cache/epub/39127/pg39127.txt",
+      "sha256": "83c368e2e2e17f68032bf3691874e786a86dfd46d4a376d1a64e06982f2fd68c",
+      "bytes": 1109855
+    },
+    {
+      "id": 39232,
+      "range": "HINDUISM to HOME, EARLS OF",
+      "url": "https://www.gutenberg.org/cache/epub/39232/pg39232.txt",
+      "sha256": "8d2fd4b7807c6adbf03021698b1caf6a611c80a8045c69a51dbdf4f60bc25feb",
+      "bytes": 1179964
+    },
+    {
+      "id": 39353,
+      "range": "HERO to HINDU CHRONOLOGY",
+      "url": "https://www.gutenberg.org/cache/epub/39353/pg39353.txt",
+      "sha256": "c44c289a9ab1e207f625d1883d6a1a670c58342d55d9871f3b7c155376f6af61",
+      "bytes": 1209253
+    },
+    {
+      "id": 39435,
+      "range": "HELMONT, JEAN to HERNOSAND",
+      "url": "https://www.gutenberg.org/cache/epub/39435/pg39435.txt",
+      "sha256": "4fcf5934dd3aaf5ee1b3dd4e194c2e4ba740426aa5fe2df370cbd585f8be3c81",
+      "bytes": 1133728
+    },
+    {
+      "id": 39521,
+      "range": "HEARING to HELMOND",
+      "url": "https://www.gutenberg.org/cache/epub/39521/pg39521.txt",
+      "sha256": "509b69462de91ab4b540bdce244e6ef86be961744da5ee5f24d3ded851e1af10",
+      "bytes": 1176362
+    },
+    {
+      "id": 39632,
+      "range": "HARMONY to HEANOR",
+      "url": "https://www.gutenberg.org/cache/epub/39632/pg39632.txt",
+      "sha256": "af9ef4e008b28a5b77dc4ebf4258ffdb6d1ca492002bfe46343be4b75d394aeb",
+      "bytes": 1184834
+    },
+    {
+      "id": 39700,
+      "range": "ISABNORMAL LINES to ITALIC",
+      "url": "https://www.gutenberg.org/cache/epub/39700/pg39700.txt",
+      "sha256": "2cfb90d9ca553b9fe4839ad1b38a90381e01192dcd927945c44528112cde5cdf",
+      "bytes": 608112
+    },
+    {
+      "id": 39775,
+      "range": "IRELAND to ISABEY, JEAN BAPTISTE",
+      "url": "https://www.gutenberg.org/cache/epub/39775/pg39775.txt",
+      "sha256": "a38a86b280f5051359c827d2d3de73f21dfb13fc4d866e3408f3cf4c7f92f773",
+      "bytes": 1103542
+    },
+    {
+      "id": 39908,
+      "range": "INSCRIPTIONS to IRELAND, WILLIAM HENRY",
+      "url": "https://www.gutenberg.org/cache/epub/39908/pg39908.txt",
+      "sha256": "f2d66a98a6dd72ca91b9a1501cc5d1d2a1819d33c012f7ec94afef62dab966b4",
+      "bytes": 1260246
+    },
+    {
+      "id": 40009,
+      "range": "INDOLE to INSANITY",
+      "url": "https://www.gutenberg.org/cache/epub/40009/pg40009.txt",
+      "sha256": "5048549b2e0588bb2460b03af6d217d55a4429642b23815b5d65f5eba608c3f0",
+      "bytes": 1125293
+    },
+    {
+      "id": 40096,
+      "range": "INDEPENDENCE, DECLARATION OF to INDO-EUROPEAN LANGUAGES",
+      "url": "https://www.gutenberg.org/cache/epub/40096/pg40096.txt",
+      "sha256": "e645f5bdcf0b0bd0c71b9dd199c2ba5e7695a18620307af60c06d352c7154b68",
+      "bytes": 1283184
+    },
+    {
+      "id": 40156,
+      "range": "ICHTHYOLOGY to INDEPENDENCE",
+      "url": "https://www.gutenberg.org/cache/epub/40156/pg40156.txt",
+      "sha256": "cbfb197e48c34fd13185ad4c74dd87ee05a940b2c3bc80ae9290c50840f8a2a3",
+      "bytes": 1197340
+    },
+    {
+      "id": 40370,
+      "range": "HYDROMECHANICS to ICHNOGRAPHY",
+      "url": "https://www.gutenberg.org/cache/epub/40370/pg40370.txt",
+      "sha256": "0b0fad667bd9994207fe85aa3b304f48a02bb972562c157d8dc2434e364536a8",
+      "bytes": 1203688
+    },
+    {
+      "id": 40538,
+      "range": "HUSBAND to HYDROLYSIS",
+      "url": "https://www.gutenberg.org/cache/epub/40538/pg40538.txt",
+      "sha256": "aa1299bddc98504c21af5cfd0e6776c6010cb88bf901dc981baf64c9d163fccb",
+      "bytes": 1020758
+    },
+    {
+      "id": 40641,
+      "range": "KITE-FLYING to KYSHTYM",
+      "url": "https://www.gutenberg.org/cache/epub/40641/pg40641.txt",
+      "sha256": "bfc0619729648e80768cfbf3dfa4c4b7f7261d980b94d053b65dadd918878034",
+      "bytes": 1153305
+    },
+    {
+      "id": 40769,
+      "range": "KELLY, EDWARD to KITE",
+      "url": "https://www.gutenberg.org/cache/epub/40769/pg40769.txt",
+      "sha256": "a82ed5b7100253e9c9b9da0819540e554ad2b2ecb7de7f837d437097ade4d9d4",
+      "bytes": 1145127
+    },
+    {
+      "id": 40863,
+      "range": "JUSTINIAN II. to KELLS",
+      "url": "https://www.gutenberg.org/cache/epub/40863/pg40863.txt",
+      "sha256": "56c974db0fd416b4964918917ad5b4303cdfd46cb009de7f10d424c53ed9d0cc",
+      "bytes": 1163367
+    },
+    {
+      "id": 40956,
+      "range": "JOINTS to JUSTINIAN I.",
+      "url": "https://www.gutenberg.org/cache/epub/40956/pg40956.txt",
+      "sha256": "754fcbc1574e7dae985e550b87db0de35fc56e525a422142de84310d63ecdb46",
+      "bytes": 1145793
+    },
+    {
+      "id": 41055,
+      "range": "JEVONS, STANLEY to JOINT",
+      "url": "https://www.gutenberg.org/cache/epub/41055/pg41055.txt",
+      "sha256": "ff0bc919e1f861350c5fb99989bd346178b8516073599dfde6f4e468f5775366",
+      "bytes": 1161400
+    },
+    {
+      "id": 41156,
+      "range": "ENCYCLOPAEDIA BRITANNICA, 11TH EDITION, \"JAPAN\" (PART) TO \"JEVEROS\"",
+      "url": "https://www.gutenberg.org/cache/epub/41156/pg41156.txt",
+      "sha256": "e187f3478e1658a897a16f1b4cd2e8ef7a5d4d2fa1dad4a6d9a0d184cc65f6a4",
+      "bytes": 1153922
+    },
+    {
+      "id": 41264,
+      "range": "JACOBITES to JAPAN",
+      "url": "https://www.gutenberg.org/cache/epub/41264/pg41264.txt",
+      "sha256": "2e42d6f7a630652a7c05fc8966c1a3efe956b3bc42bd87390029c2ee4582db19",
+      "bytes": 1231680
+    },
+    {
+      "id": 41343,
+      "range": "ITALY to JACOBITE CHURCH",
+      "url": "https://www.gutenberg.org/cache/epub/41343/pg41343.txt",
+      "sha256": "163d0c1eba771ee25fa228ac11eb4e809b7ba677db717810e3126736e0486825",
+      "bytes": 1186561
+    },
+    {
+      "id": 41472,
+      "range": "LIGHTFOOT, JOSEPH to LIQUIDATION",
+      "url": "https://www.gutenberg.org/cache/epub/41472/pg41472.txt",
+      "sha256": "e6402e73dcb038ada793574a073cc99ef4216aa1d7a28cca06984668358ae257",
+      "bytes": 1110542
+    },
+    {
+      "id": 41567,
+      "range": "LETTER to LIGHTFOOT, JOHN",
+      "url": "https://www.gutenberg.org/cache/epub/41567/pg41567.txt",
+      "sha256": "ef71a35c67f73824a784dc092dd0b4c9e7c3e271644cd17fc79f2acd8ea8f663",
+      "bytes": 1218987
+    },
+    {
+      "id": 41685,
+      "range": "LATIN LANGUAGE to LEFEBVRE, FRANÇOIS-JOSEPH",
+      "url": "https://www.gutenberg.org/cache/epub/41685/pg41685.txt",
+      "sha256": "87fe06ff5b0fa083e3cd166c0e5c5a722b2230e95cbdee4ec061420614bec34e",
+      "bytes": 1241615
+    },
+    {
+      "id": 41773,
+      "range": "LAMENNAIS, ROBERT DE to LATINI, BRUNETTO",
+      "url": "https://www.gutenberg.org/cache/epub/41773/pg41773.txt",
+      "sha256": "83332702ac8cc6172070be57b760e4fabb6570ca1cf958ec6ecc4e3b3b897951",
+      "bytes": 1145138
+    },
+    {
+      "id": 41902,
+      "range": "L to LAMELLIBRANCHIA",
+      "url": "https://www.gutenberg.org/cache/epub/41902/pg41902.txt",
+      "sha256": "c2f887e7d00b8d7fe77aa99f426c125a613560ca736d734541fc97d5a6381bfb",
+      "bytes": 1198348
+    },
+    {
+      "id": 42048,
+      "range": "LEFEBVRE, TANNEGUY to LETRONNE, JEAN ANTOINE",
+      "url": "https://www.gutenberg.org/cache/epub/42048/pg42048.txt",
+      "sha256": "fbb548e82e7437a2089a102ff20cbe70fb186f9b6bd0999a024de755aa2b64f3",
+      "bytes": 1179069
+    },
+    {
+      "id": 42173,
+      "range": "LIQUID GASES to LOGAR",
+      "url": "https://www.gutenberg.org/cache/epub/42173/pg42173.txt",
+      "sha256": "7cf11358f4b5a42594e639906b104ae7ed48d642b772a8c81ff2cf5c29bb130c",
+      "bytes": 1167788
+    },
+    {
+      "id": 42342,
+      "range": "LOGARITHM to LORD ADVOCATE",
+      "url": "https://www.gutenberg.org/cache/epub/42342/pg42342.txt",
+      "sha256": "12770766dba7e01eeeb22a62ccffec72e5f6db8f6c3a8bd5e3847face5b3b638",
+      "bytes": 1224082
+    },
+    {
+      "id": 42473,
+      "range": "MATTER to MECKLENBURG",
+      "url": "https://www.gutenberg.org/cache/epub/42473/pg42473.txt",
+      "sha256": "c448e63a2c3f36ca25ecedc64a5f0ee69754e2d2c37d05f14697d5a17b0572b0",
+      "bytes": 1234055
+    },
+    {
+      "id": 42552,
+      "range": "MARS to MATTEAWAN",
+      "url": "https://www.gutenberg.org/cache/epub/42552/pg42552.txt",
+      "sha256": "22cc6dbfb764c379e7bf5144af7a02ca4f9502f52d9831fc41fff0e37771bfe6",
+      "bytes": 1232657
+    },
+    {
+      "id": 42638,
+      "range": "MAP to MARS",
+      "url": "https://www.gutenberg.org/cache/epub/42638/pg42638.txt",
+      "sha256": "85eae93e33e375e3ea2496b82666fc01a3ffa2deea4a83dec7aaad8e4585b894",
+      "bytes": 1186904
+    },
+    {
+      "id": 42736,
+      "range": "MALTA to MAP, WALTER",
+      "url": "https://www.gutenberg.org/cache/epub/42736/pg42736.txt",
+      "sha256": "ca4889a820120b6c72fb7ee0788093f1c56c56592111d078e8f9bf7812c78fd5",
+      "bytes": 1182868
+    },
+    {
+      "id": 42854,
+      "range": "MAGNETITE to MALT",
+      "url": "https://www.gutenberg.org/cache/epub/42854/pg42854.txt",
+      "sha256": "5b1896df43e3be654da3fe0c3e6b7612a8568ad0768e79b562733f229cca1529",
+      "bytes": 1184251
+    },
+    {
+      "id": 43060,
+      "range": "MCKINLEY, WILLIAM to MAGNETISM, TERRESTRIAL",
+      "url": "https://www.gutenberg.org/cache/epub/43060/pg43060.txt",
+      "sha256": "4e075a80a5e58f54453bf06bb0d32cd0a3180679ce92f1fe5a6ba158f6e6a9a2",
+      "bytes": 1299696
+    },
+    {
+      "id": 43254,
+      "range": "LURAY CAVERN to MACKINAC ISLAND",
+      "url": "https://www.gutenberg.org/cache/epub/43254/pg43254.txt",
+      "sha256": "0d0f3a0ff4c1fd1eaac5b3d0b0524e7d7d3f419841c76920d41ad2a506881439",
+      "bytes": 1179462
+    },
+    {
+      "id": 43427,
+      "range": "LORD CHAMBERLAIN to LUQMAN",
+      "url": "https://www.gutenberg.org/cache/epub/43427/pg43427.txt",
+      "sha256": "ff86a5524b097924aadbb8672760472338a59a627627c1e2de749072ddf2dff1",
+      "bytes": 1266672
+    }
+  ]
+}

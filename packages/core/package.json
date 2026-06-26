@@ -9,7 +9,8 @@
     "./frontmatter": "./src/frontmatter.ts",
     "./extract": "./src/extract.ts",
     "./percentiles": "./src/percentiles.ts",
-    "./outline": "./src/outline.ts"
+    "./outline": "./src/outline.ts",
+    "./pmap": "./src/pmap.ts"
   },
   "scripts": {
     "test": "vitest run"
