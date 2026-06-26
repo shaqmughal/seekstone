@@ -11,6 +11,9 @@ How each adapter behaves as the vault grows. **Lower and flatter is better** —
 | **seekstone** | 1.1 | 3.2 | 7.5 | 6.6× |
 | **fs** | 1.3 | 3.3 | 8.2 | 6.1× |
 | **mcpvault** | 99.3 | 466.1 | 971.3 | 9.8× |
+| **rest** | — | — | 574.8 | — |
+| **obsidian-mcp-server** | — | — | 731.8 | — |
+| **mcp-obsidian** | — | — | 1550.4 | — |
 
 ## Search payload — mean across queries (context tax)
 
@@ -19,6 +22,9 @@ How each adapter behaves as the vault grows. **Lower and flatter is better** —
 | **seekstone** | 2.3 KB | 2.6 KB | 3.0 KB | 1.3× |
 | **fs** | 2.1 KB | 2.3 KB | 2.7 KB | 1.3× |
 | **mcpvault** | 1.7 KB | 1.9 KB | 2.2 KB | 1.3× |
+| **rest** | — | — | 62.58 MB | — |
+| **obsidian-mcp-server** | — | — | 46.6 KB | — |
+| **mcp-obsidian** | — | — | 94.55 MB | — |
 
 ## Large-note read payload
 
@@ -27,6 +33,9 @@ How each adapter behaves as the vault grows. **Lower and flatter is better** —
 | **seekstone** | 389.1 KB | 781.6 KB | 781.6 KB | 2.0× |
 | **fs** | 389.1 KB | 781.6 KB | 781.6 KB | 2.0× |
 | **mcpvault** | 395.8 KB | 794.6 KB | 794.6 KB | 2.0× |
+| **rest** | — | — | 781.6 KB | — |
+| **obsidian-mcp-server** | — | — | 781.7 KB | — |
+| **mcp-obsidian** | — | — | 796.6 KB | — |
 
 ## Search latency vs seekstone at 10k notes
 
@@ -35,14 +44,18 @@ How each adapter behaves as the vault grows. **Lower and flatter is better** —
 | **seekstone** | 7.5 | 1× |
 | **fs** | 8.2 | 1× |
 | **mcpvault** | 971.3 | 130× |
+| **rest** | 574.8 | 77× |
+| **obsidian-mcp-server** | 731.8 | 98× |
+| **mcp-obsidian** | 1550.4 | 208× |
+
+## Partial coverage
+
+> Captured at some sizes only: `rest@1k`, `rest@5k`, `obsidian-mcp-server@1k`, `obsidian-mcp-server@5k`, `mcp-obsidian@1k`, `mcp-obsidian@5k`.
 
 ## Not yet captured
 
 - **obsidian-mcp-pro** — filesystem-direct; pending adapter read-path fix
 - **obsidian-mcp** — filesystem-direct; slow synchronous init at scale (raise `SEEKSTONE_MCP_INIT_TIMEOUT`)
-- **rest** — requires Obsidian running + Local REST API plugin — captured manually
-- **obsidian-mcp-server** — requires Obsidian running + Local REST API plugin — captured manually
-- **mcp-obsidian** — requires Obsidian running + Local REST API plugin — captured manually
 
 See the harness README for the manual REST-capture procedure.
 
