@@ -22,11 +22,19 @@ describe('benchmark vault profile (golden)', () => {
     expect(stats.counts.notes).toBe(10_000);
     expect(stats.frontmatter.malformedNotes).toEqual([]);
 
+    // Normalize path separators so the snapshot matches on Windows runners,
+    // where path.relative() yields backslashes.
+    const slash = (p: string) => p.replace(/\\/g, '/');
+
     const stable = {
       counts: stats.counts,
       noteSizeDistribution: stats.size.noteSizeDistribution,
-      largestNotes: stats.size.largestNotes.slice(0, 10),
-      medianNote: stats.size.medianNote,
+      largestNotes: stats.size.largestNotes
+        .slice(0, 10)
+        .map((n) => ({ ...n, relPath: slash(n.relPath) })),
+      medianNote: stats.size.medianNote
+        ? { ...stats.size.medianNote, relPath: slash(stats.size.medianNote.relPath) }
+        : null,
       links: {
         totalWikilinks: stats.links.totalWikilinks,
         unresolvedWikilinks: stats.links.unresolvedWikilinks,
