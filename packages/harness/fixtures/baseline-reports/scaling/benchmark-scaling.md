@@ -13,9 +13,9 @@ How each adapter behaves as the vault grows. **Lower and flatter is better** —
 | **mcpvault** | 99.3 | 466.1 | 971.3 | 9.8× |
 | **obsidian-mcp-pro** | 46.2 | 213.4 | 430.2 | 9.3× |
 | **obsidian-mcp** | 81.6 | 404.8 | 811.1 | 9.9× |
-| **rest** | — | — | 574.8 | — |
-| **obsidian-mcp-server** | — | — | 731.8 | — |
-| **mcp-obsidian** | — | — | 1550.4 | — |
+| **rest** | — | 275.9 | 574.8 | — |
+| **obsidian-mcp-server** | — | 355.8 | 731.8 | — |
+| **mcp-obsidian** | — | 740.0 | 1550.4 | — |
 
 ## Search payload — mean across queries (context tax)
 
@@ -26,9 +26,9 @@ How each adapter behaves as the vault grows. **Lower and flatter is better** —
 | **mcpvault** | 1.7 KB | 1.9 KB | 2.2 KB | 1.3× |
 | **obsidian-mcp-pro** | 25.0 KB | 84.3 KB | 114.3 KB | 4.6× |
 | **obsidian-mcp** | 18.1 KB | 104.8 KB | 201.3 KB | 11.1× |
-| **rest** | — | — | 62.58 MB | — |
-| **obsidian-mcp-server** | — | — | 46.6 KB | — |
-| **mcp-obsidian** | — | — | 94.55 MB | — |
+| **rest** | — | 29.87 MB | 62.58 MB | — |
+| **obsidian-mcp-server** | — | 47.1 KB | 46.6 KB | — |
+| **mcp-obsidian** | — | 45.13 MB | 94.55 MB | — |
 
 ## Large-note read payload
 
@@ -39,9 +39,9 @@ How each adapter behaves as the vault grows. **Lower and flatter is better** —
 | **mcpvault** | 395.8 KB | 794.6 KB | 794.6 KB | 2.0× |
 | **obsidian-mcp-pro** | 389.3 KB | 781.9 KB | 781.9 KB | 2.0× |
 | **obsidian-mcp** | 389.2 KB | 781.7 KB | 781.7 KB | 2.0× |
-| **rest** | — | — | 781.6 KB | — |
-| **obsidian-mcp-server** | — | — | 781.7 KB | — |
-| **mcp-obsidian** | — | — | 796.6 KB | — |
+| **rest** | — | 781.6 KB | 781.6 KB | — |
+| **obsidian-mcp-server** | — | 781.7 KB | 781.7 KB | — |
+| **mcp-obsidian** | — | 796.6 KB | 796.6 KB | — |
 
 ## Search latency vs seekstone at 10k notes
 
@@ -58,5 +58,5 @@ How each adapter behaves as the vault grows. **Lower and flatter is better** —
 
 ## Partial coverage
 
-> Captured at some sizes only: `rest@1k`, `rest@5k`, `obsidian-mcp-server@1k`, `obsidian-mcp-server@5k`, `mcp-obsidian@1k`, `mcp-obsidian@5k`.
+> Captured at some sizes only: `rest@1k`, `obsidian-mcp-server@1k`, `mcp-obsidian@1k`.
 
