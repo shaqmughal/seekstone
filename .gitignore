@@ -39,6 +39,12 @@ tmp/
 # write-safety scratch vaults (defensive — must never be committed)
 safety-scratch/
 
+# benchmark corpus raw text — public-domain PG EB1911 volumes, fetched on demand
+# via `npm run harness -- fetch-corpus` and verified against corpus/manifest.json.
+# The generated vault under fixtures/vault/ is the committed canonical artifact;
+# the raw corpus is large and regenerable, so it stays out of git.
+packages/harness/fixtures/corpus/raw/
+
 # claude code local task state
 .claude/scheduled_tasks.lock
 seekstone.mcpb

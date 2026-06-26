@@ -1,36 +1,36 @@
 {
   "$schema": "../src/bench/queries.schema.json",
-  "comment": "Version-controlled query set. Edit per-vault so 'rare' actually matches and 'phrase' actually exists. Re-running with the same set is what makes results comparable across snapshots and adapters.",
+  "comment": "Version-controlled query set for the committed synthetic benchmark vault (packages/harness/fixtures/vault — public-domain 1911 Encyclopaedia Britannica, generated with seed 42). Term frequencies below are measured against that vault, so results are reproducible by anyone. Re-running with the same set is what makes results comparable across snapshots and adapters. If you regenerate the vault with a different seed/count, re-measure these.",
   "queries": [
     {
       "id": "single-term",
       "kind": "single",
-      "query": "leadership",
-      "notes": "High-frequency single term — replace with a common word in your vault."
+      "query": "church",
+      "notes": "High-frequency single term — matches ~2,226 notes in the fixture vault."
     },
     {
       "id": "multi-term",
       "kind": "multi",
-      "query": "team dynamics",
-      "notes": "Two-word search — replace with a common multi-word phrase in your vault."
+      "query": "Roman Empire",
+      "notes": "Two-word search — matches ~135 notes."
     },
     {
       "id": "phrase",
       "kind": "phrase",
-      "query": "deep work",
-      "notes": "Known phrase — replace with a quoted phrase you know exists in your vault."
+      "query": "the capital of",
+      "notes": "Known phrase present across ~353 notes (geography entries)."
     },
     {
       "id": "rare-term",
       "kind": "rare",
-      "query": "market problem discovery",
-      "notes": "Low-frequency term — replace with a rare or niche phrase to stress cold-cache and near-zero payload paths."
+      "query": "phlogiston",
+      "notes": "Low-frequency term — matches ~9 notes; stresses cold-cache and near-zero payload paths."
     }
   ],
   "reads": {
-    "small": "Daily Notes/2026-05-17.md",
-    "large": "2 Personal/1.2 Projects/Market Problem Discovery/01-inventory.md",
-    "_hint": "After running `harness profile`, paste a small (~2 KB) and large (>50 KB) note path from vault-stats.json here. Leave null to auto-pick from the stats file."
+    "small": "Encyclopedia/A/Anglesite.md",
+    "large": "Encyclopedia/I/Italy.md",
+    "_hint": "Paths are stable for the committed seed-42 vault: small ≈ 2 KB (median note), large ≈ 800 KB. Regenerate the vault → re-pick from vault-stats.json."
   },
   "runs": 20,
   "_runsHint": "N≥20 per the build brief. Increase for noisier numbers; decrease only when iterating."

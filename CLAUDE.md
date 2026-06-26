@@ -24,9 +24,18 @@ npm run format                                        # biome write
 npm run harness -- profile --vault "$SEEKSTONE_VAULT"
 npm run harness -- bench   --queries packages/harness/queries/default.json --stats reports/vault-stats.json
 npm run harness -- safety  --vault "$SEEKSTONE_VAULT"
+
+# the committed synthetic benchmark vault (no personal vault needed)
+npm run harness -- gen-vault --count 10000            # regenerate fixtures/vault (deterministic, seed 42)
+npm run harness -- fetch-corpus                       # download PG EB1911 corpus → fixtures/corpus/raw (gitignored)
+npm run harness -- bench --backend fs --vault "$PWD/packages/harness/fixtures/vault" --out "$PWD/packages/harness/fixtures/baseline-reports"
 ```
 
 The **server** has a real build — `npm run build -w seekstone` bundles it (and `packages/core`) to `dist/index.js` via tsup for publishing. The **harness** has no build step; it runs via `tsx`. `tsc` is used for typecheck only. Tests are co-located as `*.test.ts` next to source.
+
+## Benchmark vault (committed fixture)
+
+`packages/harness/fixtures/vault/` is a **committed 10,000-note synthetic vault** generated from the public-domain 1911 Encyclopædia Britannica (Project Gutenberg). It's the canonical, reproducible, personal-data-free benchmark target — use it instead of a personal vault. The generator (`src/fixtures/`, deterministic, seed 42) + pinned corpus manifest are committed; the raw corpus text under `fixtures/corpus/raw/` is gitignored and re-fetched on demand. `src/fixtures/profile-fixture.test.ts` snapshots the vault's content-derived profile so the target can't silently drift. See `packages/harness/README.md`. Freshness stats are N/A for the fixture (mtime = checkout time).
 
 ## Required env vars
 

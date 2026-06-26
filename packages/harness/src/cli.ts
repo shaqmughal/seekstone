@@ -1,6 +1,7 @@
 #!/usr/bin/env -S npx tsx
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { join, resolve } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { cac } from 'cac';
 import { McpObsidianAdapter } from './bench/adapters/mcp-obsidian.js';
 import { McpvaultAdapter } from './bench/adapters/mcpvault.js';
@@ -16,9 +17,16 @@ import {
   renderBenchmarkMarkdown,
   runBenchmark,
 } from './bench/index.js';
+import { fetchCorpus, loadCorpus } from './fixtures/corpus.js';
+import { generateVault } from './fixtures/generate.js';
 import { profileVault } from './profiler/index.js';
 import { renderVaultStatsMarkdown } from './profiler/report.js';
 import { copyVault, renderSafetyMarkdown, runSafety } from './safety/index.js';
+
+// Anchor fixture defaults to this package, independent of the caller's cwd
+// (the `start` script runs tsx from packages/harness).
+const FIXTURES = fileURLToPath(new URL('../fixtures', import.meta.url));
+const DEFAULT_QUERIES = fileURLToPath(new URL('../queries/default.json', import.meta.url));
 
 const cli = cac('seekstone-harness');
 
@@ -44,9 +52,7 @@ cli
   .command('bench', 'Run the benchmark harness against a backend.')
   .option('--backend <name>', 'Adapter name: "rest" or "fs".', { default: 'rest' })
   .option('--vault <path>', 'Vault root. Required for fs backend (or set SEEKSTONE_VAULT).')
-  .option('--queries <file>', 'Query set JSON.', {
-    default: 'packages/harness/queries/default.json',
-  })
+  .option('--queries <file>', 'Query set JSON.', { default: DEFAULT_QUERIES })
   .option('--stats <file>', 'vault-stats.json (used to auto-pick read targets).')
   .option('--out <dir>', 'Output directory.', { default: 'reports' })
   .option('--runs <n>', 'Override runs-per-measurement.')
@@ -158,6 +164,57 @@ cli
     const outPath = join(outDir, 'comparison.md');
     await writeFile(outPath, md);
     console.log(`compare: wrote ${outPath}`);
+  });
+
+// ---------- fetch-corpus ----------
+cli
+  .command(
+    'fetch-corpus',
+    'Download the public-domain EB1911 corpus volumes (verified by checksum).',
+  )
+  .option('--manifest <file>', 'Corpus manifest JSON.', {
+    default: `${FIXTURES}/corpus/manifest.json`,
+  })
+  .option('--raw <dir>', 'Destination for raw volume text.', {
+    default: `${FIXTURES}/corpus/raw`,
+  })
+  .action(async (opts) => {
+    const { fetched, skipped } = await fetchCorpus(resolve(opts.manifest), resolve(opts.raw), (m) =>
+      console.log(`fetch-corpus: ${m}`),
+    );
+    console.log(`fetch-corpus: ${fetched} fetched, ${skipped} already present (verified).`);
+  });
+
+// ---------- gen-vault ----------
+cli
+  .command('gen-vault', 'Generate the deterministic synthetic benchmark vault from the corpus.')
+  .option('--count <n>', 'Number of notes to emit.', { default: 10000 })
+  .option('--seed <n>', 'PRNG seed (same corpus+count+seed → identical vault).', { default: 42 })
+  .option('--raw <dir>', 'Corpus raw volume directory.', { default: `${FIXTURES}/corpus/raw` })
+  .option('--out <dir>', 'Vault output directory (wiped and recreated).', {
+    default: `${FIXTURES}/vault`,
+  })
+  .action(async (opts) => {
+    const rawDir = resolve(opts.raw);
+    const outDir = resolve(opts.out);
+    const corpus = loadCorpus(rawDir);
+    if (corpus.length === 0) {
+      console.error(`gen-vault: no corpus found in ${rawDir}. Run \`fetch-corpus\` first.`);
+      process.exit(2);
+    }
+    const r = generateVault({
+      corpus,
+      count: Number(opts.count),
+      seed: Number(opts.seed),
+      outDir,
+    });
+    console.log(
+      `gen-vault: ${r.notes} notes (${r.articleNotes} article, ${r.dailyNotes} daily, ${r.mocNotes} MOC, ${r.systemNotes} system) + ${r.attachments} attachments`,
+    );
+    console.log(
+      `           ${r.wikilinks} wikilinks (${r.unresolvedTargets} unresolved), ${r.externalUrls} URLs, ${r.notesWithFrontmatter} with frontmatter`,
+    );
+    console.log(`           wrote ${outDir}`);
   });
 
 cli.help();

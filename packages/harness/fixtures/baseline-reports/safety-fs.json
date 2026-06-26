@@ -1,0 +1,934 @@
+{
+  "snapshotDate": "2026-06-26T00:41:25.472Z",
+  "backend": {
+    "name": "fs",
+    "description": "Filesystem-direct (MiniSearch in-process, no HTTP round-trip)"
+  },
+  "vaultCopyRoot": "/private/var/folders/xk/2wj3w8rd7rd96l26xsg18t1r0000gn/T/seekstone-safety-1782434474491",
+  "originalVaultRoot": "/Users/shaqmughal/code/seekstone/packages/harness/fixtures/vault",
+  "sampleSize": 25,
+  "passByOp": {
+    "identity": {
+      "pass": 25,
+      "fail": 0
+    },
+    "body-append": {
+      "pass": 25,
+      "fail": 0
+    },
+    "fm-edit": {
+      "pass": 25,
+      "fail": 0
+    },
+    "patch-note": {
+      "pass": 25,
+      "fail": 0
+    },
+    "replace-in-note": {
+      "pass": 25,
+      "fail": 0
+    }
+  },
+  "notes": [
+    {
+      "relPath": "0 Inbox/Antelope.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Antelope\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/A/Arch.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Arch\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/B/Barker'S Mill.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "tags"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Barker\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/B/Bonstetten.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Bonstetten\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/C/Cape Town.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Cape\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/C/Chrysoberyl.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "source"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Chrysoberyl\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/C/Cross.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Cross\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/D/Docket.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type",
+        "source",
+        "id"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Docket\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/E/Espinay.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Espinay\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/F/Fraternities.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Fraternities\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/G/Gotter.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "source"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Gotter\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/H/Hesperides.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Hesperides\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/I/Irbit.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Irbit\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/K/Kingston.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Kingston\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/L/Lewes.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Lewes\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/M/Marquetry.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type",
+        "tags"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Marquetry\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "MOCs/science-studies MOC.md",
+      "fmKeys": [
+        "title",
+        "type",
+        "topic"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"science\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Notes/Curacao.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Curacao\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Notes/Isfahan.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type",
+        "source",
+        "tags"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Isfahan\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Reference/Berdyansk.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Berdyansk\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Reference/Descriptive Poetry.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "tags"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Descriptive\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Reference/Henry V..md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Henry\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Reference/Market Harborough.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "source"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Market\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Sources/Chieti.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "source"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Chieti\" with marked version"
+        }
+      ]
+    },
+    {
+      "relPath": "Sources/Gervex.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "source",
+        "id"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "pass": true,
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "pass": true,
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "pass": true,
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "pass": true,
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "pass": true,
+          "change": "replace first occurrence of \"Gervex\" with marked version"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "vaultRoot": "/Users/shaqmughal/code/seekstone/packages/harness/fixtures/vault",
+  "snapshotDate": "2026-06-26T00:41:04.731Z",
+  "machine": {
+    "platform": "darwin",
+    "arch": "arm64",
+    "node": "v25.9.0",
+    "cpus": 16
+  },
+  "counts": {
+    "totalFiles": 10160,
+    "notes": 10000,
+    "attachmentsByKind": {
+      "note": 10000,
+      "image": 120,
+      "pdf": 20,
+      "excalidraw": 4,
+      "canvas": 6,
+      "video": 5,
+      "audio": 3,
+      "other": 2
+    },
+    "notesByTopDir": {
+      "Home.md": 1,
+      "Index.md": 1,
+      "0 Inbox": 265,
+      "MOCs": 150,
+      "Daily Notes": 1000,
+      "Templates": 10,
+      "Notes": 883,
+      "Sources": 1061,
+      "Reference": 1326,
+      "Encyclopedia": 5303
+    }
+  },
+  "size": {
+    "totalBytes": 69585588,
+    "notesBytes": 69572648,
+    "attachmentsBytes": 12940,
+    "noteSizeDistribution": {
+      "n": 10000,
+      "min": 51,
+      "median": 2015,
+      "p90": 12047,
+      "p95": 24101,
+      "p99": 92270,
+      "max": 852186,
+      "mean": 6957.2648
+    },
+    "largestNotes": [
+      {
+        "relPath": "Notes/Japan.md",
+        "sizeBytes": 852186
+      },
+      {
+        "relPath": "Encyclopedia/I/Italy.md",
+        "sizeBytes": 800373
+      },
+      {
+        "relPath": "0 Inbox/Mecca.md",
+        "sizeBytes": 616529
+      },
+      {
+        "relPath": "Reference/Hydraulics.md",
+        "sizeBytes": 586550
+      },
+      {
+        "relPath": "Sources/Cotton.md",
+        "sizeBytes": 454347
+      },
+      {
+        "relPath": "Reference/India.md",
+        "sizeBytes": 439230
+      },
+      {
+        "relPath": "Sources/Europe.md",
+        "sizeBytes": 438099
+      },
+      {
+        "relPath": "Encyclopedia/I/Ireland.md",
+        "sizeBytes": 425398
+      },
+      {
+        "relPath": "Encyclopedia/C/Chemistry.md",
+        "sizeBytes": 416889
+      },
+      {
+        "relPath": "Encyclopedia/E/English Law.md",
+        "sizeBytes": 398393
+      },
+      {
+        "relPath": "Sources/Horticulture.md",
+        "sizeBytes": 393980
+      },
+      {
+        "relPath": "Encyclopedia/C/Celt.md",
+        "sizeBytes": 388378
+      },
+      {
+        "relPath": "Encyclopedia/E/Edric.md",
+        "sizeBytes": 344397
+      },
+      {
+        "relPath": "Reference/Australia.md",
+        "sizeBytes": 343877
+      },
+      {
+        "relPath": "Reference/Ethics.md",
+        "sizeBytes": 335595
+      },
+      {
+        "relPath": "Encyclopedia/M/Magnesite.md",
+        "sizeBytes": 314736
+      },
+      {
+        "relPath": "Notes/History.md",
+        "sizeBytes": 312558
+      },
+      {
+        "relPath": "Notes/French Revolutionary Wars.md",
+        "sizeBytes": 294851
+      },
+      {
+        "relPath": "Encyclopedia/E/Electric Eel.md",
+        "sizeBytes": 261595
+      },
+      {
+        "relPath": "Encyclopedia/C/Crusades.md",
+        "sizeBytes": 252362
+      },
+      {
+        "relPath": "Sources/Germanium.md",
+        "sizeBytes": 251431
+      },
+      {
+        "relPath": "Sources/Map.md",
+        "sizeBytes": 243537
+      },
+      {
+        "relPath": "Sources/Evidence.md",
+        "sizeBytes": 239781
+      },
+      {
+        "relPath": "Encyclopedia/I/Insurance.md",
+        "sizeBytes": 237614
+      },
+      {
+        "relPath": "Sources/Hindostani.md",
+        "sizeBytes": 230750
+      }
+    ],
+    "medianNote": {
+      "relPath": "Encyclopedia/B/Barnby.md",
+      "sizeBytes": 2015
+    }
+  },
+  "links": {
+    "totalWikilinks": 26627,
+    "outboundPerNote": {
+      "n": 10000,
+      "min": 0,
+      "median": 1,
+      "p90": 6,
+      "p95": 8,
+      "p99": 30,
+      "max": 520,
+      "mean": 2.6627
+    },
+    "unresolvedWikilinks": 9814,
+    "mostLinkedNotes": [
+      {
+        "target": "Kalinjar",
+        "incoming": 1775
+      },
+      {
+        "target": "Heuglin",
+        "incoming": 834
+      },
+      {
+        "target": "Chateaubriant",
+        "incoming": 548
+      },
+      {
+        "target": "Helgaud",
+        "incoming": 414
+      },
+      {
+        "target": "Brantford",
+        "incoming": 340
+      },
+      {
+        "target": "Deschamps",
+        "incoming": 285
+      },
+      {
+        "target": "Dendera",
+        "incoming": 266
+      },
+      {
+        "target": "Masonry",
+        "incoming": 216
+      },
+      {
+        "target": "Litopterna",
+        "incoming": 213
+      },
+      {
+        "target": "Marne",
+        "incoming": 178
+      },
+      {
+        "target": "Haxo",
+        "incoming": 170
+      },
+      {
+        "target": "Gansbacher",
+        "incoming": 163
+      },
+      {
+        "target": "Baring-Gould",
+        "incoming": 137
+      },
+      {
+        "target": "Ballston Spa",
+        "incoming": 126
+      },
+      {
+        "target": "Beaufort",
+        "incoming": 125
+      },
+      {
+        "target": "Brogue",
+        "incoming": 103
+      },
+      {
+        "target": "Coeffeteau",
+        "incoming": 101
+      },
+      {
+        "target": "Frost",
+        "incoming": 100
+      },
+      {
+        "target": "Landwehr",
+        "incoming": 98
+      },
+      {
+        "target": "Kalamazoo",
+        "incoming": 97
+      },
+      {
+        "target": "Courcelle-Seneuil",
+        "incoming": 90
+      },
+      {
+        "target": "Kino",
+        "incoming": 86
+      },
+      {
+        "target": "Bengal",
+        "incoming": 80
+      },
+      {
+        "target": "Liri",
+        "incoming": 79
+      },
+      {
+        "target": "Lisbon",
+        "incoming": 76
+      }
+    ],
+    "totalExternalUrls": 15278
+  },
+  "frontmatter": {
+    "notesWithFrontmatter": 5895,
+    "pctNotesWithFrontmatter": 58.95,
+    "keyFrequency": [
+      {
+        "key": "date_created",
+        "count": 5735
+      },
+      {
+        "key": "title",
+        "count": 4885
+      },
+      {
+        "key": "topic",
+        "count": 4885
+      },
+      {
+        "key": "type",
+        "count": 3479
+      },
+      {
+        "key": "source",
+        "count": 1388
+      },
+      {
+        "key": "tags",
+        "count": 825
+      },
+      {
+        "key": "id",
+        "count": 597
+      }
+    ],
+    "malformedNotes": []
+  },
+  "tags": {
+    "distinctTags": 320,
+    "inlineTagOccurrences": 12391,
+    "frontmatterTagOccurrences": 1610,
+    "topTags": [
+      {
+        "tag": "history",
+        "count": 2235
+      },
+      {
+        "tag": "science",
+        "count": 1129
+      },
+      {
+        "tag": "geography",
+        "count": 692
+      },
+      {
+        "tag": "biography",
+        "count": 522
+      },
+      {
+        "tag": "philosophy",
+        "count": 423
+      },
+      {
+        "tag": "literature",
+        "count": 355
+      },
+      {
+        "tag": "religion",
+        "count": 311
+      },
+      {
+        "tag": "politics",
+        "count": 258
+      },
+      {
+        "tag": "art",
+        "count": 258
+      },
+      {
+        "tag": "mathematics",
+        "count": 231
+      },
+      {
+        "tag": "biology",
+        "count": 186
+      },
+      {
+        "tag": "chemistry",
+        "count": 182
+      },
+      {
+        "tag": "law",
+        "count": 156
+      },
+      {
+        "tag": "physics",
+        "count": 156
+      },
+      {
+        "tag": "economics",
+        "count": 153
+      },
+      {
+        "tag": "antiquity",
+        "count": 127
+      },
+      {
+        "tag": "architecture",
+        "count": 123
+      },
+      {
+        "tag": "medicine",
+        "count": 122
+      },
+      {
+        "tag": "warfare",
+        "count": 119
+      },
+      {
+        "tag": "mythology",
+        "count": 119
+      },
+      {
+        "tag": "music",
+        "count": 117
+      },
+      {
+        "tag": "language",
+        "count": 110
+      },
+      {
+        "tag": "engineering",
+        "count": 104
+      },
+      {
+        "tag": "geology",
+        "count": 104
+      },
+      {
+        "tag": "botany",
+        "count": 101
+      },
+      {
+        "tag": "zoology",
+        "count": 96
+      },
+      {
+        "tag": "africa",
+        "count": 86
+      },
+      {
+        "tag": "astronomy",
+        "count": 79
+      },
+      {
+        "tag": "exploration",
+        "count": 75
+      },
+      {
+        "tag": "theology",
+        "count": 70
+      },
+      {
+        "tag": "classics",
+        "count": 70
+      },
+      {
+        "tag": "ancient-rome",
+        "count": 70
+      },
+      {
+        "tag": "asia",
+        "count": 68
+      },
+      {
+        "tag": "enlightenment",
+        "count": 68
+      },
+      {
+        "tag": "europe",
+        "count": 66
+      },
+      {
+        "tag": "metallurgy",
+        "count": 59
+      },
+      {
+        "tag": "americas",
+        "count": 57
+      },
+      {
+        "tag": "medieval",
+        "count": 57
+      },
+      {
+        "tag": "ancient-greece",
+        "count": 57
+      },
+      {
+        "tag": "navigation",
+        "count": 55
+      },
+      {
+        "tag": "natural-history",
+        "count": 52
+      },
+      {
+        "tag": "rivers",
+        "count": 52
+      },
+      {
+        "tag": "reference",
+        "count": 51
+      },
+      {
+        "tag": "agriculture",
+        "count": 49
+      },
+      {
+        "tag": "cartography",
+        "count": 49
+      },
+      {
+        "tag": "renaissance",
+        "count": 47
+      },
+      {
+        "tag": "painters",
+        "count": 47
+      },
+      {
+        "tag": "commerce",
+        "count": 46
+      },
+      {
+        "tag": "mountains",
+        "count": 45
+      },
+      {
+        "tag": "dynasties",
+        "count": 45
+      }
+    ]
+  },
+  "freshness": {
+    "modifiedLast7Days": 10000,
+    "modifiedLast30Days": 10000,
+    "modifiedLast90Days": 10000
+  }
+}
