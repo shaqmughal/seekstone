@@ -9,7 +9,12 @@ import {
 } from '@seekstone/core/extract';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { type Distribution, summarise } from '@seekstone/core/percentiles';
+import { mapLimit } from '@seekstone/core/pmap';
 import { type FileEntry, type FileKind, walkVault } from '@seekstone/core/walk';
+
+// Bound concurrent file reads so profiling a large vault (10k+ notes) doesn't
+// exhaust the OS file-descriptor limit (EMFILE on Windows).
+const READ_CONCURRENCY = 64;
 
 export interface NoteRecord {
   relPath: string;
@@ -87,7 +92,8 @@ export async function profileVault(opts: ProfilerOptions): Promise<VaultStats> {
   const topTagsN = opts.topTagsCount ?? 50;
 
   const entries = await walkVault(vaultRoot);
-  const notes = await Promise.all(entries.filter((e) => e.kind === 'note').map((e) => readNote(e)));
+  const noteEntries = entries.filter((e) => e.kind === 'note');
+  const notes = await mapLimit(noteEntries, READ_CONCURRENCY, (e) => readNote(e));
 
   return aggregate({
     vaultRoot,

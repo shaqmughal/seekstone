@@ -1,6 +1,7 @@
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
+import { mapLimit } from '@seekstone/core/pmap';
 import fg from 'fast-glob';
 import MiniSearch from 'minisearch';
 import type { Backend, BackendResponse, ListEntry, SearchHit } from '../backend.js';
@@ -64,20 +65,20 @@ export class FsAdapter implements Backend {
     const noteMap = new Map<string, string>();
     const docs: IndexedDoc[] = [];
 
-    await Promise.all(
-      relPaths.map(async (relPath) => {
-        try {
-          const raw = await readFile(join(vaultRoot, relPath), 'utf8');
-          const fm = parseFrontmatter(raw);
-          const title = relPath.replace(/\.md$/, '').split('/').at(-1) ?? relPath;
-          const tags = extractTagValues(fm.data);
-          noteMap.set(relPath, raw);
-          docs.push({ id: relPath, title, body: fm.body, tags, fmKeys: fm.keys.join(' ') });
-        } catch {
-          // skip unreadable files
-        }
-      }),
-    );
+    // Bound concurrency so building an index over a large vault (10k+ notes)
+    // doesn't exhaust the OS file-descriptor limit (EMFILE on Windows).
+    await mapLimit(relPaths, 64, async (relPath) => {
+      try {
+        const raw = await readFile(join(vaultRoot, relPath), 'utf8');
+        const fm = parseFrontmatter(raw);
+        const title = relPath.replace(/\.md$/, '').split('/').at(-1) ?? relPath;
+        const tags = extractTagValues(fm.data);
+        noteMap.set(relPath, raw);
+        docs.push({ id: relPath, title, body: fm.body, tags, fmKeys: fm.keys.join(' ') });
+      } catch {
+        // skip unreadable files
+      }
+    });
 
     index.addAll(docs);
     return new FsAdapter(vaultRoot, index, noteMap);
