@@ -51,7 +51,7 @@ export async function fetchCorpus(
       skipped++;
       continue;
     }
-    const res = await fetch(e.url);
+    const res = await fetch(pgUrl(e.id));
     if (!res.ok) throw new Error(`fetch ${e.url} failed: ${res.status}`);
     const buf = Buffer.from(await res.arrayBuffer());
     const got = sha256(buf);
