@@ -211,11 +211,11 @@ exports[`benchmark vault profile (golden): 'vault' > produces the committed dete
       },
       {
         "count": 258,
-        "tag": "politics",
+        "tag": "art",
       },
       {
         "count": 258,
-        "tag": "art",
+        "tag": "politics",
       },
       {
         "count": 231,
@@ -255,11 +255,11 @@ exports[`benchmark vault profile (golden): 'vault' > produces the committed dete
       },
       {
         "count": 119,
-        "tag": "warfare",
+        "tag": "mythology",
       },
       {
         "count": 119,
-        "tag": "mythology",
+        "tag": "warfare",
       },
       {
         "count": 117,
@@ -517,11 +517,11 @@ exports[`benchmark vault profile (golden): 'vault-1k' > produces the committed d
       },
       {
         "count": 17,
-        "tag": "music",
+        "tag": "economics",
       },
       {
         "count": 17,
-        "tag": "economics",
+        "tag": "music",
       },
       {
         "count": 15,
@@ -545,15 +545,15 @@ exports[`benchmark vault profile (golden): 'vault-1k' > produces the committed d
       },
       {
         "count": 10,
-        "tag": "zoology",
-      },
-      {
-        "count": 10,
         "tag": "warfare",
       },
       {
+        "count": 10,
+        "tag": "zoology",
+      },
+      {
         "count": 9,
-        "tag": "law",
+        "tag": "astronomy",
       },
       {
         "count": 9,
@@ -561,11 +561,11 @@ exports[`benchmark vault profile (golden): 'vault-1k' > produces the committed d
       },
       {
         "count": 9,
-        "tag": "mythology",
+        "tag": "law",
       },
       {
         "count": 9,
-        "tag": "astronomy",
+        "tag": "mythology",
       },
     ],
   },
@@ -815,11 +815,11 @@ exports[`benchmark vault profile (golden): 'vault-5k' > produces the committed d
       },
       {
         "count": 66,
-        "tag": "warfare",
+        "tag": "medicine",
       },
       {
         "count": 66,
-        "tag": "medicine",
+        "tag": "warfare",
       },
       {
         "count": 61,

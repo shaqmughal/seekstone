@@ -169,7 +169,9 @@ function aggregate(input: AggregateInput): VaultStats {
   // --- Note size distribution ---
   const noteSizes = notes.map((n) => n.sizeBytes);
   const noteSizeDistribution = summarise(noteSizes);
-  const notesSortedBySize = [...notes].sort((a, b) => b.sizeBytes - a.sizeBytes);
+  const notesSortedBySize = [...notes].sort(
+    (a, b) => b.sizeBytes - a.sizeBytes || a.relPath.localeCompare(b.relPath),
+  );
   const largestNotes = notesSortedBySize
     .slice(0, largestN)
     .map((n) => ({ relPath: n.relPath, sizeBytes: n.sizeBytes }));
@@ -212,7 +214,7 @@ function aggregate(input: AggregateInput): VaultStats {
   const outboundPerNote = summarise(notes.map((n) => n.outboundLinks));
   const mostLinkedNotes = [...incoming.entries()]
     .map(([target, count]) => ({ target, incoming: count }))
-    .sort((a, b) => b.incoming - a.incoming)
+    .sort((a, b) => b.incoming - a.incoming || a.target.localeCompare(b.target))
     .slice(0, mostLinkedN);
 
   // --- Frontmatter ---
@@ -224,7 +226,7 @@ function aggregate(input: AggregateInput): VaultStats {
   }
   const keyFrequency = [...keyFreq.entries()]
     .map(([key, count]) => ({ key, count }))
-    .sort((a, b) => b.count - a.count);
+    .sort((a, b) => b.count - a.count || a.key.localeCompare(b.key));
 
   // --- Tags ---
   const tagCounts = new Map<string, number>();
@@ -242,7 +244,7 @@ function aggregate(input: AggregateInput): VaultStats {
   }
   const topTags = [...tagCounts.entries()]
     .map(([tag, count]) => ({ tag, count }))
-    .sort((a, b) => b.count - a.count)
+    .sort((a, b) => b.count - a.count || a.tag.localeCompare(b.tag))
     .slice(0, topTagsN);
 
   // --- Freshness ---

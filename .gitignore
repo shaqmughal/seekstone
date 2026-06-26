@@ -61,3 +61,9 @@ packages/harness/fixtures/*/.obsidian/community-plugins.json
 packages/harness/fixtures/*/.obsidian/hotkeys.json
 packages/harness/fixtures/*/.obsidian/graph.json
 packages/harness/fixtures/*/.obsidian/plugins/
+
+# More Obsidian session junk that appears when a fixture vault is opened for
+# manual benchmark captures (bookmarks, stray empty notes / Bases files).
+packages/harness/fixtures/*/.obsidian/bookmarks.json
+packages/harness/fixtures/**/Untitled*
+packages/harness/fixtures/**/*.base
