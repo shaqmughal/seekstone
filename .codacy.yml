@@ -10,8 +10,13 @@ exclude_paths:
   # Generated benchmark reports — markdown artifacts, not source.
   - "reports/**"
 
-  # Query fixtures — JSON input data for the harness, not source code.
-  - "packages/harness/queries/**"
+  # Dev-only measurement harness — never published to npm (only `seekstone` /
+  # `@seekstone/core` ship). Codacy's grade/security signal is more meaningful
+  # focused on the shipped code, and the harness recurringly trips false
+  # positives: an SSRF flag on the checksum-verified, pinned-URL corpus fetcher,
+  # and noUncheckedIndexedAccess patterns our tsconfig already guards. Biome +
+  # tsc + vitest (incl. a Windows matrix) still cover the harness in CI.
+  - "packages/harness/**"
 
   # Build output.
   - "dist/**"
