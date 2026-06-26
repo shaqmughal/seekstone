@@ -282,6 +282,15 @@ export function generateVault(opts: GenerateOptions): GenerateResult {
     result.systemNotes++;
   }
 
+  // --- Minimal `.obsidian/` so the directory is recognized as a real vault. ---
+  // Filesystem-direct servers (e.g. obsidian-mcp-pro) validate this and silently
+  // fall back to auto-detecting the user's *personal* vault when it's absent —
+  // a correctness and privacy hazard. The walker ignores `.obsidian/`, so this
+  // never affects profile stats or the golden snapshots.
+  write('.obsidian/app.json', '{}\n');
+  write('.obsidian/core-plugins.json', '[]\n');
+  write('.obsidian/appearance.json', '{}\n');
+
   // --- Placeholder attachments across every FileKind. ---
   writeAttachments(outDir, result);
 
