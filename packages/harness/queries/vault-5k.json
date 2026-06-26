@@ -1,0 +1,21 @@
+{
+  "$schema": "../src/bench/queries.schema.json",
+  "comment": "Query set for the committed 5,000-note benchmark vault (fixtures/vault-5k, seed 42). Same terms as the 10k default; read targets re-picked for this vault's sampled notes (per-vault coupling — read targets are scale-specific).",
+  "queries": [
+    {
+      "id": "single-term",
+      "kind": "single",
+      "query": "church",
+      "notes": "High-frequency single term."
+    },
+    { "id": "multi-term", "kind": "multi", "query": "Roman Empire", "notes": "Two-word search." },
+    { "id": "phrase", "kind": "phrase", "query": "the capital of", "notes": "Known phrase." },
+    { "id": "rare-term", "kind": "rare", "query": "phlogiston", "notes": "Low-frequency term." }
+  ],
+  "reads": {
+    "small": "Encyclopedia/H/Hoole.md",
+    "large": "Encyclopedia/I/Italy.md",
+    "_hint": "Stable for the committed seed-42 5k vault: small ≈ 2 KB (median), large ≈ 800 KB."
+  },
+  "runs": 20
+}

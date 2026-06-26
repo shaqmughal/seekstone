@@ -1,6 +1,6 @@
 // Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
-exports[`benchmark vault profile (golden) > produces the committed deterministic shape 1`] = `
+exports[`benchmark vault profile (golden): 'vault' > produces the committed deterministic shape 1`] = `
 {
   "counts": {
     "attachmentsByKind": {
@@ -279,6 +279,578 @@ exports[`benchmark vault profile (golden) > produces the committed deterministic
       },
       {
         "count": 101,
+        "tag": "botany",
+      },
+    ],
+  },
+}
+`;
+
+exports[`benchmark vault profile (golden): 'vault-1k' > produces the committed deterministic shape 1`] = `
+{
+  "counts": {
+    "attachmentsByKind": {
+      "audio": 3,
+      "canvas": 6,
+      "excalidraw": 4,
+      "image": 120,
+      "note": 1000,
+      "other": 2,
+      "pdf": 20,
+      "video": 5,
+    },
+    "notes": 1000,
+    "notesByTopDir": {
+      "0 Inbox": 26,
+      "Daily Notes": 100,
+      "Encyclopedia": 524,
+      "Home.md": 1,
+      "Index.md": 1,
+      "MOCs": 15,
+      "Notes": 87,
+      "Reference": 131,
+      "Sources": 105,
+      "Templates": 10,
+    },
+    "totalFiles": 1160,
+  },
+  "frontmatter": {
+    "keyFrequency": [
+      {
+        "count": 593,
+        "key": "date_created",
+      },
+      {
+        "count": 508,
+        "key": "title",
+      },
+      {
+        "count": 508,
+        "key": "topic",
+      },
+      {
+        "count": 368,
+        "key": "type",
+      },
+      {
+        "count": 148,
+        "key": "source",
+      },
+      {
+        "count": 90,
+        "key": "tags",
+      },
+      {
+        "count": 70,
+        "key": "id",
+      },
+    ],
+    "malformedNotes": [],
+    "notesWithFrontmatter": 618,
+    "pctNotesWithFrontmatter": 61.8,
+  },
+  "largestNotes": [
+    {
+      "relPath": "Encyclopedia/E/English Law.md",
+      "sizeBytes": 398403,
+    },
+    {
+      "relPath": "Sources/Daille.md",
+      "sizeBytes": 215696,
+    },
+    {
+      "relPath": "Encyclopedia/G/Geography.md",
+      "sizeBytes": 210459,
+    },
+    {
+      "relPath": "Encyclopedia/C/Chile.md",
+      "sizeBytes": 188414,
+    },
+    {
+      "relPath": "Encyclopedia/C/Cephalopoda.md",
+      "sizeBytes": 133389,
+    },
+    {
+      "relPath": "Encyclopedia/I/Iceland.md",
+      "sizeBytes": 122792,
+    },
+    {
+      "relPath": "Reference/Athenry.md",
+      "sizeBytes": 121695,
+    },
+    {
+      "relPath": "Reference/Indo-China.md",
+      "sizeBytes": 106936,
+    },
+    {
+      "relPath": "Encyclopedia/C/Canonization.md",
+      "sizeBytes": 101292,
+    },
+    {
+      "relPath": "Reference/Bankruptcy.md",
+      "sizeBytes": 97975,
+    },
+  ],
+  "links": {
+    "mostLinkedNotes": [
+      {
+        "incoming": 269,
+        "target": "Kalinjar",
+      },
+      {
+        "incoming": 121,
+        "target": "Heuglin",
+      },
+      {
+        "incoming": 89,
+        "target": "Chateaubriant",
+      },
+      {
+        "incoming": 73,
+        "target": "Helgaud",
+      },
+      {
+        "incoming": 49,
+        "target": "Brantford",
+      },
+      {
+        "incoming": 42,
+        "target": "Deschamps",
+      },
+      {
+        "incoming": 31,
+        "target": "Litopterna",
+      },
+      {
+        "incoming": 31,
+        "target": "Masonry",
+      },
+      {
+        "incoming": 29,
+        "target": "Dendera",
+      },
+      {
+        "incoming": 28,
+        "target": "Beaufort",
+      },
+    ],
+    "outboundPerNote": {
+      "max": 520,
+      "mean": 3.133,
+      "median": 1,
+      "min": 0,
+      "n": 1000,
+      "p90": 6,
+      "p95": 7,
+      "p99": 29,
+    },
+    "totalExternalUrls": 1511,
+    "totalWikilinks": 3133,
+    "unresolvedWikilinks": 1171,
+  },
+  "medianNote": {
+    "relPath": "Encyclopedia/B/Bauernfeld.md",
+    "sizeBytes": 1959,
+  },
+  "noteSizeDistribution": {
+    "max": 398403,
+    "mean": 6623.918,
+    "median": 1959,
+    "min": 50,
+    "n": 1000,
+    "p90": 12319,
+    "p95": 23939,
+    "p99": 96118,
+  },
+  "tags": {
+    "distinctTags": 253,
+    "frontmatterTagOccurrences": 176,
+    "inlineTagOccurrences": 1227,
+    "topTags": [
+      {
+        "count": 219,
+        "tag": "history",
+      },
+      {
+        "count": 114,
+        "tag": "science",
+      },
+      {
+        "count": 74,
+        "tag": "geography",
+      },
+      {
+        "count": 54,
+        "tag": "biography",
+      },
+      {
+        "count": 43,
+        "tag": "religion",
+      },
+      {
+        "count": 38,
+        "tag": "literature",
+      },
+      {
+        "count": 30,
+        "tag": "philosophy",
+      },
+      {
+        "count": 27,
+        "tag": "art",
+      },
+      {
+        "count": 27,
+        "tag": "politics",
+      },
+      {
+        "count": 26,
+        "tag": "mathematics",
+      },
+      {
+        "count": 24,
+        "tag": "biology",
+      },
+      {
+        "count": 19,
+        "tag": "chemistry",
+      },
+      {
+        "count": 17,
+        "tag": "music",
+      },
+      {
+        "count": 17,
+        "tag": "economics",
+      },
+      {
+        "count": 15,
+        "tag": "language",
+      },
+      {
+        "count": 14,
+        "tag": "physics",
+      },
+      {
+        "count": 13,
+        "tag": "medicine",
+      },
+      {
+        "count": 11,
+        "tag": "architecture",
+      },
+      {
+        "count": 10,
+        "tag": "botany",
+      },
+      {
+        "count": 10,
+        "tag": "zoology",
+      },
+      {
+        "count": 10,
+        "tag": "warfare",
+      },
+      {
+        "count": 9,
+        "tag": "law",
+      },
+      {
+        "count": 9,
+        "tag": "ethics",
+      },
+      {
+        "count": 9,
+        "tag": "mythology",
+      },
+      {
+        "count": 9,
+        "tag": "astronomy",
+      },
+    ],
+  },
+}
+`;
+
+exports[`benchmark vault profile (golden): 'vault-5k' > produces the committed deterministic shape 1`] = `
+{
+  "counts": {
+    "attachmentsByKind": {
+      "audio": 3,
+      "canvas": 6,
+      "excalidraw": 4,
+      "image": 120,
+      "note": 5000,
+      "other": 2,
+      "pdf": 20,
+      "video": 5,
+    },
+    "notes": 5000,
+    "notesByTopDir": {
+      "0 Inbox": 132,
+      "Daily Notes": 500,
+      "Encyclopedia": 2648,
+      "Home.md": 1,
+      "Index.md": 1,
+      "MOCs": 75,
+      "Notes": 441,
+      "Reference": 662,
+      "Sources": 530,
+      "Templates": 10,
+    },
+    "totalFiles": 5160,
+  },
+  "frontmatter": {
+    "keyFrequency": [
+      {
+        "count": 2880,
+        "key": "date_created",
+      },
+      {
+        "count": 2455,
+        "key": "title",
+      },
+      {
+        "count": 2455,
+        "key": "topic",
+      },
+      {
+        "count": 1785,
+        "key": "type",
+      },
+      {
+        "count": 690,
+        "key": "source",
+      },
+      {
+        "count": 426,
+        "key": "tags",
+      },
+      {
+        "count": 275,
+        "key": "id",
+      },
+    ],
+    "malformedNotes": [],
+    "notesWithFrontmatter": 2965,
+    "pctNotesWithFrontmatter": 59.3,
+  },
+  "largestNotes": [
+    {
+      "relPath": "Encyclopedia/I/Italy.md",
+      "sizeBytes": 800374,
+    },
+    {
+      "relPath": "Encyclopedia/I/Ireland.md",
+      "sizeBytes": 425402,
+    },
+    {
+      "relPath": "Notes/Chemistry.md",
+      "sizeBytes": 416866,
+    },
+    {
+      "relPath": "Encyclopedia/E/English Law.md",
+      "sizeBytes": 398402,
+    },
+    {
+      "relPath": "Sources/Edric.md",
+      "sizeBytes": 344446,
+    },
+    {
+      "relPath": "Reference/Magnesite.md",
+      "sizeBytes": 314736,
+    },
+    {
+      "relPath": "Reference/Electric Eel.md",
+      "sizeBytes": 261595,
+    },
+    {
+      "relPath": "Encyclopedia/C/Crusades.md",
+      "sizeBytes": 252363,
+    },
+    {
+      "relPath": "Encyclopedia/A/Asia.md",
+      "sizeBytes": 228993,
+    },
+    {
+      "relPath": "Encyclopedia/D/Daille.md",
+      "sizeBytes": 215627,
+    },
+  ],
+  "links": {
+    "mostLinkedNotes": [
+      {
+        "incoming": 921,
+        "target": "Kalinjar",
+      },
+      {
+        "incoming": 461,
+        "target": "Heuglin",
+      },
+      {
+        "incoming": 302,
+        "target": "Chateaubriant",
+      },
+      {
+        "incoming": 240,
+        "target": "Helgaud",
+      },
+      {
+        "incoming": 207,
+        "target": "Brantford",
+      },
+      {
+        "incoming": 156,
+        "target": "Deschamps",
+      },
+      {
+        "incoming": 130,
+        "target": "Masonry",
+      },
+      {
+        "incoming": 129,
+        "target": "Dendera",
+      },
+      {
+        "incoming": 98,
+        "target": "Litopterna",
+      },
+      {
+        "incoming": 87,
+        "target": "Marne",
+      },
+    ],
+    "outboundPerNote": {
+      "max": 520,
+      "mean": 2.6918,
+      "median": 1,
+      "min": 0,
+      "n": 5000,
+      "p90": 6,
+      "p95": 8,
+      "p99": 27,
+    },
+    "totalExternalUrls": 7732,
+    "totalWikilinks": 13459,
+    "unresolvedWikilinks": 4963,
+  },
+  "medianNote": {
+    "relPath": "Encyclopedia/H/Hoole.md",
+    "sizeBytes": 2035,
+  },
+  "noteSizeDistribution": {
+    "max": 800374,
+    "mean": 6590.7916,
+    "median": 2035,
+    "min": 51,
+    "n": 5000,
+    "p90": 11851,
+    "p95": 22700,
+    "p99": 85170,
+  },
+  "tags": {
+    "distinctTags": 318,
+    "frontmatterTagOccurrences": 829,
+    "inlineTagOccurrences": 6161,
+    "topTags": [
+      {
+        "count": 1137,
+        "tag": "history",
+      },
+      {
+        "count": 568,
+        "tag": "science",
+      },
+      {
+        "count": 348,
+        "tag": "geography",
+      },
+      {
+        "count": 249,
+        "tag": "biography",
+      },
+      {
+        "count": 235,
+        "tag": "philosophy",
+      },
+      {
+        "count": 183,
+        "tag": "literature",
+      },
+      {
+        "count": 158,
+        "tag": "religion",
+      },
+      {
+        "count": 125,
+        "tag": "art",
+      },
+      {
+        "count": 121,
+        "tag": "politics",
+      },
+      {
+        "count": 120,
+        "tag": "mathematics",
+      },
+      {
+        "count": 107,
+        "tag": "biology",
+      },
+      {
+        "count": 89,
+        "tag": "physics",
+      },
+      {
+        "count": 86,
+        "tag": "chemistry",
+      },
+      {
+        "count": 70,
+        "tag": "economics",
+      },
+      {
+        "count": 68,
+        "tag": "law",
+      },
+      {
+        "count": 66,
+        "tag": "warfare",
+      },
+      {
+        "count": 66,
+        "tag": "medicine",
+      },
+      {
+        "count": 61,
+        "tag": "antiquity",
+      },
+      {
+        "count": 59,
+        "tag": "architecture",
+      },
+      {
+        "count": 59,
+        "tag": "mythology",
+      },
+      {
+        "count": 58,
+        "tag": "engineering",
+      },
+      {
+        "count": 55,
+        "tag": "language",
+      },
+      {
+        "count": 52,
+        "tag": "music",
+      },
+      {
+        "count": 47,
+        "tag": "astronomy",
+      },
+      {
+        "count": 47,
         "tag": "botany",
       },
     ],
