@@ -24,8 +24,15 @@ import { profileVault } from './profiler/index.js';
 import { renderVaultStatsMarkdown } from './profiler/report.js';
 import { copyVault, renderSafetyMarkdown, runSafety } from './safety/index.js';
 
-// Anchor fixture defaults to this package, independent of the caller's cwd
-// (the `start` script runs tsx from packages/harness).
+// `npm run -w @seekstone/harness start` runs tsx with cwd = packages/harness,
+// which makes relative path args (e.g. `packages/harness/queries/default.json`,
+// as written in every doc + command) resolve to the wrong place. Normalize cwd
+// to the repo root so relative paths mean what users expect, regardless of how
+// the harness is launched. (cli.ts lives at packages/harness/src/cli.ts.)
+const REPO_ROOT = fileURLToPath(new URL('../../..', import.meta.url));
+process.chdir(REPO_ROOT);
+
+// Anchor fixture defaults to this package, independent of the caller's cwd.
 const FIXTURES = fileURLToPath(new URL('../fixtures', import.meta.url));
 const DEFAULT_QUERIES = fileURLToPath(new URL('../queries/default.json', import.meta.url));
 
