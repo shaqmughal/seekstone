@@ -36,8 +36,8 @@
 
 It reads your vault **directly from disk** rather than routing through the Obsidian Local REST API plugin, and holds a warm full-text index in-process. The practical difference is twofold:
 
-- **Speed.** Searches return in **1.4–3.2 ms** warm — **25–160× faster** than every other Obsidian MCP server we benchmarked, because there's no subprocess to spawn and no HTTP round-trip per query.
-- **Context.** A search that returns ~1.75 MB and ~459,000 tokens via the REST plugin returns **~3 KB and ~800 tokens** via Seekstone — a **~575× reduction**.
+- **Speed.** Searches return in **single-digit milliseconds** warm — up to **~200× faster** than every other Obsidian MCP server we benchmarked, because there's no subprocess to spawn and no HTTP round-trip per query.
+- **Context.** A broad search that returns **tens of megabytes** and millions of tokens via a REST-proxy server returns **~3 KB** via Seekstone — a **1,000–30,000× reduction** that only widens as your vault grows.
 
 Claude can search and read your entire note library, in milliseconds, without burning most of its context window on a single tool call.
 
@@ -54,35 +54,37 @@ Claude can search and read your entire note library, in milliseconds, without bu
 
 Most Obsidian MCP servers return **full note content for every search hit**. On a broad query that's megabytes of text your LLM has to process — most of it irrelevant, all of it burning context window.
 
-Seekstone returns ~200-character ranked excerpts instead. We benchmarked Seekstone against 5 popular Obsidian MCP servers on a real vault (1,955 notes, 20 runs each):
+Seekstone returns ~200-character ranked excerpts instead. We benchmarked Seekstone against 5 popular Obsidian MCP servers across **three vault sizes — 1,000 / 5,000 / 10,000 notes** (20 runs each). Every number below is [fully reproducible](packages/harness): the vaults are committed to this repo (generated from the public-domain 1911 Encyclopædia Britannica), so you can clone it and run the exact same benchmark yourself.
 
-**Search latency — warm median (lower is better)**
+The point of testing three sizes is that **this is where the architectures diverge** — a real vault only grows.
 
-| Server | Architecture | Warm p50 | vs Seekstone |
-|---|---|---|---|
-| 🥇 **Seekstone** | **in-process MiniSearch index** | **1.4–3.2 ms** | **—** |
-| [obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) | REST API | 45–71 ms | ~25–32× slower |
-| [mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) | REST API | 53–109 ms | ~35–50× slower |
-| [obsidian-mcp-pro](https://github.com/rps321321/obsidian-mcp-pro) | fs-direct subprocess | 100–107 ms | ~45× slower |
-| [mcpvault](https://github.com/bitbonsai/mcpvault) | fs-direct subprocess | 181–217 ms | ~130× slower |
-| [obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp) | fs-direct subprocess | 214–224 ms | ~160× slower |
+**Search payload — bytes returned per query (context tax; lower is better)**
 
-The gap is architectural: every competitor spawns a subprocess or makes HTTP round-trips per query. Seekstone holds a warm MiniSearch index in-process — no IPC, no network.
+| Server | Architecture | 1k notes | 5k notes | 10k notes |
+|---|---|---:|---:|---:|
+| 🥇 **Seekstone** | in-process index | **2.3 KB** | **2.6 KB** | **3.0 KB** |
+| [mcpvault](https://github.com/bitbonsai/mcpvault) | fs-direct subprocess | 1.7 KB | 1.9 KB | 2.2 KB |
+| [obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) | REST API | 55 KB | 47 KB | 47 KB |
+| [obsidian-mcp-pro](https://github.com/rps321321/obsidian-mcp-pro) | fs-direct subprocess | 25 KB | 84 KB | 114 KB |
+| [obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp) | fs-direct subprocess | 18 KB | 105 KB | 201 KB |
+| [mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) | REST API | 9.8 MB | 45 MB | **95 MB** |
 
-**Search payload — bytes returned per query (lower is better)**
+Seekstone stays **flat (~3 KB)** no matter how big your vault gets, because it always returns ranked excerpts. The REST-proxy servers return full note content for every match, so they grow with the vault — `mcp-obsidian` hits **95 MB** at 10k notes, and a single broad query (`the capital of`) peaked at **370 MB / 97.8 million tokens** in one tool call. At 10k notes that's a **~30,000× context-tax difference**.
 
-| Server | Range | vs Seekstone |
-|---|---|---|
-| 🥇 **Seekstone** | **3–5 KB** | **—** |
-| mcpvault | 3–4 KB | ~1× |
-| obsidian-mcp-pro | 3–180 KB | up to 28× |
-| obsidian-mcp-server | 81–135 KB | ~28× |
-| obsidian-mcp | 1 KB–823 KB | up to 56× |
-| mcp-obsidian | 509 KB–3.84 MB | up to **478×** |
+**Search latency — warm median, ms (lower is better)**
 
-REST-proxy servers return full note content for every match. A single "deep work" query via mcp-obsidian returned 3.84 MB — over a million tokens. Seekstone returns the same query in 4 KB.
+| Server | 1k notes | 5k notes | 10k notes | vs Seekstone @10k |
+|---|---:|---:|---:|---|
+| 🥇 **Seekstone** | **1.1** | **3.2** | **7.5** | **—** |
+| obsidian-mcp-pro | 46 | 213 | 430 | ~58× slower |
+| obsidian-mcp-server | 82 | 356 | 732 | ~98× slower |
+| obsidian-mcp | 82 | 405 | 811 | ~109× slower |
+| mcpvault | 99 | 466 | 971 | ~130× slower |
+| mcp-obsidian | 164 | 740 | 1,550 | ~208× slower |
 
-Seekstone is the only Obsidian MCP server with published, reproducible benchmarks: the harness and methodology are [open source](packages/harness) — run it against your own vault and verify every number here.
+Every competitor spawns a subprocess or makes HTTP round-trips per query, and most do work that scales with vault size. Seekstone holds a warm in-process index — **no IPC, no network** — so it stays in **single-digit milliseconds** even at 10,000 notes. And the gap **widens with scale**: from 1k → 10k notes the competitors slow down 8–10×, while Seekstone barely moves — at 10,000 notes even the *fastest* alternative is **~58× slower**.
+
+**Seekstone is the only Obsidian MCP server that stays flat on _both_ payload and latency as your vault grows** — and the only one with published, reproducible benchmarks. The harness, the synthetic vaults, and the full results are open source: see [`benchmark-scaling.md`](packages/harness/fixtures/baseline-reports/scaling/benchmark-scaling.md) and the [harness](packages/harness). Clone, run, verify.
 
 ---
 
@@ -255,7 +257,7 @@ Seekstone reads — and, via the write tools, modifies — files under `SEEKSTON
 No. Seekstone reads the vault folder directly from disk. Obsidian can be open or closed.
 
 **Do I need the Local REST API plugin?**
-No. Seekstone bypasses it entirely — that's the source of the 575× payload reduction. No plugins are required.
+No. Seekstone bypasses it entirely — that's the source of the up-to-30,000× payload reduction. No plugins are required.
 
 **Which AI clients does it support?**
 Any client that supports the [Model Context Protocol](https://modelcontextprotocol.io) (MCP) over stdio — Claude Desktop, Claude Code, Cursor, Windsurf, Continue, and others.
