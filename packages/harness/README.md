@@ -76,6 +76,63 @@ target can't silently drift.**
 > for a checked-out fixture mtime is the checkout time, so freshness is **not meaningful**
 > for the vault. It is a descriptive profile stat, not a benchmark metric.
 
+## Multi-scale scaling showcase (SHA-189)
+
+`fixtures/baseline-reports/scaling/benchmark-scaling.md` compares every adapter
+across **1k / 5k / 10k** vaults — the headline artifact showing that seekstone
+stays flat (~1–8 ms, ~2–3 KB per search) as the vault grows while REST-proxy and
+full-scan servers climb with it. All three vaults are committed
+(`fixtures/vault-1k`, `vault-5k`, `vault`), each with its own query set in
+`queries/`.
+
+### Regenerate the automated adapters (headless)
+
+```bash
+R="$PWD/packages/harness/fixtures/baseline-reports/scaling"
+declare -A V=( [1000]=vault-1k [5000]=vault-5k [10000]=vault )
+declare -A Q=( [1000]=vault-1k.json [5000]=vault-5k.json [10000]=default.json )
+for size in 1000 5000 10000; do
+  for b in seekstone fs mcpvault; do
+    npm run harness -- bench --backend "$b" \
+      --vault   "$PWD/packages/harness/fixtures/${V[$size]}" \
+      --queries "$PWD/packages/harness/queries/${Q[$size]}" \
+      --out "$R/$size"
+  done
+done
+npm run harness -- scale-render --dir "$R"   # → benchmark-scaling.md
+```
+
+`obsidian-mcp` and `obsidian-mcp-pro` are filesystem-direct but currently excluded
+(slow synchronous init at scale; a read-path quirk respectively) — raise
+`SEEKSTONE_MCP_INIT_TIMEOUT` to give the former more headroom.
+
+### Capturing the Obsidian REST servers (manual, 3 sessions)
+
+`rest`, `mcp-obsidian`, and `obsidian-mcp-server` proxy **Obsidian's Local REST
+API**, so they need Obsidian running with the plugin enabled and pointed at the
+vault. This can't be automated headlessly. Do **one session per vault size** —
+each captures all three:
+
+```bash
+# 1. Open Obsidian on the vault for this size (e.g. fixtures/vault-5k),
+#    enable the Local REST API plugin, and copy its API key.
+export SEEKSTONE_REST_API_KEY="<key from the plugin settings tab>"
+
+size=5000; vault=vault-5k; qs=vault-5k.json     # repeat for 1000/vault-1k and 10000/vault/default.json
+R="$PWD/packages/harness/fixtures/baseline-reports/scaling"
+for b in rest mcp-obsidian obsidian-mcp-server; do
+  npm run harness -- bench --backend "$b" \
+    --queries "$PWD/packages/harness/queries/$qs" --out "$R/$size"
+done
+
+# 2. After all three sessions, merge the captures into the showcase:
+npm run harness -- scale-render --dir "$R"
+```
+
+Commit the captured `benchmark-{rest,mcp-obsidian,obsidian-mcp-server}.json` with a
+note of the date + Obsidian/plugin versions. The renderer merges whatever is
+present and lists anything still missing under "Not yet captured."
+
 ## The three tools
 
 | Command | What it does | Output |

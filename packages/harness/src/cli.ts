@@ -1,5 +1,5 @@
 #!/usr/bin/env -S npx tsx
-import { mkdir, readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
 import { join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { cac } from 'cac';
@@ -17,6 +17,7 @@ import {
   renderBenchmarkMarkdown,
   runBenchmark,
 } from './bench/index.js';
+import { renderScalingMarkdown, type ScaleGroup } from './bench/scaling.js';
 import { fetchCorpus, loadCorpus } from './fixtures/corpus.js';
 import { generateVault } from './fixtures/generate.js';
 import { profileVault } from './profiler/index.js';
@@ -215,6 +216,41 @@ cli
       `           ${r.wikilinks} wikilinks (${r.unresolvedTargets} unresolved), ${r.externalUrls} URLs, ${r.notesWithFrontmatter} with frontmatter`,
     );
     console.log(`           wrote ${outDir}`);
+  });
+
+// ---------- scale-render ----------
+cli
+  .command('scale-render', 'Render benchmark-scaling.md from per-size benchmark JSONs.')
+  .option('--dir <dir>', 'Scaling reports dir (subdirs named by note count).', {
+    default: `${FIXTURES}/baseline-reports/scaling`,
+  })
+  .action(async (opts) => {
+    const dir = resolve(opts.dir);
+    const subdirs = (await readdir(dir, { withFileTypes: true })).filter(
+      (e) => e.isDirectory() && /^\d+$/.test(e.name),
+    );
+    const groups: ScaleGroup[] = [];
+    for (const sd of subdirs) {
+      const sizeDir = join(dir, sd.name);
+      const files = (await readdir(sizeDir)).filter(
+        (f) => f.startsWith('benchmark-') && f.endsWith('.json'),
+      );
+      const summaries = await Promise.all(
+        files.map(async (f) => {
+          const raw = await readFile(join(sizeDir, f), 'utf8');
+          return JSON.parse(raw) as import('./bench/runner.js').BenchmarkSummary;
+        }),
+      );
+      if (summaries.length > 0) groups.push({ size: Number(sd.name), summaries });
+    }
+    if (groups.length === 0) {
+      console.error(`scale-render: no benchmark JSONs found under ${dir}/<size>/`);
+      process.exit(2);
+    }
+    const outPath = join(dir, 'benchmark-scaling.md');
+    await writeFile(outPath, renderScalingMarkdown(groups));
+    const sizes = groups.map((g) => g.size).sort((a, b) => a - b);
+    console.log(`scale-render: ${groups.length} sizes (${sizes.join(', ')}) → ${outPath}`);
   });
 
 cli.help();
