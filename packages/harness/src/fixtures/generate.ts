@@ -282,14 +282,16 @@ export function generateVault(opts: GenerateOptions): GenerateResult {
     result.systemNotes++;
   }
 
-  // --- Minimal `.obsidian/` so the directory is recognized as a real vault. ---
-  // Filesystem-direct servers (e.g. obsidian-mcp-pro) validate this and silently
-  // fall back to auto-detecting the user's *personal* vault when it's absent —
-  // a correctness and privacy hazard. The walker ignores `.obsidian/`, so this
-  // never affects profile stats or the golden snapshots.
-  write('.obsidian/app.json', '{}\n');
-  write('.obsidian/core-plugins.json', '[]\n');
-  write('.obsidian/appearance.json', '{}\n');
+  // --- `.obsidian/.gitkeep` so the directory is recognized as a real vault. ---
+  // Filesystem-direct servers (e.g. obsidian-mcp-pro) validate that `.obsidian/`
+  // exists and silently fall back to auto-detecting the user's *personal* vault
+  // when it's absent — a correctness and privacy hazard. An empty `.gitkeep` is
+  // enough for that check (verified), and unlike real config files (app.json,
+  // appearance.json, …) the Obsidian app never rewrites it — so opening a fixture
+  // vault in Obsidian (for manual REST captures) produces no tracked-file churn
+  // and can't accidentally commit Obsidian's runtime state (incl. the REST key).
+  // The walker ignores `.obsidian/`, so this never affects profile/golden stats.
+  write('.obsidian/.gitkeep', '');
 
   // --- Placeholder attachments across every FileKind. ---
   writeAttachments(outDir, result);

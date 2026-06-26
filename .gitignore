@@ -52,18 +52,14 @@ seekstone.mcpb
 # mcp-publisher binary downloaded by CI release workflow
 mcp-publisher
 
-# Obsidian writes runtime + secret files into a vault's .obsidian/ when opened
-# (workspace layout, enabled-plugin list, and plugin data incl. the Local REST
-# API key). Only the minimal app/appearance/core-plugins config is committed for
-# the fixture vaults; never commit Obsidian's runtime state or plugin data.
-packages/harness/fixtures/*/.obsidian/workspace*.json
-packages/harness/fixtures/*/.obsidian/community-plugins.json
-packages/harness/fixtures/*/.obsidian/hotkeys.json
-packages/harness/fixtures/*/.obsidian/graph.json
-packages/harness/fixtures/*/.obsidian/plugins/
+# Fixture vaults commit only `.obsidian/.gitkeep` (enough for filesystem-direct
+# servers to recognize the vault). Ignore everything else Obsidian writes into
+# `.obsidian/` when a vault is opened — workspace layout, enabled-plugin list,
+# and plugin data INCLUDING the Local REST API key — so it can never be
+# committed and never shows up as churn.
+packages/harness/fixtures/*/.obsidian/**
+!packages/harness/fixtures/*/.obsidian/.gitkeep
 
-# More Obsidian session junk that appears when a fixture vault is opened for
-# manual benchmark captures (bookmarks, stray empty notes / Bases files).
-packages/harness/fixtures/*/.obsidian/bookmarks.json
+# Stray notes Obsidian creates in a fixture vault during manual captures.
 packages/harness/fixtures/**/Untitled*
 packages/harness/fixtures/**/*.base
