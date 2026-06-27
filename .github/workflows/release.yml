@@ -22,19 +22,31 @@ jobs:
       run:
         shell: bash
     steps:
+      # Mint a short-lived GitHub App installation token for the release bot.
+      # This replaces the old GH_PAT: an App token never expires from under us
+      # (it's re-minted each run and auto-expires in ~1h) and, crucially, pushes
+      # made with it DO trigger workflows — unlike the default GITHUB_TOKEN, whose
+      # github-actions[bot] pushes GitHub blocks pull_request CI on (loop
+      # prevention). Requires repo secrets APP_ID + APP_PRIVATE_KEY from a GitHub
+      # App (Contents: R/W, Pull requests: R/W) installed on this repo.
+      - name: Mint release-bot token
+        id: app-token
+        uses: actions/create-github-app-token@bcd2ba49218906704ab6c1aa796996da409d3eb1 # v3.2.0
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+
       - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
         with:
           fetch-depth: 0
-          # Persist the PAT (not the default GITHUB_TOKEN) as the git credential so
-          # the "Version Packages" branch is PUSHED as a real user. changesets/action
-          # opens the PR via the API token in the step below (author = PAT owner), but
-          # it pushes the branch commits using checkout's persisted credentials. With
-          # the default token the push actor is github-actions[bot], and GitHub blocks
-          # pull_request CI on bot-pushed commits (loop prevention) — leaving the release
-          # PR permanently BLOCKED on the required test checks. Pushing with the PAT
-          # makes CI fire normally. (The PAT needs contents:write; no workflows scope —
-          # changesets only commits version/changelog files, never .github/workflows.)
-          token: ${{ secrets.GH_PAT }}
+          # Persist the App token (not the default GITHUB_TOKEN) as the git
+          # credential so the "Version Packages" branch is PUSHED as the App bot.
+          # changesets/action opens the PR via the API token in the step below, but
+          # it pushes the branch commits using checkout's persisted credentials —
+          # with the default token that push is github-actions[bot] and GitHub blocks
+          # pull_request CI on it, leaving the release PR permanently BLOCKED on the
+          # required test checks. Pushing with the App token makes CI fire normally.
+          token: ${{ steps.app-token.outputs.token }}
 
       # NOTE: no `registry-url` here on purpose. setup-node's registry-url
       # writes an ~/.npmrc with `//registry.npmjs.org/:_authToken=${NODE_AUTH_TOKEN}`;
@@ -85,12 +97,12 @@ jobs:
           commit: 'chore: version packages'
           title: 'chore: version packages'
         env:
-          # GH_PAT (fine-grained PAT, Contents+PRs read/write) is the API token
-          # changesets uses to open the "Version Packages" PR, so its author is the
-          # PAT owner rather than github-actions[bot]. This pairs with the PAT on the
-          # checkout step above: authoring the PR via the PAT is not enough on its own —
-          # the branch must also be PUSHED with the PAT (see that comment) for CI to fire.
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          # The App token is the API token changesets uses to open the "Version
+          # Packages" PR, so its author is the App bot rather than github-actions[bot].
+          # This pairs with the same token on the checkout step above: authoring the PR
+          # via the App is not enough on its own — the branch must also be PUSHED with it
+          # (see that comment) for the required pull_request CI to fire.
+          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
           NPM_CONFIG_PROVENANCE: 'true'
 
       - name: Build MCP Bundle
