@@ -24,7 +24,7 @@ CI (the `CI` workflow) additionally enforces a **coverage gate** on the server's
 
 ## One-time repo setting
 
-Settings → Actions → General → Workflow permissions → enable **"Allow GitHub Actions to create and approve pull requests"** (so Changesets can open the version PR).
+Settings → Actions → General → Workflow permissions → enable **"Allow GitHub Actions to create and approve pull requests"**. Note: this setting governs the default `GITHUB_TOKEN`. Since the version PR is now opened with the release-bot App token (see next section), it isn't strictly required, but it's harmless to leave enabled.
 
 ## Release-bot GitHub App (opens the version PR + triggers its CI)
 
@@ -43,13 +43,13 @@ Once both secrets exist, releases are hands-off. If the App is ever uninstalled 
 
 ## Authentication — OIDC trusted publishing (no token)
 
-The workflow publishes via **OIDC trusted publishing**: no npm token is stored, and provenance is automatic. It needs `id-token: write` (set) and npm ≥ 11.5.1 (the workflow runs `npm install -g npm@latest`).
+The workflow publishes via **OIDC trusted publishing**: no npm token is stored, and provenance is automatic. It needs `id-token: write` (set) and npm ≥ 11.5.1 (the workflow runs `npm install -g npm@11.16.0`).
 
 **One-time setup on npmjs.com** (required before the first OIDC publish):
 
 - The `seekstone` package → **Settings → Trusted Publisher** → **GitHub Actions** → repository `shaqmughal/seekstone`, workflow filename `release.yml`.
 
-Once configured, the publish step authenticates automatically — there is no `NODE_AUTH_TOKEN`. The old `NPM_TOKEN` secret is no longer used and can be deleted.
+Once configured, the publish step authenticates automatically — there is no `NODE_AUTH_TOKEN`. The old `NPM_TOKEN` secret is no longer used (deleted 2026-06-27).
 
 ## Post-publish: Glama (manual)
 
