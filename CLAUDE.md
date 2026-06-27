@@ -45,6 +45,8 @@ The **server** has a real build — `npm run build -w seekstone` bundles it (and
 
 ## Architecture
 
+For the full picture — package graph, the server's five layers, the end-to-end request flow, and the harness — see [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) (Mermaid diagrams). Keep it in sync when you add a layer, tool, or adapter. The summary below covers the harness specifically.
+
 The harness is three modules behind one CLI, all sharing the same `Backend` abstraction so the eventual filesystem-direct server slots in without rewriting consumers.
 
 ### Backend interface (`packages/harness/src/bench/backend.ts`)

@@ -51,3 +51,15 @@ seekstone.mcpb
 
 # mcp-publisher binary downloaded by CI release workflow
 mcp-publisher
+
+# Fixture vaults commit only `.obsidian/.gitkeep` (enough for filesystem-direct
+# servers to recognize the vault). Ignore everything else Obsidian writes into
+# `.obsidian/` when a vault is opened — workspace layout, enabled-plugin list,
+# and plugin data INCLUDING the Local REST API key — so it can never be
+# committed and never shows up as churn.
+packages/harness/fixtures/*/.obsidian/**
+!packages/harness/fixtures/*/.obsidian/.gitkeep
+
+# Stray notes Obsidian creates in a fixture vault during manual captures.
+packages/harness/fixtures/**/Untitled*
+packages/harness/fixtures/**/*.base

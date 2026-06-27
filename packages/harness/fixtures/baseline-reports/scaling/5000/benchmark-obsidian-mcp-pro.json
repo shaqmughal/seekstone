@@ -1,0 +1,243 @@
+{
+  "snapshotDate": "2026-06-26T02:52:52.962Z",
+  "machine": {
+    "platform": "darwin",
+    "arch": "arm64",
+    "node": "v25.9.0",
+    "cpus": 16
+  },
+  "backend": {
+    "name": "obsidian-mcp-pro",
+    "description": "obsidian-mcp-pro (rps321321, filesystem-direct, no Obsidian required)"
+  },
+  "runs": 5,
+  "rssBefore": 157515776,
+  "rssPeak": 174211072,
+  "search": [
+    {
+      "id": "single-term",
+      "kind": "single",
+      "query": "church",
+      "stats": {
+        "coldMs": 334.762584,
+        "warm": {
+          "n": 4,
+          "min": 214.039792,
+          "median": 216.284834,
+          "p90": 231.730375,
+          "p95": 231.730375,
+          "p99": 231.730375,
+          "max": 231.730375,
+          "mean": 220.99987524999997
+        },
+        "all": {
+          "n": 5,
+          "min": 214.039792,
+          "median": 221.9445,
+          "p90": 334.762584,
+          "p95": 334.762584,
+          "p99": 334.762584,
+          "max": 334.762584,
+          "mean": 243.75241699999998
+        },
+        "payloadBytesMean": 310907,
+        "payloadTokensMean": 73137,
+        "runs": 5
+      },
+      "firstRunHitCount": 0,
+      "ttfr": null
+    },
+    {
+      "id": "multi-term",
+      "kind": "multi",
+      "query": "Roman Empire",
+      "stats": {
+        "coldMs": 230.410417,
+        "warm": {
+          "n": 4,
+          "min": 208.671291,
+          "median": 213.620917,
+          "p90": 214.481959,
+          "p95": 214.481959,
+          "p99": 214.481959,
+          "max": 214.481959,
+          "mean": 212.615323
+        },
+        "all": {
+          "n": 5,
+          "min": 208.671291,
+          "median": 213.687125,
+          "p90": 230.410417,
+          "p95": 230.410417,
+          "p99": 230.410417,
+          "max": 230.410417,
+          "mean": 216.1743418
+        },
+        "payloadBytesMean": 14530,
+        "payloadTokensMean": 3445,
+        "runs": 5
+      },
+      "firstRunHitCount": 0,
+      "ttfr": null
+    },
+    {
+      "id": "phrase",
+      "kind": "phrase",
+      "query": "the capital of",
+      "stats": {
+        "coldMs": 223.16675,
+        "warm": {
+          "n": 4,
+          "min": 222.2925,
+          "median": 223.978458,
+          "p90": 226.162208,
+          "p95": 226.162208,
+          "p99": 226.162208,
+          "max": 226.162208,
+          "mean": 224.52447899999999
+        },
+        "all": {
+          "n": 5,
+          "min": 222.2925,
+          "median": 223.978458,
+          "p90": 226.162208,
+          "p95": 226.162208,
+          "p99": 226.162208,
+          "max": 226.162208,
+          "mean": 224.2529332
+        },
+        "payloadBytesMean": 13899,
+        "payloadTokensMean": 3331,
+        "runs": 5
+      },
+      "firstRunHitCount": 0,
+      "ttfr": null
+    },
+    {
+      "id": "rare-term",
+      "kind": "rare",
+      "query": "phlogiston",
+      "stats": {
+        "coldMs": 199.90825,
+        "warm": {
+          "n": 4,
+          "min": 198.908125,
+          "median": 199.649667,
+          "p90": 200.874083,
+          "p95": 200.874083,
+          "p99": 200.874083,
+          "max": 200.874083,
+          "mean": 199.7942085
+        },
+        "all": {
+          "n": 5,
+          "min": 198.908125,
+          "median": 199.744959,
+          "p90": 200.874083,
+          "p95": 200.874083,
+          "p99": 200.874083,
+          "max": 200.874083,
+          "mean": 199.81701679999998
+        },
+        "payloadBytesMean": 6080,
+        "payloadTokensMean": 1438,
+        "runs": 5
+      },
+      "firstRunHitCount": 0,
+      "ttfr": null
+    }
+  ],
+  "read": {
+    "small": {
+      "path": "Encyclopedia/H/Hoole.md",
+      "stats": {
+        "coldMs": 1.683,
+        "warm": {
+          "n": 4,
+          "min": 0.3585,
+          "median": 0.360875,
+          "p90": 0.532958,
+          "p95": 0.532958,
+          "p99": 0.532958,
+          "max": 0.532958,
+          "mean": 0.412323
+        },
+        "all": {
+          "n": 5,
+          "min": 0.3585,
+          "median": 0.396959,
+          "p90": 1.683,
+          "p95": 1.683,
+          "p99": 1.683,
+          "max": 1.683,
+          "mean": 0.6664584
+        },
+        "payloadBytesMean": 2251,
+        "payloadTokensMean": 654,
+        "runs": 5
+      }
+    },
+    "large": {
+      "path": "Encyclopedia/I/Italy.md",
+      "stats": {
+        "coldMs": 9.51825,
+        "warm": {
+          "n": 4,
+          "min": 7.601792,
+          "median": 7.618041,
+          "p90": 7.819958,
+          "p95": 7.819958,
+          "p99": 7.819958,
+          "max": 7.819958,
+          "mean": 7.70537475
+        },
+        "all": {
+          "n": 5,
+          "min": 7.601792,
+          "median": 7.781708,
+          "p90": 9.51825,
+          "p95": 9.51825,
+          "p99": 9.51825,
+          "max": 9.51825,
+          "mean": 8.0679498
+        },
+        "payloadBytesMean": 800669,
+        "payloadTokensMean": 192922,
+        "runs": 5
+      }
+    }
+  },
+  "tools": {
+    "list": {
+      "coldMs": 6.692292,
+      "warm": {
+        "n": 4,
+        "min": 6.2355,
+        "median": 6.342333,
+        "p90": 6.875625,
+        "p95": 6.875625,
+        "p99": 6.875625,
+        "max": 6.875625,
+        "mean": 6.44943725
+      },
+      "all": {
+        "n": 5,
+        "min": 6.2355,
+        "median": 6.344291,
+        "p90": 6.875625,
+        "p95": 6.875625,
+        "p99": 6.875625,
+        "max": 6.875625,
+        "mean": 6.498008199999999
+      },
+      "payloadBytesMean": 12534,
+      "payloadTokensMean": 5114,
+      "runs": 5
+    },
+    "listTags": null,
+    "outline": null,
+    "getBacklinks": null,
+    "getLinks": null,
+    "getPeriodicNote": null
+  }
+}

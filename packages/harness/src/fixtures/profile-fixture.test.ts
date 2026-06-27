@@ -3,23 +3,28 @@ import { describe, expect, it } from 'vitest';
 import { profileVault } from '../profiler/index.js';
 
 /**
- * Drift guard for the committed benchmark vault (PRD SHA-188).
+ * Drift guard for the committed benchmark vaults (PRD SHA-188 / SHA-189).
  *
  * Profiling is deterministic from file contents, so a fixed vault must produce
  * fixed stats. This snapshots the *content-derived* fields only — everything
  * that varies by machine or wall-clock (snapshotDate, machine, vaultRoot, and
- * mtime-based freshness) is stripped. If the vault is regenerated and its shape
+ * mtime-based freshness) is stripped. If a vault is regenerated and its shape
  * changes, this test fails and the snapshot must be updated with `vitest -u`,
  * which makes the change reviewable in the diff.
  */
-const VAULT = fileURLToPath(new URL('../../fixtures/vault', import.meta.url));
+const VAULTS = [
+  { dir: 'vault-1k', notes: 1_000 },
+  { dir: 'vault-5k', notes: 5_000 },
+  { dir: 'vault', notes: 10_000 },
+] as const;
 
-describe('benchmark vault profile (golden)', () => {
+describe.each(VAULTS)('benchmark vault profile (golden): $dir', ({ dir, notes }) => {
   it('produces the committed deterministic shape', async () => {
-    const stats = await profileVault({ vaultRoot: VAULT });
+    const vaultRoot = fileURLToPath(new URL(`../../fixtures/${dir}`, import.meta.url));
+    const stats = await profileVault({ vaultRoot });
 
     // Hard invariants worth asserting explicitly (independent of the snapshot).
-    expect(stats.counts.notes).toBe(10_000);
+    expect(stats.counts.notes).toBe(notes);
     expect(stats.frontmatter.malformedNotes).toEqual([]);
 
     // Normalize path separators so the snapshot matches on Windows runners,

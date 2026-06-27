@@ -67,10 +67,64 @@ describe('search', () => {
     const hit = hits[0];
     if (!hit) throw new Error('expected at least one hit');
     expect(typeof hit.path).toBe('string');
+    // 'Roadmap Planning' differs from basename 'roadmap', so title is present.
     expect(typeof hit.title).toBe('string');
     expect(typeof hit.score).toBe('number');
     expect(typeof hit.excerpt).toBe('string');
     expect(Array.isArray(hit.tags)).toBe(true);
+  });
+
+  it('omits title when it equals the path basename', () => {
+    const ctx = buildCtx('/vault', [
+      { id: 'notes/widget.md', title: 'widget', body: 'a widget gadget thing' },
+    ]);
+    const hits = search(ctx, { query: 'widget', limit: 10 });
+    expect(hits[0]?.path).toBe('notes/widget.md');
+    expect(hits[0]?.title).toBeUndefined();
+  });
+
+  it('keeps title when it differs from the basename', () => {
+    const ctx = buildCtx('/vault', [
+      { id: 'notes/widget.md', title: 'My Widget', body: 'a widget gadget thing' },
+    ]);
+    const hits = search(ctx, { query: 'widget', limit: 10 });
+    expect(hits[0]?.title).toBe('My Widget');
+  });
+
+  it('omits tags when the note has none', () => {
+    const ctx = buildCtx('/vault', [
+      { id: 'notes/widget.md', title: 'My Widget', body: 'a widget gadget thing', tags: '' },
+    ]);
+    const hits = search(ctx, { query: 'widget', limit: 10 });
+    expect(hits[0]?.tags).toBeUndefined();
+  });
+
+  it('rounds score to at most 2 decimal places', () => {
+    const ctx = buildCtx('/vault', SAMPLE_NOTES);
+    const hits = search(ctx, { query: 'roadmap', limit: 10 });
+    const score = hits[0]?.score ?? 0;
+    expect(score).toBe(Math.round(score * 100) / 100);
+  });
+
+  it('excerptLength caps the excerpt and a larger value returns more context', () => {
+    const longBody = `intro ${'x '.repeat(400)}TARGET${' y'.repeat(400)} outro`;
+    const ctx = buildCtx('/vault', [{ id: 'notes/long.md', title: 'long', body: longBody }]);
+    const len = (s?: string) => (s ?? '').replace(/…/g, '').length;
+    // extractExcerpt may overrun maxLen by the matched term's length; allow that slack.
+    const slack = 'TARGET'.length;
+    const short = search(ctx, { query: 'TARGET', limit: 10, excerptLength: 40 });
+    const long = search(ctx, { query: 'TARGET', limit: 10, excerptLength: 400 });
+    expect(len(short[0]?.excerpt)).toBeLessThanOrEqual(40 + slack);
+    expect(len(long[0]?.excerpt)).toBeGreaterThan(len(short[0]?.excerpt));
+  });
+
+  it('defaults excerptLength to 120 when omitted', () => {
+    const longBody = `intro ${'x '.repeat(400)}TARGET${' y'.repeat(400)} outro`;
+    const ctx = buildCtx('/vault', [{ id: 'notes/long.md', title: 'long', body: longBody }]);
+    const len = (s?: string) => (s ?? '').replace(/…/g, '').length;
+    const hits = search(ctx, { query: 'TARGET', limit: 10 });
+    expect(len(hits[0]?.excerpt)).toBeLessThanOrEqual(120 + 'TARGET'.length);
+    expect(len(hits[0]?.excerpt)).toBeGreaterThan(40);
   });
 
   it('folder filter excludes notes from other folders', () => {

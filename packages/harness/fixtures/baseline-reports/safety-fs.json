@@ -4,8 +4,8 @@
     "name": "fs",
     "description": "Filesystem-direct (MiniSearch in-process, no HTTP round-trip)"
   },
-  "vaultCopyRoot": "/private/var/folders/xk/2wj3w8rd7rd96l26xsg18t1r0000gn/T/seekstone-safety-1782434474491",
-  "originalVaultRoot": "/Users/shaqmughal/code/seekstone/packages/harness/fixtures/vault",
+  "vaultCopyRoot": "<tmpdir>/seekstone-safety-1782434474491",
+  "originalVaultRoot": "packages/harness/fixtures/vault",
   "sampleSize": 25,
   "passByOp": {
     "identity": {

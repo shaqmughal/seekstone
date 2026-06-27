@@ -1,0 +1,295 @@
+{
+  "snapshotDate": "2026-06-27T01:50:32.126Z",
+  "machine": {
+    "platform": "darwin",
+    "arch": "arm64",
+    "node": "v25.9.0",
+    "cpus": 16
+  },
+  "backend": {
+    "name": "fs",
+    "description": "Filesystem-direct (MiniSearch in-process, no HTTP round-trip)"
+  },
+  "runs": 20,
+  "rssBefore": 732086272,
+  "rssPeak": 844283904,
+  "search": [
+    {
+      "id": "single-term",
+      "kind": "single",
+      "query": "church",
+      "stats": {
+        "coldMs": 4.523125,
+        "warm": {
+          "n": 19,
+          "min": 1.235375,
+          "median": 1.453958,
+          "p90": 2.491,
+          "p95": 3.471083,
+          "p99": 3.471083,
+          "max": 3.471083,
+          "mean": 1.6189867894736845
+        },
+        "all": {
+          "n": 20,
+          "min": 1.235375,
+          "median": 1.453958,
+          "p90": 2.491,
+          "p95": 3.471083,
+          "p99": 4.523125,
+          "max": 4.523125,
+          "mean": 1.7641937000000003
+        },
+        "payloadBytesMean": 2852,
+        "payloadTokensMean": 747,
+        "runs": 20
+      },
+      "firstRunHitCount": 10,
+      "ttfr": {
+        "coldTtfrMs": 1.679875,
+        "warmTtfr": {
+          "n": 19,
+          "min": 1.096041,
+          "median": 1.116125,
+          "p90": 1.2055,
+          "p95": 1.28325,
+          "p99": 1.28325,
+          "max": 1.28325,
+          "mean": 1.1353902631578947
+        },
+        "runs": 20
+      }
+    },
+    {
+      "id": "multi-term",
+      "kind": "multi",
+      "query": "Roman Empire",
+      "stats": {
+        "coldMs": 5.073833,
+        "warm": {
+          "n": 19,
+          "min": 3.38625,
+          "median": 3.6615,
+          "p90": 4.971792,
+          "p95": 5.106042,
+          "p99": 5.106042,
+          "max": 5.106042,
+          "mean": 3.82063147368421
+        },
+        "all": {
+          "n": 20,
+          "min": 3.38625,
+          "median": 3.6615,
+          "p90": 4.971792,
+          "p95": 5.073833,
+          "p99": 5.106042,
+          "max": 5.106042,
+          "mean": 3.883291549999999
+        },
+        "payloadBytesMean": 2814,
+        "payloadTokensMean": 751,
+        "runs": 20
+      },
+      "firstRunHitCount": 10,
+      "ttfr": {
+        "coldTtfrMs": 2.213334,
+        "warmTtfr": {
+          "n": 19,
+          "min": 1.760208,
+          "median": 1.867333,
+          "p90": 2.000208,
+          "p95": 2.010291,
+          "p99": 2.010291,
+          "max": 2.010291,
+          "mean": 1.8807740526315793
+        },
+        "runs": 20
+      }
+    },
+    {
+      "id": "phrase",
+      "kind": "phrase",
+      "query": "the capital of",
+      "stats": {
+        "coldMs": 27.06325,
+        "warm": {
+          "n": 19,
+          "min": 17.836958,
+          "median": 19.494667,
+          "p90": 21.488542,
+          "p95": 22.182083,
+          "p99": 22.182083,
+          "max": 22.182083,
+          "mean": 19.98269294736842
+        },
+        "all": {
+          "n": 20,
+          "min": 17.836958,
+          "median": 19.494667,
+          "p90": 21.488542,
+          "p95": 22.182083,
+          "p99": 27.06325,
+          "max": 27.06325,
+          "mean": 20.3367208
+        },
+        "payloadBytesMean": 2803,
+        "payloadTokensMean": 754,
+        "runs": 20
+      },
+      "firstRunHitCount": 10,
+      "ttfr": {
+        "coldTtfrMs": 19.141541,
+        "warmTtfr": {
+          "n": 19,
+          "min": 15.968417,
+          "median": 18.475958,
+          "p90": 19.992125,
+          "p95": 20.927958,
+          "p99": 20.927958,
+          "max": 20.927958,
+          "mean": 18.22487715789474
+        },
+        "runs": 20
+      }
+    },
+    {
+      "id": "rare-term",
+      "kind": "rare",
+      "query": "phlogiston",
+      "stats": {
+        "coldMs": 3.135542,
+        "warm": {
+          "n": 19,
+          "min": 1.251833,
+          "median": 1.544959,
+          "p90": 2.478333,
+          "p95": 3.000417,
+          "p99": 3.000417,
+          "max": 3.000417,
+          "mean": 1.7158530526315794
+        },
+        "all": {
+          "n": 20,
+          "min": 1.251833,
+          "median": 1.544959,
+          "p90": 2.478333,
+          "p95": 3.000417,
+          "p99": 3.135542,
+          "max": 3.135542,
+          "mean": 1.7868375000000003
+        },
+        "payloadBytesMean": 2793,
+        "payloadTokensMean": 742,
+        "runs": 20
+      },
+      "firstRunHitCount": 10,
+      "ttfr": {
+        "coldTtfrMs": 0.894,
+        "warmTtfr": {
+          "n": 19,
+          "min": 0.836375,
+          "median": 0.987709,
+          "p90": 2.764959,
+          "p95": 3.504958,
+          "p99": 3.504958,
+          "max": 3.504958,
+          "mean": 1.3447017894736841
+        },
+        "runs": 20
+      }
+    }
+  ],
+  "read": {
+    "small": {
+      "path": "Encyclopedia/A/Anglesite.md",
+      "stats": {
+        "coldMs": 1.202958,
+        "warm": {
+          "n": 19,
+          "min": 0.060125,
+          "median": 0.0685,
+          "p90": 0.08125,
+          "p95": 0.1265,
+          "p99": 0.1265,
+          "max": 0.1265,
+          "mean": 0.07143200000000001
+        },
+        "all": {
+          "n": 20,
+          "min": 0.060125,
+          "median": 0.0685,
+          "p90": 0.08125,
+          "p95": 0.1265,
+          "p99": 1.202958,
+          "max": 1.202958,
+          "mean": 0.12800830000000002
+        },
+        "payloadBytesMean": 2043,
+        "payloadTokensMean": 516,
+        "runs": 20
+      }
+    },
+    "large": {
+      "path": "Encyclopedia/I/Italy.md",
+      "stats": {
+        "coldMs": 1.717209,
+        "warm": {
+          "n": 19,
+          "min": 0.950458,
+          "median": 1.017042,
+          "p90": 1.171167,
+          "p95": 1.211625,
+          "p99": 1.211625,
+          "max": 1.211625,
+          "mean": 1.0462937894736841
+        },
+        "all": {
+          "n": 20,
+          "min": 0.950458,
+          "median": 1.017042,
+          "p90": 1.171167,
+          "p95": 1.211625,
+          "p99": 1.717209,
+          "max": 1.717209,
+          "mean": 1.07983955
+        },
+        "payloadBytesMean": 800373,
+        "payloadTokensMean": 192845,
+        "runs": 20
+      }
+    }
+  },
+  "tools": {
+    "list": {
+      "coldMs": 0.424,
+      "warm": {
+        "n": 19,
+        "min": 0.034958,
+        "median": 0.046459,
+        "p90": 0.091791,
+        "p95": 0.103667,
+        "p99": 0.103667,
+        "max": 0.103667,
+        "mean": 0.053578999999999995
+      },
+      "all": {
+        "n": 20,
+        "min": 0.034958,
+        "median": 0.046459,
+        "p90": 0.091791,
+        "p95": 0.103667,
+        "p99": 0.424,
+        "max": 0.424,
+        "mean": 0.07210005
+      },
+      "payloadBytesMean": 512,
+      "payloadTokensMean": 129,
+      "runs": 20
+    },
+    "listTags": null,
+    "outline": null,
+    "getBacklinks": null,
+    "getLinks": null,
+    "getPeriodicNote": null
+  }
+}

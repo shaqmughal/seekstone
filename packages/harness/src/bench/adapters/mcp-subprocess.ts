@@ -77,6 +77,11 @@ export class McpSubprocess {
       }
     });
 
+    // Some servers index the whole vault synchronously during initialize, which
+    // is slow on large vaults. SEEKSTONE_MCP_INIT_TIMEOUT (ms) overrides the
+    // per-adapter default so the scaling run can give slow servers more headroom.
+    const initTimeout =
+      Number(process.env.SEEKSTONE_MCP_INIT_TIMEOUT) || opts.initTimeout || 30_000;
     await sub.rpc(
       'initialize',
       {
@@ -84,7 +89,7 @@ export class McpSubprocess {
         capabilities: {},
         clientInfo: { name: 'seekstone-harness', version: '1.0' },
       },
-      opts.initTimeout ?? 30_000,
+      initTimeout,
     );
     sub.notify('notifications/initialized', {});
     return sub;

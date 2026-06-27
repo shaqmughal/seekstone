@@ -37,6 +37,7 @@ jobs:
           npx tsc -p packages/core/tsconfig.json --noEmit
           npx tsc -p packages/harness/tsconfig.json --noEmit
           npx tsc -p packages/server/tsconfig.json --noEmit
+          npx tsc -p packages/obsidian-mcp-seekstone/tsconfig.json --noEmit
 
       - name: Test
         run: npm test
@@ -66,6 +67,22 @@ jobs:
           SEEKSTONE_COVERAGE: '1'
         run: npx vitest run --coverage --root packages/server
 
+      # Harness coverage gate — thresholds live in the harness vitest config and
+      # fail the build if the measurement core / fixture primitives regress. The
+      # process- and network-driving adapters are excluded there (validated by
+      # running the real harness, not unit coverage). Runs once (Linux).
+      - name: Coverage gate (harness)
+        if: matrix.os == 'ubuntu-latest'
+        run: npx vitest run --coverage --root packages/harness
+
+      # Core coverage gate — thresholds live in the core vitest config. Core
+      # holds the safety-critical shared primitives (frontmatter round-trip,
+      # link extraction, outline), so a regression there fails the build too.
+      # Runs once (Linux).
+      - name: Coverage gate (core)
+        if: matrix.os == 'ubuntu-latest'
+        run: npx vitest run --coverage --root packages/core
+
       # Coverage upload is a reporting side-effect, not a correctness gate.
       # Skip it for Dependabot PRs: GitHub withholds repo secrets from
       # Dependabot-triggered runs, so the token is empty and the step fails.
@@ -74,7 +91,7 @@ jobs:
         uses: codecov/codecov-action@fb8b3582c8e4def4969c97caa2f19720cb33a72f # v7.0.0
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
-          files: packages/server/coverage/lcov.info
+          files: packages/server/coverage/lcov.info,packages/harness/coverage/lcov.info,packages/core/coverage/lcov.info
           flags: server
           fail_ci_if_error: false
 

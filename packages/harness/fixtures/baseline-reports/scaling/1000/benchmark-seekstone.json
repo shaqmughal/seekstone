@@ -1,0 +1,404 @@
+{
+  "snapshotDate": "2026-06-27T01:50:03.766Z",
+  "machine": {
+    "platform": "darwin",
+    "arch": "arm64",
+    "node": "v25.9.0",
+    "cpus": 16
+  },
+  "backend": {
+    "name": "seekstone",
+    "description": "Seekstone server (in-process function calls, no IPC)"
+  },
+  "runs": 20,
+  "rssBefore": 355221504,
+  "rssPeak": 384434176,
+  "search": [
+    {
+      "id": "single-term",
+      "kind": "single",
+      "query": "church",
+      "stats": {
+        "coldMs": 2.146834,
+        "warm": {
+          "n": 19,
+          "min": 0.450959,
+          "median": 0.562666,
+          "p90": 0.671041,
+          "p95": 0.98575,
+          "p99": 0.98575,
+          "max": 0.98575,
+          "mean": 0.5856358947368422
+        },
+        "all": {
+          "n": 20,
+          "min": 0.450959,
+          "median": 0.562666,
+          "p90": 0.671041,
+          "p95": 0.98575,
+          "p99": 2.146834,
+          "max": 2.146834,
+          "mean": 0.6636958000000001
+        },
+        "payloadBytesMean": 2226,
+        "payloadTokensMean": 609,
+        "runs": 20
+      },
+      "firstRunHitCount": 10,
+      "ttfr": {
+        "coldTtfrMs": 0.547375,
+        "warmTtfr": {
+          "n": 19,
+          "min": 0.445958,
+          "median": 0.469917,
+          "p90": 0.526625,
+          "p95": 1.092083,
+          "p99": 1.092083,
+          "max": 1.092083,
+          "mean": 0.5049056842105264
+        },
+        "runs": 20
+      }
+    },
+    {
+      "id": "multi-term",
+      "kind": "multi",
+      "query": "Roman Empire",
+      "stats": {
+        "coldMs": 1.336541,
+        "warm": {
+          "n": 19,
+          "min": 0.856958,
+          "median": 0.8925,
+          "p90": 1.014334,
+          "p95": 1.165,
+          "p99": 1.165,
+          "max": 1.165,
+          "mean": 0.9167258947368421
+        },
+        "all": {
+          "n": 20,
+          "min": 0.856958,
+          "median": 0.8925,
+          "p90": 1.014334,
+          "p95": 1.165,
+          "p99": 1.336541,
+          "max": 1.336541,
+          "mean": 0.9377166499999999
+        },
+        "payloadBytesMean": 2268,
+        "payloadTokensMean": 649,
+        "runs": 20
+      },
+      "firstRunHitCount": 10,
+      "ttfr": {
+        "coldTtfrMs": 0.890209,
+        "warmTtfr": {
+          "n": 19,
+          "min": 0.826083,
+          "median": 0.847166,
+          "p90": 0.864834,
+          "p95": 0.884417,
+          "p99": 0.884417,
+          "max": 0.884417,
+          "mean": 0.8474582105263158
+        },
+        "runs": 20
+      }
+    },
+    {
+      "id": "phrase",
+      "kind": "phrase",
+      "query": "the capital of",
+      "stats": {
+        "coldMs": 3.922,
+        "warm": {
+          "n": 19,
+          "min": 2.361375,
+          "median": 2.49025,
+          "p90": 2.792083,
+          "p95": 3.58175,
+          "p99": 3.58175,
+          "max": 3.58175,
+          "mean": 2.5792544210526316
+        },
+        "all": {
+          "n": 20,
+          "min": 2.361375,
+          "median": 2.49025,
+          "p90": 2.792083,
+          "p95": 3.58175,
+          "p99": 3.922,
+          "max": 3.922,
+          "mean": 2.6463916999999997
+        },
+        "payloadBytesMean": 2047,
+        "payloadTokensMean": 589,
+        "runs": 20
+      },
+      "firstRunHitCount": 10,
+      "ttfr": {
+        "coldTtfrMs": 2.428833,
+        "warmTtfr": {
+          "n": 19,
+          "min": 2.3075,
+          "median": 2.45775,
+          "p90": 2.936042,
+          "p95": 3.521875,
+          "p99": 3.521875,
+          "max": 3.521875,
+          "mean": 2.5510701052631584
+        },
+        "runs": 20
+      }
+    },
+    {
+      "id": "rare-term",
+      "kind": "rare",
+      "query": "phlogiston",
+      "stats": {
+        "coldMs": 0.769291,
+        "warm": {
+          "n": 19,
+          "min": 0.299625,
+          "median": 0.323125,
+          "p90": 0.3445,
+          "p95": 0.369708,
+          "p99": 0.369708,
+          "max": 0.369708,
+          "mean": 0.32291668421052633
+        },
+        "all": {
+          "n": 20,
+          "min": 0.299625,
+          "median": 0.323125,
+          "p90": 0.3445,
+          "p95": 0.369708,
+          "p99": 0.769291,
+          "max": 0.769291,
+          "mean": 0.3452354
+        },
+        "payloadBytesMean": 2,
+        "payloadTokensMean": 1,
+        "runs": 20
+      },
+      "firstRunHitCount": 0,
+      "ttfr": {
+        "coldTtfrMs": 0.343042,
+        "warmTtfr": {
+          "n": 19,
+          "min": 0.297291,
+          "median": 0.314583,
+          "p90": 0.329042,
+          "p95": 0.369417,
+          "p99": 0.369417,
+          "max": 0.369417,
+          "mean": 0.31686168421052635
+        },
+        "runs": 20
+      }
+    }
+  ],
+  "read": {
+    "small": {
+      "path": "Encyclopedia/B/Bauernfeld.md",
+      "stats": {
+        "coldMs": 0.766666,
+        "warm": {
+          "n": 19,
+          "min": 0.133042,
+          "median": 0.268292,
+          "p90": 0.302625,
+          "p95": 0.379667,
+          "p99": 0.379667,
+          "max": 0.379667,
+          "mean": 0.2508202105263158
+        },
+        "all": {
+          "n": 20,
+          "min": 0.133042,
+          "median": 0.268292,
+          "p90": 0.302625,
+          "p95": 0.379667,
+          "p99": 0.766666,
+          "max": 0.766666,
+          "mean": 0.27661250000000004
+        },
+        "payloadBytesMean": 1959,
+        "payloadTokensMean": 574,
+        "runs": 20
+      }
+    },
+    "large": {
+      "path": "Encyclopedia/E/English Law.md",
+      "stats": {
+        "coldMs": 0.553584,
+        "warm": {
+          "n": 19,
+          "min": 0.300959,
+          "median": 0.344667,
+          "p90": 0.519417,
+          "p95": 1.951959,
+          "p99": 1.951959,
+          "max": 1.951959,
+          "mean": 0.45350678947368417
+        },
+        "all": {
+          "n": 20,
+          "min": 0.300959,
+          "median": 0.344667,
+          "p90": 0.519417,
+          "p95": 0.553584,
+          "p99": 1.951959,
+          "max": 1.951959,
+          "mean": 0.45851065
+        },
+        "payloadBytesMean": 398403,
+        "payloadTokensMean": 95094,
+        "runs": 20
+      }
+    }
+  },
+  "tools": {
+    "list": {
+      "coldMs": 0.557041,
+      "warm": {
+        "n": 19,
+        "min": 0.144792,
+        "median": 0.153125,
+        "p90": 0.230792,
+        "p95": 0.280709,
+        "p99": 0.280709,
+        "max": 0.280709,
+        "mean": 0.17277194736842108
+      },
+      "all": {
+        "n": 20,
+        "min": 0.144792,
+        "median": 0.153125,
+        "p90": 0.230792,
+        "p95": 0.280709,
+        "p99": 0.557041,
+        "max": 0.557041,
+        "mean": 0.19198540000000003
+      },
+      "payloadBytesMean": 26534,
+      "payloadTokensMean": 7327,
+      "runs": 20
+    },
+    "listTags": {
+      "coldMs": 0.598959,
+      "warm": {
+        "n": 19,
+        "min": 0.215958,
+        "median": 0.229458,
+        "p90": 0.362042,
+        "p95": 0.403125,
+        "p99": 0.403125,
+        "max": 0.403125,
+        "mean": 0.25591647368421055
+      },
+      "all": {
+        "n": 20,
+        "min": 0.215958,
+        "median": 0.229458,
+        "p90": 0.362042,
+        "p95": 0.403125,
+        "p99": 0.598959,
+        "max": 0.598959,
+        "mean": 0.2730686
+      },
+      "payloadBytesMean": 8732,
+      "payloadTokensMean": 2627,
+      "runs": 20
+    },
+    "outline": {
+      "path": "Encyclopedia/B/Bauernfeld.md",
+      "stats": {
+        "coldMs": 0.718792,
+        "warm": {
+          "n": 19,
+          "min": 0.119542,
+          "median": 0.21725,
+          "p90": 0.276209,
+          "p95": 0.29325,
+          "p99": 0.29325,
+          "max": 0.29325,
+          "mean": 0.21143642105263155
+        },
+        "all": {
+          "n": 20,
+          "min": 0.119542,
+          "median": 0.21725,
+          "p90": 0.276209,
+          "p95": 0.29325,
+          "p99": 0.718792,
+          "max": 0.718792,
+          "mean": 0.23680419999999996
+        },
+        "payloadBytesMean": 181,
+        "payloadTokensMean": 57,
+        "runs": 20
+      }
+    },
+    "getBacklinks": {
+      "path": "Encyclopedia/B/Bauernfeld.md",
+      "stats": {
+        "coldMs": 0.146375,
+        "warm": {
+          "n": 19,
+          "min": 0.018,
+          "median": 0.022333,
+          "p90": 0.034125,
+          "p95": 0.041958,
+          "p99": 0.041958,
+          "max": 0.041958,
+          "mean": 0.023502157894736843
+        },
+        "all": {
+          "n": 20,
+          "min": 0.018,
+          "median": 0.022333,
+          "p90": 0.034125,
+          "p95": 0.041958,
+          "p99": 0.146375,
+          "max": 0.146375,
+          "mean": 0.0296458
+        },
+        "payloadBytesMean": 158,
+        "payloadTokensMean": 51,
+        "runs": 20
+      }
+    },
+    "getLinks": {
+      "path": "Encyclopedia/B/Bauernfeld.md",
+      "stats": {
+        "coldMs": 0.179459,
+        "warm": {
+          "n": 19,
+          "min": 0.010125,
+          "median": 0.011916,
+          "p90": 0.014375,
+          "p95": 0.017792,
+          "p99": 0.017792,
+          "max": 0.017792,
+          "mean": 0.012188736842105263
+        },
+        "all": {
+          "n": 20,
+          "min": 0.010125,
+          "median": 0.011916,
+          "p90": 0.014375,
+          "p95": 0.017792,
+          "p99": 0.179459,
+          "max": 0.179459,
+          "mean": 0.02055225
+        },
+        "payloadBytesMean": 50,
+        "payloadTokensMean": 15,
+        "runs": 20
+      }
+    },
+    "getPeriodicNote": null
+  }
+}

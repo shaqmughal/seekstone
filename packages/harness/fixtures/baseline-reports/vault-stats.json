@@ -1,5 +1,5 @@
 {
-  "vaultRoot": "/Users/shaqmughal/code/seekstone/packages/harness/fixtures/vault",
+  "vaultRoot": "packages/harness/fixtures/vault",
   "snapshotDate": "2026-06-26T00:41:04.731Z",
   "machine": {
     "platform": "darwin",
