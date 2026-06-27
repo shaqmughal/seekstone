@@ -17,9 +17,11 @@ export interface IndexedNote {
 
 export interface SearchHit {
   path: string;
-  title: string;
+  /** Omitted when it equals the path's basename (recoverable from `path`). */
+  title?: string;
   score: number;
-  /** ~200-char excerpt centred on the best match in the body. */
+  /** Excerpt centred on the best match in the body; length is caller-tunable. */
   excerpt: string;
-  tags: string[];
+  /** Omitted when the note has no tags. */
+  tags?: string[];
 }

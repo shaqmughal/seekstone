@@ -75,7 +75,7 @@ claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- n
 
 | Tool | Description |
 |---|---|
-| `search` | Full-text search. Returns ranked ~200-char excerpts, not full notes. Fuzzy, prefix, and phrase queries. |
+| `search` | Full-text search. Returns ranked excerpts (default ~120 chars, tunable via `excerptLength`), not full notes. Fuzzy, prefix, and phrase queries. |
 | `read_note` | Read the full content of a note by vault-relative path. |
 | `list_notes` | List notes, optionally filtered by folder prefix or tag. |
 | `create_note` | Create a note (optional frontmatter + body); parent dirs created automatically. |

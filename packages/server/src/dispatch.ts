@@ -119,7 +119,8 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
     case 'search': {
       const input = SearchInput.parse(args);
       const hits = search(ctx, input);
-      return { content: [{ type: 'text', text: JSON.stringify(hits, null, 2) }] };
+      // Minified: search is the headline context-tax metric — indentation is pure tax.
+      return { content: [{ type: 'text', text: JSON.stringify(hits) }] };
     }
     case 'read_note': {
       const input = ReadNoteInput.parse(args);

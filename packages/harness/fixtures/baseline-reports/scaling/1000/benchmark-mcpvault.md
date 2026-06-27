@@ -1,19 +1,19 @@
 # Benchmark — mcpvault
 
 - **Adapter:** mcpvault @bitbonsai (filesystem-direct, MCP stdio subprocess)
-- **Snapshot:** 2026-06-26T01:54:56.482Z
-- **Runs per measurement:** 10 (cold = run 1; warm = runs 2..N)
+- **Snapshot:** 2026-06-27T01:49:41.147Z
+- **Runs per measurement:** 20 (cold = run 1; warm = runs 2..N)
 - **Machine:** darwin/arm64, Node v25.9.0, 16 logical CPUs
-- **Process RSS:** before 150.44 MB, peak 165.02 MB (Δ 14.58 MB)
+- **Process RSS:** before 148.63 MB, peak 170.78 MB (Δ 22.16 MB)
 
 ## Search
 
 | Query | Kind | Cold | Warm p50 | Warm p95 | TTFR cold | TTFR p50 | Payload | Tokens | Hits (run 1) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| `church` | single | 97.96 ms | 88.90 ms | 94.10 ms | — | — | 2.4 KB | 767 | 10 |
-| `Roman Empire` | multi | 111.35 ms | 108.97 ms | 111.04 ms | — | — | 2.3 KB | 744 | 10 |
-| `the capital of` | phrase | 113.79 ms | 113.48 ms | 117.57 ms | — | — | 2.2 KB | 742 | 10 |
-| `phlogiston` | rare | 85.66 ms | 85.69 ms | 87.60 ms | — | — | 2 B | 1 | 0 |
+| `church` | single | 115.21 ms | 86.85 ms | 88.82 ms | — | — | 2.4 KB | 767 | 10 |
+| `Roman Empire` | multi | 107.57 ms | 108.04 ms | 112.26 ms | — | — | 2.3 KB | 744 | 10 |
+| `the capital of` | phrase | 111.06 ms | 109.40 ms | 115.37 ms | — | — | 2.2 KB | 742 | 10 |
+| `phlogiston` | rare | 80.78 ms | 80.34 ms | 81.55 ms | — | — | 2 B | 1 | 0 |
 
 > **Context tax.** Payload is the raw bytes returned for the query. Token count uses tiktoken `cl100k_base`.
 
@@ -21,8 +21,8 @@
 
 | Sample | Path | Cold | Warm p50 | Warm p95 | Payload |
 | --- | --- | ---: | ---: | ---: | ---: |
-| small | `Encyclopedia/B/Bauernfeld.md` | 1.27 ms | 0.30 ms | 0.41 ms | 2.0 KB |
-| large | `Encyclopedia/E/English Law.md` | 5.56 ms | 2.31 ms | 2.74 ms | 395.8 KB |
+| small | `Encyclopedia/B/Bauernfeld.md` | 1.18 ms | 0.30 ms | 0.36 ms | 2.0 KB |
+| large | `Encyclopedia/E/English Law.md` | 5.33 ms | 2.29 ms | 3.02 ms | 395.8 KB |
 
 ## Tools
 
@@ -30,7 +30,7 @@ Latency for tools beyond search/read. Cold = first call; Warm p50 = median of su
 
 | Tool | Target | Cold | Warm p50 | Warm p95 | Payload |
 | --- | --- | ---: | ---: | ---: | ---: |
-| `list_notes` | vault root | 0.75 ms | 0.28 ms | 0.37 ms | 165 B |
+| `list_notes` | vault root | 0.92 ms | 0.29 ms | 1.33 ms | 165 B |
 
 > **Not supported by this backend:** `list_tags`, `outline_note`, `get_backlinks`, `get_links`, `get_periodic_note`.
 

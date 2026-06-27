@@ -12,7 +12,7 @@ Both names install the exact same server.
 
 ## Why filesystem-direct?
 
-Routing through the Obsidian Local REST API plugin returns ~1.75 MB (~459,000 tokens) for a typical search. Seekstone returns ~3 KB (~800 tokens) for the same query — a ~575× reduction. Claude can search an entire vault without burning its context window on a single tool call.
+Routing through the Obsidian Local REST API plugin returns ~1.75 MB (~459,000 tokens) for a typical search. Seekstone returns ~2 KB (~580 tokens) for the same query — a ~800× reduction. Claude can search an entire vault without burning its context window on a single tool call.
 
 ## How to install (Claude Desktop)
 
@@ -38,7 +38,7 @@ claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- n
 
 ## Tools
 
-- `search` — full-text search returning ranked ~200-char excerpts (not full notes)
+- `search` — full-text search returning ranked excerpts, ~120 chars by default and tunable (not full notes)
 - `read_note` — read the full content of a note by vault-relative path
 - `list_notes` — list notes filtered by folder prefix or tag
 - `create_note` — create a note with optional frontmatter and body
