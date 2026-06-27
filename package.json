@@ -12,7 +12,8 @@
   },
   "scripts": {
     "build": "npm run -ws --if-present build",
-    "test": "npm run -ws --if-present test",
+    "test": "npm run -ws --if-present test && npm run test:scripts",
+    "test:scripts": "vitest run scripts/shard.test.ts",
     "lint": "biome check .",
     "format": "biome format --write .",
     "harness": "npm run -w @seekstone/harness start --",

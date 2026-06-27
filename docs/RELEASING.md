@@ -35,3 +35,25 @@ The workflow publishes via **OIDC trusted publishing**: no npm token is stored, 
 - The `seekstone` package → **Settings → Trusted Publisher** → **GitHub Actions** → repository `shaqmughal/seekstone`, workflow filename `release.yml`.
 
 Once configured, the publish step authenticates automatically — there is no `NODE_AUTH_TOKEN`. The old `NPM_TOKEN` secret is no longer used and can be deleted.
+
+## Post-publish: Glama (manual)
+
+After every npm publish you need to create a new release on the Glama listing manually:
+
+1. Open <https://glama.ai/mcp/servers/shaqmughal/seekstone/admin/dockerfile>
+2. Click **"Create Release"** (or the equivalent button in the admin UI).
+3. Verify the new version appears on <https://glama.ai/mcp/servers/shaqmughal/seekstone>.
+
+**Why this isn't automated yet:** Glama has no public REST API or documented webhook for programmatic release creation (investigated in SHA-85, June 2026). The build spec uses `"pinnedCommit": null`, so the build itself always pulls the latest commit — only the release creation step is missing. If Glama adds an API or webhook in the future, the step would slot into `release.yml` after the MCPB upload:
+
+```yaml
+- name: Trigger Glama release
+  if: steps.changesets.outputs.published == 'true'
+  run: |
+    VERSION=$(node -p "require('./packages/server/package.json').version")
+    curl -fsSL -X POST "https://glama.ai/api/..." \
+      -H "Authorization: Bearer ${{ secrets.GLAMA_API_TOKEN }}" \
+      -d "{\"version\": \"${VERSION}\"}"
+```
+
+Until then, the manual step above is required to keep the Glama listing current.
