@@ -66,6 +66,14 @@ jobs:
           SEEKSTONE_COVERAGE: '1'
         run: npx vitest run --coverage --root packages/server
 
+      # Harness coverage gate — thresholds live in the harness vitest config and
+      # fail the build if the measurement core / fixture primitives regress. The
+      # process- and network-driving adapters are excluded there (validated by
+      # running the real harness, not unit coverage). Runs once (Linux).
+      - name: Coverage gate (harness)
+        if: matrix.os == 'ubuntu-latest'
+        run: npx vitest run --coverage --root packages/harness
+
       # Coverage upload is a reporting side-effect, not a correctness gate.
       # Skip it for Dependabot PRs: GitHub withholds repo secrets from
       # Dependabot-triggered runs, so the token is empty and the step fails.
@@ -74,7 +82,7 @@ jobs:
         uses: codecov/codecov-action@fb8b3582c8e4def4969c97caa2f19720cb33a72f # v7.0.0
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
-          files: packages/server/coverage/lcov.info
+          files: packages/server/coverage/lcov.info,packages/harness/coverage/lcov.info
           flags: server
           fail_ci_if_error: false
 
