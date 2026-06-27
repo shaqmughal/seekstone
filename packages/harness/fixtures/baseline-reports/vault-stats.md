@@ -1,6 +1,6 @@
 # Vault Stats
 
-- **Vault:** `/Users/shaqmughal/code/seekstone/packages/harness/fixtures/vault`
+- **Vault:** `packages/harness/fixtures/vault`
 - **Snapshot:** 2026-06-26T00:41:04.731Z
 - **Machine:** darwin/arm64, Node v25.9.0, 16 logical CPUs
 

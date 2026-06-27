@@ -22,6 +22,7 @@ import { fetchCorpus, loadCorpus } from './fixtures/corpus.js';
 import { generateVault } from './fixtures/generate.js';
 import { profileVault } from './profiler/index.js';
 import { renderVaultStatsMarkdown } from './profiler/report.js';
+import { normalizeReportPath } from './report-paths.js';
 import { copyVault, renderSafetyMarkdown, runSafety } from './safety/index.js';
 
 // `npm run -w @seekstone/harness start` runs tsx with cwd = packages/harness,
@@ -48,8 +49,11 @@ cli
     const outDir = resolve(opts.out);
     await mkdir(outDir, { recursive: true });
     const stats = await profileVault({ vaultRoot: vault });
-    await writeFile(join(outDir, 'vault-stats.json'), JSON.stringify(stats, null, 2));
-    await writeFile(join(outDir, 'vault-stats.md'), renderVaultStatsMarkdown(stats));
+    // Scrub machine-local detail (username, tmpdir hash) so the committed report
+    // is identical regardless of whose machine produced it.
+    const report = { ...stats, vaultRoot: normalizeReportPath(stats.vaultRoot) };
+    await writeFile(join(outDir, 'vault-stats.json'), JSON.stringify(report, null, 2));
+    await writeFile(join(outDir, 'vault-stats.md'), renderVaultStatsMarkdown(report));
     console.log(`profile: ${stats.counts.notes} notes, ${stats.counts.totalFiles} files.`);
     console.log(`         wrote ${join(outDir, 'vault-stats.json')}`);
     console.log(`         wrote ${join(outDir, 'vault-stats.md')}`);
@@ -137,11 +141,15 @@ cli
         vaultCopyRoot: copyRoot,
         sampleSize: Number(opts.sample),
       });
-      await writeFile(
-        join(outDir, `safety-${backend.name}.json`),
-        JSON.stringify(summary, null, 2),
-      );
-      await writeFile(join(outDir, `safety-${backend.name}.md`), renderSafetyMarkdown(summary));
+      // Scrub machine-local detail (username, per-run tmpdir hash) from the
+      // committed report so it is reproducible across machines.
+      const report = {
+        ...summary,
+        originalVaultRoot: normalizeReportPath(summary.originalVaultRoot),
+        vaultCopyRoot: normalizeReportPath(summary.vaultCopyRoot),
+      };
+      await writeFile(join(outDir, `safety-${backend.name}.json`), JSON.stringify(report, null, 2));
+      await writeFile(join(outDir, `safety-${backend.name}.md`), renderSafetyMarkdown(report));
       const safetyOps = Object.entries(summary.passByOp)
         .map(([op, r]) => `${op} ${r.pass}/${r.pass + r.fail}`)
         .join(', ');
