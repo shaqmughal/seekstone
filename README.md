@@ -243,6 +243,8 @@ Writes are conservative by design: `append_note` never touches frontmatter, and 
 
 It's built to stay up. Seekstone is tested on macOS, Linux, and Windows in CI on every commit, its write tools are hardened against pathological (ReDoS) inputs, and a stray unhandled rejection is logged rather than crashed on — so your long-lived MCP session keeps its warm index instead of dropping out mid-conversation.
 
+For a layer-by-layer tour of the codebase — packages, the server's internals, the end-to-end request flow, and the measurement harness — see [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md).
+
 ---
 
 ## Security & privacy
