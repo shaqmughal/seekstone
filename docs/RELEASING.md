@@ -26,6 +26,21 @@ CI (the `CI` workflow) additionally enforces a **coverage gate** on the server's
 
 Settings → Actions → General → Workflow permissions → enable **"Allow GitHub Actions to create and approve pull requests"** (so Changesets can open the version PR).
 
+## Release-bot GitHub App (opens the version PR + triggers its CI)
+
+The default `GITHUB_TOKEN` can't be used to open the "Version Packages" PR: pushes made with it are attributed to `github-actions[bot]`, and GitHub blocks `pull_request` CI on bot-pushed commits (loop prevention), so the PR would sit permanently BLOCKED on the required `test (*)` checks. The workflow instead mints a short-lived **GitHub App installation token** (`actions/create-github-app-token`) — App-token pushes trigger workflows, and the token re-mints every run so nothing expires from under us (this replaced an earlier fine-grained PAT that had to be manually rotated).
+
+**One-time setup:**
+
+1. Create a GitHub App (Settings → Developer settings → GitHub Apps → New). Repository permissions: **Contents: Read & write** and **Pull requests: Read & write**. No webhook, no account permissions.
+2. **Install** the App on `shaqmughal/seekstone` (App settings → Install App).
+3. **Generate a private key** (App settings → bottom → Generate a private key → downloads a `.pem`).
+4. Add two repo secrets (Settings → Secrets and variables → Actions):
+   - `APP_ID` — the App's numeric ID (shown at the top of the App's settings page).
+   - `APP_PRIVATE_KEY` — the full contents of the downloaded `.pem`, including the `-----BEGIN/END-----` lines.
+
+Once both secrets exist, releases are hands-off. If the App is ever uninstalled or the secrets are removed, the `Mint release-bot token` step fails fast at the top of the job.
+
 ## Authentication — OIDC trusted publishing (no token)
 
 The workflow publishes via **OIDC trusted publishing**: no npm token is stored, and provenance is automatic. It needs `id-token: write` (set) and npm ≥ 11.5.1 (the workflow runs `npm install -g npm@latest`).
