@@ -194,7 +194,7 @@ Claude never sees your full vault at once — it searches and reads selectively,
 
 | Tool | Description |
 |---|---|
-| `search` | Full-text search. Returns ranked ~200-char excerpts, not full notes. Fuzzy, prefix, and phrase queries. |
+| `search` | Full-text search. Returns ranked excerpts (default ~120 chars, tunable via `excerptLength`), not full notes. Fuzzy, prefix, and phrase queries. |
 | `read_note` | Read the full content of a note by vault-relative path. Supports returning a single section, block, or line range. |
 | `list_notes` | List notes, optionally filtered by folder prefix or tag. |
 | `list_tags` | List all tags in the vault sorted by usage count (or alphabetically). |
