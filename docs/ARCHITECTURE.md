@@ -151,7 +151,7 @@ sequenceDiagram
     participant Ctx as ServerContext<br/>(index · notes · backlinks)
     participant FS as Vault (filesystem)
 
-    Note over SDK,Ctx: Boot once — buildIndex(vaultRoot) populates ServerContext;<br/>watcher keeps it fresh thereafter.
+    Note over SDK,Ctx: Boot once — buildIndex(vaultRoot) populates ServerContext.<br/>Watcher keeps it fresh thereafter.
 
     Client->>SDK: CallToolRequest { name, args }
     SDK->>D: dispatch(ctx, name, args, log)
