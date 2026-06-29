@@ -23,9 +23,9 @@ jobs:
         shell: bash
     steps:
       # Mint a short-lived GitHub App installation token for the release bot.
-      # This replaces the old GH_PAT: an App token never expires from under us
-      # (it's re-minted each run and auto-expires in ~1h) and, crucially, pushes
-      # made with it DO trigger workflows — unlike the default GITHUB_TOKEN, whose
+      # The App token never expires from under us (it's re-minted each run and
+      # auto-expires in ~1h) and, crucially, pushes made with it DO trigger
+      # workflows — unlike the default GITHUB_TOKEN, whose
       # github-actions[bot] pushes GitHub blocks pull_request CI on (loop
       # prevention). Requires repo secrets APP_ID + APP_PRIVATE_KEY from a GitHub
       # App (Contents: R/W, Pull requests: R/W) installed on this repo.
