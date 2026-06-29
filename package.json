@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@anthropic-ai/mcpb": "^2.1.2",
-    "@biomejs/biome": "^2.5.0",
+    "@biomejs/biome": "^2.5.1",
     "@changesets/cli": "^2.31.0",
     "@types/node": "^26.0.1",
     "@vitest/coverage-v8": "^4.1.9",
