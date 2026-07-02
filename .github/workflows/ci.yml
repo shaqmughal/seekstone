@@ -44,6 +44,15 @@ jobs:
       - name: Lint
         run: npm run lint
 
+      # Gate: MCP protocol conformance — boots the built server over stdio with
+      # the SDK reference client and asserts handshake, exact tool surface
+      # (HANDLED_TOOLS), and a search + append_note round-trip. Protocol
+      # behavior is OS-independent; run once (Linux). Filesystem behavior is
+      # covered by the OS-matrix unit tests.
+      - name: MCP protocol conformance
+        if: matrix.os == 'ubuntu-latest'
+        run: npm run conformance
+
       # Guard: server.json (the MCP registry manifest) must match the package
       # versions. A manual `mcp-publisher publish` reads this file as-is, so a
       # stale version here would regress the registry. Runs once (Linux).

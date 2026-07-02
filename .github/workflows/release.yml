@@ -84,6 +84,9 @@ jobs:
       - name: Smoke-test the published tarball
         run: npm run smoke
 
+      - name: MCP protocol conformance
+        run: npm run conformance
+
       # On a push that still has changesets pending → opens/updates a "Version
       # Packages" PR. On the push that merges that PR (no changesets left) →
       # publishes to npm with provenance. Re-publishing an existing version is
