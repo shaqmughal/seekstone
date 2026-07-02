@@ -254,7 +254,9 @@ describe('runInit', () => {
     expect(res.wrotePath).toBeUndefined();
     const text = res.output.join('\n');
     expect(text).toContain('Cursor config');
-    expect(text).toContain(join(home, '.cursor', 'mcp.json'));
+    // Same helper runInit uses: deps() injects darwin, so host-native join
+    // would mismatch on Windows CI.
+    expect(text).toContain(cursorConfigPath('darwin', { home }));
     expect(text).toContain('mcpServers');
     expect(text).toContain(vault);
   });
@@ -262,7 +264,7 @@ describe('runInit', () => {
   it('--write --client cursor creates ~/.cursor/mcp.json', async () => {
     const res = await runInit({ vault, write: true, client: 'cursor' }, deps());
     expect(res.exitCode).toBe(0);
-    expect(res.wrotePath).toBe(join(home, '.cursor', 'mcp.json'));
+    expect(res.wrotePath).toBe(cursorConfigPath('darwin', { home }));
     expect(res.backupPath).toBeUndefined();
     const written = JSON.parse(await readFile(res.wrotePath as string, 'utf8'));
     expect(written.mcpServers.seekstone).toEqual(seekstoneServerConfig(vault));
