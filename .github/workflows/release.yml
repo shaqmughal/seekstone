@@ -152,6 +152,21 @@ jobs:
           ./mcp-publisher login github-oidc
           ./mcp-publisher publish
 
+      # Rebuild seekstone.dev so its build-time npm version lookup picks up the
+      # release we just published (site repo: src/version.ts). Deploy hooks are
+      # fire-and-forget and unauthenticated-by-URL, so the step is best-effort:
+      # a missing secret or a Vercel hiccup must never fail a release.
+      - name: Trigger seekstone.dev rebuild
+        if: steps.changesets.outputs.published == 'true'
+        env:
+          DEPLOY_HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+        run: |
+          if [ -z "$DEPLOY_HOOK_URL" ]; then
+            echo "::warning::VERCEL_DEPLOY_HOOK_URL not set; seekstone.dev will show the new version on its next rebuild"
+            exit 0
+          fi
+          curl -fsS -X POST "$DEPLOY_HOOK_URL" || echo "::warning::deploy hook failed; seekstone.dev will show the new version on its next rebuild"
+
       # NOTE: a manual Glama release step is still required after every publish.
       # Glama has no public API for programmatic release creation (investigated SHA-85).
       # See docs/RELEASING.md for the manual steps and the placeholder curl command
