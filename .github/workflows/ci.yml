@@ -37,7 +37,6 @@ jobs:
           npx tsc -p packages/core/tsconfig.json --noEmit
           npx tsc -p packages/harness/tsconfig.json --noEmit
           npx tsc -p packages/server/tsconfig.json --noEmit
-          npx tsc -p packages/obsidian-mcp-seekstone/tsconfig.json --noEmit
 
       - name: Test
         run: npm test
@@ -122,7 +121,7 @@ jobs:
           # Only src/ and package.json count — config, test, and manifest files
           # don't affect what's published to npm and don't need a changeset.
           PACKAGES_CHANGED=$(git diff --name-only "origin/${BASE}...HEAD" \
-            | grep -E '^packages/(server|obsidian-mcp-seekstone)/(src/|package\.json$)' \
+            | grep -E '^packages/server/(src/|package\.json$)' \
             | grep -v '\.test\.ts$' \
             | wc -l | tr -d ' ')
 

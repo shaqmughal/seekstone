@@ -13,26 +13,25 @@ server's surface to produce the benchmark numbers.
 
 ## 1. Workspace / package graph
 
-seekstone is an npm workspace (`packages/*`) of four packages. Only two are
-published to npm; the other two are a private primitives library and a discovery
-alias.
+seekstone is an npm workspace (`packages/*`) of three packages. Only one is
+published to npm; the other two are a private primitives library and the
+dev-only measurement harness. (A fourth package, the `obsidian-mcp-seekstone`
+discovery alias, was published through 0.7.x and is now deprecated on npm.)
 
 ```mermaid
 flowchart TD
     core["@seekstone/core<br/>(private, never published)<br/>walk · frontmatter · extract<br/>outline · percentiles · pmap"]
     server["seekstone<br/>(packages/server) — THE PRODUCT<br/>filesystem-direct MCP server"]
     harness["@seekstone/harness<br/>(dev-only, runs via tsx, not published)<br/>profiler · bench · safety · fixtures"]
-    alias["obsidian-mcp-seekstone<br/>(npm discovery alias)"]
 
     server -->|"devDep, bundled in via tsup noExternal"| core
     harness -->|"dependency"| core
     harness -.->|"relative import of server/src<br/>(in-process 'seekstone' adapter)"| server
-    alias -->|"dependency"| server
 
     classDef product fill:#1f6feb,stroke:#0b3d91,color:#fff;
     classDef dev fill:#6e7681,stroke:#30363d,color:#fff;
     class server product;
-    class harness,core,alias dev;
+    class harness,core dev;
 ```
 
 - **`@seekstone/core`** — pure, dependency-free primitives shared by the server
@@ -50,8 +49,6 @@ flowchart TD
   (no build step; `tsc` is typecheck-only). It depends on `@seekstone/core` and
   also imports `packages/server/src` **directly** to benchmark the server's own
   tool functions in-process (the `seekstone` adapter).
-- **`obsidian-mcp-seekstone`** — a thin alias package so npm searches for
-  "obsidian mcp" find the server. Same code, re-exported.
 
 ---
 

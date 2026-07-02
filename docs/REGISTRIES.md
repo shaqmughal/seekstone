@@ -23,7 +23,7 @@ Seekstone is published as [`seekstone`](https://www.npmjs.com/package/seekstone)
 
 ## 1. Official MCP registry
 
-`server.json` lists both npm packages. After each release, re-publish to update the version:
+`server.json` lists the `seekstone` npm package. After each release, re-publish to update the version:
 
 ```bash
 # Install the publisher CLI (macOS/Linux):
