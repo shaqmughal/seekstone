@@ -21,7 +21,13 @@
     "pkm",
     "personal-knowledge-management",
     "note-taking",
-    "search"
+    "search",
+    "claude-code",
+    "second-brain",
+    "chatgpt",
+    "cursor",
+    "connect-claude-to-obsidian",
+    "mcp-server"
   ],
   "license": "MIT",
   "author": "Shaq Mughal",
