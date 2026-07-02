@@ -1,8 +1,8 @@
 #!/usr/bin/env node
-// Release gate: pack seekstone + obsidian-mcp-seekstone, install both into
-// a throwaway project with no repo, and confirm each bin boots — indexes a
-// vault, prints readiness to stderr, keeps stdout clean. Exits non-zero on
-// any failure so CI blocks the publish.
+// Release gate: pack seekstone, install it into a throwaway project with no
+// repo, and confirm the bin boots — indexes a vault, prints readiness to
+// stderr, keeps stdout clean. Exits non-zero on any failure so CI blocks the
+// publish.
 
 import { execFileSync, spawn } from 'node:child_process';
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from 'node:fs';
@@ -39,31 +39,11 @@ try {
   );
   const tgz = join(packDir, packedSeekstone[0].filename);
 
-  // 1b. Pack the shim (no build step needed — it's plain JS).
-  console.log('• packing obsidian-mcp-seekstone shim…');
-  const packedShim = JSON.parse(
-    run(
-      'npm',
-      [
-        'pack',
-        '-w',
-        'obsidian-mcp-seekstone',
-        '--ignore-scripts',
-        '--json',
-        '--pack-destination',
-        packDir,
-      ],
-      repoRoot,
-    ),
-  );
-  const shimTgz = join(packDir, packedShim[0].filename);
-
-  // 2. Clean-install both tarballs into a fresh project (no repo, no tsx/typescript).
-  //    Install seekstone first so the shim's dep is satisfied by the local tarball.
+  // 2. Clean-install the tarball into a fresh project (no repo, no tsx/typescript).
   const proj = tmp('seekstone-smoke-proj-');
-  console.log('• installing seekstone + shim tarballs into a clean project…');
+  console.log('• installing the seekstone tarball into a clean project…');
   run('npm', ['init', '-y'], proj);
-  run('npm', ['install', tgz, shimTgz], proj);
+  run('npm', ['install', tgz], proj);
 
   // 3. A throwaway vault.
   const vault = join(tmp('seekstone-smoke-vault-'), 'vault');
@@ -105,13 +85,8 @@ try {
   const seekstoneEntry = join(proj, 'node_modules', 'seekstone', 'dist', 'index.js');
   await bootAndVerify(seekstoneEntry, 'seekstone');
 
-  const shimEntry = join(proj, 'node_modules', 'obsidian-mcp-seekstone', 'bin', 'seekstone.js');
-  await bootAndVerify(shimEntry, 'obsidian-mcp-seekstone (shim)');
-
   ok = true;
-  console.log(
-    '✓ smoke test passed — seekstone and obsidian-mcp-seekstone both install and boot cleanly.',
-  );
+  console.log('✓ smoke test passed — seekstone installs and boots cleanly.');
 } catch (err) {
   console.error(`✗ smoke test failed: ${err.message}`);
 } finally {

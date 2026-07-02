@@ -130,25 +130,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # `seekstone` and `obsidian-mcp-seekstone` are linked in changesets, so the
-      # action cuts a GitHub Release for BOTH tags every version. The alias is a
-      # pure npm-discoverability redirect (its only dep is `seekstone`), and the
-      # install bundle is a signed/attested artifact that should have ONE canonical
-      # home — `seekstone@X`. So we delete the redundant alias Release here, keeping
-      # the git tag (no --cleanup-tag) for provenance and leaving the npm package
-      # untouched. Idempotent: re-runs where it's already gone are a no-op.
-      - name: Remove redundant alias GitHub Release
-        if: steps.changesets.outputs.published == 'true'
-        run: |
-          VERSION=$(node -p "require('./packages/obsidian-mcp-seekstone/package.json').version")
-          if gh release view "obsidian-mcp-seekstone@${VERSION}" >/dev/null 2>&1; then
-            gh release delete "obsidian-mcp-seekstone@${VERSION}" --yes
-          else
-            echo "No obsidian-mcp-seekstone@${VERSION} release to delete; skipping."
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Install mcp-publisher
         if: steps.changesets.outputs.published == 'true' || github.event_name == 'workflow_dispatch'
         run: |

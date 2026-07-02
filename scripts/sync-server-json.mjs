@@ -5,10 +5,9 @@
 // they describe — otherwise a manual `mcp-publisher publish` would push a stale
 // version and regress the registry.
 //
-// Source of truth: each package's own package.json `version`.
+// Source of truth: the server package's package.json `version`.
 //   .version                          ← packages/server  (the `seekstone` package)
 //   packages[id="seekstone"]          ← packages/server
-//   packages[id="obsidian-mcp-...]"]  ← packages/obsidian-mcp-seekstone
 //
 // Modes:
 //   (default)  rewrite server.json in place if it has drifted.
@@ -25,12 +24,10 @@ const check = process.argv.includes('--check');
 const read = (p) => JSON.parse(readFileSync(`${repoRoot}${p}`, 'utf8'));
 
 const serverVersion = read('packages/server/package.json').version;
-const aliasVersion = read('packages/obsidian-mcp-seekstone/package.json').version;
 
 // Map each server.json package identifier to its authoritative version.
 const versionFor = {
   seekstone: serverVersion,
-  'obsidian-mcp-seekstone': aliasVersion,
 };
 
 const raw = readFileSync(`${repoRoot}server.json`, 'utf8');
