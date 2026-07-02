@@ -2,7 +2,7 @@
   "name": "obsidian-mcp-seekstone",
   "mcpName": "io.github.shaqmughal/seekstone",
   "type": "module",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Renamed to seekstone — install that instead. Obsidian MCP server for Claude, filesystem-direct vault access.",
   "keywords": [
     "obsidian",
@@ -49,7 +49,7 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "seekstone": "0.7.0"
+    "seekstone": "0.7.1"
   },
   "publishConfig": {
     "access": "public"
