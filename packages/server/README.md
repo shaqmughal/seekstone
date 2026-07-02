@@ -1,4 +1,4 @@
-# seekstone / obsidian-mcp-seekstone
+# seekstone
 
 **The Obsidian MCP server for Claude — search and edit your vault without burning context.**
 
@@ -6,12 +6,7 @@ Seekstone is an Obsidian MCP server that gives Claude (and any [Model Context Pr
 
 It reads your vault **directly from disk** instead of routing through the Obsidian Local REST API plugin. The practical difference: a search that returns ~1.75 MB and ~459,000 tokens via the REST plugin returns **~3 KB and ~800 tokens** via Seekstone — a **~575× reduction**. Claude can search and read your entire note library without burning most of its context window on a single tool call.
 
-**Two npm names, one server:**
-
-| Package | Best for |
-|---|---|
-| [`obsidian-mcp-seekstone`](https://www.npmjs.com/package/obsidian-mcp-seekstone) | Searching npm for "obsidian mcp" |
-| [`seekstone`](https://www.npmjs.com/package/seekstone) | Shorter name if you already know it |
+(Previously also published as `obsidian-mcp-seekstone` — that alias is deprecated; existing installs keep working, but install `seekstone` going forward.)
 
 ---
 
@@ -28,23 +23,23 @@ Download `seekstone.mcpb` from [GitHub Releases](https://github.com/shaqmughal/s
 Run the setup helper and let Seekstone find your vault automatically:
 
 ```bash
-npx -y obsidian-mcp-seekstone init
+npx -y seekstone init
 ```
 
 Seekstone reads Obsidian's own vault registry to detect your vault, validates it, and either prints the config to paste or patches Claude Desktop directly:
 
 ```bash
 # Auto-detect vault, print config to paste
-npx -y obsidian-mcp-seekstone init
+npx -y seekstone init
 
 # Auto-detect vault, patch Claude Desktop in place (with backup)
-npx -y obsidian-mcp-seekstone init --write
+npx -y seekstone init --write
 
 # Specify vault explicitly if you have multiple
-npx -y obsidian-mcp-seekstone init --vault "/path/to/vault"
+npx -y seekstone init --vault "/path/to/vault"
 
 # Generate the Claude Code command instead
-npx -y obsidian-mcp-seekstone init --client code
+npx -y seekstone init --client code
 ```
 
 ### Option 3 — Manual config (Claude Desktop)
@@ -56,7 +51,7 @@ Add to `claude_desktop_config.json` (Settings → Developer → Edit Config):
   "mcpServers": {
     "seekstone": {
       "command": "npx",
-      "args": ["-y", "obsidian-mcp-seekstone"],
+      "args": ["-y", "seekstone"],
       "env": { "SEEKSTONE_VAULT": "/absolute/path/to/your/vault" }
     }
   }
@@ -66,23 +61,38 @@ Add to `claude_desktop_config.json` (Settings → Developer → Edit Config):
 ### Option 4 — Claude Code
 
 ```bash
-claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- npx -y obsidian-mcp-seekstone
+claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- npx -y seekstone
 ```
 
 ---
 
 ## Tools
 
+### Read
+
 | Tool | Description |
 |---|---|
 | `search` | Full-text search. Returns ranked excerpts (default ~120 chars, tunable via `excerptLength`), not full notes. Fuzzy, prefix, and phrase queries. |
-| `read_note` | Read the full content of a note by vault-relative path. |
+| `read_note` | Read the full content of a note by vault-relative path. Supports returning a single section, block, or line range. |
 | `list_notes` | List notes, optionally filtered by folder prefix or tag. |
+| `list_tags` | List all tags in the vault sorted by usage count (or alphabetically). |
+| `outline_note` | Return a note's heading and block structure without its full content. |
+| `get_backlinks` | Find all notes that link to a given note. |
+| `get_links` | List all outgoing wikilinks and markdown links from a note. |
+| `get_periodic_note` | Read a daily/weekly/monthly/quarterly/yearly note — path resolved from your vault config, no Obsidian required. |
+
+### Write
+
+| Tool | Description |
+|---|---|
 | `create_note` | Create a note (optional frontmatter + body); parent dirs created automatically. |
 | `delete_note` | Permanently delete a note. |
 | `move_note` | Move/rename a note; destination dirs created automatically. |
 | `append_note` | Append to a note body without touching frontmatter. |
 | `patch_frontmatter` | Set/update/delete frontmatter keys without reordering existing keys or changing quote style. |
+| `patch_note` | Insert text immediately after a heading without touching frontmatter. |
+| `replace_in_note` | Replace the first occurrence of a word or phrase in the note body. |
+| `append_periodic_note` | Append to today's periodic note, creating it from a template if it doesn't yet exist. |
 
 ---
 

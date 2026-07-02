@@ -4,11 +4,7 @@
 
 Website: https://seekstone.dev
 
-Seekstone is published to npm under two names:
-- `obsidian-mcp-seekstone` — the discoverable name (search "obsidian mcp" on npm)
-- `seekstone` — the short canonical name
-
-Both names install the exact same server.
+Seekstone is published to npm as `seekstone`. (It was previously also published as `obsidian-mcp-seekstone`; that alias is deprecated — existing installs keep working but it no longer receives updates.)
 
 ## Why filesystem-direct?
 
@@ -23,7 +19,7 @@ Add to `claude_desktop_config.json`:
   "mcpServers": {
     "seekstone": {
       "command": "npx",
-      "args": ["-y", "obsidian-mcp-seekstone"],
+      "args": ["-y", "seekstone"],
       "env": { "SEEKSTONE_VAULT": "/absolute/path/to/your/vault" }
     }
   }
@@ -33,19 +29,30 @@ Add to `claude_desktop_config.json`:
 ## How to install (Claude Code)
 
 ```bash
-claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- npx -y obsidian-mcp-seekstone
+claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- npx -y seekstone
 ```
 
-## Tools
+## Tools (16)
 
+Read:
 - `search` — full-text search returning ranked excerpts, ~120 chars by default and tunable (not full notes)
-- `read_note` — read the full content of a note by vault-relative path
+- `read_note` — read the full content of a note by vault-relative path; supports section, block, or line-range slices
 - `list_notes` — list notes filtered by folder prefix or tag
+- `list_tags` — list all tags sorted by usage count or alphabetically
+- `outline_note` — a note's heading and block structure without its full content
+- `get_backlinks` — all notes linking to a given note
+- `get_links` — all outgoing wikilinks and markdown links from a note
+- `get_periodic_note` — read a daily/weekly/monthly/quarterly/yearly note, path resolved from vault config
+
+Write:
 - `create_note` — create a note with optional frontmatter and body
 - `delete_note` — permanently delete a note
 - `move_note` — move or rename a note
 - `append_note` — append text to a note body without touching frontmatter
 - `patch_frontmatter` — set, update, or delete frontmatter keys while preserving key order and quote style
+- `patch_note` — insert text immediately after a heading
+- `replace_in_note` — replace the first occurrence of a word or phrase in the note body
+- `append_periodic_note` — append to today's periodic note, creating it from a template if needed
 
 ## Requirements
 
@@ -62,8 +69,7 @@ claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- n
 
 ## Links
 
-- npm (primary): https://www.npmjs.com/package/obsidian-mcp-seekstone
-- npm (short name): https://www.npmjs.com/package/seekstone
+- npm: https://www.npmjs.com/package/seekstone
 - GitHub: https://github.com/shaqmughal/seekstone
 - MCP registry: https://registry.modelcontextprotocol.io (search: io.github.shaqmughal/seekstone)
 - Glama: https://glama.ai/mcp/servers/@shaqmughal/seekstone

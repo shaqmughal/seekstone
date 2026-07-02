@@ -11,7 +11,6 @@
 <p align="center"><a href="https://seekstone.dev"><strong>seekstone.dev →</strong></a></p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/obsidian-mcp-seekstone"><img src="https://img.shields.io/npm/v/obsidian-mcp-seekstone?color=cb3837&logo=npm&label=obsidian-mcp-seekstone" alt="npm" /></a>
   <a href="https://www.npmjs.com/package/seekstone"><img src="https://img.shields.io/npm/v/seekstone?color=cb3837&logo=npm&label=seekstone" alt="npm (seekstone)" /></a>
   <a href="https://www.npmjs.com/package/seekstone"><img src="https://img.shields.io/npm/dt/seekstone?color=7c3aed&label=downloads" alt="npm total downloads" /></a>
   <a href="https://www.npmjs.com/package/seekstone"><img src="https://img.shields.io/npm/dw/seekstone?color=7c3aed&label=downloads%2Fwk" alt="npm weekly downloads" /></a>
@@ -41,12 +40,7 @@ It reads your vault **directly from disk** rather than routing through the Obsid
 
 Claude can search and read your entire note library, in milliseconds, without burning most of its context window on a single tool call.
 
-**Two npm names, one server** — published under both for discoverability:
-
-| Package | Install command |
-|---|---|
-| [`obsidian-mcp-seekstone`](https://www.npmjs.com/package/obsidian-mcp-seekstone) | `npx -y obsidian-mcp-seekstone` |
-| [`seekstone`](https://www.npmjs.com/package/seekstone) | `npx -y seekstone` |
+Published on npm as [`seekstone`](https://www.npmjs.com/package/seekstone) — install with `npx -y seekstone`. (Previously also published as `obsidian-mcp-seekstone`; that alias is deprecated but existing installs keep working.)
 
 ---
 
@@ -107,7 +101,7 @@ You'll know it worked when seekstone appears in Claude's toolbar. No JSON editin
 Open **Terminal** (macOS: `Cmd+Space`, type "Terminal", press Enter) and run:
 
 ```bash
-npx -y obsidian-mcp-seekstone init
+npx -y seekstone init
 ```
 
 You'll know it worked when Seekstone appears in Claude's toolbar under the plug icon.
@@ -116,19 +110,19 @@ Seekstone reads Obsidian's own vault registry to detect your vault, validates it
 
 ```bash
 # Auto-detect vault, print config to paste
-npx -y obsidian-mcp-seekstone init
+npx -y seekstone init
 
 # Auto-detect vault, patch Claude Desktop in place (with backup)
-npx -y obsidian-mcp-seekstone init --write
+npx -y seekstone init --write
 
 # Specify vault explicitly if you have multiple
-npx -y obsidian-mcp-seekstone init --vault "/path/to/vault"
+npx -y seekstone init --vault "/path/to/vault"
 
 # Auto-configure Claude Code in one step (auto-detects vault, runs claude mcp add)
-npx -y obsidian-mcp-seekstone init --client code --write
+npx -y seekstone init --client code --write
 
 # Or just print the Claude Code command without running it
-npx -y obsidian-mcp-seekstone init --client code
+npx -y seekstone init --client code
 ```
 
 ### Option 3 — Manual config (Claude Desktop)
@@ -140,7 +134,7 @@ Add to `claude_desktop_config.json` (Settings → Developer → Edit Config):
   "mcpServers": {
     "seekstone": {
       "command": "npx",
-      "args": ["-y", "obsidian-mcp-seekstone"],
+      "args": ["-y", "seekstone"],
       "env": { "SEEKSTONE_VAULT": "/absolute/path/to/your/vault" }
     }
   }
@@ -152,13 +146,13 @@ Add to `claude_desktop_config.json` (Settings → Developer → Edit Config):
 Auto-detects your vault and configures Claude Code in one command:
 
 ```bash
-npx -y obsidian-mcp-seekstone init --client code --write
+npx -y seekstone init --client code --write
 ```
 
 Or manually, if you prefer to specify the vault path explicitly:
 
 ```bash
-claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- npx -y obsidian-mcp-seekstone
+claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- npx -y seekstone
 ```
 
 ---
