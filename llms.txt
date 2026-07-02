@@ -32,6 +32,14 @@ Add to `claude_desktop_config.json`:
 claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- npx -y seekstone
 ```
 
+## How to install (Cursor)
+
+```bash
+npx -y seekstone init --client cursor --write
+```
+
+Or add the same `mcpServers` JSON block as Claude Desktop to `~/.cursor/mcp.json`. Any other MCP-over-stdio client (VS Code/Copilot, Windsurf, Cline, Continue, JetBrains, Zed) takes the identical block in its own MCP config file.
+
 ## Tools (16)
 
 Read:

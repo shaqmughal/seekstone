@@ -4,6 +4,7 @@ import { join } from 'node:path';
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import {
   claudeDesktopConfigPath,
+  cursorConfigPath,
   mcpAddCommand,
   mergeSeekstoneConfig,
   obsidianRegistryPath,
@@ -25,6 +26,9 @@ describe('parseInitArgs', () => {
       client: 'code',
     });
   });
+  it('parses --client cursor', () => {
+    expect(parseInitArgs(['--client', 'cursor']).client).toBe('cursor');
+  });
   it('ignores an invalid --client value (keeps default)', () => {
     expect(parseInitArgs(['--client', 'nonsense']).client).toBe('desktop');
   });
@@ -45,6 +49,18 @@ describe('claudeDesktopConfigPath', () => {
     expect(
       claudeDesktopConfigPath('win32', { appData: 'C:\\Users\\x\\AppData\\Roaming' }),
     ).toContain('Claude');
+  });
+});
+
+describe('cursorConfigPath', () => {
+  it('macOS / linux are home-relative', () => {
+    expect(cursorConfigPath('darwin', { home: '/Users/x' })).toBe('/Users/x/.cursor/mcp.json');
+    expect(cursorConfigPath('linux', { home: '/home/x' })).toBe('/home/x/.cursor/mcp.json');
+  });
+  it('windows is home-relative too (no APPDATA)', () => {
+    expect(cursorConfigPath('win32', { home: 'C:\\Users\\x' })).toBe(
+      'C:\\Users\\x\\.cursor\\mcp.json',
+    );
   });
 });
 
@@ -230,6 +246,42 @@ describe('runInit', () => {
   it('prints the claude mcp add command for code client', async () => {
     const res = await runInit({ vault, write: false, client: 'code' }, deps());
     expect(res.output.join('\n')).toContain('claude mcp add seekstone');
+  });
+
+  it('prints the config block (no write) for cursor, pointing at ~/.cursor/mcp.json', async () => {
+    const res = await runInit({ vault, write: false, client: 'cursor' }, deps());
+    expect(res.exitCode).toBe(0);
+    expect(res.wrotePath).toBeUndefined();
+    const text = res.output.join('\n');
+    expect(text).toContain('Cursor config');
+    // Same helper runInit uses: deps() injects darwin, so host-native join
+    // would mismatch on Windows CI.
+    expect(text).toContain(cursorConfigPath('darwin', { home }));
+    expect(text).toContain('mcpServers');
+    expect(text).toContain(vault);
+  });
+
+  it('--write --client cursor creates ~/.cursor/mcp.json', async () => {
+    const res = await runInit({ vault, write: true, client: 'cursor' }, deps());
+    expect(res.exitCode).toBe(0);
+    expect(res.wrotePath).toBe(cursorConfigPath('darwin', { home }));
+    expect(res.backupPath).toBeUndefined();
+    const written = JSON.parse(await readFile(res.wrotePath as string, 'utf8'));
+    expect(written.mcpServers.seekstone).toEqual(seekstoneServerConfig(vault));
+    expect(res.output.join('\n')).toContain('Restart Cursor');
+  });
+
+  it('--write --client cursor merges into an existing mcp.json and backs it up', async () => {
+    const cfgPath = cursorConfigPath('darwin', { home });
+    await mkdir(join(home, '.cursor'), { recursive: true });
+    await writeFile(cfgPath, JSON.stringify({ mcpServers: { other: { command: 'x' } } }, null, 2));
+
+    const res = await runInit({ vault, write: true, client: 'cursor' }, deps());
+    expect(res.exitCode).toBe(0);
+    expect(res.backupPath).toBeDefined();
+    const written = JSON.parse(await readFile(cfgPath, 'utf8'));
+    expect(written.mcpServers.other).toEqual({ command: 'x' });
+    expect(written.mcpServers.seekstone).toBeDefined();
   });
 
   it('--write --client code calls spawnClaudeMcp with correct args', async () => {

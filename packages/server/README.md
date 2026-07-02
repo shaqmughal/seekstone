@@ -64,6 +64,14 @@ Add to `claude_desktop_config.json` (Settings → Developer → Edit Config):
 claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- npx -y seekstone
 ```
 
+### Option 5 — Cursor
+
+```bash
+npx -y seekstone init --client cursor --write
+```
+
+Or add the Option 3 JSON block to `~/.cursor/mcp.json`. Other MCP clients (VS Code, Windsurf, Cline, …) take the same block in their own MCP config file.
+
 ---
 
 ## Tools
