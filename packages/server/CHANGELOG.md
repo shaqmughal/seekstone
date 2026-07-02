@@ -1,5 +1,11 @@
 # seekstone
 
+## 0.7.2
+
+### Patch Changes
+
+- 8c5ddb7: Add npm keywords for the adjacent discovery clusters Seekstone was absent from: `claude-code`, `second-brain`, `chatgpt`, `cursor`, `connect-claude-to-obsidian`, `mcp-server`.
+
 ## 0.7.1
 
 ### Patch Changes
