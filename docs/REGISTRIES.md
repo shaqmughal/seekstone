@@ -4,23 +4,18 @@ How Seekstone gets listed where people discover MCP servers. The repo contains
 the config files each registry reads (`server.json`, `glama.json`) and the
 `mcpName` field in `packages/server/package.json`.
 
-## Two npm packages, one server
+## One npm package
 
-| Package | npm | Purpose |
-|---|---|---|
-| `obsidian-mcp-seekstone` | [link](https://www.npmjs.com/package/obsidian-mcp-seekstone) | Discoverable via "obsidian mcp" search |
-| `seekstone` | [link](https://www.npmjs.com/package/seekstone) | Canonical short name |
-
-Both are published automatically by the release pipeline on every version bump.
+Seekstone is published as [`seekstone`](https://www.npmjs.com/package/seekstone) — the canonical and only maintained name. [`obsidian-mcp-seekstone`](https://www.npmjs.com/package/obsidian-mcp-seekstone) was a discoverability alias; it is **deprecated** (existing installs keep working, but it no longer receives updates). Discoverability for "obsidian mcp" searches now rests on the `keywords` field and description, not the package name.
 
 ## Canonical copy (reuse everywhere)
 
-- **Name:** Seekstone (also: obsidian-mcp-seekstone)
+- **Name:** Seekstone
 - **Tagline:** An Obsidian MCP server — filesystem-direct, low context-tax.
 - **Description:** Seekstone reads your Obsidian vault directly from disk instead of routing through the Local REST API plugin, so Claude can search and edit notes without burning its context window on a single tool call (~575× smaller payloads in benchmarks). 16 tools over stdio; no Obsidian app or plugin required; macOS/Linux/Windows; no network, no telemetry.
-- **Install:** `npx -y obsidian-mcp-seekstone` (also: `npx -y seekstone`); env `SEEKSTONE_VAULT=/path/to/vault`
+- **Install:** `npx -y seekstone`; env `SEEKSTONE_VAULT=/path/to/vault`
 - **Repo:** https://github.com/shaqmughal/seekstone
-- **npm:** https://www.npmjs.com/package/obsidian-mcp-seekstone / https://www.npmjs.com/package/seekstone
+- **npm:** https://www.npmjs.com/package/seekstone
 - **Tools (16):** _Read_ — search, read_note, list_notes, list_tags, outline_note, get_backlinks, get_links, get_periodic_note · _Write_ — create_note, delete_note, move_note, append_note, patch_frontmatter, patch_note, replace_in_note, append_periodic_note
 - **Categories/tags:** obsidian, notes, knowledge-base, markdown, search, obsidian-mcp
 
@@ -63,7 +58,7 @@ Glama auto-indexes public repos. Direct listing: https://glama.ai/mcp/servers/@s
 
 PR open: https://github.com/punkpeye/awesome-mcp-servers/pull/7190
 
-Entry uses `obsidian-mcp-seekstone` for discoverability. Update the PR if the entry needs refreshing.
+The entry originally used `obsidian-mcp-seekstone`; that name is now deprecated — update the PR so the entry points at `seekstone`.
 
 ## Keeping listings current
 

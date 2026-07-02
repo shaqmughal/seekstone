@@ -1,52 +1,52 @@
 # obsidian-mcp-seekstone
 
-> **A discoverability alias for [seekstone](https://www.npmjs.com/package/seekstone)** — the filesystem-direct Obsidian MCP server.
+> **This package has been renamed to [`seekstone`](https://www.npmjs.com/package/seekstone).** Install that instead.
 
-`obsidian-mcp-seekstone` and `seekstone` are the same server. This package exists so users searching npm for "obsidian mcp" can find it. The underlying code, tools, and documentation all live in [shaqmughal/seekstone](https://github.com/shaqmughal/seekstone).
+`obsidian-mcp-seekstone` was a discoverability alias for `seekstone` — the filesystem-direct Obsidian MCP server. The two packages were always the same server. The project has consolidated on the canonical name **`seekstone`**, and this alias is deprecated.
 
-## Why seekstone?
+**Existing installs keep working** — this package still runs the same server — but it no longer receives updates. Migrate your MCP config when convenient.
 
-Seekstone reads your Obsidian vault **directly from disk** instead of routing through the Local REST API plugin. The practical difference: a search that returns ~1.75 MB / ~459,000 tokens via the REST plugin returns **~3 KB / ~800 tokens** via seekstone — a ~575× reduction. No Obsidian app, no plugin, no network calls.
+## How to migrate
 
-## Install
+Replace `obsidian-mcp-seekstone` with `seekstone` wherever it appears.
 
 **Claude Desktop** — `claude_desktop_config.json`:
 
-```json
-{
-  "mcpServers": {
-    "seekstone": {
-      "command": "npx",
-      "args": ["-y", "obsidian-mcp-seekstone"],
-      "env": { "SEEKSTONE_VAULT": "/absolute/path/to/your/vault" }
-    }
-  }
-}
+```diff
+ {
+   "mcpServers": {
+     "seekstone": {
+       "command": "npx",
+-      "args": ["-y", "obsidian-mcp-seekstone"],
++      "args": ["-y", "seekstone"],
+       "env": { "SEEKSTONE_VAULT": "/absolute/path/to/your/vault" }
+     }
+   }
+ }
 ```
 
 **Claude Code:**
 
 ```bash
-claude mcp add seekstone --env SEEKSTONE_VAULT=/path/to/vault -- npx -y obsidian-mcp-seekstone
+claude mcp remove seekstone
+claude mcp add seekstone --env SEEKSTONE_VAULT=/path/to/vault -- npx -y seekstone
 ```
 
-## Tools
+**Guided setup** (auto-detects your vault, patches your client config):
 
-8 tools over stdio: `search`, `read_note`, `list_notes`, `create_note`, `delete_note`, `move_note`, `append_note`, `patch_frontmatter`.
+```bash
+npx -y seekstone init
+```
 
-## Configuration
+## What is Seekstone?
 
-| Variable | Required | Description |
-|---|---|---|
-| `SEEKSTONE_VAULT` | Yes | Absolute path to your Obsidian vault. |
-| `SEEKSTONE_LOG_LEVEL` | No | `error` \| `warn` \| `info` (default) \| `debug`. |
-| `SEEKSTONE_WATCH_POLL` | No | Set to `1` for network drives / WSL. |
+The fastest Obsidian MCP server for Claude — it reads your vault **directly from disk**, no Obsidian app, no plugins, no network calls. 16 tools over stdio: search (ranked excerpts, not full notes), reads, writes, link navigation, and structural ops. macOS, Linux, and Windows (Node.js ≥ 22).
 
-Works on macOS, Linux, and Windows (Node.js ≥ 22).
+Everything lives at:
 
-## Source & docs
-
-Everything is in [shaqmughal/seekstone](https://github.com/shaqmughal/seekstone). Issues, PRs, and docs live there.
+- npm: [`seekstone`](https://www.npmjs.com/package/seekstone)
+- Website: [seekstone.dev](https://seekstone.dev)
+- GitHub: [shaqmughal/seekstone](https://github.com/shaqmughal/seekstone)
 
 ## License
 
