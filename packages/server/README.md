@@ -8,6 +8,8 @@ It reads your vault **directly from disk** instead of routing through the Obsidi
 
 (Previously also published as `obsidian-mcp-seekstone` — that alias is deprecated; existing installs keep working, but install `seekstone` going forward.)
 
+[![Install in Claude Desktop](https://img.shields.io/badge/Install_in-Claude_Desktop-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/shaqmughal/seekstone/releases/latest/download/seekstone.mcpb) [![Install in Cursor](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/install-mcp?name=seekstone&config=eyJjb21tYW5kIjoibnB4IiwiYXJncyI6WyIteSIsInNlZWtzdG9uZSJdLCJlbnYiOnsiU0VFS1NUT05FX1ZBVUxUIjoiL2Fic29sdXRlL3BhdGgvdG8veW91ci92YXVsdCJ9fQ%3D%3D) [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Server-0098FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect?url=vscode:mcp/install?%7B%22name%22%3A%22seekstone%22%2C%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22seekstone%22%5D%2C%22env%22%3A%7B%22SEEKSTONE_VAULT%22%3A%22%2Fabsolute%2Fpath%2Fto%2Fyour%2Fvault%22%7D%7D)
+
 ---
 
 ## Install
@@ -66,11 +68,23 @@ claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- n
 
 ### Option 5 — Cursor
 
+One-click via the [Install in Cursor](https://cursor.com/install-mcp?name=seekstone&config=eyJjb21tYW5kIjoibnB4IiwiYXJncyI6WyIteSIsInNlZWtzdG9uZSJdLCJlbnYiOnsiU0VFS1NUT05FX1ZBVUxUIjoiL2Fic29sdXRlL3BhdGgvdG8veW91ci92YXVsdCJ9fQ%3D%3D) link above (then set `SEEKSTONE_VAULT` to your vault path), or let the CLI auto-detect your vault:
+
 ```bash
 npx -y seekstone init --client cursor --write
 ```
 
-Or add the Option 3 JSON block to `~/.cursor/mcp.json`. Other MCP clients (VS Code, Windsurf, Cline, …) take the same block in their own MCP config file.
+Or add the Option 3 JSON block to `~/.cursor/mcp.json`.
+
+### Option 6 — VS Code
+
+One-click via the [Install in VS Code](https://vscode.dev/redirect?url=vscode:mcp/install?%7B%22name%22%3A%22seekstone%22%2C%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22seekstone%22%5D%2C%22env%22%3A%7B%22SEEKSTONE_VAULT%22%3A%22%2Fabsolute%2Fpath%2Fto%2Fyour%2Fvault%22%7D%7D) link above (then set `SEEKSTONE_VAULT` to your vault path), or from the terminal:
+
+```bash
+code --add-mcp '{"name":"seekstone","command":"npx","args":["-y","seekstone"],"env":{"SEEKSTONE_VAULT":"/absolute/path/to/your/vault"}}'
+```
+
+Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their own MCP config file.
 
 ---
 
