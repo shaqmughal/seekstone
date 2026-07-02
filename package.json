@@ -19,6 +19,7 @@
     "harness": "npm run -w @seekstone/harness start --",
     "build:mcpb": "node scripts/build-mcpb.mjs",
     "smoke": "node scripts/smoke-install.mjs",
+    "conformance": "node scripts/mcp-conformance.mjs",
     "check:registries": "node scripts/check-registries-tools.mjs",
     "version-packages": "changeset version && node scripts/sync-server-json.mjs && biome format --write .",
     "release": "changeset publish"

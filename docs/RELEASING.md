@@ -18,9 +18,11 @@ Re-running a release for an already-published version is a no-op, so the workflo
 
 ## Gates (must pass before publish)
 
-The `Release` workflow runs typecheck → `npm test` → `npm run lint` → **`npm run smoke`** before the publish step. `smoke` packs the tarball, installs it into a throwaway project, and boots the `seekstone` bin to confirm `npx seekstone` works for a real user. A failure at any gate blocks the publish.
+The `Release` workflow runs typecheck → `npm test` → `npm run lint` → **`npm run smoke`** → **`npm run conformance`** before the publish step. `smoke` packs the tarball, installs it into a throwaway project, and boots the `seekstone` bin to confirm `npx seekstone` works for a real user. `conformance` drives the built server with the MCP SDK reference client — handshake, exact tool surface, and a search + append round-trip — so a protocol regression can't ship (see `docs/CLIENT-TESTING.md`). A failure at any gate blocks the publish.
 
 CI (the `CI` workflow) additionally enforces a **coverage gate** on the server's logic modules (thresholds in `packages/server/vitest.config.ts`).
+
+**Manual gate for tool-schema changes:** `scripts/claude-code-e2e.sh` runs a real headless Claude Code session against the packed tarball and asserts a model-driven `search` retrieves seeded vault content. Run it before releases that change tool names or input schemas (needs an authenticated `claude` CLI; spends a few tokens).
 
 ## One-time repo setting
 
