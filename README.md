@@ -155,6 +155,32 @@ Or manually, if you prefer to specify the vault path explicitly:
 claude mcp add seekstone --env SEEKSTONE_VAULT=/absolute/path/to/your/vault -- npx -y seekstone
 ```
 
+### Option 5 — Cursor
+
+Auto-detects your vault and patches `~/.cursor/mcp.json` (with a backup):
+
+```bash
+npx -y seekstone init --client cursor --write
+```
+
+Or add the block manually to `~/.cursor/mcp.json` (global) or `<project>/.cursor/mcp.json` (per-project):
+
+```json
+{
+  "mcpServers": {
+    "seekstone": {
+      "command": "npx",
+      "args": ["-y", "seekstone"],
+      "env": { "SEEKSTONE_VAULT": "/absolute/path/to/your/vault" }
+    }
+  }
+}
+```
+
+### Other MCP clients (VS Code, Windsurf, Cline, …)
+
+Seekstone is a standard MCP stdio server — any MCP client can run it. Use the same JSON block as above in your client's MCP config (`command: npx`, `args: ["-y", "seekstone"]`, env `SEEKSTONE_VAULT`).
+
 ---
 
 After installing, restart the client. On startup Seekstone walks the vault, builds an in-memory full-text index (a few seconds for thousands of notes), and keeps it live as you edit. The 16 tools below are then available to Claude.

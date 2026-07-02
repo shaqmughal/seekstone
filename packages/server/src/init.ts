@@ -9,8 +9,9 @@ import path, { dirname, join } from 'node:path';
 
 /**
  * `seekstone init` — a guided setup helper. Validates an Obsidian vault and
- * prints (or, with --write, patches) the Claude MCP config so a user doesn't
- * have to hand-edit JSON or guess paths.
+ * prints (or, with --write, patches) the MCP config for the chosen client
+ * (Claude Desktop, Claude Code, Cursor) so a user doesn't have to hand-edit
+ * JSON or guess paths.
  *
  * The pure helpers (arg parsing, config-path resolution, additive merge,
  * command string) are exported and unit-tested. `runInit` wires them to the
@@ -20,7 +21,7 @@ import path, { dirname, join } from 'node:path';
 export interface InitOptions {
   vault?: string;
   write: boolean;
-  client: 'desktop' | 'code';
+  client: 'desktop' | 'code' | 'cursor';
 }
 
 export function parseInitArgs(argv: readonly string[]): InitOptions {
@@ -32,7 +33,7 @@ export function parseInitArgs(argv: readonly string[]): InitOptions {
     else if (a === '--vault') opts.vault = argv[++i];
     else if (a === '--client') {
       const v = argv[++i];
-      if (v === 'desktop' || v === 'code') opts.client = v;
+      if (v === 'desktop' || v === 'code' || v === 'cursor') opts.client = v;
     }
   }
   return opts;
@@ -79,6 +80,16 @@ export function claudeDesktopConfigPath(
   }
   // Linux / other
   return j(home, '.config', 'Claude', 'claude_desktop_config.json');
+}
+
+/**
+ * Resolve Cursor's global MCP config path for a platform. Cursor reads
+ * `~/.cursor/mcp.json` on every OS (home-relative, no APPDATA) and uses the
+ * same `mcpServers` shape as Claude Desktop. Pure, like claudeDesktopConfigPath.
+ */
+export function cursorConfigPath(platform: NodeJS.Platform, env: { home?: string }): string {
+  const j = platform === 'win32' ? path.win32.join : path.posix.join;
+  return j(env.home ?? '', '.cursor', 'mcp.json');
 }
 
 /**
@@ -339,11 +350,16 @@ export async function runInit(
     return { ok: true, exitCode: 0, output: out };
   }
 
-  // Claude Desktop
-  const configPath = claudeDesktopConfigPath(deps.platform, {
-    home: deps.env.HOME,
-    appData: deps.env.APPDATA,
-  });
+  // File-config clients: Claude Desktop and Cursor share the same
+  // `mcpServers` JSON shape; only the config path and the restart hint differ.
+  const clientLabel = opts.client === 'cursor' ? 'Cursor' : 'Claude Desktop';
+  const configPath =
+    opts.client === 'cursor'
+      ? cursorConfigPath(deps.platform, { home: deps.env.HOME })
+      : claudeDesktopConfigPath(deps.platform, {
+          home: deps.env.HOME,
+          appData: deps.env.APPDATA,
+        });
   const block = JSON.stringify(
     { mcpServers: { seekstone: seekstoneServerConfig(vaultPath) } },
     null,
@@ -352,12 +368,12 @@ export async function runInit(
 
   if (!opts.write) {
     out.push(
-      'Add this to your Claude Desktop config:',
+      `Add this to your ${clientLabel} config:`,
       `  ${configPath}`,
       '',
       block,
       '',
-      'Then restart Claude Desktop. Or re-run with --write to patch it automatically.',
+      `Then restart ${clientLabel}. Or re-run with --write to patch it automatically.`,
     );
     return { ok: true, exitCode: 0, output: out };
   }
@@ -396,7 +412,7 @@ export async function runInit(
     `✓ Patched ${configPath}`,
     backupPath ? `  Backup saved to ${backupPath}` : '  (created a new config file)',
     '',
-    'Restart Claude Desktop to load seekstone.',
+    `Restart ${clientLabel} to load seekstone.`,
   );
   return { ok: true, exitCode: 0, output: out, wrotePath: configPath, backupPath };
 }

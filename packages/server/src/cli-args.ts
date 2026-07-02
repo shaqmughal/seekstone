@@ -21,18 +21,18 @@ export function helpText(version: string): string {
   return `seekstone ${version} — an Obsidian MCP server (filesystem-direct, low context-tax)
 
 Seekstone runs as a Model Context Protocol stdio server. It is normally
-launched by an MCP client (Claude Desktop, Claude Code), not run by hand.
+launched by an MCP client (Claude Desktop, Claude Code, Cursor, …), not run by hand.
 
 Usage:
   seekstone            Start the MCP server (reads from stdin/stdout)
-  seekstone init       Validate a vault and print/patch the Claude config
+  seekstone init       Validate a vault and print/patch the client MCP config
   seekstone --version  Print the version and exit
   seekstone --help     Print this help and exit
 
 "seekstone init" options:
   --vault <path>       Vault to use (auto-detected from Obsidian if omitted; fallback: $SEEKSTONE_VAULT)
-  --client <name>      desktop (default) | code
-  --write              Patch the Claude Desktop config in place (backs it up first)
+  --client <name>      desktop (default) | code | cursor
+  --write              Patch the client config in place (backs it up first)
 
 Required environment:
   SEEKSTONE_VAULT      Absolute path to your Obsidian vault
