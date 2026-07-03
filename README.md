@@ -5,8 +5,8 @@
   </picture>
 </p>
 
-<p align="center"><strong>The fastest Obsidian MCP server for Claude — search and edit your vault in milliseconds, without burning context.</strong></p>
-<p align="center"><em>Filesystem-direct · 16 tools · No plugins · No Obsidian app required · macOS · Linux · Windows</em></p>
+<p align="center"><strong>The Obsidian MCP server that needs no plugin, no running Obsidian app — and doesn't blow your context window.</strong></p>
+<p align="center"><em>Filesystem-direct · single-digit-ms search · ~2 KB payloads · 16 tools · macOS · Linux · Windows</em></p>
 
 <p align="center"><a href="https://seekstone.dev"><strong>seekstone.dev →</strong></a></p>
 
@@ -32,6 +32,17 @@
   <a href="https://glama.ai/mcp/servers/shaqmughal/seekstone"><img src="https://glama.ai/mcp/servers/shaqmughal/seekstone/badges/score.svg" alt="shaqmughal/seekstone MCP server" /></a>
   <a href="https://buymeacoffee.com/shaqmughal"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%98%95-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
 </p>
+
+---
+
+|  | **Seekstone** | [obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) (#1 by downloads) | REST-proxy servers |
+|---|---|---|---|
+| Local REST API plugin | **Not needed** | Required | Required |
+| Obsidian app running | **Not needed — works with Obsidian closed** | Required | Required |
+| Search payload @ 10k notes | **2.0 KB** | 47 KB | up to **95 MB** |
+| Warm search latency @ 10k notes | **6.2 ms** | 732 ms (~118× slower) | up to 1,550 ms |
+
+<sup>Same queries, same committed vaults, 20 runs each — [full results across six servers and three vault sizes below](#why-seekstone-the-numbers), fully reproducible from the [harness](packages/harness).</sup>
 
 ---
 
