@@ -41,6 +41,7 @@
 | Obsidian app running | **Not needed — works with Obsidian closed** | Required | Required |
 | Search payload @ 10k notes | **2.0 KB** | 47 KB | up to **95 MB** |
 | Warm search latency @ 10k notes | **6.2 ms** | 732 ms (~118× slower) | up to 1,550 ms |
+| Structured frontmatter queries | **Built-in (`query_notes`) — property/date/size predicates, ~350 B answers** | JSONLogic via REST | Varies |
 
 <sup>Same queries, same committed vaults, 20 runs each — [full results across six servers and three vault sizes below](#why-seekstone-the-numbers), fully reproducible from the [harness](packages/harness).</sup>
 
@@ -54,6 +55,8 @@ It reads your vault **directly from disk** rather than routing through the Obsid
 
 - **Speed.** Searches return in **single-digit milliseconds** warm — up to **~200× faster** than every other Obsidian MCP server we benchmarked, because there's no subprocess to spawn and no HTTP round-trip per query.
 - **Context.** A broad search that returns **tens of megabytes** and millions of tokens via a REST-proxy server returns **~3 KB** via Seekstone — a **1,000–30,000× reduction** that only widens as your vault grows.
+
+Search comes in two modes: ranked **full-text search** (fuzzy, prefix, phrase), and **structured metadata queries** — `query_notes` filters by frontmatter properties (`status`, `due`, `type`, …), tags, folder, modified time, and size, answering questions like *"which draft notes changed this week?"* in a few hundred bytes instead of a search-and-read loop.
 
 Claude can search and read your entire note library, in milliseconds, without burning most of its context window on a single tool call.
 
