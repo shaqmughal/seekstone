@@ -1,5 +1,12 @@
 # seekstone
 
+## 0.8.0
+
+### Minor Changes
+
+- 0bb43fc: `seekstone init --client cursor` — auto-detect your vault and print or (with `--write`) patch `~/.cursor/mcp.json`, with the same additive merge + backup behavior as the Claude Desktop writer. Cursor joins Claude Desktop and Claude Code as a first-class documented client.
+- 04271ed: New `query_notes` tool — a second search mode alongside full-text `search`. Filter notes by frontmatter key/value predicates (`eq`, `ne`, `contains`, `exists`, `missing`, `gt`/`gte`/`lt`/`lte`), tag, folder, modified time, and size, with sort, field selection, and limit. Returns compact rows (path + title by default; opt into frontmatter keys or `mtime`/`size`/`tags` via `select`) — never note content — so a full 10k-note vault scan costs ~350 bytes of context.
+
 ## 0.7.2
 
 ### Patch Changes
