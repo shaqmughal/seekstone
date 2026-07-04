@@ -7,12 +7,15 @@ import {
   cursorConfigPath,
   mcpAddCommand,
   mergeSeekstoneConfig,
+  mergeSeekstoneConfigVsCode,
   obsidianRegistryPath,
   parseInitArgs,
   parseObsidianVaults,
   runInit,
   seekstoneServerConfig,
   validateVault,
+  vscodeMcpConfigPath,
+  vscodeServerConfig,
 } from './init.js';
 
 describe('parseInitArgs', () => {
@@ -28,6 +31,9 @@ describe('parseInitArgs', () => {
   });
   it('parses --client cursor', () => {
     expect(parseInitArgs(['--client', 'cursor']).client).toBe('cursor');
+  });
+  it('parses --client vscode', () => {
+    expect(parseInitArgs(['--client', 'vscode']).client).toBe('vscode');
   });
   it('ignores an invalid --client value (keeps default)', () => {
     expect(parseInitArgs(['--client', 'nonsense']).client).toBe('desktop');
@@ -102,6 +108,44 @@ describe('mergeSeekstoneConfig', () => {
   it('is idempotent', () => {
     const once = mergeSeekstoneConfig(null, '/v');
     const twice = mergeSeekstoneConfig(once, '/v');
+    expect(twice).toEqual(once);
+  });
+});
+
+describe('vscodeMcpConfigPath', () => {
+  it('resolves .vscode/mcp.json under the given cwd', () => {
+    expect(vscodeMcpConfigPath('/repo')).toBe(join('/repo', '.vscode', 'mcp.json'));
+  });
+});
+
+describe('mergeSeekstoneConfigVsCode', () => {
+  it('creates the servers block with an explicit stdio type on a fresh config', () => {
+    const merged = mergeSeekstoneConfigVsCode(null, '/v');
+    expect(merged.servers?.seekstone).toEqual({
+      type: 'stdio',
+      command: 'npx',
+      args: ['-y', 'seekstone'],
+      env: { SEEKSTONE_VAULT: '/v' },
+    });
+  });
+  it('preserves other servers and unrelated top-level keys', () => {
+    const existing = {
+      servers: { other: { type: 'stdio', command: 'x' } },
+      inputs: [{ id: 'token' }],
+    };
+    const merged = mergeSeekstoneConfigVsCode(existing, '/v');
+    expect(merged.servers?.other).toEqual({ type: 'stdio', command: 'x' });
+    expect(merged.inputs).toEqual([{ id: 'token' }]);
+    expect(merged.servers?.seekstone).toEqual(vscodeServerConfig('/v'));
+  });
+  it('does not mutate the input', () => {
+    const existing = { servers: { other: { command: 'x' } } };
+    mergeSeekstoneConfigVsCode(existing, '/v');
+    expect(existing.servers).toEqual({ other: { command: 'x' } });
+  });
+  it('is idempotent', () => {
+    const once = mergeSeekstoneConfigVsCode(null, '/v');
+    const twice = mergeSeekstoneConfigVsCode(once, '/v');
     expect(twice).toEqual(once);
   });
 });
@@ -282,6 +326,67 @@ describe('runInit', () => {
     const written = JSON.parse(await readFile(cfgPath, 'utf8'));
     expect(written.mcpServers.other).toEqual({ command: 'x' });
     expect(written.mcpServers.seekstone).toBeDefined();
+  });
+
+  it('prints the config block (no write) for vscode with the servers key and stdio type', async () => {
+    const res = await runInit({ vault, write: false, client: 'vscode' }, { ...deps(), cwd: dir });
+    expect(res.exitCode).toBe(0);
+    expect(res.wrotePath).toBeUndefined();
+    const text = res.output.join('\n');
+    expect(text).toContain('VS Code (GitHub Copilot) config');
+    expect(text).toContain(vscodeMcpConfigPath(dir));
+    expect(text).toContain('"servers"');
+    expect(text).toContain('"type": "stdio"');
+    expect(text).not.toContain('mcpServers');
+  });
+
+  it('--write --client vscode creates .vscode/mcp.json under cwd', async () => {
+    const res = await runInit({ vault, write: true, client: 'vscode' }, { ...deps(), cwd: dir });
+    expect(res.exitCode).toBe(0);
+    expect(res.wrotePath).toBe(vscodeMcpConfigPath(dir));
+    expect(res.backupPath).toBeUndefined();
+    const written = JSON.parse(await readFile(res.wrotePath as string, 'utf8'));
+    expect(written.servers.seekstone).toEqual(vscodeServerConfig(vault));
+    expect(written.mcpServers).toBeUndefined();
+    expect(res.output.join('\n')).toContain('Agent mode');
+  });
+
+  it('--write --client vscode merges into an existing mcp.json and backs it up', async () => {
+    const cfgPath = vscodeMcpConfigPath(dir);
+    await mkdir(join(dir, '.vscode'), { recursive: true });
+    await writeFile(
+      cfgPath,
+      JSON.stringify({ servers: { other: { type: 'stdio', command: 'x' } } }, null, 2),
+    );
+
+    const res = await runInit({ vault, write: true, client: 'vscode' }, { ...deps(), cwd: dir });
+    expect(res.exitCode).toBe(0);
+    expect(res.backupPath).toBeDefined();
+    const written = JSON.parse(await readFile(cfgPath, 'utf8'));
+    expect(written.servers.other).toEqual({ type: 'stdio', command: 'x' });
+    expect(written.servers.seekstone).toEqual(vscodeServerConfig(vault));
+  });
+
+  it('--write --client vscode refuses to modify a malformed mcp.json', async () => {
+    const cfgPath = vscodeMcpConfigPath(dir);
+    await mkdir(join(dir, '.vscode'), { recursive: true });
+    await writeFile(cfgPath, '{ not json');
+
+    const res = await runInit({ vault, write: true, client: 'vscode' }, { ...deps(), cwd: dir });
+    expect(res.exitCode).toBe(1);
+    expect(res.output.join('\n')).toContain('not valid JSON');
+    expect(await readFile(cfgPath, 'utf8')).toBe('{ not json');
+  });
+
+  it('resolves a relative --vault against cwd before writing config', async () => {
+    const res = await runInit(
+      { vault: 'vault', write: true, client: 'vscode' },
+      { ...deps(), cwd: dir },
+    );
+    expect(res.exitCode).toBe(0);
+    const written = JSON.parse(await readFile(res.wrotePath as string, 'utf8'));
+    // The absolute vault path, not the relative one the user typed.
+    expect(written.servers.seekstone.env.SEEKSTONE_VAULT).toBe(vault);
   });
 
   it('--write --client code calls spawnClaudeMcp with correct args', async () => {

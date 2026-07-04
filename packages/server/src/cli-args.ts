@@ -31,7 +31,7 @@ Usage:
 
 "seekstone init" options:
   --vault <path>       Vault to use (auto-detected from Obsidian if omitted; fallback: $SEEKSTONE_VAULT)
-  --client <name>      desktop (default) | code | cursor
+  --client <name>      desktop (default) | code | cursor | vscode
   --write              Patch the client config in place (backs it up first)
 
 Required environment:
