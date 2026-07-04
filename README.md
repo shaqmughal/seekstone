@@ -47,6 +47,12 @@
 
 ---
 
+<p align="center">
+  <img src="docs/demo.gif" alt="Seekstone demo — Claude searching an Obsidian vault and querying frontmatter, with tool-call waits time-lapsed" width="700" />
+</p>
+
+---
+
 ## What is Seekstone?
 
 **Seekstone is an Obsidian MCP server** — it gives Claude (and any [Model Context Protocol](https://modelcontextprotocol.io) client) direct read and write access to your Obsidian vault. No Obsidian app needs to be open, no plugins are required, and nothing leaves your machine.
