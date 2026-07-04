@@ -57,6 +57,7 @@ export async function buildIndex(vaultRoot: string): Promise<BuildResult> {
           body: fm.body,
           tags: allTags.join(' '),
           fmKeys: fm.keys.join(' '),
+          fm: fm.data,
           raw,
           sizeBytes: entry.sizeBytes,
           mtimeMs: entry.mtimeMs,

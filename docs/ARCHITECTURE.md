@@ -167,7 +167,7 @@ sequenceDiagram
 ```
 
 `ListToolsRequest` is answered directly from the bootstrap's static schema list
-(the 16 tools). On error, `dispatch()` catches and returns
+(the 17 tools). On error, `dispatch()` catches and returns
 `{ isError: true, content: [...] }` rather than throwing — the session stays
 alive.
 
@@ -294,11 +294,12 @@ are the receipts.
 
 ---
 
-## The 16 tools
+## The 17 tools
 
 | Tool | Kind | Purpose |
 | --- | --- | --- |
 | `search` | read | Ranked full-text search; returns ~200-char excerpts, not full notes |
+| `query_notes` | read | Structured metadata query: frontmatter predicates + mtime/size/tag/folder filters; compact rows, no note content |
 | `read_note` | read | Read a note (with optional outline/frontmatter metadata) |
 | `list_notes` | read | Enumerate notes, optionally by folder |
 | `list_tags` | read | All tags with usage counts |

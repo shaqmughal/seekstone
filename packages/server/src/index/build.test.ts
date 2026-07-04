@@ -59,6 +59,21 @@ describe('buildIndex', () => {
     expect(note?.fmKeys).toContain('author');
   });
 
+  it('note with frontmatter: parsed values stored on fm', async () => {
+    const { notes } = await buildIndex(vaultRoot);
+    const note = notes.get('with-fm.md');
+    expect(note?.fm).toEqual({
+      title: 'Frontmatter Note',
+      tags: ['alpha', 'beta'],
+      author: 'Bob',
+    });
+  });
+
+  it('note without frontmatter: fm is null', async () => {
+    const { notes } = await buildIndex(vaultRoot);
+    expect(notes.get('plain.md')?.fm).toBeNull();
+  });
+
   it('note without frontmatter: title falls back to filename without .md', async () => {
     const { notes } = await buildIndex(vaultRoot);
     const note = notes.get('plain.md');

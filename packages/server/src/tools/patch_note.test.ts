@@ -314,6 +314,7 @@ describe('patchNote — cache + safety', () => {
       body: '',
       tags: '',
       fmKeys: 'title tags',
+      fm: null,
       raw: NOTE,
       sizeBytes: Buffer.byteLength(NOTE, 'utf8'),
       mtimeMs: Date.now(),

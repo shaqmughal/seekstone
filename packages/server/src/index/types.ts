@@ -9,6 +9,8 @@ export interface IndexedNote {
   tags: string;
   /** Frontmatter keys joined with space — makes keys searchable. */
   fmKeys: string;
+  /** Parsed frontmatter values for structured queries. Null when absent or malformed. */
+  fm: Record<string, unknown> | null;
   /** Raw full text (FM + body) for excerpt extraction after a hit. */
   raw: string;
   sizeBytes: number;

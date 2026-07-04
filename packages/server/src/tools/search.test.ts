@@ -12,6 +12,7 @@ function buildCtx(
     body: string;
     tags?: string;
     fmKeys?: string;
+    fm?: Record<string, unknown> | null;
     raw?: string;
   }>,
 ): ServerContext {
@@ -28,6 +29,7 @@ function buildCtx(
     body: n.body,
     tags: n.tags ?? '',
     fmKeys: n.fmKeys ?? '',
+    fm: n.fm ?? null,
     raw: n.raw ?? n.body,
     sizeBytes: Buffer.byteLength(n.raw ?? n.body, 'utf8'),
     mtimeMs: Date.now(),

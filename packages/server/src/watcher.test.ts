@@ -82,6 +82,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
       body: 'will be deleted',
       tags: '',
       fmKeys: '',
+      fm: null,
       raw: 'will be deleted',
       sizeBytes: 15,
       mtimeMs: Date.now(),

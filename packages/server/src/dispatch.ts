@@ -17,6 +17,7 @@ import {
   GetPeriodicNoteInput,
   getPeriodicNote,
 } from './tools/periodic_note.js';
+import { QueryNotesInput, queryNotes } from './tools/query_notes.js';
 import { ReadNoteInput, readNote } from './tools/read_note.js';
 import { ReplaceInNoteInput, replaceInNote } from './tools/replace_in_note.js';
 import { SearchInput, search } from './tools/search.js';
@@ -29,6 +30,7 @@ export type ToolResult = {
 /** Tool names this dispatcher handles — kept in sync with the server's tool list. */
 export const HANDLED_TOOLS = [
   'search',
+  'query_notes',
   'read_note',
   'list_notes',
   'list_tags',
@@ -60,6 +62,12 @@ const META_KEYS = [
   'pattern',
   'minCount',
   'sort',
+  'order',
+  'select',
+  'modifiedAfter',
+  'modifiedBefore',
+  'minSizeBytes',
+  'maxSizeBytes',
   'period',
   'date',
 ] as const;
@@ -72,6 +80,7 @@ function safeMeta(args: unknown): Record<string, unknown> {
     if (a[k] !== undefined) out[k] = a[k];
   }
   if (typeof a.query === 'string') out.queryLen = a.query.length; // not the query itself
+  if (Array.isArray(a.where)) out.whereCount = a.where.length; // predicate values may be personal
   return out;
 }
 
@@ -120,6 +129,12 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
       const input = SearchInput.parse(args);
       const hits = search(ctx, input);
       // Minified: search is the headline context-tax metric — indentation is pure tax.
+      return { content: [{ type: 'text', text: JSON.stringify(hits) }] };
+    }
+    case 'query_notes': {
+      const input = QueryNotesInput.parse(args);
+      const hits = queryNotes(ctx, input);
+      // Minified like search — a second search mode, same context-tax discipline.
       return { content: [{ type: 'text', text: JSON.stringify(hits) }] };
     }
     case 'read_note': {

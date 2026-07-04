@@ -17,6 +17,7 @@ export function buildDoc(relPath: string, raw: string): IndexedNote {
     body: fm.body,
     tags: allTags.join(' '),
     fmKeys: fm.keys.join(' '),
+    fm: fm.data,
     raw,
     sizeBytes: Buffer.byteLength(raw, 'utf8'),
     mtimeMs: Date.now(),
