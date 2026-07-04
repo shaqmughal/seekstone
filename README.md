@@ -203,11 +203,34 @@ Or add the block manually to `~/.cursor/mcp.json` (global) or `<project>/.cursor
 
 One-click: <a href="https://vscode.dev/redirect?url=vscode:mcp/install?%7B%22name%22%3A%22seekstone%22%2C%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22seekstone%22%5D%2C%22env%22%3A%7B%22SEEKSTONE_VAULT%22%3A%22%2Fabsolute%2Fpath%2Fto%2Fyour%2Fvault%22%7D%7D"><img src="https://img.shields.io/badge/VS_Code-Install_Server-0098FF?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="Install in VS Code" align="top" /></a> — then set `SEEKSTONE_VAULT` to your vault's absolute path when VS Code opens the server config (the link installs a placeholder).
 
+Or let the CLI auto-detect your vault and write the workspace config (`.vscode/mcp.json` in the current directory):
+
+```bash
+npx -y seekstone init --client vscode --write
+```
+
 Or add it from the terminal:
 
 ```bash
 code --add-mcp '{"name":"seekstone","command":"npx","args":["-y","seekstone"],"env":{"SEEKSTONE_VAULT":"/absolute/path/to/your/vault"}}'
 ```
+
+Or add the block manually to `.vscode/mcp.json` (workspace) or via Command Palette → *MCP: Open User Configuration* (user-global). Note VS Code's two quirks: the top-level key is `servers` (not `mcpServers`), and `"type": "stdio"` is required:
+
+```json
+{
+  "servers": {
+    "seekstone": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "seekstone"],
+      "env": { "SEEKSTONE_VAULT": "/absolute/path/to/your/vault" }
+    }
+  }
+}
+```
+
+Requires VS Code 1.102+; seekstone appears in Copilot Chat's **Agent mode** tools picker.
 
 ### Other MCP clients (Windsurf, Cline, …)
 

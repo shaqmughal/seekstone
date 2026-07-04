@@ -35,6 +35,7 @@ if (intent === 'init') {
     env: process.env,
     platform: process.platform,
     timestamp: new Date().toISOString().replace(/[:.]/g, '-'),
+    cwd: process.cwd(),
   });
   process.stdout.write(`${result.output.join('\n')}\n`);
   process.exit(result.exitCode);

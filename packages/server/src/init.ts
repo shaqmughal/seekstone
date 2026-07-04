@@ -21,7 +21,7 @@ import path, { dirname, join } from 'node:path';
 export interface InitOptions {
   vault?: string;
   write: boolean;
-  client: 'desktop' | 'code' | 'cursor';
+  client: 'desktop' | 'code' | 'cursor' | 'vscode';
 }
 
 export function parseInitArgs(argv: readonly string[]): InitOptions {
@@ -33,7 +33,7 @@ export function parseInitArgs(argv: readonly string[]): InitOptions {
     else if (a === '--vault') opts.vault = argv[++i];
     else if (a === '--client') {
       const v = argv[++i];
-      if (v === 'desktop' || v === 'code' || v === 'cursor') opts.client = v;
+      if (v === 'desktop' || v === 'code' || v === 'cursor' || v === 'vscode') opts.client = v;
     }
   }
   return opts;
@@ -90,6 +90,18 @@ export function claudeDesktopConfigPath(
 export function cursorConfigPath(platform: NodeJS.Platform, env: { home?: string }): string {
   const j = platform === 'win32' ? path.win32.join : path.posix.join;
   return j(env.home ?? '', '.cursor', 'mcp.json');
+}
+
+/**
+ * VS Code (GitHub Copilot) workspace MCP config: `.vscode/mcp.json` under the
+ * given working directory. Workspace-level on purpose — the user-global config
+ * has no stable documented path (VS Code's "MCP: Open User Configuration"
+ * command owns it), and workspace config takes precedence anyway. Host path
+ * semantics (unlike the other path helpers) because it resolves the *real*
+ * cwd of the running process, not a target-platform location.
+ */
+export function vscodeMcpConfigPath(cwd: string): string {
+  return join(cwd, '.vscode', 'mcp.json');
 }
 
 /**
@@ -158,6 +170,33 @@ export function mergeSeekstoneConfig(existing: McpConfig | null, vaultPath: stri
   const servers = { ...(base.mcpServers ?? {}) };
   servers.seekstone = seekstoneServerConfig(vaultPath);
   return { ...base, mcpServers: servers };
+}
+
+type VsCodeMcpConfig = { servers?: Record<string, unknown> } & Record<string, unknown>;
+
+/** The server entry for VS Code, which requires an explicit `"type": "stdio"`. */
+export function vscodeServerConfig(vaultPath: string): {
+  type: 'stdio';
+  command: string;
+  args: string[];
+  env: Record<string, string>;
+} {
+  return { type: 'stdio', ...seekstoneServerConfig(vaultPath) };
+}
+
+/**
+ * VS Code variant of mergeSeekstoneConfig. Same additive/idempotent contract,
+ * but VS Code's mcp.json is the one client config keyed `"servers"` (not
+ * `"mcpServers"`) and requires `"type": "stdio"` on each entry.
+ */
+export function mergeSeekstoneConfigVsCode(
+  existing: VsCodeMcpConfig | null,
+  vaultPath: string,
+): VsCodeMcpConfig {
+  const base: VsCodeMcpConfig = existing ? structuredClone(existing) : {};
+  const servers = { ...(base.servers ?? {}) };
+  servers.seekstone = vscodeServerConfig(vaultPath);
+  return { ...base, servers };
 }
 
 export interface VaultCheck {
@@ -230,6 +269,8 @@ export async function runInit(
     platform: NodeJS.Platform;
     /** ISO timestamp for the backup filename (injected for determinism in tests). */
     timestamp: string;
+    /** Working directory for workspace-level configs (vscode); defaults to process.cwd(). */
+    cwd?: string;
     /** Injectable for testing; defaults to fs/promises readFile. */
     readFile?: (p: string, enc: 'utf8') => Promise<string>;
     /**
@@ -286,6 +327,11 @@ export async function runInit(
       };
     }
   }
+
+  // Resolve to absolute before validating or writing config: clients spawn the
+  // server from their own working directory, so a relative SEEKSTONE_VAULT in
+  // the written config would silently point at the wrong place.
+  vaultPath = path.resolve(deps.cwd ?? process.cwd(), vaultPath);
 
   const check = await validateVault(vaultPath);
   if (!check.ok) {
@@ -351,29 +397,45 @@ export async function runInit(
   }
 
   // File-config clients: Claude Desktop and Cursor share the same
-  // `mcpServers` JSON shape; only the config path and the restart hint differ.
-  const clientLabel = opts.client === 'cursor' ? 'Cursor' : 'Claude Desktop';
-  const configPath =
+  // `mcpServers` JSON shape; VS Code uses `servers` + explicit `type: stdio`.
+  // Only the config path, JSON shape, and restart hint differ.
+  const clientLabel =
     opts.client === 'cursor'
-      ? cursorConfigPath(deps.platform, { home: deps.env.HOME })
-      : claudeDesktopConfigPath(deps.platform, {
-          home: deps.env.HOME,
-          appData: deps.env.APPDATA,
-        });
-  const block = JSON.stringify(
-    { mcpServers: { seekstone: seekstoneServerConfig(vaultPath) } },
-    null,
-    2,
-  );
+      ? 'Cursor'
+      : opts.client === 'vscode'
+        ? 'VS Code (GitHub Copilot)'
+        : 'Claude Desktop';
+  const configPath =
+    opts.client === 'vscode'
+      ? vscodeMcpConfigPath(deps.cwd ?? process.cwd())
+      : opts.client === 'cursor'
+        ? cursorConfigPath(deps.platform, { home: deps.env.HOME })
+        : claudeDesktopConfigPath(deps.platform, {
+            home: deps.env.HOME,
+            appData: deps.env.APPDATA,
+          });
+  const block =
+    opts.client === 'vscode'
+      ? JSON.stringify({ servers: { seekstone: vscodeServerConfig(vaultPath) } }, null, 2)
+      : JSON.stringify({ mcpServers: { seekstone: seekstoneServerConfig(vaultPath) } }, null, 2);
+  const restartHint =
+    opts.client === 'vscode'
+      ? 'Reload VS Code, then open Copilot Chat in Agent mode — seekstone appears in the tools picker.'
+      : `Restart ${clientLabel} to load seekstone.`;
 
   if (!opts.write) {
     out.push(
       `Add this to your ${clientLabel} config:`,
       `  ${configPath}`,
+      ...(opts.client === 'vscode'
+        ? [
+            '  (workspace config — run from your project root, or use the Command Palette\'s "MCP: Open User Configuration" for user-global)',
+          ]
+        : []),
       '',
       block,
       '',
-      `Then restart ${clientLabel}. Or re-run with --write to patch it automatically.`,
+      `${restartHint} Or re-run with --write to patch it automatically.`,
     );
     return { ok: true, exitCode: 0, output: out };
   }
@@ -399,7 +461,10 @@ export async function runInit(
     existing = null; // file simply doesn't exist yet
   }
 
-  const merged = mergeSeekstoneConfig(existing, vaultPath);
+  const merged =
+    opts.client === 'vscode'
+      ? mergeSeekstoneConfigVsCode(existing, vaultPath)
+      : mergeSeekstoneConfig(existing, vaultPath);
   let backupPath: string | undefined;
   await mkdir(dirname(configPath), { recursive: true });
   if (existingRaw !== null) {
@@ -412,7 +477,7 @@ export async function runInit(
     `✓ Patched ${configPath}`,
     backupPath ? `  Backup saved to ${backupPath}` : '  (created a new config file)',
     '',
-    `Restart ${clientLabel} to load seekstone.`,
+    restartHint,
   );
   return { ok: true, exitCode: 0, output: out, wrotePath: configPath, backupPath };
 }
