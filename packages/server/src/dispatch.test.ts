@@ -103,6 +103,23 @@ describe('dispatch', () => {
     expect(JSON.stringify(ok?.fields ?? {})).not.toContain('confidential-term');
   });
 
+  it('routes query_notes, returns minified JSON, and logs predicate count not values', async () => {
+    const { logger, records } = recordingLogger();
+    const res = await dispatch(
+      ctx,
+      'query_notes',
+      { where: [{ key: 'title', op: 'ne', value: 'secret-value' }] },
+      logger,
+    );
+    expect(res.isError).toBeUndefined();
+    const text = res.content[0]?.text ?? '';
+    expect(JSON.parse(text)).toEqual([{ path: 'note.md', title: 'A' }]);
+    expect(text).not.toContain('\n'); // minified, same context-tax discipline as search
+    const ok = records.find((r) => r.msg === 'tool ok');
+    expect(ok?.fields?.whereCount).toBe(1);
+    expect(JSON.stringify(ok?.fields ?? {})).not.toContain('secret-value');
+  });
+
   it('never writes to stdout while dispatching (protects the stdio transport)', async () => {
     const outSpy = vi.spyOn(process.stdout, 'write').mockReturnValue(true);
     vi.spyOn(process.stderr, 'write').mockReturnValue(true);

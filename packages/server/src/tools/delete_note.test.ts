@@ -27,6 +27,7 @@ function seedNote(relPath: string, raw: string): IndexedNote {
     body: raw,
     tags: '',
     fmKeys: '',
+    fm: null,
     raw,
     sizeBytes: Buffer.byteLength(raw, 'utf8'),
     mtimeMs: Date.now(),

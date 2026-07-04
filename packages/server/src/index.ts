@@ -81,6 +81,66 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
       },
     },
     {
+      name: 'query_notes',
+      description:
+        'Structured metadata query — filter notes by frontmatter key/value predicates, tag, folder, modified time, and size. Returns compact rows (path + title by default; opt into more via select), not note content. Use this instead of search when filtering by properties rather than text.',
+      inputSchema: {
+        type: 'object',
+        properties: {
+          where: {
+            type: 'array',
+            description: 'Frontmatter predicates — all must match (AND).',
+            items: {
+              type: 'object',
+              properties: {
+                key: { type: 'string', description: 'Frontmatter key to test.' },
+                op: {
+                  type: 'string',
+                  enum: ['eq', 'ne', 'contains', 'exists', 'missing', 'gt', 'gte', 'lt', 'lte'],
+                  description:
+                    'eq/ne compare scalars; contains matches array membership or substring; exists/missing test key presence; gt/gte/lt/lte compare numbers or strings (ISO dates sort correctly).',
+                },
+                value: {
+                  description: 'Comparison value. Required for every op except exists/missing.',
+                },
+              },
+              required: ['key', 'op'],
+            },
+          },
+          folder: { type: 'string', description: 'Restrict to a vault-relative folder prefix.' },
+          tag: { type: 'string', description: 'Restrict to notes with this tag (# optional).' },
+          modifiedAfter: {
+            type: 'string',
+            description: 'Only notes modified at or after this ISO 8601 date/time.',
+          },
+          modifiedBefore: {
+            type: 'string',
+            description: 'Only notes modified before this ISO 8601 date/time.',
+          },
+          minSizeBytes: { type: 'number', description: 'Only notes at least this many bytes.' },
+          maxSizeBytes: { type: 'number', description: 'Only notes at most this many bytes.' },
+          select: {
+            type: 'array',
+            items: { type: 'string' },
+            description:
+              'Extra fields per hit: frontmatter keys, or "mtime", "size", "tags". Default returns only path + title.',
+          },
+          sort: {
+            type: 'string',
+            enum: ['path', 'title', 'mtime', 'size'],
+            description: 'Sort field (default path).',
+          },
+          order: {
+            type: 'string',
+            enum: ['asc', 'desc'],
+            description: 'Sort order (default asc).',
+          },
+          limit: { type: 'number', description: 'Max results (1–500, default 100).' },
+        },
+        required: [],
+      },
+    },
+    {
       name: 'read_note',
       description:
         'Read a note or a span of it — by heading section, block reference, or line range. Returns structured JSON with the content, bytes returned, and total note size so payload savings are measurable. Use search or outline_note first to find the right path and section names.',
@@ -425,7 +485,7 @@ server.setRequestHandler(CallToolRequestSchema, async (req): Promise<CallToolRes
 
 const transport = new StdioServerTransport();
 await server.connect(transport);
-log.info('ready', { tools: 16, transport: 'stdio' });
+log.info('ready', { tools: 17, transport: 'stdio' });
 
 process.stderr.write(
   `seekstone: add to Claude Desktop:\n${JSON.stringify(

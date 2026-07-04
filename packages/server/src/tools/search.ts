@@ -30,7 +30,7 @@ export const SearchInput = z.object({
 export type SearchInput = z.infer<typeof SearchInput>;
 
 /** Basename without extension — the title is omitted from a hit when it matches this. */
-function basenameNoExt(path: string): string {
+export function basenameNoExt(path: string): string {
   const base = path.slice(path.lastIndexOf('/') + 1);
   const dot = base.lastIndexOf('.');
   return dot > 0 ? base.slice(0, dot) : base;

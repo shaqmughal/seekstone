@@ -105,6 +105,7 @@ describe('createNote', () => {
       body: 'old content',
       tags: '',
       fmKeys: '',
+      fm: null,
       raw: 'old content',
       sizeBytes: 11,
       mtimeMs: Date.now(),
