@@ -1,1 +1,26 @@
+# PR comments off (SHA-238) — checks stay, noise goes.
 comment: false
+
+# Keep Codecov's patch metric consistent with the repo's own coverage gates:
+# these paths are deliberately excluded from the vitest coverage thresholds
+# (see packages/*/vitest.config.ts for the reasoning per file — bootstrap
+# entries, fs-integration watcher, live-network adapters, corpus fetchers).
+# Without this list, Codecov sees changed lines with no lcov data in these
+# files and fails codecov/patch on PRs that only touch policy-excluded code —
+# a false red first hit by PR #188 (SHA-242).
+ignore:
+  - packages/server/src/index.ts
+  - packages/server/src/context.ts
+  - packages/server/src/index/types.ts
+  - packages/server/src/watcher.ts
+  - packages/harness/src/cli.ts
+  - packages/harness/src/bench/adapters/rest.ts
+  - packages/harness/src/bench/adapters/mcpvault.ts
+  - packages/harness/src/bench/adapters/mcp-obsidian.ts
+  - packages/harness/src/bench/adapters/mcp-subprocess.ts
+  - packages/harness/src/bench/adapters/obsidian-mcp.ts
+  - packages/harness/src/bench/adapters/obsidian-mcp-pro.ts
+  - packages/harness/src/bench/adapters/obsidian-mcp-server.ts
+  - packages/harness/src/fixtures/corpus.ts
+  - packages/harness/src/fixtures/generate.ts
+  - "**/*.test.ts"
