@@ -19,7 +19,13 @@ import type { Logger } from './log.js';
  * resolves once chokidar has finished its initial scan and is live.
  */
 export interface WatcherHandle {
-  stop: () => void;
+  /**
+   * Close the watcher. Returns chokidar's close promise so callers that need
+   * deterministic teardown (tests, especially under usePolling where every
+   * watched path holds a live stat-poll timer) can await full shutdown;
+   * fire-and-forget callers may ignore the result.
+   */
+  stop: () => Promise<void>;
   ready: Promise<void>;
 }
 
@@ -161,7 +167,7 @@ export function startWatcher(
   });
 
   return {
-    stop: () => void watcher.close(),
+    stop: () => watcher.close(),
     ready,
   };
 }
