@@ -3,7 +3,7 @@
   "version": "0.9.0",
   "mcpName": "io.github.shaqmughal/seekstone",
   "type": "module",
-  "description": "Obsidian MCP server for Claude — filesystem-direct vault access, 575× smaller payloads than the REST plugin.",
+  "description": "The Obsidian MCP server that needs no plugin, no running Obsidian app — and doesn't blow your context window. Filesystem-direct: single-digit-ms search, ~2 KB payloads, 17 tools.",
   "keywords": [
     "obsidian",
     "obsidian-mcp",
