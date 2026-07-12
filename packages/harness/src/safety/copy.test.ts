@@ -98,6 +98,28 @@ describe('copyVault', () => {
     }
   });
 
+  it('concurrent default-label copies get distinct destinations (SHA-242 regression)', async () => {
+    // The old default label was `seekstone-safety-${Date.now()}` — millisecond
+    // resolution, so two copies starting in the same ms shared a destination
+    // and one caller's cleanup deleted the other's copy mid-cp (the macOS CI
+    // flake). mkdtemp destinations must never collide, even when started
+    // back-to-back in the same tick.
+    const results = await Promise.all([copyVault(srcDir), copyVault(srcDir), copyVault(srcDir)]);
+    try {
+      const roots = results.map((r) => r.copyRoot);
+      expect(new Set(roots).size).toBe(roots.length);
+      // Each copy is complete and independent: deleting one must not affect
+      // the others' contents.
+      const { readFile } = await import('node:fs/promises');
+      await rm(roots[0] as string, { recursive: true, force: true });
+      for (const root of roots.slice(1)) {
+        expect(await readFile(join(root, 'note.md'), 'utf8')).toContain('Hello world.');
+      }
+    } finally {
+      await Promise.all(results.map((r) => rm(r.copyRoot, { recursive: true, force: true })));
+    }
+  });
+
   it('throws when dest path equals src path', async () => {
     // copyVault compares resolve(tmpdir(), label) to realpath(srcRoot).
     // On macOS, tmpdir() is a symlink (/var → /private/var) so the guard

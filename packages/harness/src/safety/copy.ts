@@ -1,4 +1,4 @@
-import { cp, mkdir, realpath } from 'node:fs/promises';
+import { cp, mkdir, mkdtemp, realpath, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join, resolve, sep } from 'node:path';
 
@@ -40,20 +40,32 @@ export async function copyVault(
   opts: { label?: string } = {},
 ): Promise<CopyResult> {
   const srcAbs = await realpath(resolve(srcRoot));
-  const label = opts.label ?? `seekstone-safety-${Date.now()}`;
   // realpath the tmpdir base so destAbs is the same (long) form as srcAbs.
   // On Windows, os.tmpdir() can return an 8.3 short path (e.g. RUNNER~1);
   // leaving it unresolved makes the dest==src / inside-source guards compare
   // mismatched path forms (so they never fire) and feeds fs.cp a short path it
   // intermittently mis-resolves into a spurious ENOENT. Same root cause as the
   // watcher fix in SHA-144; see SHA-152.
-  const destAbs = resolve(await realpath(tmpdir()), label);
+  const tmpBase = await realpath(tmpdir());
+  // Without an explicit label the destination MUST be created atomically via
+  // mkdtemp, never derived from a timestamp: Date.now() has millisecond
+  // resolution, so two copyVault calls in the same ms (e.g. parallel vitest
+  // workers) would share a destination — mkdir{recursive} merges them silently
+  // and whichever caller cleans up first deletes the other's copy mid-cp,
+  // surfacing as a spurious ENOENT from copyfile (SHA-242).
+  const destAbs = opts.label
+    ? resolve(tmpBase, opts.label)
+    : await mkdtemp(join(tmpBase, 'seekstone-safety-'));
 
-  if (destAbs === srcAbs) {
-    throw new Error(`Refusing to copy: destination equals source (${srcAbs}).`);
-  }
-  if (destAbs.startsWith(`${srcAbs}${sep}`)) {
-    throw new Error(`Refusing to copy: destination is inside source.`);
+  if (destAbs === srcAbs || destAbs.startsWith(`${srcAbs}${sep}`)) {
+    // Remove the scratch dir mkdtemp just created before refusing (labelled
+    // destinations haven't been created yet, so there's nothing to clean).
+    if (!opts.label) await rm(destAbs, { recursive: true, force: true });
+    throw new Error(
+      destAbs === srcAbs
+        ? `Refusing to copy: destination equals source (${srcAbs}).`
+        : `Refusing to copy: destination is inside source.`,
+    );
   }
 
   await mkdir(destAbs, { recursive: true });

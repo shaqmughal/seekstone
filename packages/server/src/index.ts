@@ -60,7 +60,8 @@ log.info('index ready', { notes: notes.size, buildMs });
 const ctx: ServerContext = { vaultRoot, index, notes, backlinks };
 
 const watcher = startWatcher(ctx, log);
-process.on('exit', watcher.stop);
+// Exit handlers must stay synchronous — kick off the close; nothing awaits it.
+process.on('exit', () => void watcher.stop());
 
 const server = new Server({ name: 'seekstone', version: VERSION }, { capabilities: { tools: {} } });
 

@@ -21,12 +21,42 @@ function freshCtx(vaultRoot: string): ServerContext {
   return { vaultRoot, index, notes: new Map(), backlinks: new Map() };
 }
 
-async function waitFor(condition: () => boolean, timeoutMs = 60_000): Promise<void> {
+interface WaitForOpts {
+  timeoutMs?: number;
+  /**
+   * Invoked every ~2s while still waiting. Used by the file-creation tests to
+   * write a new uniquely-named sibling file: under usePolling, chokidar only
+   * rescans a directory when its mtime changes, and NTFS directory mtime
+   * updates on entry create/delete/rename — not on content writes. On slow
+   * Windows runners a single create can slip through a poll tick and stay
+   * invisible forever (the SHA-242 flake, rawEvents=(none) after 60s). Each
+   * nudge adds a fresh directory transition, so the rescan discovers the
+   * missed target. A genuine event-silencing bug (e.g. the SHA-144 8.3-path
+   * regression) still fails: nudges change the directory, but silenced
+   * watchers deliver nothing regardless.
+   */
+  nudge?: () => Promise<void>;
+}
+
+async function waitFor(condition: () => boolean, opts: WaitForOpts = {}): Promise<void> {
+  const timeoutMs = opts.timeoutMs ?? 60_000;
   const deadline = Date.now() + timeoutMs;
+  let ticks = 0;
   while (!condition()) {
     if (Date.now() > deadline) throw new Error('waitFor timeout');
+    ticks += 1;
+    if (opts.nudge && ticks % 100 === 0) await opts.nudge();
     await new Promise((r) => setTimeout(r, 20));
   }
+}
+
+/** Nudge helper: create a new (non-.md, so never indexed) sibling per call. */
+function dirNudger(dir: string): () => Promise<void> {
+  let n = 0;
+  return async () => {
+    n += 1;
+    await writeFile(join(dir, `nudge-${n}.tmp`), String(n), 'utf8');
+  };
 }
 
 beforeEach(async () => {
@@ -53,7 +83,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
         true,
       );
     } finally {
-      stop();
+      await stop();
     }
   });
 
@@ -69,7 +99,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
       );
       expect(ctx.notes.get('watch-mod.md')?.body).toContain('new_unique_modified_xyz');
     } finally {
-      stop();
+      await stop();
     }
   });
 
@@ -97,7 +127,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
       await waitFor(() => !ctx.notes.has('watch-del.md'));
       expect(ctx.notes.has('watch-del.md')).toBe(false);
     } finally {
-      stop();
+      await stop();
     }
   });
 
@@ -117,7 +147,9 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
       await new Promise((r) => setImmediate(r));
       await writeFile(join(tmpDir, 'a', 'b', 'c', 'deep.md'), 'nested_unique_def', 'utf8');
       try {
-        await waitFor(() => ctx.notes.has('a/b/c/deep.md'));
+        await waitFor(() => ctx.notes.has('a/b/c/deep.md'), {
+          nudge: dirNudger(join(tmpDir, 'a', 'b', 'c')),
+        });
       } catch {
         throw new Error(
           `waitFor timeout — diagnostics:\n  platform=${process.platform} sep=${JSON.stringify(sep)}\n  vaultRoot=${tmpDir}\n  ctx.notes keys=[${[...ctx.notes.keys()].join(', ')}]\n  rawEvents(${rawEvents.length}):\n    ${rawEvents.join('\n    ') || '(none)'}`,
@@ -125,7 +157,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
       }
       expect(ctx.notes.get('a/b/c/deep.md')?.body).toContain('nested_unique_def');
     } finally {
-      stop();
+      await stop();
     }
   });
 
@@ -143,7 +175,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
       await new Promise((r) => setImmediate(r));
       await writeFile(join(spaced, 'spaced note.md'), 'spaced_unique_ghi', 'utf8');
       try {
-        await waitFor(() => ctx.notes.has('spaced note.md'));
+        await waitFor(() => ctx.notes.has('spaced note.md'), { nudge: dirNudger(spaced) });
       } catch {
         throw new Error(
           `waitFor timeout — diagnostics:\n  platform=${process.platform} sep=${JSON.stringify(sep)}\n  vaultRoot=${spaced}\n  ctx.notes keys=[${[...ctx.notes.keys()].join(', ')}]\n  rawEvents(${rawEvents.length}):\n    ${rawEvents.join('\n    ') || '(none)'}`,
@@ -151,7 +183,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
       }
       expect(ctx.notes.get('spaced note.md')?.body).toContain('spaced_unique_ghi');
     } finally {
-      stop();
+      await stop();
     }
   });
 
@@ -178,7 +210,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
         events.some((e) => e.msg === 'index updated' && e.fields?.path === 'watch-log.md'),
       ).toBe(true);
     } finally {
-      stop();
+      await stop();
     }
   });
 
@@ -191,15 +223,13 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
       await new Promise((r) => setTimeout(r, 150));
       expect(ctx.notes.size).toBe(0);
     } finally {
-      stop();
+      await stop();
     }
   });
 
-  it('returns a stop function that closes the watcher', () => {
+  it('returns a stop function whose promise resolves once the watcher closes', async () => {
     const ctx = freshCtx(tmpDir);
     const { stop } = startWatcher(ctx, undefined, { usePolling: true });
-    expect(() => {
-      stop();
-    }).not.toThrow();
+    await expect(stop()).resolves.toBeUndefined();
   });
 });
