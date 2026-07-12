@@ -1,5 +1,12 @@
 # seekstone
 
+## 0.9.1
+
+### Patch Changes
+
+- ac99ba5: Watcher teardown is now awaitable: `stop()` returns chokidar's close promise instead of fire-and-forgetting it, so embedders and tests can wait for the watcher (and its polling timers) to fully shut down. Also deflakes CI: the harness's `copyVault` scratch destinations are created atomically with `mkdtemp` (the old millisecond-timestamp naming could collide under parallel test workers), and the watcher tests self-heal missed single-create polling ticks on Windows.
+- a8414b8: npm description now matches the README wedge: no plugin, no running Obsidian app, filesystem-direct with single-digit-ms search and ~2 KB payloads across 17 tools. Replaces the stale pre-benchmark-refresh "575×" phrasing.
+
 ## 0.9.0
 
 ### Minor Changes
