@@ -248,6 +248,8 @@ After installing, restart the client. On startup Seekstone walks the vault, buil
 
 Requires [Node.js](https://nodejs.org) ≥ 22 for the CLI options. The one-click `.mcpb` bundle has no external requirements.
 
+If Seekstone saves you context, consider [⭐ starring the repo](https://github.com/shaqmughal/seekstone) — it helps others find it.
+
 ---
 
 ## What can Claude do with your vault?
