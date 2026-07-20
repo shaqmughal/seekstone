@@ -30,6 +30,8 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
   <img src="https://img.shields.io/badge/Node.js-%E2%89%A522-339933?logo=node.js&logoColor=white" alt="Node.js ≥ 22" />
   <a href="https://glama.ai/mcp/servers/shaqmughal/seekstone"><img src="https://glama.ai/mcp/servers/shaqmughal/seekstone/badges/score.svg" alt="shaqmughal/seekstone MCP server" /></a>
+  <a href="https://x.com/seekstone"><img src="https://img.shields.io/badge/Follow-%40seekstone-000000?logo=x&logoColor=white" alt="Follow @seekstone on X" /></a>
+  <a href="https://bsky.app/profile/seekstone.bsky.social"><img src="https://img.shields.io/badge/Bluesky-%40seekstone-0285FF?logo=bluesky&logoColor=white" alt="Follow @seekstone on Bluesky" /></a>
   <a href="https://buymeacoffee.com/shaqmughal"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%98%95-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
 </p>
 
