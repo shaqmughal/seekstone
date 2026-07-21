@@ -2,7 +2,7 @@
   "name": "seekstone-monorepo",
   "private": true,
   "version": "0.0.0",
-  "description": "Obsidian MCP server — filesystem-direct, low context-tax. Currently scaffolded as a measurement + benchmark harness against the Local REST API plugin baseline.",
+  "description": "Obsidian MCP server — filesystem-direct, low context-tax. Monorepo: the published seekstone server (packages/server) plus the benchmark + write-safety harness (packages/harness) behind its numbers.",
   "type": "module",
   "workspaces": [
     "packages/*"
