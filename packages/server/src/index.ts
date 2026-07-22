@@ -6,7 +6,7 @@ import {
   type CallToolResult,
   ListToolsRequestSchema,
 } from '@modelcontextprotocol/sdk/types.js';
-import { helpText, parseCliIntent } from './cli-args.js';
+import { helpText, initHelpText, parseCliIntent } from './cli-args.js';
 import type { ServerContext } from './context.js';
 import { dispatch } from './dispatch.js';
 import { buildIndex } from './index/build.js';
@@ -28,6 +28,10 @@ if (intent === 'version') {
 }
 if (intent === 'help') {
   process.stdout.write(`${helpText(VERSION)}\n`);
+  process.exit(0);
+}
+if (intent === 'init-help') {
+  process.stdout.write(`${initHelpText(VERSION)}\n`);
   process.exit(0);
 }
 if (intent === 'init') {

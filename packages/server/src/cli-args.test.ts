@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { helpText, parseCliIntent } from './cli-args.js';
+import { helpText, initHelpText, parseCliIntent } from './cli-args.js';
 
 describe('parseCliIntent', () => {
   it('returns "run" with no args', () => {
@@ -29,6 +29,12 @@ describe('parseCliIntent', () => {
     expect(parseCliIntent(['init'])).toBe('init');
     expect(parseCliIntent(['init', '--vault', '/x', '--write'])).toBe('init');
   });
+
+  it('init --help / init -h ask for init help, not the init run path', () => {
+    expect(parseCliIntent(['init', '--help'])).toBe('init-help');
+    expect(parseCliIntent(['init', '-h'])).toBe('init-help');
+    expect(parseCliIntent(['init', '--vault', '/x', '--help'])).toBe('init-help');
+  });
 });
 
 describe('helpText', () => {
@@ -41,5 +47,16 @@ describe('helpText', () => {
 
   it('documents the init subcommand', () => {
     expect(helpText('1.2.3')).toContain('seekstone init');
+  });
+});
+
+describe('initHelpText', () => {
+  it('includes the version and every init flag', () => {
+    const text = initHelpText('1.2.3');
+    expect(text).toContain('seekstone 1.2.3');
+    expect(text).toContain('seekstone init');
+    expect(text).toContain('--vault');
+    expect(text).toContain('--client');
+    expect(text).toContain('--write');
   });
 });
