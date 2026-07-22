@@ -1,5 +1,11 @@
 # seekstone
 
+## 0.9.2
+
+### Patch Changes
+
+- 227fe6c: `seekstone init --help` (and `-h`) now prints the init subcommand's usage — its `--vault`, `--client`, and `--write` flags — instead of ignoring the flag and running the init flow (vault auto-detection). Help flags after `init` were previously swallowed by init's own argument parsing.
+
 ## 0.9.1
 
 ### Patch Changes
