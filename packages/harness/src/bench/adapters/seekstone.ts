@@ -6,6 +6,7 @@ import { getBacklinks as getBacklinksTool } from '../../../../server/src/tools/g
 import { getLinks as getLinksTool } from '../../../../server/src/tools/get_links.js';
 import { listNotes } from '../../../../server/src/tools/list_notes.js';
 import { listTags as listTagsTool } from '../../../../server/src/tools/list_tags.js';
+import { PERMISSIVE_POLICY } from '../../../../server/src/policy.js';
 import { outlineNote } from '../../../../server/src/tools/outline_note.js';
 import { readNote } from '../../../../server/src/tools/read_note.js';
 import { search as searchTool } from '../../../../server/src/tools/search.js';
@@ -33,7 +34,13 @@ export class SeekstoneAdapter implements Backend {
 
   static async build(opts: SeekstoneAdapterOptions): Promise<SeekstoneAdapter> {
     const { index, notes, backlinks } = await buildIndex(opts.vaultRoot);
-    const ctx: ServerContext = { vaultRoot: opts.vaultRoot, index, notes, backlinks };
+    const ctx: ServerContext = {
+      vaultRoot: opts.vaultRoot,
+      index,
+      notes,
+      backlinks,
+      policy: PERMISSIVE_POLICY,
+    };
     return new SeekstoneAdapter(ctx);
   }
 
