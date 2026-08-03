@@ -188,11 +188,16 @@ export const ALL_TOOLS = [
   },
   {
     name: 'delete_note',
-    description: 'Permanently delete a note from the vault. This cannot be undone.',
+    description:
+      'Delete a note. By default it is moved to the vault .trash/ folder (recoverable by moving it back); pass permanent: true to remove it outright.',
     inputSchema: {
       type: 'object',
       properties: {
         path: { type: 'string', description: 'Vault-relative path of the note to delete.' },
+        permanent: {
+          type: 'boolean',
+          description: 'Permanently remove instead of moving to .trash/. Defaults to false.',
+        },
       },
       required: ['path'],
     },

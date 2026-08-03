@@ -86,6 +86,7 @@ const META_KEYS = [
   'maxSizeBytes',
   'period',
   'date',
+  'permanent',
 ] as const;
 
 function safeMeta(args: unknown): Record<string, unknown> {
@@ -196,8 +197,11 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
     }
     case 'delete_note': {
       const input = DeleteNoteInput.parse(args);
-      await deleteNote(ctx, input);
-      return { content: [{ type: 'text', text: `Deleted ${input.path}.` }] };
+      const result = await deleteNote(ctx, input);
+      const text = result.trashedTo
+        ? `Moved ${result.path} to ${result.trashedTo} (recoverable — restore by moving it back).`
+        : `Permanently deleted ${result.path}.`;
+      return { content: [{ type: 'text', text }] };
     }
     case 'move_note': {
       const input = MoveNoteInput.parse(args);
