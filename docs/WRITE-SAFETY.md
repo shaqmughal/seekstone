@@ -27,7 +27,7 @@ telemetry, no update checks, no cloud calls. Nothing leaves your machine.
   the MCP SDK, chokidar, fast-glob, minisearch, yaml, zod, picomatch.
 - Proven by: [`no-network.test.ts`](../packages/server/src/no-network.test.ts)
   replaces Node's socket/http/https primitives with throwing stubs, then runs
-  the real index build **and all 17 tools** through the real dispatcher. Any
+  the real index build **and all 18 tools** through the real dispatcher. Any
   connection attempt fails the suite.
 
 ### 2. Vault sandbox

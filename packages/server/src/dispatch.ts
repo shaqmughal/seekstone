@@ -1,6 +1,7 @@
 import type { ServerContext } from './context.js';
 import type { Logger } from './log.js';
 import { AppendNoteInput, appendNote } from './tools/append_note.js';
+import { ContextPackInput, contextPack } from './tools/context_pack.js';
 import { CreateNoteInput, createNote } from './tools/create_note.js';
 import { DeleteNoteInput, deleteNote } from './tools/delete_note.js';
 import { GetBacklinksInput, getBacklinks } from './tools/get_backlinks.js';
@@ -31,6 +32,7 @@ export type ToolResult = {
 export const HANDLED_TOOLS = [
   'search',
   'query_notes',
+  'context_pack',
   'read_note',
   'list_notes',
   'list_tags',
@@ -88,6 +90,7 @@ const META_KEYS = [
   'date',
   'permanent',
   'prevHash',
+  'budgetBytes',
 ] as const;
 
 function safeMeta(args: unknown): Record<string, unknown> {
@@ -173,6 +176,12 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
       const hits = queryNotes(ctx, input);
       // Minified like search — a second search mode, same context-tax discipline.
       return { content: [{ type: 'text', text: JSON.stringify(hits) }] };
+    }
+    case 'context_pack': {
+      const input = ContextPackInput.parse(args);
+      const pack = contextPack(ctx, input);
+      // Minified: the assembler meters its byte budget against exactly this serialization.
+      return { content: [{ type: 'text', text: JSON.stringify(pack) }] };
     }
     case 'read_note': {
       const input = ReadNoteInput.parse(args);
