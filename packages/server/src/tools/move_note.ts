@@ -3,6 +3,7 @@ import { dirname, join } from 'node:path';
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
+import { assertWritable } from '../policy.js';
 
 export const MoveNoteInput = z.object({
   from: z.string().describe('Vault-relative path of the note to move.'),
@@ -25,6 +26,8 @@ export async function moveNote(ctx: ServerContext, input: MoveNoteInput): Promis
 
   if (!absFrom.startsWith(ctx.vaultRoot)) throw new Error(`Path outside vault: ${input.from}`);
   if (!absTo.startsWith(ctx.vaultRoot)) throw new Error(`Path outside vault: ${input.to}`);
+  assertWritable(ctx.policy, input.from);
+  assertWritable(ctx.policy, input.to);
 
   try {
     await access(absFrom);

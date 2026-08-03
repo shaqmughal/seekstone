@@ -2,6 +2,7 @@ import MiniSearch from 'minisearch';
 import { describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
 import type { IndexedNote } from '../index/types.js';
+import { PERMISSIVE_POLICY } from '../policy.js';
 import { QueryNotesInput, queryNotes } from './query_notes.js';
 
 function buildCtx(
@@ -33,7 +34,13 @@ function buildCtx(
       mtimeMs: n.mtimeMs ?? Date.UTC(2026, 0, 15),
     });
   }
-  return { vaultRoot: '/vault', index, notes: notesMap, backlinks: new Map() };
+  return {
+    vaultRoot: '/vault',
+    index,
+    notes: notesMap,
+    backlinks: new Map(),
+    policy: PERMISSIVE_POLICY,
+  };
 }
 
 function parse(input: unknown) {

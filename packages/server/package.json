@@ -65,10 +65,12 @@
     "chokidar": "^5.0.0",
     "fast-glob": "^3.3.2",
     "minisearch": "^7.1.1",
+    "picomatch": "^2.3.2",
     "yaml": "^2.6.1",
     "zod": "^4.4.3"
   },
   "devDependencies": {
-    "@seekstone/core": "*"
+    "@seekstone/core": "*",
+    "@types/picomatch": "^4.0.3"
   }
 }

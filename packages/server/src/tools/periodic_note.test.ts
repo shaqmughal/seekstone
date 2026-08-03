@@ -5,6 +5,7 @@ import MiniSearch from 'minisearch';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
 import type { IndexedNote } from '../index/types.js';
+import { PERMISSIVE_POLICY } from '../policy.js';
 import {
   appendPeriodicNote,
   formatMomentDate,
@@ -21,7 +22,13 @@ function freshCtx(): ServerContext {
     storeFields: ['id', 'title', 'tags', 'sizeBytes', 'mtimeMs'],
     searchOptions: { boost: { title: 3, tags: 2, body: 1 }, fuzzy: 0.2, prefix: true },
   });
-  return { vaultRoot: tmpDir, index, notes: new Map(), backlinks: new Map() };
+  return {
+    vaultRoot: tmpDir,
+    index,
+    notes: new Map(),
+    backlinks: new Map(),
+    policy: PERMISSIVE_POLICY,
+  };
 }
 
 beforeAll(async () => {
@@ -136,7 +143,13 @@ describe('getPeriodicNote', () => {
 
   it('reads config from .obsidian/daily-notes.json', async () => {
     const vaultRoot = await mkdtemp(join(tmpdir(), 'seekstone-cfg-daily-'));
-    const ctx2 = { vaultRoot, index: freshCtx().index, notes: new Map(), backlinks: new Map() };
+    const ctx2 = {
+      vaultRoot,
+      index: freshCtx().index,
+      notes: new Map(),
+      backlinks: new Map(),
+      policy: PERMISSIVE_POLICY,
+    };
     try {
       await mkdir(join(vaultRoot, '.obsidian'), { recursive: true });
       await writeFile(
@@ -157,7 +170,13 @@ describe('getPeriodicNote', () => {
 
   it('creates from template when template is configured', async () => {
     const vaultRoot = await mkdtemp(join(tmpdir(), 'seekstone-cfg-template-'));
-    const ctx2 = { vaultRoot, index: freshCtx().index, notes: new Map(), backlinks: new Map() };
+    const ctx2 = {
+      vaultRoot,
+      index: freshCtx().index,
+      notes: new Map(),
+      backlinks: new Map(),
+      policy: PERMISSIVE_POLICY,
+    };
     try {
       await mkdir(join(vaultRoot, '.obsidian'), { recursive: true });
       await mkdir(join(vaultRoot, 'Templates'), { recursive: true });
@@ -182,7 +201,13 @@ describe('getPeriodicNote', () => {
 
   it('resolves weekly path from periodic-notes plugin config', async () => {
     const vaultRoot = await mkdtemp(join(tmpdir(), 'seekstone-cfg-weekly-'));
-    const ctx2 = { vaultRoot, index: freshCtx().index, notes: new Map(), backlinks: new Map() };
+    const ctx2 = {
+      vaultRoot,
+      index: freshCtx().index,
+      notes: new Map(),
+      backlinks: new Map(),
+      policy: PERMISSIVE_POLICY,
+    };
     try {
       await mkdir(join(vaultRoot, '.obsidian', 'plugins', 'periodic-notes'), { recursive: true });
       await writeFile(
@@ -203,7 +228,13 @@ describe('getPeriodicNote', () => {
 
   it('uses default format when no config file exists', async () => {
     const vaultRoot = await mkdtemp(join(tmpdir(), 'seekstone-no-config-'));
-    const ctx2 = { vaultRoot, index: freshCtx().index, notes: new Map(), backlinks: new Map() };
+    const ctx2 = {
+      vaultRoot,
+      index: freshCtx().index,
+      notes: new Map(),
+      backlinks: new Map(),
+      policy: PERMISSIVE_POLICY,
+    };
     try {
       const result = await getPeriodicNote(ctx2, {
         period: 'monthly',
@@ -218,7 +249,13 @@ describe('getPeriodicNote', () => {
 
   it('rejects a path outside the vault (folder config with ..)', async () => {
     const vaultRoot = await mkdtemp(join(tmpdir(), 'seekstone-traversal-'));
-    const ctx2 = { vaultRoot, index: freshCtx().index, notes: new Map(), backlinks: new Map() };
+    const ctx2 = {
+      vaultRoot,
+      index: freshCtx().index,
+      notes: new Map(),
+      backlinks: new Map(),
+      policy: PERMISSIVE_POLICY,
+    };
     try {
       await mkdir(join(vaultRoot, '.obsidian'), { recursive: true });
       await writeFile(

@@ -1,6 +1,7 @@
 import type { LinkType } from '@seekstone/core/extract';
 import type MiniSearch from 'minisearch';
 import type { IndexedNote } from './index/types.js';
+import type { WritePolicy } from './policy.js';
 
 export interface BacklinkRef {
   /** Vault-relative path of the note that contains the link. */
@@ -19,4 +20,6 @@ export interface ServerContext {
    * Sorted by source path; maintained incrementally by the watcher.
    */
   backlinks: Map<string, BacklinkRef[]>;
+  /** Read-only / write-path-scoping policy, parsed from env at boot. */
+  policy: WritePolicy;
 }

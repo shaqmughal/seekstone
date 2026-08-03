@@ -4,6 +4,7 @@ import { stringify as stringifyYaml } from 'yaml';
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
+import { assertWritable } from '../policy.js';
 
 export const CreateNoteInput = z.object({
   path: z
@@ -36,6 +37,7 @@ export async function createNote(
   if (!absPath.startsWith(ctx.vaultRoot)) {
     throw new Error(`Path outside vault: ${input.path}`);
   }
+  assertWritable(ctx.policy, input.path);
 
   if (!input.overwrite) {
     try {

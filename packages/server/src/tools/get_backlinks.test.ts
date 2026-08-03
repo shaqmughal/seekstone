@@ -4,6 +4,7 @@ import { join } from 'node:path';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
 import { buildIndex } from '../index/build.js';
+import { PERMISSIVE_POLICY } from '../policy.js';
 import { getBacklinks } from './get_backlinks.js';
 
 // target.md is linked by source_a.md and source_b.md; source_c.md links elsewhere
@@ -28,7 +29,7 @@ beforeAll(async () => {
   await writeFile(join(vaultRoot, 'source_c.md'), SOURCE_C, 'utf8');
   await writeFile(join(vaultRoot, 'isolated.md'), NO_LINKS, 'utf8');
   const result = await buildIndex(vaultRoot);
-  ctx = { ...result, vaultRoot };
+  ctx = { ...result, vaultRoot, policy: PERMISSIVE_POLICY };
 });
 
 afterAll(async () => {

@@ -4,6 +4,7 @@ import { join } from 'node:path';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
 import { buildIndex } from '../index/build.js';
+import { PERMISSIVE_POLICY } from '../policy.js';
 import { getLinks } from './get_links.js';
 
 const NOTE_A = `---
@@ -43,7 +44,7 @@ beforeAll(async () => {
   await writeFile(join(vaultRoot, 'c.md'), NOTE_C, 'utf8');
   await writeFile(join(vaultRoot, 'orphan.md'), NOTE_UNRESOLVED, 'utf8');
   const result = await buildIndex(vaultRoot);
-  ctx = { ...result, vaultRoot };
+  ctx = { ...result, vaultRoot, policy: PERMISSIVE_POLICY };
 });
 
 afterAll(async () => {

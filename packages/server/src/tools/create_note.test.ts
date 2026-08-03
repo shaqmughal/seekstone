@@ -5,6 +5,7 @@ import MiniSearch from 'minisearch';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
 import type { IndexedNote } from '../index/types.js';
+import { PERMISSIVE_POLICY } from '../policy.js';
 import { createNote } from './create_note.js';
 
 let tmpDir: string;
@@ -17,7 +18,13 @@ function freshCtx(): ServerContext {
     storeFields: ['id', 'title', 'tags', 'sizeBytes', 'mtimeMs'],
     searchOptions: { boost: { title: 3, tags: 2, body: 1 }, fuzzy: 0.2, prefix: true },
   });
-  return { vaultRoot: tmpDir, index, notes: new Map(), backlinks: new Map() };
+  return {
+    vaultRoot: tmpDir,
+    index,
+    notes: new Map(),
+    backlinks: new Map(),
+    policy: PERMISSIVE_POLICY,
+  };
 }
 
 beforeAll(async () => {
@@ -124,5 +131,20 @@ describe('createNote', () => {
     await expect(createNote(ctx, { path: '../escape.md', content: 'bad' })).rejects.toThrow(
       'Path outside vault',
     );
+  });
+
+  it('respects write-path scoping', async () => {
+    const scoped = { ...freshCtx(), policy: { readOnly: false, writeGlobs: ['journal/**'] } };
+    await expect(
+      createNote(scoped, { path: 'journal/ok.md', content: 'x' }),
+    ).resolves.toMatchObject({ path: 'journal/ok.md' });
+    await expect(createNote(scoped, { path: 'projects/no.md', content: 'x' })).rejects.toThrow(
+      'Write not permitted',
+    );
+  });
+
+  it('throws in read-only mode', async () => {
+    const ro = { ...freshCtx(), policy: { readOnly: true } };
+    await expect(createNote(ro, { path: 'a.md', content: 'x' })).rejects.toThrow('read-only');
   });
 });

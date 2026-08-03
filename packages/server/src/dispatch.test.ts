@@ -3,10 +3,11 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterAll, beforeAll, describe, expect, it, vi } from 'vitest';
 import type { ServerContext } from './context.js';
-import { dispatch, HANDLED_TOOLS } from './dispatch.js';
+import { dispatch, HANDLED_TOOLS, WRITE_TOOLS } from './dispatch.js';
 import { buildIndex } from './index/build.js';
 import type { Logger } from './log.js';
 import { createLogger } from './log.js';
+import { PERMISSIVE_POLICY } from './policy.js';
 
 interface LogRecord {
   level: string;
@@ -40,7 +41,7 @@ beforeAll(async () => {
   vaultRoot = await mkdtemp(join(tmpdir(), 'seekstone-dispatch-'));
   await writeFile(join(vaultRoot, 'note.md'), '---\ntitle: A\n---\n# A\nhello world\n', 'utf8');
   const { index, notes } = await buildIndex(vaultRoot);
-  ctx = { vaultRoot, index, notes, backlinks: new Map() };
+  ctx = { vaultRoot, index, notes, backlinks: new Map(), policy: PERMISSIVE_POLICY };
 });
 
 afterAll(async () => {
@@ -144,5 +145,40 @@ describe('dispatch', () => {
         expect(res.content[0]?.text).not.toContain('Unknown tool');
       }
     }
+  });
+});
+
+describe('dispatch — read-only mode', () => {
+  const roCtx = (): ServerContext => ({ ...ctx, policy: { readOnly: true } });
+
+  it('rejects every write tool with an isError result (not a throw)', async () => {
+    const { logger, records } = recordingLogger();
+    for (const tool of WRITE_TOOLS) {
+      const res = await dispatch(roCtx(), tool, { path: 'note.md', content: 'x' }, logger);
+      expect(res.isError).toBe(true);
+      expect(res.content[0]?.text).toContain('read-only');
+    }
+    expect(records.filter((r) => r.msg === 'tool rejected (read-only)')).toHaveLength(
+      WRITE_TOOLS.size,
+    );
+  });
+
+  it('still serves read tools', async () => {
+    const { logger } = recordingLogger();
+    const res = await dispatch(roCtx(), 'search', { query: 'hello' }, logger);
+    expect(res.isError).toBeUndefined();
+  });
+
+  it('forces createIfMissing off for get_periodic_note', async () => {
+    const { logger } = recordingLogger();
+    const res = await dispatch(
+      roCtx(),
+      'get_periodic_note',
+      { period: 'daily', createIfMissing: true },
+      logger,
+    );
+    expect(res.isError).toBeUndefined();
+    const parsed = JSON.parse(res.content[0]?.text ?? '{}');
+    expect(parsed.created).toBe(false);
   });
 });

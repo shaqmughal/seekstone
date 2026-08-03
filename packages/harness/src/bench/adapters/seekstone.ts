@@ -2,6 +2,7 @@ import { writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import type { ServerContext } from '../../../../server/src/context.js';
 import { buildIndex } from '../../../../server/src/index/build.js';
+import { PERMISSIVE_POLICY } from '../../../../server/src/policy.js';
 import { getBacklinks as getBacklinksTool } from '../../../../server/src/tools/get_backlinks.js';
 import { getLinks as getLinksTool } from '../../../../server/src/tools/get_links.js';
 import { listNotes } from '../../../../server/src/tools/list_notes.js';
@@ -33,7 +34,13 @@ export class SeekstoneAdapter implements Backend {
 
   static async build(opts: SeekstoneAdapterOptions): Promise<SeekstoneAdapter> {
     const { index, notes, backlinks } = await buildIndex(opts.vaultRoot);
-    const ctx: ServerContext = { vaultRoot: opts.vaultRoot, index, notes, backlinks };
+    const ctx: ServerContext = {
+      vaultRoot: opts.vaultRoot,
+      index,
+      notes,
+      backlinks,
+      policy: PERMISSIVE_POLICY,
+    };
     return new SeekstoneAdapter(ctx);
   }
 
