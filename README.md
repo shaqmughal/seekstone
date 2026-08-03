@@ -114,6 +114,14 @@ Every competitor spawns a subprocess or makes HTTP round-trips per query, and mo
 
 Choose the method that suits you best.
 
+### Using an AI agent? Paste this prompt
+
+If you use Claude Code, Cursor, or another coding agent, you don't need to follow any instructions yourself — paste this prompt and the agent does the install:
+
+> Install the **seekstone** MCP server for this editor. Run `npx -y seekstone init --client code --write` (use `desktop`, `cursor`, or `vscode` for other clients). It auto-detects my Obsidian vault; if it lists several, ask me which one and re-run with `--vault "<path>"`. Relay any errors to me, then tell me to restart this session so the seekstone tools load.
+
+`seekstone init` is fully non-interactive — with `--write` it validates the vault and patches the client config in one shot (Claude Code via `claude mcp add`, other clients via an additive JSON patch with a timestamped backup).
+
 ### Option 1 — One-click (Claude Desktop, no terminal needed)
 
 1. Download `seekstone.mcpb` from [GitHub Releases](https://github.com/shaqmughal/seekstone/releases/latest)
