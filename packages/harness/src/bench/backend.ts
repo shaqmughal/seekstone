@@ -62,6 +62,8 @@ export interface Backend {
 
   /** list_tags — all tags with usage counts. */
   listTags?(): Promise<BackendResponse<unknown>>;
+  /** context_pack — byte-budgeted one-call context assembly for a question. */
+  contextPack?(query: string, budgetBytes?: number): Promise<BackendResponse<unknown>>;
   /** outline_note — heading tree + block anchors without body content. */
   outline?(path: string): Promise<BackendResponse<unknown>>;
   /** get_backlinks — reverse-link lookup. */

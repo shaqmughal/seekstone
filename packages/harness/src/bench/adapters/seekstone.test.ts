@@ -54,6 +54,7 @@ describe('SeekstoneAdapter', () => {
       'write',
       'list',
       'listTags',
+      'contextPack',
       'outline',
       'getBacklinks',
       'getLinks',
@@ -103,6 +104,22 @@ describe('SeekstoneAdapter', () => {
     const { result, payloadBytes } = await adapter.listTags();
     expect(result).toBeDefined();
     expect(payloadBytes).toBeGreaterThan(0);
+  });
+
+  it('contextPack() assembles a pack within the byte budget', async () => {
+    const { result, payloadBytes, payloadText } = await adapter.contextPack('alpha content', 1024);
+    const pack = result as { excerpts: unknown[]; totalMatches: number; confidence: string };
+    expect(pack.excerpts.length).toBeGreaterThan(0);
+    expect(pack.totalMatches).toBeGreaterThan(0);
+    expect(pack.confidence).toBe('high');
+    expect(payloadBytes).toBeLessThanOrEqual(1024);
+    expect(payloadText).toBeDefined();
+  });
+
+  it('contextPack() applies the default budget when omitted', async () => {
+    const { payloadBytes } = await adapter.contextPack('alpha');
+    expect(payloadBytes).toBeGreaterThan(0);
+    expect(payloadBytes).toBeLessThanOrEqual(2048);
   });
 
   it('outline() returns a structural outline of a note', async () => {

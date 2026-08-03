@@ -3,6 +3,7 @@ import { join } from 'node:path';
 import type { ServerContext } from '../../../../server/src/context.js';
 import { buildIndex } from '../../../../server/src/index/build.js';
 import { PERMISSIVE_POLICY } from '../../../../server/src/policy.js';
+import { contextPack as contextPackTool } from '../../../../server/src/tools/context_pack.js';
 import { createNote as createNoteTool } from '../../../../server/src/tools/create_note.js';
 import { deleteNote as deleteNoteTool } from '../../../../server/src/tools/delete_note.js';
 import { getBacklinks as getBacklinksTool } from '../../../../server/src/tools/get_backlinks.js';
@@ -96,6 +97,17 @@ export class SeekstoneAdapter implements Backend {
 
   async listTags(): Promise<BackendResponse<unknown>> {
     const result = listTagsTool(this.ctx, { sort: 'count' });
+    const payload = JSON.stringify(result);
+    return {
+      result,
+      payloadBytes: Buffer.byteLength(payload, 'utf8'),
+      payloadText: payload,
+    };
+  }
+
+  async contextPack(query: string, budgetBytes?: number): Promise<BackendResponse<unknown>> {
+    // Direct fn call bypasses the zod schema, so apply its default here.
+    const result = contextPackTool(this.ctx, { query, budgetBytes: budgetBytes ?? 2048 });
     const payload = JSON.stringify(result);
     return {
       result,
