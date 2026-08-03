@@ -92,7 +92,7 @@ R="$PWD/packages/harness/fixtures/baseline-reports/scaling"
 declare -A V=( [1000]=vault-1k [5000]=vault-5k [10000]=vault )
 declare -A Q=( [1000]=vault-1k.json [5000]=vault-5k.json [10000]=default.json )
 for size in 1000 5000 10000; do
-  for b in seekstone fs mcpvault; do
+  for b in seekstone fs mcpvault obsidian-mcp-rs obsidian-tc; do
     npm run harness -- bench --backend "$b" \
       --vault   "$PWD/packages/harness/fixtures/${V[$size]}" \
       --queries "$PWD/packages/harness/queries/${Q[$size]}" \
@@ -105,6 +105,17 @@ npm run harness -- scale-render --dir "$R"   # → benchmark-scaling.md
 `obsidian-mcp` and `obsidian-mcp-pro` are filesystem-direct but currently excluded
 (slow synchronous init at scale; a read-path quirk respectively) — raise
 `SEEKSTONE_MCP_INIT_TIMEOUT` to give the former more headroom.
+
+`obsidian-tc` notes: it requires **Node ≥ 24**, and it persists its SQLite index
+in `~/.obsidian-tc/` (not inside the vault) — `rm -rf ~/.obsidian-tc` before a
+run to measure a true cold start, otherwise run 1 reuses the previous index.
+The adapter boots it from a generated config that raises
+`governor.maxResponseBytes` from the 1 MB default to 100 MB — the default
+refuses large-note reads outright (its read envelope carries the note text
+twice), which would crash the read-large measurement instead of measuring it;
+everything else stays at server defaults. Set `SEEKSTONE_OBSIDIAN_TC_FACADE=1`
+to bench the same ops through its `call_capability` meta-tool facade instead of
+direct calls (reported as `obsidian-tc-facade`).
 
 ### Capturing the Obsidian REST servers (manual, 3 sessions)
 
