@@ -61,7 +61,7 @@
     "test:watch": "vitest"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.12.0",
+    "@modelcontextprotocol/sdk": "^1.30.0",
     "chokidar": "^5.0.0",
     "fast-glob": "^3.3.2",
     "minisearch": "^7.1.1",
