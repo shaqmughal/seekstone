@@ -1,8 +1,10 @@
-import { readFile, rename, writeFile } from 'node:fs/promises';
+import { readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { buildOutline } from '@seekstone/core/outline';
 import { z } from 'zod';
+import { atomicWrite } from '../atomic-write.js';
+import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { assertWritable } from '../policy.js';
 
@@ -26,6 +28,12 @@ export const PatchNoteInput = z.object({
     .describe(
       'If the heading target is not found, append a new heading (level 2) + content. Only valid for heading targets.',
     ),
+  prevHash: z
+    .string()
+    .optional()
+    .describe(
+      'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+    ),
 });
 export type PatchNoteInput = z.infer<typeof PatchNoteInput>;
 
@@ -34,6 +42,8 @@ export interface PatchNoteResult {
   bytesWritten: number;
   targetResolvedAt: { line: number; byteOffset: number };
   frontmatterUnchanged: true;
+  /** sha-256 (hex) of the new content — usable as prevHash for a chained edit. */
+  contentHash: string;
 }
 
 /** Character offset of the start of the next line after `offset`. */
@@ -49,12 +59,6 @@ function lineStart(raw: string, offset: number): number {
   return prev === -1 ? 0 : prev + 1;
 }
 
-async function atomicWrite(absPath: string, content: string): Promise<void> {
-  const tmpPath = `${absPath}.seekstone-patch-tmp`;
-  await writeFile(tmpPath, content, 'utf8');
-  await rename(tmpPath, absPath);
-}
-
 export async function patchNote(
   ctx: ServerContext,
   input: PatchNoteInput,
@@ -66,6 +70,7 @@ export async function patchNote(
   assertWritable(ctx.policy, input.path);
 
   const raw = await readFile(absPath, 'utf8');
+  if (input.prevHash !== undefined) assertHashMatch(raw, input.prevHash, input.path);
   const fm = parseFrontmatter(raw);
   const originalFmRegion = raw.slice(0, fm.bodyStart);
   const outline = buildOutline(raw, { includeBlocks: true });
@@ -95,6 +100,7 @@ export async function patchNote(
             byteOffset: headingOffset,
           },
           frontmatterUnchanged: true,
+          contentHash: contentHash(newContent),
         };
       }
       throw new Error(
@@ -165,6 +171,7 @@ export async function patchNote(
     bytesWritten: Buffer.byteLength(newContent, 'utf8'),
     targetResolvedAt: resolvedAt,
     frontmatterUnchanged: true,
+    contentHash: contentHash(newContent),
   };
 }
 

@@ -1,8 +1,10 @@
-import { readFile, writeFile } from 'node:fs/promises';
+import { readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { parseDocument } from 'yaml';
 import { z } from 'zod';
+import { atomicWrite } from '../atomic-write.js';
+import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { assertWritable } from '../policy.js';
 
@@ -13,6 +15,12 @@ export const PatchFrontmatterInput = z.object({
     .describe(
       'Key-value pairs to set in the frontmatter. Existing keys not in the patch are unchanged. Pass null as a value to remove a key.',
     ),
+  prevHash: z
+    .string()
+    .optional()
+    .describe(
+      'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+    ),
 });
 export type PatchFrontmatterInput = z.infer<typeof PatchFrontmatterInput>;
 
@@ -21,6 +29,8 @@ export interface PatchFrontmatterResult {
   keysChanged: string[];
   keysAdded: string[];
   keysRemoved: string[];
+  /** sha-256 (hex) of the new content — usable as prevHash for a chained edit. */
+  contentHash: string;
 }
 
 /**
@@ -46,6 +56,7 @@ export async function patchFrontmatter(
   assertWritable(ctx.policy, input.path);
 
   const original = await readFile(absPath, 'utf8');
+  if (input.prevHash !== undefined) assertHashMatch(original, input.prevHash, input.path);
   const fm = parseFrontmatter(original);
 
   const keysChanged: string[] = [];
@@ -94,7 +105,7 @@ export async function patchFrontmatter(
     newContent = `${head}${doc.toString()}${tail}${fm.body}`;
   }
 
-  await writeFile(absPath, newContent, 'utf8');
+  await atomicWrite(absPath, newContent);
 
   // Update in-memory cache.
   const cached = ctx.notes.get(input.path);
@@ -104,5 +115,11 @@ export async function patchFrontmatter(
     cached.fmKeys = updated.keys.join(' ');
   }
 
-  return { path: input.path, keysChanged, keysAdded, keysRemoved };
+  return {
+    path: input.path,
+    keysChanged,
+    keysAdded,
+    keysRemoved,
+    contentHash: contentHash(newContent),
+  };
 }

@@ -1,7 +1,9 @@
-import { readFile, writeFile } from 'node:fs/promises';
+import { readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { z } from 'zod';
+import { atomicWrite } from '../atomic-write.js';
+import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { assertWritable } from '../policy.js';
 
@@ -13,12 +15,20 @@ export const AppendNoteInput = z.object({
     .describe(
       'Text to append to the note body. Will be separated from existing content by a blank line.',
     ),
+  prevHash: z
+    .string()
+    .optional()
+    .describe(
+      'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+    ),
 });
 export type AppendNoteInput = z.infer<typeof AppendNoteInput>;
 
 export interface AppendNoteResult {
   path: string;
   bytesWritten: number;
+  /** sha-256 (hex) of the new content — usable as prevHash for a chained edit. */
+  contentHash: string;
 }
 
 /**
@@ -28,7 +38,7 @@ export interface AppendNoteResult {
  *   - The frontmatter block (if any) is preserved byte-for-byte.
  *   - A blank line is inserted before the appended content if the body
  *     does not already end with one (keeps Obsidian's visual spacing).
- *   - The file is written atomically (overwrite in place, same path).
+ *   - The file is written atomically (temp file + rename).
  */
 export async function appendNote(
   ctx: ServerContext,
@@ -41,6 +51,7 @@ export async function appendNote(
   assertWritable(ctx.policy, input.path);
 
   const original = await readFile(absPath, 'utf8');
+  if (input.prevHash !== undefined) assertHashMatch(original, input.prevHash, input.path);
   const fm = parseFrontmatter(original);
 
   // Ensure body ends with exactly one trailing newline before appending.
@@ -52,7 +63,7 @@ export async function appendNote(
   const header = original.slice(0, fm.bodyStart);
   const newContent = `${header}${newBody}`;
 
-  await writeFile(absPath, newContent, 'utf8');
+  await atomicWrite(absPath, newContent);
 
   // Update the in-memory index entry so subsequent searches reflect the change.
   const cached = ctx.notes.get(input.path);
@@ -61,5 +72,9 @@ export async function appendNote(
     cached.raw = newContent;
   }
 
-  return { path: input.path, bytesWritten: Buffer.byteLength(newContent, 'utf8') };
+  return {
+    path: input.path,
+    bytesWritten: Buffer.byteLength(newContent, 'utf8'),
+    contentHash: contentHash(newContent),
+  };
 }

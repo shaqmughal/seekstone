@@ -1,6 +1,7 @@
-import { access, mkdir, rename, writeFile } from 'node:fs/promises';
+import { access, mkdir, rename } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { z } from 'zod';
+import { atomicWrite } from '../atomic-write.js';
 import type { ServerContext } from '../context.js';
 import { addNoteBacklinks, removeNoteBacklinks } from '../index/backlinks.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
@@ -127,7 +128,7 @@ export async function moveNote(
     // path); remove reads the old raw, so call it before updating the entry.
     removeNoteBacklinks(ctx, path);
     if (count > 0) {
-      await writeFile(join(ctx.vaultRoot, path), content, 'utf8');
+      await atomicWrite(join(ctx.vaultRoot, path), content);
       upsertDoc(ctx, buildDoc(path, content));
       notesRewritten++;
       linksRewritten += count;
