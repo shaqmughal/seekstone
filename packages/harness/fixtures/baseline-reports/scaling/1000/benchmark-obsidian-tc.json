@@ -1,0 +1,243 @@
+{
+  "snapshotDate": "2026-08-03T01:23:48.744Z",
+  "machine": {
+    "platform": "darwin",
+    "arch": "arm64",
+    "node": "v25.9.0",
+    "cpus": 16
+  },
+  "backend": {
+    "name": "obsidian-tc",
+    "description": "obsidian-tc (SQLite governance platform, direct tool calls, no Obsidian required)"
+  },
+  "runs": 20,
+  "rssBefore": 166821888,
+  "rssPeak": 223789056,
+  "search": [
+    {
+      "id": "single-term",
+      "kind": "single",
+      "query": "church",
+      "stats": {
+        "coldMs": 329.818292,
+        "warm": {
+          "n": 19,
+          "min": 253.010917,
+          "median": 267.811834,
+          "p90": 274.002958,
+          "p95": 278.092792,
+          "p99": 278.092792,
+          "max": 278.092792,
+          "mean": 267.23395842105265
+        },
+        "all": {
+          "n": 20,
+          "min": 253.010917,
+          "median": 267.811834,
+          "p90": 274.002958,
+          "p95": 278.092792,
+          "p99": 329.818292,
+          "max": 329.818292,
+          "mean": 270.36317510000003
+        },
+        "payloadBytesMean": 8266,
+        "payloadTokensMean": 2364,
+        "runs": 20
+      },
+      "firstRunHitCount": 50,
+      "ttfr": null
+    },
+    {
+      "id": "multi-term",
+      "kind": "multi",
+      "query": "Roman Empire",
+      "stats": {
+        "coldMs": 268.157166,
+        "warm": {
+          "n": 19,
+          "min": 258.513583,
+          "median": 270.77125,
+          "p90": 276.107417,
+          "p95": 283.827209,
+          "p99": 283.827209,
+          "max": 283.827209,
+          "mean": 269.4620548421053
+        },
+        "all": {
+          "n": 20,
+          "min": 258.513583,
+          "median": 269.184,
+          "p90": 275.659375,
+          "p95": 276.107417,
+          "p99": 283.827209,
+          "max": 283.827209,
+          "mean": 269.39681040000005
+        },
+        "payloadBytesMean": 4468,
+        "payloadTokensMean": 1286,
+        "runs": 20
+      },
+      "firstRunHitCount": 27,
+      "ttfr": null
+    },
+    {
+      "id": "phrase",
+      "kind": "phrase",
+      "query": "the capital of",
+      "stats": {
+        "coldMs": 260.090916,
+        "warm": {
+          "n": 19,
+          "min": 243.897375,
+          "median": 252.3055,
+          "p90": 272.758916,
+          "p95": 273.660792,
+          "p99": 273.660792,
+          "max": 273.660792,
+          "mean": 253.86922589473676
+        },
+        "all": {
+          "n": 20,
+          "min": 243.897375,
+          "median": 252.3055,
+          "p90": 265.791375,
+          "p95": 272.758916,
+          "p99": 273.660792,
+          "max": 273.660792,
+          "mean": 254.1803103999999
+        },
+        "payloadBytesMean": 6233,
+        "payloadTokensMean": 1881,
+        "runs": 20
+      },
+      "firstRunHitCount": 38,
+      "ttfr": null
+    },
+    {
+      "id": "rare-term",
+      "kind": "rare",
+      "query": "phlogiston",
+      "stats": {
+        "coldMs": 247.5735,
+        "warm": {
+          "n": 19,
+          "min": 245.510084,
+          "median": 265.386416,
+          "p90": 273.99825,
+          "p95": 275.687875,
+          "p99": 275.687875,
+          "max": 275.687875,
+          "mean": 262.7245877894737
+        },
+        "all": {
+          "n": 20,
+          "min": 245.510084,
+          "median": 259.73125,
+          "p90": 273.716333,
+          "p95": 273.99825,
+          "p99": 275.687875,
+          "max": 275.687875,
+          "mean": 261.96703339999993
+        },
+        "payloadBytesMean": 56,
+        "payloadTokensMean": 17,
+        "runs": 20
+      },
+      "firstRunHitCount": 0,
+      "ttfr": null
+    }
+  ],
+  "read": {
+    "small": {
+      "path": "Encyclopedia/B/Bauernfeld.md",
+      "stats": {
+        "coldMs": 7.824041,
+        "warm": {
+          "n": 19,
+          "min": 0.472375,
+          "median": 0.569084,
+          "p90": 0.750417,
+          "p95": 0.862625,
+          "p99": 0.862625,
+          "max": 0.862625,
+          "mean": 0.6003223684210527
+        },
+        "all": {
+          "n": 20,
+          "min": 0.472375,
+          "median": 0.569084,
+          "p90": 0.750417,
+          "p95": 0.862625,
+          "p99": 7.824041,
+          "max": 7.824041,
+          "mean": 0.9615083
+        },
+        "payloadBytesMean": 4287,
+        "payloadTokensMean": 1313,
+        "runs": 20
+      }
+    },
+    "large": {
+      "path": "Encyclopedia/E/English Law.md",
+      "stats": {
+        "coldMs": 8.127542,
+        "warm": {
+          "n": 19,
+          "min": 7.447625,
+          "median": 8.502584,
+          "p90": 10.660833,
+          "p95": 14.82075,
+          "p99": 14.82075,
+          "max": 14.82075,
+          "mean": 9.009780736842105
+        },
+        "all": {
+          "n": 20,
+          "min": 7.447625,
+          "median": 8.411834,
+          "p90": 10.4325,
+          "p95": 10.660833,
+          "p99": 14.82075,
+          "max": 14.82075,
+          "mean": 8.9656688
+        },
+        "payloadBytesMean": 810756,
+        "payloadTokensMean": 194036,
+        "runs": 20
+      }
+    }
+  },
+  "tools": {
+    "list": {
+      "coldMs": 6.371166,
+      "warm": {
+        "n": 19,
+        "min": 3.474625,
+        "median": 4.044125,
+        "p90": 6.308,
+        "p95": 8.09875,
+        "p99": 8.09875,
+        "max": 8.09875,
+        "mean": 4.4397784210526305
+      },
+      "all": {
+        "n": 20,
+        "min": 3.474625,
+        "median": 4.044125,
+        "p90": 6.308,
+        "p95": 6.371166,
+        "p99": 8.09875,
+        "max": 8.09875,
+        "mean": 4.5363478
+      },
+      "payloadBytesMean": 15030,
+      "payloadTokensMean": 5375,
+      "runs": 20
+    },
+    "listTags": null,
+    "outline": null,
+    "getBacklinks": null,
+    "getLinks": null,
+    "getPeriodicNote": null
+  }
+}

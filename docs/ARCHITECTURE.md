@@ -193,7 +193,7 @@ flowchart TD
     end
     subgraph extern["Process / network adapters"]
         rest["rest → Local REST API plugin<br/>(undici, self-signed TLS)"]
-        mcp["mcpvault · mcp-obsidian · obsidian-mcp<br/>obsidian-mcp-pro · obsidian-mcp-server<br/>(MCP-over-stdio via McpSubprocess)"]
+        mcp["mcpvault · mcp-obsidian · obsidian-mcp<br/>obsidian-mcp-pro · obsidian-mcp-rs · obsidian-tc<br/>obsidian-mcp-server<br/>(MCP-over-stdio via McpSubprocess)"]
     end
 
     subgraph modules["Three measurement modules"]
