@@ -3,6 +3,8 @@ import { join } from 'node:path';
 import type { ServerContext } from '../../../../server/src/context.js';
 import { buildIndex } from '../../../../server/src/index/build.js';
 import { PERMISSIVE_POLICY } from '../../../../server/src/policy.js';
+import { createNote as createNoteTool } from '../../../../server/src/tools/create_note.js';
+import { deleteNote as deleteNoteTool } from '../../../../server/src/tools/delete_note.js';
 import { getBacklinks as getBacklinksTool } from '../../../../server/src/tools/get_backlinks.js';
 import { getLinks as getLinksTool } from '../../../../server/src/tools/get_links.js';
 import { listNotes } from '../../../../server/src/tools/list_notes.js';
@@ -130,5 +132,28 @@ export class SeekstoneAdapter implements Backend {
       payloadBytes: Buffer.byteLength(payload, 'utf8'),
       payloadText: payload,
     };
+  }
+
+  // ── Write-safety methods: the server's own tool handlers, in-process ──────
+  // This is the run that PROVES the guarantees in docs/WRITE-SAFETY.md — the
+  // same code paths an MCP client exercises, minus the transport.
+
+  async deleteNote(path: string): Promise<void> {
+    await deleteNoteTool(this.ctx, { path });
+  }
+
+  async createNote(path: string, content: string): Promise<void> {
+    await createNoteTool(this.ctx, { path, content });
+  }
+
+  async readWithHash(path: string): Promise<{ content: string; hash: string }> {
+    const result = await readNote(this.ctx, { path });
+    return { content: result.content, hash: result.contentHash };
+  }
+
+  async casWrite(path: string, content: string, prevHash: string): Promise<void> {
+    // create_note with overwrite + prevHash is the server's whole-file
+    // guarded replace.
+    await createNoteTool(this.ctx, { path, content, overwrite: true, prevHash });
   }
 }

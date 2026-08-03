@@ -173,4 +173,27 @@ describe('FsAdapter', () => {
       expect(streamed).toEqual(searched);
     });
   });
+
+  describe('write-safety reference methods', () => {
+    it('createNote creates a fresh note and refuses an existing one', async () => {
+      await adapter.createNote('fresh-create.md', 'created');
+      expect(await readFile(join(vaultDir, 'fresh-create.md'), 'utf8')).toBe('created');
+      await expect(adapter.createNote('fresh-create.md', 'clobber')).rejects.toThrow();
+    });
+
+    it('deleteNote moves the note into .trash/', async () => {
+      await adapter.write('to-trash.md', 'trash payload');
+      await adapter.deleteNote('to-trash.md');
+      expect(await readFile(join(vaultDir, '.trash', 'to-trash.md'), 'utf8')).toBe('trash payload');
+    });
+
+    it('readWithHash + casWrite implement sha-256 compare-and-swap', async () => {
+      await adapter.write('cas-ref.md', 'v1');
+      const { content, hash } = await adapter.readWithHash('cas-ref.md');
+      expect(content).toBe('v1');
+      await adapter.casWrite('cas-ref.md', 'v2', hash);
+      expect((await adapter.readWithHash('cas-ref.md')).content).toBe('v2');
+      await expect(adapter.casWrite('cas-ref.md', 'v3', hash)).rejects.toThrow(/hash_conflict/);
+    });
+  });
 });

@@ -188,4 +188,22 @@ export class ObsidianMcpRsAdapter implements Backend {
     }));
     return { result: entries, payloadBytes: Buffer.byteLength(text, 'utf8'), payloadText: text };
   }
+
+  // ── Write-safety methods (delete-note / create-note verified in 0.7.1) ────
+  // The server advertises trash-based recoverable deletes; the safety op
+  // judges whether that holds byte-for-byte.
+
+  async deleteNote(path: string): Promise<void> {
+    const { filename, folder } = splitPath(path);
+    const args: Record<string, unknown> = { vault: this.vaultName, filename };
+    if (folder) args.folder = folder;
+    await this.mcp.callTool('delete-note', args);
+  }
+
+  async createNote(path: string, content: string): Promise<void> {
+    const { filename, folder } = splitPath(path);
+    const args: Record<string, unknown> = { vault: this.vaultName, filename, content };
+    if (folder) args.folder = folder;
+    await this.mcp.callTool('create-note', args);
+  }
 }

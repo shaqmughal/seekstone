@@ -1,5 +1,6 @@
-import { readdir, readFile, writeFile } from 'node:fs/promises';
-import { join } from 'node:path';
+import { createHash } from 'node:crypto';
+import { mkdir, readdir, readFile, rename, writeFile } from 'node:fs/promises';
+import { basename, join } from 'node:path';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { mapLimit } from '@seekstone/core/pmap';
 import fg from 'fast-glob';
@@ -145,6 +146,38 @@ export class FsAdapter implements Backend {
       }));
     const payload = JSON.stringify(result);
     return { result, payloadBytes: Buffer.byteLength(payload, 'utf8'), payloadText: payload };
+  }
+
+  // ── Write-safety methods: reference filesystem semantics ──────────────────
+  // These define what "correct" looks like so the CI-gated safety-fs golden
+  // exercises every op: trash-style delete, wx-flag no-clobber create, and
+  // sha-256 compare-and-swap.
+
+  async deleteNote(path: string): Promise<void> {
+    await mkdir(join(this.vaultRoot, '.trash'), { recursive: true });
+    await rename(join(this.vaultRoot, path), join(this.vaultRoot, '.trash', basename(path)));
+    this.noteMap.delete(path);
+  }
+
+  async createNote(path: string, content: string): Promise<void> {
+    // 'wx' = fail if the path exists — no clobber by construction.
+    await writeFile(join(this.vaultRoot, path), content, { encoding: 'utf8', flag: 'wx' });
+    this.noteMap.set(path, content);
+  }
+
+  async readWithHash(path: string): Promise<{ content: string; hash: string }> {
+    const content = await readFile(join(this.vaultRoot, path), 'utf8');
+    return { content, hash: createHash('sha256').update(content).digest('hex') };
+  }
+
+  async casWrite(path: string, content: string, prevHash: string): Promise<void> {
+    const current = await readFile(join(this.vaultRoot, path), 'utf8');
+    const actual = createHash('sha256').update(current).digest('hex');
+    if (actual !== prevHash) {
+      throw new Error(`hash_conflict: expected ${prevHash}, disk is ${actual}`);
+    }
+    await writeFile(join(this.vaultRoot, path), content, 'utf8');
+    this.noteMap.set(path, content);
   }
 }
 

@@ -6,7 +6,7 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterAll, afterEach, beforeAll, beforeEach, describe, expect, it, vi } from 'vitest';
 import type { ServerContext } from './context.js';
-import { dispatch } from './dispatch.js';
+import { dispatch, HANDLED_TOOLS } from './dispatch.js';
 import { buildIndex } from './index/build.js';
 import { createLogger } from './log.js';
 import { PERMISSIVE_POLICY } from './policy.js';
@@ -74,16 +74,28 @@ describe('the server makes no outbound network calls', () => {
   });
 
   it('every tool runs without opening a connection', async () => {
+    // Covers ALL 17 HANDLED_TOOLS — cited by docs/WRITE-SAFETY.md guarantee 1.
     const calls: Array<[string, unknown]> = [
       ['search', { query: 'hello' }],
+      ['query_notes', { where: [{ key: 'title', op: 'ne', value: 'x' }] }],
       ['read_note', { path: 'a.md' }],
       ['list_notes', {}],
+      ['list_tags', {}],
+      ['outline_note', { path: 'a.md' }],
+      ['get_backlinks', { path: 'a.md' }],
+      ['get_links', { path: 'a.md' }],
+      ['get_periodic_note', { period: 'daily' }],
       ['create_note', { path: 'new.md', content: 'x' }],
       ['append_note', { path: 'a.md', content: 'more' }],
       ['patch_frontmatter', { path: 'a.md', patch: { status: 'done' } }],
+      ['patch_note', { path: 'a.md', target: { heading: 'A' }, operation: 'append', content: 'y' }],
+      ['replace_in_note', { path: 'a.md', find: 'hello', replace: 'hi' }],
+      ['append_periodic_note', { period: 'daily', content: 'log line' }],
       ['move_note', { from: 'new.md', to: 'moved.md' }],
       ['delete_note', { path: 'moved.md' }],
     ];
+    const covered = new Set(calls.map(([name]) => name));
+    for (const tool of HANDLED_TOOLS) expect(covered.has(tool)).toBe(true);
     for (const [name, args] of calls) {
       const res = await dispatch(ctx, name, args, log);
       // A tool may legitimately error, but never because the network was hit.

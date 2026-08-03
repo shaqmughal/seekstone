@@ -82,6 +82,11 @@ export class ObsidianMcpProAdapter implements Backend {
     return { result: undefined, payloadBytes: Buffer.byteLength(content, 'utf8') };
   }
 
+  /** Safety: create-shaped tool — whether it refuses to clobber is what the op measures. */
+  async createNote(path: string, content: string): Promise<void> {
+    await this.mcp.callTool('create_note', { path, content });
+  }
+
   async list(path?: string): Promise<BackendResponse<ListEntry[]>> {
     const args: Record<string, unknown> = { limit: 500 };
     if (path) args.folder = path;

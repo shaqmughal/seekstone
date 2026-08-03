@@ -87,6 +87,10 @@ jobs:
       - name: MCP protocol conformance
         run: npm run conformance
 
+      # Publish gate: the write-safety contract must hold on every release.
+      - name: write-safety baseline
+        run: node scripts/check-safety-baseline.mjs
+
       # On a push that still has changesets pending → opens/updates a "Version
       # Packages" PR. On the push that merges that PR (no changesets left) →
       # publishes to npm with provenance. Re-publishing an existing version is

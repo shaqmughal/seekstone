@@ -1,9 +1,9 @@
-# Write Safety — fs
+# Write Safety — obsidian-mcp-rs
 
-- **Adapter:** Filesystem-direct (MiniSearch in-process, no HTTP round-trip)
-- **Snapshot:** 2026-08-03T03:12:07.100Z
+- **Adapter:** obsidian-mcp-rs (Rust, filesystem-direct, per-query scan, no Obsidian required)
+- **Snapshot:** 2026-08-03T03:13:02.563Z
 - **Sample:** 25 frontmatter-heavy notes
-- **Vault copy:** `<tmpdir>/seekstone-safety-Xm6v9q`
+- **Vault copy:** `<tmpdir>/seekstone-safety-Wi4Phm`
 - **Original (read-only, untouched):** `packages/harness/fixtures/vault`
 
 ## Summary
@@ -17,7 +17,7 @@
 | replace-in-note | 25 | 0 | 0 | ✅ Pass |
 | recoverable-delete | 25 | 0 | 0 | ✅ Pass |
 | create-no-clobber | 25 | 0 | 0 | ✅ Pass |
-| cas-conflict | 25 | 0 | 0 | ✅ Pass |
+| cas-conflict | 0 | 0 | 25 | — n/a (unsupported by adapter) |
 
 > Skipped = the adapter does not expose the capability (delete/create/CAS), or the op does not apply to a note's shape. Skips are the capability matrix, not failures.
 

@@ -1,10 +1,10 @@
 {
-  "snapshotDate": "2026-08-03T03:12:07.100Z",
+  "snapshotDate": "2026-08-03T03:12:56.203Z",
   "backend": {
-    "name": "fs",
-    "description": "Filesystem-direct (MiniSearch in-process, no HTTP round-trip)"
+    "name": "seekstone",
+    "description": "Seekstone server (in-process function calls, no IPC)"
   },
-  "vaultCopyRoot": "<tmpdir>/seekstone-safety-Xm6v9q",
+  "vaultCopyRoot": "<tmpdir>/seekstone-safety-zUiVNz",
   "originalVaultRoot": "packages/harness/fixtures/vault",
   "sampleSize": 25,
   "passByOp": {

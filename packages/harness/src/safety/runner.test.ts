@@ -157,6 +157,87 @@ describe('runSafety', () => {
   });
 });
 
+describe('runSafety — behavioral ops and skip semantics', () => {
+  let origDir: string;
+  let copyDir: string;
+
+  beforeAll(async () => {
+    origDir = await mkdtemp(join(tmpdir(), 'seekstone-safety-behav-orig-'));
+    copyDir = await mkdtemp(join(tmpdir(), 'seekstone-safety-behav-copy-'));
+    await writeNotes(origDir);
+  });
+
+  afterAll(async () => {
+    await rm(origDir, { recursive: true, force: true });
+    await rm(copyDir, { recursive: true, force: true });
+  });
+
+  it('runs all behavioral ops to pass with the fs reference adapter', async () => {
+    await writeNotes(copyDir);
+    const freshAdapter = await FsAdapter.build({ vaultRoot: copyDir });
+    const summary = await runSafety({
+      originalVaultRoot: origDir,
+      backend: freshAdapter,
+      vaultCopyRoot: copyDir,
+      sampleSize: 25,
+    });
+    expect(summary.passByOp['recoverable-delete'].pass).toBe(3);
+    expect(summary.passByOp['create-no-clobber'].pass).toBe(3);
+    expect(summary.passByOp['cas-conflict'].pass).toBe(3);
+  });
+
+  it('records skipped (not failed) for a write-only backend without the optional methods', async () => {
+    await writeNotes(copyDir);
+    const fsBacked = await FsAdapter.build({ vaultRoot: copyDir });
+    const writeOnly = {
+      name: 'write-only',
+      description: 'minimal backend without safety capabilities',
+      search: fsBacked.search.bind(fsBacked),
+      read: fsBacked.read.bind(fsBacked),
+      write: fsBacked.write.bind(fsBacked),
+      list: fsBacked.list.bind(fsBacked),
+    };
+    const summary = await runSafety({
+      originalVaultRoot: origDir,
+      backend: writeOnly,
+      vaultCopyRoot: copyDir,
+      sampleSize: 25,
+    });
+    for (const op of ['recoverable-delete', 'create-no-clobber', 'cas-conflict'] as const) {
+      expect(summary.passByOp[op].skipped).toBe(3);
+      expect(summary.passByOp[op].fail).toBe(0);
+    }
+    const reasons = summary.notes.flatMap((n) =>
+      n.ops.filter((o) => o.status === 'skipped').map((o) => o.reason),
+    );
+    expect(reasons.some((r) => r?.includes('backend does not support'))).toBe(true);
+  });
+
+  it('records a fail (not a crash) when the backend write throws', async () => {
+    await writeNotes(copyDir);
+    const fsBacked = await FsAdapter.build({ vaultRoot: copyDir });
+    const refusingWrite = {
+      name: 'refusing',
+      description: 'backend whose write always refuses',
+      search: fsBacked.search.bind(fsBacked),
+      read: fsBacked.read.bind(fsBacked),
+      write: async (): Promise<never> => {
+        throw new Error('Note already exists. Use append or update tools instead.');
+      },
+      list: fsBacked.list.bind(fsBacked),
+    };
+    const summary = await runSafety({
+      originalVaultRoot: origDir,
+      backend: refusingWrite,
+      vaultCopyRoot: copyDir,
+      sampleSize: 25,
+    });
+    expect(summary.passByOp.identity.fail).toBe(3);
+    const firstFail = summary.notes[0]?.ops.find((o) => o.status === 'fail');
+    expect(firstFail?.reason).toContain('write call errored');
+  });
+});
+
 describe('prepareSafetyVault', () => {
   it('returns a copyRoot under os.tmpdir() containing the source files', async () => {
     const { realpath } = await import('node:fs/promises');

@@ -1,7 +1,15 @@
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { parseDocument } from 'yaml';
 
-export type OpKind = 'identity' | 'body-append' | 'fm-edit' | 'patch-note' | 'replace-in-note';
+export type OpKind =
+  | 'identity'
+  | 'body-append'
+  | 'fm-edit'
+  | 'patch-note'
+  | 'replace-in-note'
+  | 'recoverable-delete'
+  | 'create-no-clobber'
+  | 'cas-conflict';
 
 export interface OpResult {
   /** The bytes to write back via the adapter. */

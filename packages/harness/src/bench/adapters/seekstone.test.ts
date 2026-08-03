@@ -123,4 +123,35 @@ describe('SeekstoneAdapter', () => {
     expect(result).toBeDefined();
     expect(payloadBytes).toBeGreaterThan(0);
   });
+
+  it('readWithHash() returns content plus the server contentHash', async () => {
+    const { content, hash } = await adapter.readWithHash('note1.md');
+    expect(content.length).toBeGreaterThan(0);
+    expect(hash).toMatch(/^[0-9a-f]{64}$/);
+  });
+
+  it('casWrite() with the current hash replaces; with a stale hash it conflicts', async () => {
+    await adapter.write('cas-target.md', '# CAS\n\noriginal\n');
+    const { hash } = await adapter.readWithHash('cas-target.md');
+    await adapter.casWrite('cas-target.md', '# CAS\n\nreplaced\n', hash);
+    const after = await adapter.readWithHash('cas-target.md');
+    expect(after.content).toContain('replaced');
+    await expect(adapter.casWrite('cas-target.md', 'never lands', hash)).rejects.toThrow(
+      /hash_conflict/,
+    );
+  });
+
+  it('createNote() refuses an existing path', async () => {
+    await adapter.write('exists.md', 'already here');
+    await expect(adapter.createNote('exists.md', 'clobber attempt')).rejects.toThrow(
+      /already exists/,
+    );
+  });
+
+  it('deleteNote() trashes recoverably', async () => {
+    await adapter.write('doomed.md', 'trash me');
+    await adapter.deleteNote('doomed.md');
+    const { result } = await adapter.read('.trash/doomed.md');
+    expect(result).toBe('trash me');
+  });
 });

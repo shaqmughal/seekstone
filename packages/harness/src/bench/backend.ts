@@ -71,6 +71,23 @@ export interface Backend {
   /** get_periodic_note — resolve today's or a given date's periodic note path. */
   getPeriodicNote?(period?: string, date?: string): Promise<BackendResponse<unknown>>;
 
+  /**
+   * Write-safety methods. Optional — the safety runner records ops whose
+   * method is absent as `skipped`, which becomes the capability matrix in
+   * the safety comparison. Unlike the byte-faithful `write`, these express
+   * server-side SEMANTICS (recoverability, no-clobber, CAS), so the safety
+   * ops judge the observed behavior, not just the bytes.
+   */
+
+  /** Delete a note through the server's delete tool (recoverably, if it supports that). */
+  deleteNote?(path: string): Promise<void>;
+  /** Create a note WITHOUT overwrite semantics; expected to fail when the path exists. */
+  createNote?(path: string, content: string): Promise<void>;
+  /** Read a note plus a version token usable with casWrite. */
+  readWithHash?(path: string): Promise<{ content: string; hash: string }>;
+  /** Whole-file write guarded by a version token; expected to fail when the note changed. */
+  casWrite?(path: string, content: string, prevHash: string): Promise<void>;
+
   /** Optional cleanup (close keep-alive connections, etc). */
   close?(): Promise<void>;
 }
