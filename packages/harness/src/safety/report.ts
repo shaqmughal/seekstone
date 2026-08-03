@@ -15,13 +15,16 @@ export function renderSafetyMarkdown(s: SafetySummary): string {
 
   push(`## Summary`);
   push();
-  push(`| Op | Pass | Fail | Verdict |`);
-  push(`| --- | ---: | ---: | --- |`);
+  push(`| Op | Pass | Fail | Skipped | Verdict |`);
+  push(`| --- | ---: | ---: | ---: | --- |`);
   for (const [op, r] of Object.entries(s.passByOp)) {
-    const total = r.pass + r.fail;
-    const verdict = opVerdict(op, r.pass, r.fail, total);
-    push(`| ${op} | ${r.pass} | ${r.fail} | ${verdict} |`);
+    const verdict = opVerdict(r.pass, r.fail, r.skipped, s.notes, op);
+    push(`| ${op} | ${r.pass} | ${r.fail} | ${r.skipped} | ${verdict} |`);
   }
+  push();
+  push(
+    `> Skipped = the adapter does not expose the capability (delete/create/CAS), or the op does not apply to a note's shape. Skips are the capability matrix, not failures.`,
+  );
   push();
 
   // Highlight systemic failures with a dedicated call-out block.
@@ -34,9 +37,9 @@ export function renderSafetyMarkdown(s: SafetySummary): string {
     push();
   }
 
-  const failed = s.notes.filter((n) => n.ops.some((o) => !o.pass));
+  const failed = s.notes.filter((n) => n.ops.some((o) => o.status === 'fail'));
   if (failed.length === 0) {
-    push(`✅ All ${s.sampleSize} sampled notes round-tripped byte-faithfully.`);
+    push(`✅ No failures across ${s.sampleSize} sampled notes.`);
     push();
     return out.join('\n');
   }
@@ -47,7 +50,8 @@ export function renderSafetyMarkdown(s: SafetySummary): string {
   push(`| --- | --- | --- |`);
   for (const n of failed) {
     for (const o of n.ops) {
-      if (!o.pass) push(`| \`${n.relPath}\` | ${o.op} | ${mdCellEscape(o.reason ?? '—')} |`);
+      if (o.status === 'fail')
+        push(`| \`${n.relPath}\` | ${o.op} | ${mdCellEscape(o.reason ?? '—')} |`);
     }
   }
   push();
@@ -63,27 +67,32 @@ interface SystemicFinding {
  * Detect failure patterns that are systemic (all-or-nothing across the sample)
  * rather than note-specific edge cases. These warrant explicit call-outs in the
  * report because they represent adapter-level bugs, not data anomalies.
+ * Skipped results are ignored — an absent capability is not a failure.
  */
 function detectSystemicFailures(s: SafetySummary): SystemicFinding[] {
   const findings: SystemicFinding[] = [];
 
   for (const [op, r] of Object.entries(s.passByOp)) {
-    const total = r.pass + r.fail;
-    if (total === 0 || r.fail === 0) continue;
+    const attempted = r.pass + r.fail;
+    if (attempted === 0 || r.fail === 0) continue;
 
-    const pct = Math.round((r.fail / total) * 100);
+    const pct = Math.round((r.fail / attempted) * 100);
     if (pct < 100) continue; // not systemic — skip, table covers it
 
-    // All notes failed this op. Determine the likely cause from the first failure reason.
+    // All attempted notes failed this op. Determine the likely cause from the first failure reason.
     const firstFail = s.notes
       .flatMap((n) => n.ops)
-      .find((o): o is SafetyOpResult & { pass: false } => o.op === op && !o.pass);
+      .find((o): o is SafetyOpResult => o.op === op && o.status === 'fail');
 
     const reason = firstFail?.reason ?? 'unknown';
 
-    if (op === 'body-append') {
+    // The REST-plugin silent-data-loss narrative only applies when writes
+    // REPORT success but the bytes never land. A refused write (e.g. an
+    // adapter whose only write tool rejects existing paths) is a different,
+    // far less dangerous failure mode — use the generic call-out.
+    if (op === 'body-append' && !reason.startsWith('write call errored')) {
       findings.push({
-        title: `Silent data loss on body-append (${r.fail}/${total} notes, 100%)`,
+        title: `Silent data loss on body-append (${r.fail}/${attempted} notes, 100%)`,
         body: [
           `The adapter returned HTTP 204 (success) for every write but silently discarded`,
           `the appended content. On-disk file length matched the pre-write original exactly.`,
@@ -106,7 +115,7 @@ function detectSystemicFailures(s: SafetySummary): SystemicFinding[] {
       });
     } else {
       findings.push({
-        title: `Systemic failure on ${op} (${r.fail}/${total} notes, 100%)`,
+        title: `Systemic failure on ${op} (${r.fail}/${attempted} notes, 100%)`,
         body: [`First failure reason: \`${mdCellEscape(reason)}\``],
       });
     }
@@ -115,10 +124,26 @@ function detectSystemicFailures(s: SafetySummary): SystemicFinding[] {
   return findings;
 }
 
-function opVerdict(_op: string, pass: number, fail: number, total: number): string {
+function opVerdict(
+  pass: number,
+  fail: number,
+  skipped: number,
+  notes: SafetySummary['notes'],
+  op: string,
+): string {
+  const attempted = pass + fail;
+  if (attempted === 0) {
+    if (skipped === 0) return '—';
+    const firstSkip = notes
+      .flatMap((n) => n.ops)
+      .find((o) => o.op === op && o.status === 'skipped');
+    return firstSkip?.reason?.startsWith('backend does not support')
+      ? '— n/a (unsupported by adapter)'
+      : '— n/a';
+  }
   if (fail === 0) return '✅ Pass';
-  if (pass === 0) return `❌ **Fail — all ${total} notes** (systemic)`;
-  return `⚠️ Partial — ${fail}/${total} failed`;
+  if (pass === 0) return `❌ **Fail — all ${attempted} attempted notes** (systemic)`;
+  return `⚠️ Partial — ${fail}/${attempted} failed`;
 }
 
 function mdCellEscape(s: string): string {

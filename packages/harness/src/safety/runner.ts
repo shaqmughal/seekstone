@@ -1,6 +1,7 @@
 import { readFile } from 'node:fs/promises';
 import { join, resolve } from 'node:path';
 import type { Backend } from '../bench/backend.js';
+import { casConflictOp, createNoClobberOp, recoverableDeleteOp } from './behavioral-ops.js';
 import { copyVault } from './copy.js';
 import {
   bodyAppendOp,
@@ -13,9 +14,11 @@ import {
 } from './ops.js';
 import { selectFrontmatterHeavyNotes } from './select.js';
 
+export type OpStatus = 'pass' | 'fail' | 'skipped';
+
 export interface SafetyOpResult {
   op: OpKind;
-  pass: boolean;
+  status: OpStatus;
   reason?: string;
   change: string;
 }
@@ -32,7 +35,7 @@ export interface SafetySummary {
   vaultCopyRoot: string;
   originalVaultRoot: string;
   sampleSize: number;
-  passByOp: Record<OpKind, { pass: number; fail: number }>;
+  passByOp: Record<OpKind, { pass: number; fail: number; skipped: number }>;
   notes: SafetyNoteResult[];
 }
 
@@ -50,16 +53,22 @@ export interface SafetyRunnerOptions {
   sampleSize?: number;
 }
 
+/** The byte-transform ops (need only backend.write). */
+const BYTE_OPS: OpKind[] = ['identity', 'body-append', 'fm-edit', 'patch-note', 'replace-in-note'];
+/** The behavioral ops (need optional Backend methods; skipped when absent). */
+const BEHAVIORAL_OPS: OpKind[] = ['recoverable-delete', 'create-no-clobber', 'cas-conflict'];
+
 /**
  * Top-level write-safety test.
  *
  * Workflow:
  *   1. caller copies the vault and starts a backend pointing at the copy
  *   2. caller calls this function with the copy root + backend
- *   3. for each sample note, we read its bytes from disk, run identity /
- *      body-append / fm-edit ops, write via the backend, re-read from disk,
- *      and verify
- *   4. report pass/fail per op per note
+ *   3. for each sample note, we read its bytes from disk, run the byte ops
+ *      (write via backend, re-read, verify) then the behavioral ops
+ *      (delete/create/CAS semantics; skipped when the backend lacks the
+ *      capability — the skip IS the capability matrix)
+ *   4. report pass/fail/skipped per op per note
  */
 export async function runSafety(opts: SafetyRunnerOptions): Promise<SafetySummary> {
   const sampleSize = opts.sampleSize ?? 25;
@@ -72,38 +81,89 @@ export async function runSafety(opts: SafetyRunnerOptions): Promise<SafetySummar
 
   const candidates = await selectFrontmatterHeavyNotes(copyAbs, { sample: sampleSize });
   const notes: SafetyNoteResult[] = [];
-  const passByOp: Record<OpKind, { pass: number; fail: number }> = {
-    identity: { pass: 0, fail: 0 },
-    'body-append': { pass: 0, fail: 0 },
-    'fm-edit': { pass: 0, fail: 0 },
-    'patch-note': { pass: 0, fail: 0 },
-    'replace-in-note': { pass: 0, fail: 0 },
+  const passByOp = Object.fromEntries(
+    [...BYTE_OPS, ...BEHAVIORAL_OPS].map((k) => [k, { pass: 0, fail: 0, skipped: 0 }]),
+  ) as Record<OpKind, { pass: number; fail: number; skipped: number }>;
+
+  const record = (list: SafetyOpResult[], r: SafetyOpResult): void => {
+    list.push(r);
+    passByOp[r.op][r.status] += 1;
   };
 
   for (const c of candidates) {
     const noteResults: SafetyOpResult[] = [];
-    for (const opKind of [
-      'identity',
-      'body-append',
-      'fm-edit',
-      'patch-note',
-      'replace-in-note',
-    ] as OpKind[]) {
+
+    for (const opKind of BYTE_OPS) {
       // Always re-read fresh — previous ops may have left the file modified.
       const original = await readFile(c.absPath);
       const op = buildOp(opKind, original);
       if (!op) {
-        noteResults.push({ op: opKind, pass: false, reason: 'op not applicable', change: '—' });
-        passByOp[opKind].fail += 1;
+        // Note-shape inapplicability (no frontmatter / heading / eligible
+        // word) — not an adapter failure.
+        record(noteResults, {
+          op: opKind,
+          status: 'skipped',
+          reason: 'op not applicable to this note',
+          change: '—',
+        });
         continue;
       }
-      await opts.backend.write(c.relPath, op.bytes.toString('utf8'));
+      try {
+        await opts.backend.write(c.relPath, op.bytes.toString('utf8'));
+      } catch (err) {
+        // e.g. an adapter whose only write-shaped tool refuses existing paths
+        // (obsidian-mcp-pro create_note). Record and continue — one adapter
+        // quirk must not abort the whole run.
+        record(noteResults, {
+          op: opKind,
+          status: 'fail',
+          reason: `write call errored: ${(err as Error).message}`,
+          change: op.change,
+        });
+        continue;
+      }
       const post = await readFile(c.absPath);
       const v = op.verify(post, original);
-      noteResults.push({ op: opKind, pass: v.pass, reason: v.reason, change: op.change });
-      if (v.pass) passByOp[opKind].pass += 1;
-      else passByOp[opKind].fail += 1;
+      record(noteResults, {
+        op: opKind,
+        status: v.pass ? 'pass' : 'fail',
+        reason: v.reason,
+        change: op.change,
+      });
     }
+
+    for (const opKind of BEHAVIORAL_OPS) {
+      const skip = (missing: string): void =>
+        record(noteResults, {
+          op: opKind,
+          status: 'skipped',
+          reason: `backend does not support ${missing}`,
+          change: '—',
+        });
+      if (opKind === 'recoverable-delete') {
+        if (!opts.backend.deleteNote) {
+          skip('deleteNote');
+          continue;
+        }
+        const r = await recoverableDeleteOp(opts.backend, c.relPath, c.absPath, copyAbs);
+        record(noteResults, { op: opKind, ...r });
+      } else if (opKind === 'create-no-clobber') {
+        if (!opts.backend.createNote) {
+          skip('createNote');
+          continue;
+        }
+        const r = await createNoClobberOp(opts.backend, c.relPath, c.absPath);
+        record(noteResults, { op: opKind, ...r });
+      } else {
+        if (!opts.backend.readWithHash || !opts.backend.casWrite) {
+          skip('readWithHash/casWrite');
+          continue;
+        }
+        const r = await casConflictOp(opts.backend, c.relPath, c.absPath);
+        record(noteResults, { op: opKind, ...r });
+      }
+    }
+
     notes.push({ relPath: c.relPath, fmKeys: c.fmKeys, ops: noteResults });
   }
 
@@ -130,6 +190,8 @@ function buildOp(kind: OpKind, original: Buffer): OpResult | null {
       return patchNoteOp(original);
     case 'replace-in-note':
       return replaceInNoteOp(original);
+    default:
+      throw new Error(`buildOp called with behavioral op: ${kind}`);
   }
 }
 

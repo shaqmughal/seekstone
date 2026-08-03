@@ -1,10 +1,10 @@
 {
-  "snapshotDate": "2026-08-03T03:12:07.100Z",
+  "snapshotDate": "2026-08-03T03:13:02.563Z",
   "backend": {
-    "name": "fs",
-    "description": "Filesystem-direct (MiniSearch in-process, no HTTP round-trip)"
+    "name": "obsidian-mcp-rs",
+    "description": "obsidian-mcp-rs (Rust, filesystem-direct, per-query scan, no Obsidian required)"
   },
-  "vaultCopyRoot": "<tmpdir>/seekstone-safety-Xm6v9q",
+  "vaultCopyRoot": "<tmpdir>/seekstone-safety-Wi4Phm",
   "originalVaultRoot": "packages/harness/fixtures/vault",
   "sampleSize": 25,
   "passByOp": {
@@ -44,9 +44,9 @@
       "skipped": 0
     },
     "cas-conflict": {
-      "pass": 25,
+      "pass": 0,
       "fail": 0,
-      "skipped": 0
+      "skipped": 25
     }
   },
   "notes": [
@@ -87,7 +87,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Antelope.md",
+          "reason": "recoverable at .trash/0 Inbox/Antelope.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -97,8 +97,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -139,7 +140,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Arch.md",
+          "reason": "recoverable at .trash/Encyclopedia/A/Arch.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -149,8 +150,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -191,7 +193,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Barker'S Mill.md",
+          "reason": "recoverable at .trash/Encyclopedia/B/Barker'S Mill.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -201,8 +203,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -242,7 +245,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Bonstetten.md",
+          "reason": "recoverable at .trash/Encyclopedia/B/Bonstetten.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -252,8 +255,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -293,7 +297,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Cape Town.md",
+          "reason": "recoverable at .trash/Encyclopedia/C/Cape Town.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -303,8 +307,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -345,7 +350,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Chrysoberyl.md",
+          "reason": "recoverable at .trash/Encyclopedia/C/Chrysoberyl.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -355,8 +360,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -396,7 +402,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Cross.md",
+          "reason": "recoverable at .trash/Encyclopedia/C/Cross.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -406,8 +412,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -450,7 +457,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Docket.md",
+          "reason": "recoverable at .trash/Encyclopedia/D/Docket.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -460,8 +467,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -502,7 +510,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Espinay.md",
+          "reason": "recoverable at .trash/Encyclopedia/E/Espinay.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -512,8 +520,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -554,7 +563,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Fraternities.md",
+          "reason": "recoverable at .trash/Encyclopedia/F/Fraternities.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -564,8 +573,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -606,7 +616,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Gotter.md",
+          "reason": "recoverable at .trash/Encyclopedia/G/Gotter.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -616,8 +626,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -657,7 +668,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Hesperides.md",
+          "reason": "recoverable at .trash/Encyclopedia/H/Hesperides.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -667,8 +678,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -708,7 +720,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Irbit.md",
+          "reason": "recoverable at .trash/Encyclopedia/I/Irbit.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -718,8 +730,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -760,7 +773,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Kingston.md",
+          "reason": "recoverable at .trash/Encyclopedia/K/Kingston.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -770,8 +783,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -812,7 +826,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Lewes.md",
+          "reason": "recoverable at .trash/Encyclopedia/L/Lewes.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -822,8 +836,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -865,7 +880,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Marquetry.md",
+          "reason": "recoverable at .trash/Encyclopedia/M/Marquetry.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -875,8 +890,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -916,7 +932,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/science-studies MOC.md",
+          "reason": "recoverable at .trash/MOCs/science-studies MOC.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -926,8 +942,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -968,7 +985,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Curacao.md",
+          "reason": "recoverable at .trash/Notes/Curacao.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -978,8 +995,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -1022,7 +1040,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Isfahan.md",
+          "reason": "recoverable at .trash/Notes/Isfahan.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -1032,8 +1050,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -1074,7 +1093,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Berdyansk.md",
+          "reason": "recoverable at .trash/Reference/Berdyansk.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -1084,8 +1103,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -1126,7 +1146,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Descriptive Poetry.md",
+          "reason": "recoverable at .trash/Reference/Descriptive Poetry.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -1136,8 +1156,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -1178,7 +1199,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Henry V..md",
+          "reason": "recoverable at .trash/Reference/Henry V..md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -1188,8 +1209,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -1230,7 +1252,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Market Harborough.md",
+          "reason": "recoverable at .trash/Reference/Market Harborough.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -1240,8 +1262,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -1282,7 +1305,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Chieti.md",
+          "reason": "recoverable at .trash/Sources/Chieti.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -1292,8 +1315,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -1335,7 +1359,7 @@
         {
           "op": "recoverable-delete",
           "status": "pass",
-          "reason": "recoverable at .trash/Gervex.md",
+          "reason": "recoverable at .trash/Sources/Gervex.md",
           "change": "delete via server tool; expect a recoverable copy"
         },
         {
@@ -1345,8 +1369,9 @@
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     }

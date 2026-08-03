@@ -53,6 +53,14 @@ jobs:
         if: matrix.os == 'ubuntu-latest'
         run: npm run conformance
 
+      # Gate: the write-safety contract (docs/WRITE-SAFETY.md). Runs the
+      # harness safety suite (fs backend) against the committed fixture vault
+      # and diffs against the committed golden — any guarantee regressing
+      # fails CI. Behavior is OS-independent; run once (Linux).
+      - name: write-safety baseline
+        if: matrix.os == 'ubuntu-latest'
+        run: node scripts/check-safety-baseline.mjs
+
       # Guard: server.json (the MCP registry manifest) must match the package
       # versions. A manual `mcp-publisher publish` reads this file as-is, so a
       # stale version here would regress the registry. Runs once (Linux).

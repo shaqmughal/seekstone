@@ -1,10 +1,10 @@
 {
-  "snapshotDate": "2026-08-03T03:12:07.100Z",
+  "snapshotDate": "2026-08-03T03:13:07.463Z",
   "backend": {
-    "name": "fs",
-    "description": "Filesystem-direct (MiniSearch in-process, no HTTP round-trip)"
+    "name": "mcpvault",
+    "description": "mcpvault @bitbonsai (filesystem-direct, MCP stdio subprocess)"
   },
-  "vaultCopyRoot": "<tmpdir>/seekstone-safety-Xm6v9q",
+  "vaultCopyRoot": "<tmpdir>/seekstone-safety-PibB6i",
   "originalVaultRoot": "packages/harness/fixtures/vault",
   "sampleSize": 25,
   "passByOp": {
@@ -34,19 +34,19 @@
       "skipped": 0
     },
     "recoverable-delete": {
-      "pass": 25,
+      "pass": 0,
       "fail": 0,
-      "skipped": 0
+      "skipped": 25
     },
     "create-no-clobber": {
-      "pass": 25,
+      "pass": 0,
       "fail": 0,
-      "skipped": 0
+      "skipped": 25
     },
     "cas-conflict": {
-      "pass": 25,
+      "pass": 0,
       "fail": 0,
-      "skipped": 0
+      "skipped": 25
     }
   },
   "notes": [
@@ -86,19 +86,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Antelope.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -138,19 +140,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Arch.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -190,19 +194,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Barker'S Mill.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -241,19 +247,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Bonstetten.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -292,19 +300,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Cape Town.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -344,19 +354,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Chrysoberyl.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -395,19 +407,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Cross.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -449,19 +463,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Docket.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -501,19 +517,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Espinay.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -553,19 +571,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Fraternities.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -605,19 +625,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Gotter.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -656,19 +678,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Hesperides.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -707,19 +731,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Irbit.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -759,19 +785,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Kingston.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -811,19 +839,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Lewes.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -864,19 +894,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Marquetry.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -915,19 +947,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/science-studies MOC.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -967,19 +1001,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Curacao.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -1021,19 +1057,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Isfahan.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -1073,19 +1111,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Berdyansk.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -1125,19 +1165,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Descriptive Poetry.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -1177,19 +1219,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Henry V..md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -1229,19 +1273,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Market Harborough.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -1281,19 +1327,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Chieti.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     },
@@ -1334,19 +1382,21 @@
         },
         {
           "op": "recoverable-delete",
-          "status": "pass",
-          "reason": "recoverable at .trash/Gervex.md",
-          "change": "delete via server tool; expect a recoverable copy"
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
         },
         {
           "op": "create-no-clobber",
-          "status": "pass",
-          "change": "create over an existing note; expect refusal"
+          "status": "skipped",
+          "reason": "backend does not support createNote",
+          "change": "—"
         },
         {
           "op": "cas-conflict",
-          "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
         }
       ]
     }

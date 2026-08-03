@@ -81,7 +81,7 @@ Write:
 - **What it is:** A stdio MCP server for reading and writing Obsidian vaults
 - **What it is not:** A plugin, a REST proxy, a cloud service, or anything that requires Obsidian to be running
 - **Privacy:** No network calls, no telemetry. All data stays on the local machine.
-- **Write safety:** `SEEKSTONE_READ_ONLY=1` runs the server read-only (write tools unregistered and rejected); `SEEKSTONE_WRITE_PATHS` (comma-separated globs, e.g. `journal/**`) restricts writes to allowed folders. Both enforced at the dispatch layer.
+- **Write safety:** Seekstone ships a named Write-Safety Contract (docs/WRITE-SAFETY.md) of eight tested guarantees: zero network/telemetry, vault sandbox, byte-identical frontmatter on body edits, atomic writes (no torn files), creates never clobber, recoverable deletes (moved to `.trash/`, not unlinked), optional compare-and-swap edits (`contentHash`/`prevHash` with structured `hash_conflict` errors), and write scoping (`SEEKSTONE_WRITE_PATHS`) / read-only mode (`SEEKSTONE_READ_ONLY=1`, write tools unregistered and rejected). Every guarantee is enforced in code and proven by a test that runs in CI on every commit and release; the harness safety suite verifies them byte-by-byte and runs headlessly against competing servers for comparison.
 - **Compatibility:** Any MCP-over-stdio client — Claude Desktop, Claude Code, Cursor, Windsurf, Continue
 - **License:** MIT
 

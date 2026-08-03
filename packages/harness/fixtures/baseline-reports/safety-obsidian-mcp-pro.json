@@ -1,0 +1,1504 @@
+{
+  "snapshotDate": "2026-08-03T03:22:05.318Z",
+  "backend": {
+    "name": "obsidian-mcp-pro",
+    "description": "obsidian-mcp-pro (rps321321, filesystem-direct, no Obsidian required)"
+  },
+  "vaultCopyRoot": "<tmpdir>/seekstone-safety-8oYPyj",
+  "originalVaultRoot": "packages/harness/fixtures/vault",
+  "sampleSize": 25,
+  "passByOp": {
+    "identity": {
+      "pass": 0,
+      "fail": 25,
+      "skipped": 0
+    },
+    "body-append": {
+      "pass": 0,
+      "fail": 25,
+      "skipped": 0
+    },
+    "fm-edit": {
+      "pass": 0,
+      "fail": 25,
+      "skipped": 0
+    },
+    "patch-note": {
+      "pass": 0,
+      "fail": 25,
+      "skipped": 0
+    },
+    "replace-in-note": {
+      "pass": 0,
+      "fail": 25,
+      "skipped": 0
+    },
+    "recoverable-delete": {
+      "pass": 0,
+      "fail": 0,
+      "skipped": 25
+    },
+    "create-no-clobber": {
+      "pass": 25,
+      "fail": 0,
+      "skipped": 0
+    },
+    "cas-conflict": {
+      "pass": 0,
+      "fail": 0,
+      "skipped": 25
+    }
+  },
+  "notes": [
+    {
+      "relPath": "0 Inbox/Antelope.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at '0 Inbox/Antelope.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at '0 Inbox/Antelope.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at '0 Inbox/Antelope.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at '0 Inbox/Antelope.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at '0 Inbox/Antelope.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Antelope\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/A/Arch.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/A/Arch.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/A/Arch.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/A/Arch.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/A/Arch.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/A/Arch.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Arch\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/B/Barker'S Mill.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "tags"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/B/Barker'S Mill.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/B/Barker'S Mill.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/B/Barker'S Mill.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/B/Barker'S Mill.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/B/Barker'S Mill.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Barker\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/B/Bonstetten.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/B/Bonstetten.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/B/Bonstetten.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/B/Bonstetten.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/B/Bonstetten.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/B/Bonstetten.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Bonstetten\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/C/Cape Town.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/C/Cape Town.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/C/Cape Town.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/C/Cape Town.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/C/Cape Town.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/C/Cape Town.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Cape\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/C/Chrysoberyl.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "source"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/C/Chrysoberyl.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/C/Chrysoberyl.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/C/Chrysoberyl.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/C/Chrysoberyl.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/C/Chrysoberyl.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Chrysoberyl\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/C/Cross.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/C/Cross.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/C/Cross.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/C/Cross.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/C/Cross.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/C/Cross.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Cross\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/D/Docket.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type",
+        "source",
+        "id"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/D/Docket.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/D/Docket.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/D/Docket.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/D/Docket.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/D/Docket.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Docket\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/E/Espinay.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/E/Espinay.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/E/Espinay.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/E/Espinay.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/E/Espinay.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/E/Espinay.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Espinay\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/F/Fraternities.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/F/Fraternities.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/F/Fraternities.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/F/Fraternities.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/F/Fraternities.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/F/Fraternities.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Fraternities\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/G/Gotter.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "source"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/G/Gotter.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/G/Gotter.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/G/Gotter.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/G/Gotter.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/G/Gotter.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Gotter\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/H/Hesperides.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/H/Hesperides.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/H/Hesperides.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/H/Hesperides.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/H/Hesperides.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/H/Hesperides.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Hesperides\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/I/Irbit.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/I/Irbit.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/I/Irbit.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/I/Irbit.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/I/Irbit.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/I/Irbit.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Irbit\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/K/Kingston.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/K/Kingston.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/K/Kingston.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/K/Kingston.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/K/Kingston.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/K/Kingston.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Kingston\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/L/Lewes.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/L/Lewes.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/L/Lewes.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/L/Lewes.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/L/Lewes.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/L/Lewes.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Lewes\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Encyclopedia/M/Marquetry.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type",
+        "tags"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/M/Marquetry.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/M/Marquetry.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/M/Marquetry.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/M/Marquetry.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/M/Marquetry.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Marquetry\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "MOCs/science-studies MOC.md",
+      "fmKeys": [
+        "title",
+        "type",
+        "topic"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'MOCs/science-studies MOC.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'MOCs/science-studies MOC.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'MOCs/science-studies MOC.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'MOCs/science-studies MOC.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'MOCs/science-studies MOC.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"science\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Notes/Curacao.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Notes/Curacao.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Notes/Curacao.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Notes/Curacao.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Notes/Curacao.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Notes/Curacao.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Curacao\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Notes/Isfahan.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type",
+        "source",
+        "tags"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Notes/Isfahan.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Notes/Isfahan.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Notes/Isfahan.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Notes/Isfahan.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Notes/Isfahan.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Isfahan\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Reference/Berdyansk.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Berdyansk.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Berdyansk.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Berdyansk.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Berdyansk.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Berdyansk.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Berdyansk\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Reference/Descriptive Poetry.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "tags"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Descriptive Poetry.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Descriptive Poetry.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Descriptive Poetry.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Descriptive Poetry.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Descriptive Poetry.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Descriptive\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Reference/Henry V..md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "type"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Henry V..md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Henry V..md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Henry V..md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Henry V..md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Henry V..md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Henry\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Reference/Market Harborough.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "source"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Market Harborough.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Market Harborough.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Market Harborough.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Market Harborough.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Market Harborough.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Market\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Sources/Chieti.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "source"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Sources/Chieti.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Sources/Chieti.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Sources/Chieti.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Sources/Chieti.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Sources/Chieti.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Chieti\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    },
+    {
+      "relPath": "Sources/Gervex.md",
+      "fmKeys": [
+        "title",
+        "date_created",
+        "topic",
+        "source",
+        "id"
+      ],
+      "ops": [
+        {
+          "op": "identity",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Sources/Gervex.md'. Use append or update tools instead.",
+          "change": "identity round-trip"
+        },
+        {
+          "op": "body-append",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Sources/Gervex.md'. Use append or update tools instead.",
+          "change": "append 29 bytes to body"
+        },
+        {
+          "op": "fm-edit",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Sources/Gervex.md'. Use append or update tools instead.",
+          "change": "add frontmatter key _seekstone_check"
+        },
+        {
+          "op": "patch-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Sources/Gervex.md'. Use append or update tools instead.",
+          "change": "insert marker after heading at line 1"
+        },
+        {
+          "op": "replace-in-note",
+          "status": "fail",
+          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Sources/Gervex.md'. Use append or update tools instead.",
+          "change": "replace first occurrence of \"Gervex\" with marked version"
+        },
+        {
+          "op": "recoverable-delete",
+          "status": "skipped",
+          "reason": "backend does not support deleteNote",
+          "change": "—"
+        },
+        {
+          "op": "create-no-clobber",
+          "status": "pass",
+          "change": "create over an existing note; expect refusal"
+        },
+        {
+          "op": "cas-conflict",
+          "status": "skipped",
+          "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        }
+      ]
+    }
+  ]
+}
