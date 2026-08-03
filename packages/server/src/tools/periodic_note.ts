@@ -1,7 +1,9 @@
-import { access, mkdir, readFile, writeFile } from 'node:fs/promises';
+import { access, mkdir, readFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { z } from 'zod';
+import { atomicWrite } from '../atomic-write.js';
+import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
 import { assertWritable } from '../policy.js';
@@ -149,6 +151,8 @@ export interface GetPeriodicNoteResult {
   path: string;
   existed: boolean;
   created: boolean;
+  /** sha-256 (hex) of the created content; only set when created is true. */
+  contentHash?: string;
 }
 
 export async function getPeriodicNote(
@@ -192,10 +196,10 @@ export async function getPeriodicNote(
   }
 
   await mkdir(dirname(abs), { recursive: true });
-  await writeFile(abs, body, 'utf8');
+  await atomicWrite(abs, body);
   upsertDoc(ctx, buildDoc(path, body));
 
-  return { path, existed: false, created: true };
+  return { path, existed: false, created: true, contentHash: contentHash(body) };
 }
 
 // ── Tool: append_periodic_note ────────────────────────────────────────────────
@@ -211,12 +215,20 @@ export const AppendPeriodicNoteInput = z.object({
     .boolean()
     .default(true)
     .describe('Create the note if it does not exist before appending. Default true.'),
+  prevHash: z
+    .string()
+    .optional()
+    .describe(
+      'Optional compare-and-swap guard: the contentHash from a prior read of the resolved periodic note. Fails with hash_conflict if it changed since.',
+    ),
 });
 export type AppendPeriodicNoteInput = z.input<typeof AppendPeriodicNoteInput>;
 
 export interface AppendPeriodicNoteResult {
   path: string;
   bytesWritten: number;
+  /** sha-256 (hex) of the new content — usable as prevHash for a chained edit. */
+  contentHash: string;
 }
 
 export async function appendPeriodicNote(
@@ -235,13 +247,30 @@ export async function appendPeriodicNote(
   let original = '';
   try {
     original = await readFile(abs, 'utf8');
+    if (input.prevHash !== undefined) assertHashMatch(original, input.prevHash, path);
   } catch (err) {
     if ((err as NodeJS.ErrnoException).code !== 'ENOENT') throw err;
+    if (input.prevHash !== undefined) {
+      // The caller pinned a version that no longer exists — conflict, not create.
+      throw new Error(
+        JSON.stringify({
+          error: 'hash_conflict',
+          path,
+          expected: input.prevHash,
+          actual: null,
+          hint: 'The periodic note no longer exists on disk. Re-read before retrying.',
+        }),
+      );
+    }
     if (!input.createIfMissing) throw new Error(`Periodic note not found: ${path}`);
     await mkdir(dirname(abs), { recursive: true });
-    await writeFile(abs, input.content, 'utf8');
+    await atomicWrite(abs, input.content);
     upsertDoc(ctx, buildDoc(path, input.content));
-    return { path, bytesWritten: Buffer.byteLength(input.content, 'utf8') };
+    return {
+      path,
+      bytesWritten: Buffer.byteLength(input.content, 'utf8'),
+      contentHash: contentHash(input.content),
+    };
   }
 
   // Preserve frontmatter, append to body.
@@ -252,7 +281,7 @@ export async function appendPeriodicNote(
   const header = original.slice(0, fm.bodyStart);
   const newRaw = `${header}${newBody}`;
 
-  await writeFile(abs, newRaw, 'utf8');
+  await atomicWrite(abs, newRaw);
 
   const cached = ctx.notes.get(path);
   if (cached) {
@@ -260,5 +289,9 @@ export async function appendPeriodicNote(
     cached.raw = newRaw;
   }
 
-  return { path, bytesWritten: Buffer.byteLength(newRaw, 'utf8') };
+  return {
+    path,
+    bytesWritten: Buffer.byteLength(newRaw, 'utf8'),
+    contentHash: contentHash(newRaw),
+  };
 }

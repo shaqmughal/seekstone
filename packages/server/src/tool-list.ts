@@ -85,7 +85,7 @@ export const ALL_TOOLS = [
   {
     name: 'read_note',
     description:
-      'Read a note or a span of it — by heading section, block reference, or line range. Returns structured JSON with the content, bytes returned, and total note size so payload savings are measurable. Use search or outline_note first to find the right path and section names.',
+      'Read a note or a span of it — by heading section, block reference, or line range. Returns structured JSON with the content, bytes returned, total note size, and a contentHash to pass as prevHash to edit tools for compare-and-swap. Use search or outline_note first to find the right path and section names.',
     inputSchema: {
       type: 'object',
       properties: {
@@ -164,7 +164,7 @@ export const ALL_TOOLS = [
   {
     name: 'create_note',
     description:
-      'Create a new note at a vault-relative path. Optionally sets frontmatter and body content. Parent directories are created automatically. Fails if the note already exists unless overwrite is true.',
+      'Create a new note at a vault-relative path. Optionally sets frontmatter and body content. Parent directories are created automatically. Fails if the note already exists unless overwrite is true (prevHash may guard the overwrite).',
     inputSchema: {
       type: 'object',
       properties: {
@@ -181,6 +181,11 @@ export const ALL_TOOLS = [
         overwrite: {
           type: 'boolean',
           description: 'Overwrite an existing note. Defaults to false.',
+        },
+        prevHash: {
+          type: 'string',
+          description:
+            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
         },
       },
       required: ['path'],
@@ -233,6 +238,11 @@ export const ALL_TOOLS = [
       properties: {
         path: { type: 'string', description: 'Vault-relative path to the note.' },
         content: { type: 'string', description: 'Text to append.' },
+        prevHash: {
+          type: 'string',
+          description:
+            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+        },
       },
       required: ['path', 'content'],
     },
@@ -249,6 +259,11 @@ export const ALL_TOOLS = [
           type: 'object',
           description: 'Key-value pairs to set. Null value removes the key.',
           additionalProperties: true,
+        },
+        prevHash: {
+          type: 'string',
+          description:
+            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
         },
       },
       required: ['path', 'patch'],
@@ -298,6 +313,11 @@ export const ALL_TOOLS = [
           type: 'boolean',
           description:
             'If the heading target is not found, append a new heading (level 2) + content. Only valid for heading targets. Default false.',
+        },
+        prevHash: {
+          type: 'string',
+          description:
+            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
         },
       },
       required: ['path', 'target', 'operation', 'content'],
@@ -368,6 +388,11 @@ export const ALL_TOOLS = [
           type: 'boolean',
           description: 'If true, report matches without writing. Default false.',
         },
+        prevHash: {
+          type: 'string',
+          description:
+            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+        },
       },
       required: ['path', 'find', 'replace'],
     },
@@ -420,6 +445,11 @@ export const ALL_TOOLS = [
         createIfMissing: {
           type: 'boolean',
           description: 'Create the note if it does not exist before appending. Default true.',
+        },
+        prevHash: {
+          type: 'string',
+          description:
+            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
         },
       },
       required: ['content'],

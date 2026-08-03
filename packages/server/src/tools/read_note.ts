@@ -3,6 +3,7 @@ import { join } from 'node:path';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { buildOutline } from '@seekstone/core/outline';
 import { z } from 'zod';
+import { contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 
 export const ReadNoteInput = z
@@ -47,6 +48,8 @@ export interface ReadNoteResult {
   bytesReturned: number;
   /** Total UTF-8 byte size of the source file. */
   noteBytes: number;
+  /** sha-256 (hex) of the whole file — pass as prevHash to edit tools for compare-and-swap. */
+  contentHash: string;
   /** Character offsets of the returned span in the raw file. Absent for whole-note reads. */
   span?: { charStart: number; charEnd: number };
 }
@@ -59,10 +62,19 @@ export async function readNote(ctx: ServerContext, input: ReadNoteInput): Promis
 
   const raw = await readFile(absPath, 'utf8');
   const noteBytes = Buffer.byteLength(raw, 'utf8');
+  // Always the whole file's hash, even for span reads — it identifies the
+  // on-disk version an edit's prevHash is compared against.
+  const hash = contentHash(raw);
 
   // Whole-note read — no selector
   if (input.section === undefined && input.block === undefined && input.lines === undefined) {
-    return { path: input.path, content: raw, bytesReturned: noteBytes, noteBytes };
+    return {
+      path: input.path,
+      content: raw,
+      bytesReturned: noteBytes,
+      noteBytes,
+      contentHash: hash,
+    };
   }
 
   const fm = parseFrontmatter(raw);
@@ -145,6 +157,7 @@ export async function readNote(ctx: ServerContext, input: ReadNoteInput): Promis
     content,
     bytesReturned: Buffer.byteLength(content, 'utf8'),
     noteBytes,
+    contentHash: hash,
     span: { charStart, charEnd },
   };
 }

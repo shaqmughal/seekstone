@@ -1,7 +1,9 @@
-import { readFile, rename, writeFile } from 'node:fs/promises';
+import { readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { z } from 'zod';
+import { atomicWrite } from '../atomic-write.js';
+import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { assertWritable } from '../policy.js';
 
@@ -25,6 +27,12 @@ export const ReplaceInNoteInput = z.object({
     .optional()
     .describe('Maximum number of replacements. Omit to replace all.'),
   dryRun: z.boolean().default(false).describe('If true, report matches without writing anything.'),
+  prevHash: z
+    .string()
+    .optional()
+    .describe(
+      'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+    ),
 });
 export type ReplaceInNoteInput = z.infer<typeof ReplaceInNoteInput>;
 
@@ -39,6 +47,8 @@ export interface ReplaceInNoteResult {
   matches: MatchPosition[];
   bytesWritten?: number;
   frontmatterUnchanged: true;
+  /** sha-256 (hex) of the new content after a write; absent on dry runs and zero-match calls. */
+  contentHash?: string;
 }
 
 function escapeRegex(s: string): string {
@@ -53,12 +63,6 @@ function buildRegex(
   if (opts.wholeWord) pattern = `\\b(?:${pattern})\\b`;
   const flags = `g${opts.caseSensitive ? '' : 'i'}`;
   return new RegExp(pattern, flags);
-}
-
-async function atomicWrite(absPath: string, content: string): Promise<void> {
-  const tmpPath = `${absPath}.seekstone-replace-tmp`;
-  await writeFile(tmpPath, content, 'utf8');
-  await rename(tmpPath, absPath);
 }
 
 export async function replaceInNote(
@@ -84,6 +88,7 @@ export async function replaceInNote(
   }
 
   const raw = await readFile(absPath, 'utf8');
+  if (input.prevHash !== undefined) assertHashMatch(raw, input.prevHash, input.path);
   const fm = parseFrontmatter(raw);
   const originalFmRegion = raw.slice(0, fm.bodyStart);
   const body = raw.slice(fm.bodyStart);
@@ -139,5 +144,6 @@ export async function replaceInNote(
     matches,
     bytesWritten: Buffer.byteLength(newContent, 'utf8'),
     frontmatterUnchanged: true,
+    contentHash: contentHash(newContent),
   };
 }

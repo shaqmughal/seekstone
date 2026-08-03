@@ -87,6 +87,7 @@ const META_KEYS = [
   'period',
   'date',
   'permanent',
+  'prevHash',
 ] as const;
 
 function safeMeta(args: unknown): Record<string, unknown> {
@@ -192,7 +193,12 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
       const input = CreateNoteInput.parse(args);
       const result = await createNote(ctx, input);
       return {
-        content: [{ type: 'text', text: `Created ${result.path} (${result.bytesWritten} bytes).` }],
+        content: [
+          {
+            type: 'text',
+            text: `Created ${result.path} (${result.bytesWritten} bytes). contentHash: ${result.contentHash}`,
+          },
+        ],
       };
     }
     case 'delete_note': {
@@ -219,7 +225,10 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
       const result = await appendNote(ctx, input);
       return {
         content: [
-          { type: 'text', text: `Appended ${result.bytesWritten} bytes to ${result.path}.` },
+          {
+            type: 'text',
+            text: `Appended ${result.bytesWritten} bytes to ${result.path}. contentHash: ${result.contentHash}`,
+          },
         ],
       };
     }
@@ -265,7 +274,7 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
         content: [
           {
             type: 'text',
-            text: `Appended ${result.bytesWritten} bytes to ${result.path}.`,
+            text: `Appended ${result.bytesWritten} bytes to ${result.path}. contentHash: ${result.contentHash}`,
           },
         ],
       };
