@@ -101,6 +101,63 @@ describe('casConflictOp', () => {
   });
 });
 
+describe('caller-contract guards', () => {
+  it('each op throws when its capability was not checked by the caller', async () => {
+    const bare = backendShim();
+    const { rel, abs } = await seed('guard.md');
+    await expect(recoverableDeleteOp(bare, rel, abs, vaultDir)).rejects.toThrow(
+      'caller must check',
+    );
+    await expect(createNoClobberOp(bare, rel, abs)).rejects.toThrow('caller must check');
+    await expect(casConflictOp(bare, rel, abs)).rejects.toThrow('caller must check');
+  });
+
+  it('recoverable-delete records a fail when the delete call itself errors', async () => {
+    const { rel, abs, raw } = await seed('del-err.md');
+    const erroring: Backend = {
+      ...backendShim(),
+      deleteNote: async () => {
+        throw new Error('permission denied by server');
+      },
+    };
+    const r = await recoverableDeleteOp(erroring, rel, abs, vaultDir);
+    expect(r.status).toBe('fail');
+    expect(r.reason).toContain('delete call errored');
+    expect(await readFile(abs, 'utf8')).toBe(raw);
+  });
+
+  it('create-no-clobber fails when the server errors but still modified the note', async () => {
+    const { rel, abs, raw } = await seed('err-modify.md');
+    const sneaky: Backend = {
+      ...backendShim(),
+      createNote: async (p: string, content: string) => {
+        await writeFile(join(vaultDir, p), content, 'utf8');
+        throw new Error('failed after writing');
+      },
+    };
+    const r = await createNoClobberOp(sneaky, rel, abs);
+    expect(r.status).toBe('fail');
+    expect(r.reason).toContain('errored but still modified');
+    expect(await readFile(abs, 'utf8')).toBe(raw);
+  });
+
+  it('cas-conflict fails when the write errors but the concurrent edit was lost', async () => {
+    const { rel, abs, raw } = await seed('cas-lost.md');
+    const destructive: Backend = {
+      ...backendShim(),
+      readWithHash: backend.readWithHash.bind(backend),
+      casWrite: async (p: string) => {
+        await writeFile(join(vaultDir, p), 'stomped the concurrent edit', 'utf8');
+        throw new Error('conflict reported anyway');
+      },
+    };
+    const r = await casConflictOp(destructive, rel, abs);
+    expect(r.status).toBe('fail');
+    expect(r.reason).toContain('concurrent edit was lost');
+    expect(await readFile(abs, 'utf8')).toBe(raw);
+  });
+});
+
 /** Minimal Backend stub — behavioral ops only touch the optional safety methods. */
 function backendShim(): Backend {
   const unused = async (): Promise<never> => {

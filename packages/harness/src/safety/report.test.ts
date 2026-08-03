@@ -141,4 +141,67 @@ describe('renderSafetyMarkdown', () => {
     const md = renderSafetyMarkdown(bodyAppendFailSummary);
     expect(md.startsWith('# Write Safety — rest')).toBe(true);
   });
+
+  it('renders partial, note-shape-skip, zero-count, and generic-systemic verdicts', () => {
+    const mixed: SafetySummary = {
+      ...allPassSummary,
+      backend: { name: 'mixed', description: 'verdict branches' },
+      passByOp: {
+        ...allPassSummary.passByOp,
+        identity: { pass: 1, fail: 1, skipped: 0 }, // partial
+        'patch-note': { pass: 0, fail: 0, skipped: 2 }, // note-shape skip → n/a
+        'fm-edit': { pass: 0, fail: 0, skipped: 0 }, // never ran → —
+        'recoverable-delete': { pass: 0, fail: 2, skipped: 0 }, // generic systemic
+      },
+      notes: [
+        {
+          relPath: 'm.md',
+          fmKeys: [],
+          ops: [
+            { op: 'identity', status: 'fail', reason: 'post-write bytes differ', change: 'x' },
+            {
+              op: 'patch-note',
+              status: 'skipped',
+              reason: 'op not applicable to this note',
+              change: '—',
+            },
+            {
+              op: 'recoverable-delete',
+              status: 'fail',
+              reason: 'note still exists after delete',
+              change: 'x',
+            },
+          ],
+        },
+      ],
+    };
+    const md = renderSafetyMarkdown(mixed);
+    expect(md).toContain('⚠️ Partial — 1/2 failed');
+    expect(md).toContain('| patch-note | 0 | 0 | 2 | — n/a |');
+    expect(md).toContain('| fm-edit | 0 | 0 | 0 | — |');
+    expect(md).toContain('Systemic failure on recoverable-delete');
+  });
+
+  it('a refused-write body-append failure uses the generic call-out, not the REST data-loss prose', () => {
+    const refused: SafetySummary = {
+      ...bodyAppendFailSummary,
+      notes: [
+        {
+          relPath: 'r.md',
+          fmKeys: [],
+          ops: [
+            {
+              op: 'body-append',
+              status: 'fail',
+              reason: 'write call errored: Note already exists',
+              change: 'append',
+            },
+          ],
+        },
+      ],
+    };
+    const md = renderSafetyMarkdown(refused);
+    expect(md).toContain('Systemic failure on body-append');
+    expect(md).not.toContain('Silent data loss');
+  });
 });
