@@ -35,8 +35,13 @@ describe('parseInitArgs', () => {
   it('parses --client vscode', () => {
     expect(parseInitArgs(['--client', 'vscode']).client).toBe('vscode');
   });
-  it('ignores an invalid --client value (keeps default)', () => {
-    expect(parseInitArgs(['--client', 'nonsense']).client).toBe('desktop');
+  it('records an invalid --client value for runInit to reject', () => {
+    const opts = parseInitArgs(['--client', 'nonsense']);
+    expect(opts.client).toBe('desktop');
+    expect(opts.invalidClient).toBe('nonsense');
+  });
+  it('records a missing --client value', () => {
+    expect(parseInitArgs(['--client']).invalidClient).toBe('(missing)');
   });
 });
 
@@ -270,6 +275,17 @@ describe('runInit', () => {
     const res = await runInit({ write: false, client: 'desktop' }, deps());
     expect(res.exitCode).toBe(1);
     expect(res.output.join('\n')).toContain('No vault specified');
+  });
+
+  it('errors with exit 1 on an unknown --client instead of configuring desktop', async () => {
+    const res = await runInit(
+      { vault, write: false, client: 'desktop', invalidClient: 'windsurf' },
+      deps(),
+    );
+    expect(res.ok).toBe(false);
+    expect(res.exitCode).toBe(1);
+    expect(res.output.join('\n')).toContain('Unknown --client: windsurf');
+    expect(res.output.join('\n')).toContain('desktop, code, cursor, vscode');
   });
 
   it('errors with exit 1 for a non-vault directory', async () => {

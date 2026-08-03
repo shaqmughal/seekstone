@@ -22,6 +22,8 @@ export interface InitOptions {
   vault?: string;
   write: boolean;
   client: 'desktop' | 'code' | 'cursor' | 'vscode';
+  /** Set when --client was given an unrecognized value; runInit errors on it. */
+  invalidClient?: string;
 }
 
 export function parseInitArgs(argv: readonly string[]): InitOptions {
@@ -34,6 +36,10 @@ export function parseInitArgs(argv: readonly string[]): InitOptions {
     else if (a === '--client') {
       const v = argv[++i];
       if (v === 'desktop' || v === 'code' || v === 'cursor' || v === 'vscode') opts.client = v;
+      // Record the bad value instead of silently falling back to desktop —
+      // agents run init non-interactively and would otherwise configure the
+      // wrong client without anyone noticing.
+      else opts.invalidClient = v ?? '(missing)';
     }
   }
   return opts;
@@ -280,6 +286,16 @@ export async function runInit(
     spawnClaudeMcp?: (args: string[]) => { ok: boolean; error?: string };
   },
 ): Promise<InitResult> {
+  if (opts.invalidClient !== undefined) {
+    return {
+      ok: false,
+      exitCode: 1,
+      output: [
+        `✗ Unknown --client: ${opts.invalidClient}. Known clients: desktop, code, cursor, vscode.`,
+      ],
+    };
+  }
+
   const rf = deps.readFile ?? readFile;
   let vaultPath = opts.vault ?? deps.env.SEEKSTONE_VAULT;
 

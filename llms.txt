@@ -6,6 +6,14 @@ Website: https://seekstone.dev
 
 Seekstone is published to npm as `seekstone`. (It was previously also published as `obsidian-mcp-seekstone`; that alias is deprecated — existing installs keep working but it no longer receives updates.)
 
+## One-prompt install for agents
+
+A user can paste this prompt into any coding agent (Claude Code, Cursor, Windsurf) and the agent can install seekstone unattended:
+
+> Install the **seekstone** MCP server for this editor. Run `npx -y seekstone init --client code --write` (use `desktop`, `cursor`, or `vscode` for other clients). It auto-detects my Obsidian vault; if it lists several, ask me which one and re-run with `--vault "<path>"`. Relay any errors to me, then tell me to restart this session so the seekstone tools load.
+
+`seekstone init` is fully non-interactive: `--write` applies the config (Claude Code via `claude mcp add`, other clients via an additive JSON patch with a timestamped backup); without `--write` it only prints the config. Exit code 0 on success, 1 with a `✗`-prefixed reason on failure. An unknown `--client` value is an error, not a silent fallback.
+
 ## Why filesystem-direct?
 
 Routing through the Obsidian Local REST API plugin returns ~1.75 MB (~459,000 tokens) for a typical search. Seekstone returns ~2 KB (~580 tokens) for the same query — a ~800× reduction. Claude can search an entire vault without burning its context window on a single tool call.
@@ -40,10 +48,11 @@ npx -y seekstone init --client cursor --write
 
 Or add the same `mcpServers` JSON block as Claude Desktop to `~/.cursor/mcp.json`. Any other MCP-over-stdio client (VS Code/Copilot, Windsurf, Cline, Continue, JetBrains, Zed) takes the identical block in its own MCP config file.
 
-## Tools (16)
+## Tools (17)
 
 Read:
 - `search` — full-text search returning ranked excerpts, ~120 chars by default and tunable (not full notes)
+- `query_notes` — structured metadata query: filter notes by frontmatter key/value predicates, tag, folder, modified time, and size; returns compact rows (path + title by default), not note content
 - `read_note` — read the full content of a note by vault-relative path; supports section, block, or line-range slices
 - `list_notes` — list notes filtered by folder prefix or tag
 - `list_tags` — list all tags sorted by usage count or alphabetically

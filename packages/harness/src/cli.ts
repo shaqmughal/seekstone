@@ -7,7 +7,9 @@ import { McpObsidianAdapter } from './bench/adapters/mcp-obsidian.js';
 import { McpvaultAdapter } from './bench/adapters/mcpvault.js';
 import { ObsidianMcpAdapter } from './bench/adapters/obsidian-mcp.js';
 import { ObsidianMcpProAdapter } from './bench/adapters/obsidian-mcp-pro.js';
+import { ObsidianMcpRsAdapter } from './bench/adapters/obsidian-mcp-rs.js';
 import { ObsidianMcpServerAdapter } from './bench/adapters/obsidian-mcp-server.js';
+import { ObsidianTcAdapter } from './bench/adapters/obsidian-tc.js';
 import { SeekstoneAdapter } from './bench/adapters/seekstone.js';
 import { renderComparisonMarkdown } from './bench/compare.js';
 import {
@@ -350,6 +352,24 @@ async function buildBackend(
     process.stderr.write(`obsidian-mcp-pro: ready.\n`);
     return adapter;
   }
+  if (name === 'obsidian-mcp-rs') {
+    const root = resolve(
+      needArg(vaultRoot, 'vault (--vault or SEEKSTONE_VAULT for obsidian-mcp-rs backend)'),
+    );
+    process.stderr.write(`obsidian-mcp-rs: starting subprocess for ${root}…\n`);
+    const adapter = await ObsidianMcpRsAdapter.build({ vaultRoot: root });
+    process.stderr.write(`obsidian-mcp-rs: ready.\n`);
+    return adapter;
+  }
+  if (name === 'obsidian-tc') {
+    const root = resolve(
+      needArg(vaultRoot, 'vault (--vault or SEEKSTONE_VAULT for obsidian-tc backend)'),
+    );
+    process.stderr.write(`obsidian-tc: starting subprocess for ${root} (SQLite index build)…\n`);
+    const adapter = await ObsidianTcAdapter.build({ vaultRoot: root });
+    process.stderr.write(`obsidian-tc: ready.\n`);
+    return adapter;
+  }
   if (name === 'obsidian-mcp-server') {
     const apiKey = needArg(
       process.env.SEEKSTONE_REST_API_KEY,
@@ -362,7 +382,7 @@ async function buildBackend(
     return adapter;
   }
   console.error(
-    `Unknown backend: ${name}. Known: rest, fs, mcpvault, seekstone, mcp-obsidian, obsidian-mcp, obsidian-mcp-pro, obsidian-mcp-server.`,
+    `Unknown backend: ${name}. Known: rest, fs, mcpvault, seekstone, mcp-obsidian, obsidian-mcp, obsidian-mcp-pro, obsidian-mcp-rs, obsidian-tc, obsidian-mcp-server.`,
   );
   process.exit(2);
 }
