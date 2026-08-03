@@ -202,7 +202,13 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
     case 'move_note': {
       const input = MoveNoteInput.parse(args);
       const result = await moveNote(ctx, input);
-      return { content: [{ type: 'text', text: `Moved ${result.from} → ${result.to}.` }] };
+      let text = `Moved ${result.from} → ${result.to}. Rewrote ${result.linksRewritten} link${
+        result.linksRewritten === 1 ? '' : 's'
+      } in ${result.notesRewritten} note${result.notesRewritten === 1 ? '' : 's'}.`;
+      if (result.skipped?.length) {
+        text += ` Skipped (outside SEEKSTONE_WRITE_PATHS): ${result.skipped.join(', ')}.`;
+      }
+      return { content: [{ type: 'text', text }] };
     }
     case 'append_note': {
       const input = AppendNoteInput.parse(args);

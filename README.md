@@ -303,7 +303,7 @@ Claude never sees your full vault at once — it searches and reads selectively,
 |---|---|
 | `create_note` | Create a note (optional frontmatter + body); parent directories are created automatically. |
 | `delete_note` | Permanently delete a note. **Irreversible.** |
-| `move_note` | Move or rename a note; destination directories are created automatically. |
+| `move_note` | Move or rename a note — wikilinks and markdown links in other notes that point at it are rewritten so nothing breaks (`rewriteLinks: false` to opt out); destination directories are created automatically. |
 | `append_note` | Append text to a note body without touching frontmatter. |
 | `patch_frontmatter` | Set, update, or delete frontmatter keys without reordering existing keys or changing quote style. |
 | `patch_note` | Insert text immediately after a heading without touching frontmatter. |

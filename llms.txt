@@ -64,7 +64,7 @@ Read:
 Write:
 - `create_note` — create a note with optional frontmatter and body
 - `delete_note` — permanently delete a note
-- `move_note` — move or rename a note
+- `move_note` — move or rename a note, rewriting wikilinks and markdown links in other notes that point at it (link-aware; `rewriteLinks: false` to opt out)
 - `append_note` — append text to a note body without touching frontmatter
 - `patch_frontmatter` — set, update, or delete frontmatter keys while preserving key order and quote style
 - `patch_note` — insert text immediately after a heading

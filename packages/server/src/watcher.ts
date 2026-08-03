@@ -1,11 +1,10 @@
 import { realpathSync } from 'node:fs';
 import { readFile } from 'node:fs/promises';
 import { join, relative, sep } from 'node:path';
-import { extractLinksWithLines } from '@seekstone/core/extract';
 import chokidar from 'chokidar';
-import type { BacklinkRef, ServerContext } from './context.js';
+import type { ServerContext } from './context.js';
+import { addNoteBacklinks, removeNoteBacklinks } from './index/backlinks.js';
 import { buildDoc, upsertDoc } from './index/doc.js';
-import { resolveLink } from './index/resolve.js';
 import type { Logger } from './log.js';
 
 /**
@@ -45,38 +44,6 @@ export interface WatcherOptions {
    * emits when a failure needs investigation.
    */
   onRawEvent?: (event: 'add' | 'change' | 'unlink', absPath: string, relPath: string) => void;
-}
-
-function removeNoteBacklinks(ctx: ServerContext, relPath: string): void {
-  const oldDoc = ctx.notes.get(relPath);
-  if (oldDoc === undefined) return;
-  for (const link of extractLinksWithLines(oldDoc.raw)) {
-    const resolved = resolveLink(link.target, ctx.notes);
-    if (resolved === undefined) continue;
-    const arr = ctx.backlinks.get(resolved);
-    if (arr === undefined) continue;
-    const filtered = arr.filter((r) => r.path !== relPath);
-    ctx.backlinks.set(resolved, filtered);
-  }
-}
-
-function addNoteBacklinks(ctx: ServerContext, relPath: string, raw: string): void {
-  const seen = new Set<string>();
-  for (const link of extractLinksWithLines(raw)) {
-    const resolved = resolveLink(link.target, ctx.notes);
-    if (resolved === undefined) continue;
-    const dedupeKey = `${relPath}\0${resolved}`;
-    if (seen.has(dedupeKey)) continue;
-    seen.add(dedupeKey);
-    let arr = ctx.backlinks.get(resolved);
-    if (arr === undefined) {
-      arr = [];
-      ctx.backlinks.set(resolved, arr);
-    }
-    const ref: BacklinkRef = { path: relPath, line: link.line, linkType: link.linkType };
-    arr.push(ref);
-    arr.sort((a, b) => a.path.localeCompare(b.path));
-  }
 }
 
 export function startWatcher(
