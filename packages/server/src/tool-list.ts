@@ -200,7 +200,7 @@ export const ALL_TOOLS = [
   {
     name: 'move_note',
     description:
-      'Move or rename a note to a new vault-relative path. Parent directories at the destination are created automatically. Fails if the destination already exists unless overwrite is true.',
+      'Move or rename a note to a new vault-relative path, rewriting wikilinks and markdown links in other notes that point at it so nothing breaks (links inside fenced code blocks are left alone). Parent directories at the destination are created automatically. Fails if the destination already exists unless overwrite is true.',
     inputSchema: {
       type: 'object',
       properties: {
@@ -209,6 +209,11 @@ export const ALL_TOOLS = [
         overwrite: {
           type: 'boolean',
           description: 'Overwrite destination if it exists. Defaults to false.',
+        },
+        rewriteLinks: {
+          type: 'boolean',
+          description:
+            'Rewrite references in other notes to follow the move. Defaults to true; pass false to move the file only.',
         },
       },
       required: ['from', 'to'],
