@@ -9,6 +9,7 @@ import type { ServerContext } from './context.js';
 import { dispatch } from './dispatch.js';
 import { buildIndex } from './index/build.js';
 import { createLogger } from './log.js';
+import { PERMISSIVE_POLICY } from './policy.js';
 
 /**
  * Enforces the core promise: the server makes NO outbound network connections.
@@ -32,7 +33,13 @@ beforeAll(async () => {
   );
   await writeFile(join(vaultRoot, 'b.md'), '# B\nmore text linking [[A]]\n', 'utf8');
   const built = await buildIndex(vaultRoot);
-  ctx = { vaultRoot, index: built.index, notes: built.notes, backlinks: built.backlinks };
+  ctx = {
+    vaultRoot,
+    index: built.index,
+    notes: built.notes,
+    backlinks: built.backlinks,
+    policy: PERMISSIVE_POLICY,
+  };
 });
 
 afterAll(async () => {

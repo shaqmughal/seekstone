@@ -3,6 +3,7 @@ import { join } from 'node:path';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
+import { assertWritable } from '../policy.js';
 
 export const AppendNoteInput = z.object({
   path: z.string().describe('Vault-relative path to the note.'),
@@ -37,6 +38,7 @@ export async function appendNote(
   if (!absPath.startsWith(ctx.vaultRoot)) {
     throw new Error(`Path outside vault: ${input.path}`);
   }
+  assertWritable(ctx.policy, input.path);
 
   const original = await readFile(absPath, 'utf8');
   const fm = parseFrontmatter(original);

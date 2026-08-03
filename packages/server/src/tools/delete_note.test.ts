@@ -5,6 +5,7 @@ import MiniSearch from 'minisearch';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
 import type { IndexedNote } from '../index/types.js';
+import { PERMISSIVE_POLICY } from '../policy.js';
 import { deleteNote } from './delete_note.js';
 
 let tmpDir: string;
@@ -17,7 +18,13 @@ function freshCtx(): ServerContext {
     storeFields: ['id', 'title', 'tags', 'sizeBytes', 'mtimeMs'],
     searchOptions: { boost: { title: 3, tags: 2, body: 1 }, fuzzy: 0.2, prefix: true },
   });
-  return { vaultRoot: tmpDir, index, notes: new Map(), backlinks: new Map() };
+  return {
+    vaultRoot: tmpDir,
+    index,
+    notes: new Map(),
+    backlinks: new Map(),
+    policy: PERMISSIVE_POLICY,
+  };
 }
 
 function seedNote(relPath: string, raw: string): IndexedNote {

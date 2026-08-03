@@ -2,6 +2,7 @@ import { rm } from 'node:fs/promises';
 import { join } from 'node:path';
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
+import { assertWritable } from '../policy.js';
 
 export const DeleteNoteInput = z.object({
   path: z.string().describe('Vault-relative path of the note to delete.'),
@@ -20,6 +21,7 @@ export async function deleteNote(
   if (!absPath.startsWith(ctx.vaultRoot)) {
     throw new Error(`Path outside vault: ${input.path}`);
   }
+  assertWritable(ctx.policy, input.path);
 
   // rm throws ENOENT if the file doesn't exist — let it propagate.
   await rm(absPath);

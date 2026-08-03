@@ -5,6 +5,7 @@ import MiniSearch from 'minisearch';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
 import type { IndexedNote } from '../index/types.js';
+import { PERMISSIVE_POLICY } from '../policy.js';
 import { outlineNote } from './outline_note.js';
 
 function buildCtx(vaultRoot: string): ServerContext {
@@ -14,7 +15,7 @@ function buildCtx(vaultRoot: string): ServerContext {
     storeFields: ['id', 'title', 'tags', 'sizeBytes', 'mtimeMs'],
     searchOptions: { boost: { title: 3, tags: 2, body: 1 }, fuzzy: 0.2, prefix: true },
   });
-  return { vaultRoot, index, notes: new Map(), backlinks: new Map() };
+  return { vaultRoot, index, notes: new Map(), backlinks: new Map(), policy: PERMISSIVE_POLICY };
 }
 
 const NOTE = `---

@@ -318,6 +318,8 @@ Claude never sees your full vault at once — it searches and reads selectively,
 | `SEEKSTONE_LOG_LEVEL` | No | `error` \| `warn` \| `info` (default) \| `debug`. |
 | `SEEKSTONE_LOG_FILE` | No | Absolute path; when set, JSON-line logs are appended here (size-rotated). |
 | `SEEKSTONE_WATCH_POLL` | No | Set to `1` to stat-poll for changes instead of native OS events — slower but reliable on network drives, WSL, and some containers. |
+| `SEEKSTONE_READ_ONLY` | No | Set to `1` to run read-only: the 8 write tools are unregistered from the tool list entirely (and rejected if called anyway), so the session provably cannot modify your vault. |
+| `SEEKSTONE_WRITE_PATHS` | No | Comma-separated vault-relative globs (e.g. `journal/**,inbox/*.md`). Writes are permitted only under matching paths; the rest of the vault stays read-only. |
 
 ---
 
@@ -351,7 +353,7 @@ No. Seekstone bypasses it entirely — that's the source of the up-to-47,000× p
 Any client that supports the [Model Context Protocol](https://modelcontextprotocol.io) (MCP) over stdio — Claude Desktop, Claude Code, Cursor, Windsurf, Continue, and others.
 
 **Is it safe to use on my vault?**
-Seekstone never modifies files except when you explicitly invoke one of its write tools (the eight in the table above — `create_note`, `append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `move_note`, `delete_note`, `append_periodic_note`). It makes no network requests. The vault path is sandboxed — no tool can read or write outside it.
+Seekstone never modifies files except when you explicitly invoke one of its write tools (the eight in the table above — `create_note`, `append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `move_note`, `delete_note`, `append_periodic_note`). It makes no network requests. The vault path is sandboxed — no tool can read or write outside it. And you can tighten it further: `SEEKSTONE_READ_ONLY=1` removes the write tools from the session entirely, and `SEEKSTONE_WRITE_PATHS` restricts writes to the folders you allow (say, only `journal/**`). Both are enforced at the dispatch layer, not per-tool, so no tool can forget the check.
 
 **Does it work on Windows?**
 Yes. Seekstone is tested on macOS, Linux, and Windows in CI on every commit.

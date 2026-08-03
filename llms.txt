@@ -72,6 +72,7 @@ Write:
 - **What it is:** A stdio MCP server for reading and writing Obsidian vaults
 - **What it is not:** A plugin, a REST proxy, a cloud service, or anything that requires Obsidian to be running
 - **Privacy:** No network calls, no telemetry. All data stays on the local machine.
+- **Write safety:** `SEEKSTONE_READ_ONLY=1` runs the server read-only (write tools unregistered and rejected); `SEEKSTONE_WRITE_PATHS` (comma-separated globs, e.g. `journal/**`) restricts writes to allowed folders. Both enforced at the dispatch layer.
 - **Compatibility:** Any MCP-over-stdio client — Claude Desktop, Claude Code, Cursor, Windsurf, Continue
 - **License:** MIT
 

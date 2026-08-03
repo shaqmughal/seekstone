@@ -5,6 +5,7 @@ import MiniSearch from 'minisearch';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
 import type { IndexedNote } from '../index/types.js';
+import { PERMISSIVE_POLICY } from '../policy.js';
 import { moveNote } from './move_note.js';
 
 let tmpDir: string;
@@ -17,7 +18,13 @@ function freshCtx(): ServerContext {
     storeFields: ['id', 'title', 'tags', 'sizeBytes', 'mtimeMs'],
     searchOptions: { boost: { title: 3, tags: 2, body: 1 }, fuzzy: 0.2, prefix: true },
   });
-  return { vaultRoot: tmpDir, index, notes: new Map(), backlinks: new Map() };
+  return {
+    vaultRoot: tmpDir,
+    index,
+    notes: new Map(),
+    backlinks: new Map(),
+    policy: PERMISSIVE_POLICY,
+  };
 }
 
 function seedNote(relPath: string, raw: string): IndexedNote {
@@ -116,5 +123,21 @@ describe('moveNote', () => {
     await expect(moveNote(ctx, { from: 'legit.md', to: '../escape.md' })).rejects.toThrow(
       'Path outside vault',
     );
+  });
+
+  it('rejects a move whose destination is outside the write-path allowlist', async () => {
+    await writeFile(join(tmpDir, 'journal', 'in-scope.md'), '', 'utf8').catch(async () => {
+      const { mkdir } = await import('node:fs/promises');
+      await mkdir(join(tmpDir, 'journal'), { recursive: true });
+      await writeFile(join(tmpDir, 'journal', 'in-scope.md'), '', 'utf8');
+    });
+    const scoped = { ...freshCtx(), policy: { readOnly: false, writeGlobs: ['journal/**'] } };
+    await expect(
+      moveNote(scoped, { from: 'journal/in-scope.md', to: 'archive/out.md' }),
+    ).rejects.toThrow('Write not permitted');
+    // Both endpoints in scope succeeds.
+    await expect(
+      moveNote(scoped, { from: 'journal/in-scope.md', to: 'journal/renamed.md' }),
+    ).resolves.toMatchObject({ to: 'journal/renamed.md' });
   });
 });

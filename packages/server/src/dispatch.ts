@@ -48,6 +48,22 @@ export const HANDLED_TOOLS = [
   'append_periodic_note',
 ] as const;
 
+/**
+ * Tools that mutate the vault. Enforced here at dispatch (read-only mode
+ * rejects them) and mirrored by tool-list.ts, which unregisters them from
+ * tools/list — a new write tool must be added to this set to ship.
+ */
+export const WRITE_TOOLS: ReadonlySet<string> = new Set([
+  'create_note',
+  'delete_note',
+  'move_note',
+  'append_note',
+  'patch_frontmatter',
+  'patch_note',
+  'replace_in_note',
+  'append_periodic_note',
+]);
+
 // Metadata-safe keys: logged at info. Note content (`content`, `frontmatter`,
 // `patch`) and the raw `query` string are intentionally excluded — they only
 // reach logs via the debug-level `args` dump.
@@ -104,6 +120,25 @@ export async function dispatch(
   const start = performance.now();
   const meta = safeMeta(args);
   log.debug('tool start', { tool: name, args }); // full args (may include content) — debug only
+  if (ctx.policy.readOnly && WRITE_TOOLS.has(name)) {
+    // Unregistered from tools/list, but a client can still send the call.
+    log.info('tool rejected (read-only)', { tool: name, ...meta });
+    return {
+      content: [
+        {
+          type: 'text',
+          text: 'Error: Server is read-only (SEEKSTONE_READ_ONLY=1); write tools are disabled.',
+        },
+      ],
+      isError: true,
+    };
+  }
+  if (ctx.policy.readOnly && name === 'get_periodic_note') {
+    // The one read tool with a write side-effect: force createIfMissing off.
+    if (typeof args === 'object' && args !== null) {
+      args = { ...(args as Record<string, unknown>), createIfMissing: false };
+    }
+  }
   try {
     const result = await run(ctx, name, args);
     const durationMs = Math.round((performance.now() - start) * 100) / 100;

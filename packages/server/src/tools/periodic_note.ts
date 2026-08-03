@@ -4,6 +4,7 @@ import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
+import { assertWritable } from '../policy.js';
 
 // ── Period type ───────────────────────────────────────────────────────────────
 
@@ -172,6 +173,10 @@ export async function getPeriodicNote(
 
   if (!input.createIfMissing) return { path, existed: false, created: false };
 
+  // About to write: this "read" tool creates the note here, so the write
+  // policy applies (dispatch also strips createIfMissing in read-only mode).
+  assertWritable(ctx.policy, path);
+
   // Read template if configured.
   let body = '';
   if (cfg.template) {
@@ -225,6 +230,7 @@ export async function appendPeriodicNote(
   const abs = join(ctx.vaultRoot, path);
 
   if (!abs.startsWith(ctx.vaultRoot)) throw new Error(`Path outside vault: ${path}`);
+  assertWritable(ctx.policy, path);
 
   let original = '';
   try {
