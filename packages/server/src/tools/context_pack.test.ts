@@ -307,6 +307,61 @@ describe('contextPack', () => {
     expect(pack.excerpts[0]?.fm).toBeUndefined();
   });
 
+  it('caps the neighborhood at 5 and overflows the rest into sources', () => {
+    const stubs = [];
+    const refs: BacklinkRef[] = [];
+    for (let i = 0; i < 8; i++) {
+      stubs.push({
+        id: `refs/stub-${i}.md`,
+        title: `Stub ${i}`,
+        body: `Cross-reference stub number ${i}.`,
+      });
+      refs.push({ path: `refs/stub-${i}.md`, line: i + 1, linkType: 'wikilink' });
+    }
+    const backlinks = new Map<string, BacklinkRef[]>([['hub/axolotl.md', refs]]);
+    const ctx = buildCtx(
+      '/vault',
+      [
+        { id: 'hub/axolotl.md', title: 'Axolotl', body: 'Axolotl regeneration research hub.' },
+        ...stubs,
+      ],
+      backlinks,
+    );
+    const pack = contextPack(ctx, { query: 'axolotl regeneration', budgetBytes: 8192 });
+    expect(pack.neighborhood.length).toBe(5);
+    // The 3 over-cap neighbors overflow into sources; a count cap is not a
+    // budget drop, so truncated stays unset.
+    expect(pack.sources.length).toBe(3);
+    expect(pack.truncated).toBeUndefined();
+  });
+
+  it('stops the neighborhood mid-phase when the budget runs out', () => {
+    const stubs = [];
+    const refs: BacklinkRef[] = [];
+    for (let i = 0; i < 4; i++) {
+      stubs.push({
+        id: `refs/stub-${i}.md`,
+        title: `Stub ${i}`,
+        body: `Cross-reference stub number ${i} with a long enough body to make each neighborhood summary cost real bytes against a tight budget.`,
+      });
+      refs.push({ path: `refs/stub-${i}.md`, line: i + 1, linkType: 'wikilink' });
+    }
+    const backlinks = new Map<string, BacklinkRef[]>([['hub/axolotl.md', refs]]);
+    const ctx = buildCtx(
+      '/vault',
+      [
+        { id: 'hub/axolotl.md', title: 'Axolotl', body: 'Axolotl regeneration research hub.' },
+        ...stubs,
+      ],
+      backlinks,
+    );
+    const pack = contextPack(ctx, { query: 'axolotl regeneration', budgetBytes: 420 });
+    expect(Buffer.byteLength(JSON.stringify(pack), 'utf8')).toBeLessThanOrEqual(420);
+    // Budget forces neighbor drops: fewer than the 4 available, flagged truncated.
+    expect(pack.neighborhood.length).toBeLessThan(4);
+    expect(pack.truncated).toBe(true);
+  });
+
   it('signals truncation with overflow sources when the budget forces drops', () => {
     const ctx = buildCtx('/vault', bigVault());
     const pack = contextPack(ctx, { query: 'photosynthesis chlorophyll', budgetBytes: 512 });
