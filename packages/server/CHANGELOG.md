@@ -1,5 +1,17 @@
 # seekstone
 
+## 0.10.0
+
+### Minor Changes
+
+- fd1e03a: Read-only mode and write-path scoping. `SEEKSTONE_READ_ONLY=1` unregisters the 8 write tools from the tool list (and rejects them at dispatch if called anyway — `get_periodic_note`'s `createIfMissing` side-effect is also neutralized). `SEEKSTONE_WRITE_PATHS` takes comma-separated vault-relative globs (e.g. `journal/**,inbox/*.md`) and restricts writes to matching paths. Both are enforced at the dispatch layer plus a shared `assertWritable` check in every write handler, so a new tool can't forget the check.
+- e6092c3: Link-aware moves: `move_note` now rewrites wikilinks, embeds, and relative/vault-absolute markdown links in other notes that pointed at the moved note, so a move or rename no longer orphans it in the graph. Links that still resolve after the move (unchanged, unambiguous basename) are left byte-identical; aliases, `#fragments`, embed prefixes, and `%20`/`<...>` encodings are preserved; fenced code blocks are skipped. The tool reports how many links in how many notes were updated, `rewriteLinks: false` restores the old move-only behavior, and referencing notes outside `SEEKSTONE_WRITE_PATHS` are skipped and reported rather than blocking the move. Also fixes a pre-existing gap where the moved note's own outgoing links stayed registered in the backlink index under its old path.
+
+### Patch Changes
+
+- b82c6ef: `seekstone init` now errors on an unknown `--client` value instead of silently configuring Claude Desktop — agents running the one-prompt install get a clear failure they can relay. Docs gain a copy-pasteable agent install prompt (README + llms.txt), and llms.txt catches up to the 17-tool surface (adds `query_notes`).
+- 227fe6c: `seekstone init --help` (and `-h`) now prints the init subcommand's usage — its `--vault`, `--client`, and `--write` flags — instead of ignoring the flag and running the init flow (vault auto-detection). Help flags after `init` were previously swallowed by init's own argument parsing.
+
 ## 0.9.1
 
 ### Patch Changes
