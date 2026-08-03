@@ -83,6 +83,22 @@ export const ALL_TOOLS = [
     },
   },
   {
+    name: 'context_pack',
+    description:
+      'Assemble everything needed to ANSWER a natural-language question in one call, under a strict byte budget (default 2048): ranked excerpts, linked neighbor notes (backlinks/outlinks) with one-line summaries, and follow-up source paths. Use search to locate notes and query_notes for metadata filters; use context_pack when you want answer-ready context without multiple round-trips. Empty excerpts with confidence "none" or "low" means the vault lacks coverage — do not infer content.',
+    inputSchema: {
+      type: 'object',
+      properties: {
+        query: { type: 'string', description: 'Natural-language question or topic.' },
+        budgetBytes: {
+          type: 'number',
+          description: 'Hard cap on response JSON bytes (256–16384, default 2048).',
+        },
+      },
+      required: ['query'],
+    },
+  },
+  {
     name: 'read_note',
     description:
       'Read a note or a span of it — by heading section, block reference, or line range. Returns structured JSON with the content, bytes returned, total note size, and a contentHash to pass as prevHash to edit tools for compare-and-swap. Use search or outline_note first to find the right path and section names.',

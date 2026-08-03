@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"><strong>The Obsidian MCP server that needs no plugin, no running Obsidian app — and doesn't blow your context window.</strong></p>
-<p align="center"><em>Filesystem-direct · single-digit-ms search · ~2 KB payloads · 17 tools · macOS · Linux · Windows</em></p>
+<p align="center"><em>Filesystem-direct · single-digit-ms search · ~2 KB payloads · 18 tools · macOS · Linux · Windows</em></p>
 
 <p align="center"><a href="https://seekstone.dev"><strong>seekstone.dev →</strong></a></p>
 
@@ -258,7 +258,7 @@ Seekstone is a standard MCP stdio server — any MCP client can run it. Use the 
 
 ---
 
-After installing, restart the client. On startup Seekstone walks the vault, builds an in-memory full-text index (a few seconds for thousands of notes), and keeps it live as you edit. The 17 tools below are then available to Claude.
+After installing, restart the client. On startup Seekstone walks the vault, builds an in-memory full-text index (a few seconds for thousands of notes), and keeps it live as you edit. The 18 tools below are then available to Claude.
 
 Requires [Node.js](https://nodejs.org) ≥ 22 for the CLI options. The one-click `.mcpb` bundle has no external requirements.
 
@@ -293,6 +293,7 @@ Claude never sees your full vault at once — it searches and reads selectively,
 |---|---|
 | `search` | Full-text search. Returns ranked excerpts (default ~120 chars, tunable via `excerptLength`), not full notes. Fuzzy, prefix, and phrase queries. |
 | `query_notes` | Structured metadata query. Filter by frontmatter key/value predicates (`eq`, `ne`, `contains`, `exists`, `missing`, `gt`/`gte`/`lt`/`lte`), tag, folder, modified time, and size; sort and select the fields you need. Returns compact rows (path + title by default), not note content. |
+| `context_pack` | Answer-ready context for a natural-language question in one call, hard-capped at a byte budget (default 2 KB): ranked excerpts, linked neighbor notes with one-line summaries, and follow-up source paths — replaces a search → read → get_backlinks round-trip loop. |
 | `read_note` | Read the full content of a note by vault-relative path. Supports returning a single section, block, or line range. |
 | `list_notes` | List notes, optionally filtered by folder prefix or tag. |
 | `list_tags` | List all tags in the vault sorted by usage count (or alphabetically). |
@@ -405,7 +406,7 @@ npx tsc -p packages/server/tsconfig.json --noEmit        # typecheck
 
 | Package | Purpose |
 |---|---|
-| `packages/server` | The published `seekstone` MCP server (17 tools, stdio, MiniSearch index, chokidar watcher). |
+| `packages/server` | The published `seekstone` MCP server (18 tools, stdio, MiniSearch index, chokidar watcher). |
 | `packages/core` | Shared vault primitives — walk, frontmatter parser, link/tag extractor, percentiles. Bundled into the server build. |
 | `packages/harness` | Profiler + benchmark + write-safety harness (REST vs filesystem) that produced the payload numbers above. Dev-only; not published. |
 
