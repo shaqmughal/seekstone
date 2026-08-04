@@ -20,6 +20,12 @@ import {
   runBenchmark,
 } from './bench/index.js';
 import { renderScalingMarkdown, type ScaleGroup } from './bench/scaling.js';
+import { runScenarios } from './bench/scenarios.js';
+import {
+  renderScenarioComparisonMarkdown,
+  renderScenarioMarkdown,
+} from './bench/scenarios-report.js';
+import { loadTaskSet } from './bench/tasks.js';
 import { fetchCorpus, loadCorpus } from './fixtures/corpus.js';
 import { generateVault } from './fixtures/generate.js';
 import { profileVault } from './profiler/index.js';
@@ -38,6 +44,7 @@ process.chdir(REPO_ROOT);
 // Anchor fixture defaults to this package, independent of the caller's cwd.
 const FIXTURES = fileURLToPath(new URL('../fixtures', import.meta.url));
 const DEFAULT_QUERIES = fileURLToPath(new URL('../queries/default.json', import.meta.url));
+const DEFAULT_TASKS = fileURLToPath(new URL('../queries/tasks.json', import.meta.url));
 
 const cli = cac('seekstone-harness');
 
@@ -97,6 +104,77 @@ cli
     } finally {
       await backend.close?.();
     }
+  });
+
+// ---------- scenarios ----------
+cli
+  .command('scenarios', 'Run the tokens-per-task scenario benchmark against a backend.')
+  .option('--backend <name>', 'Adapter name (see bench).', { default: 'seekstone' })
+  .option('--vault <path>', 'Vault root (or set SEEKSTONE_VAULT).')
+  .option('--tasks <file>', 'Task set JSON.', { default: DEFAULT_TASKS })
+  .option('--strategy <mode>', '"auto" (context_pack when supported) or "multicall" (ablation).', {
+    default: 'auto',
+  })
+  .option('--out <dir>', 'Output directory.', { default: 'reports' })
+  .option('--runs <n>', 'Override runs-per-task.')
+  .action(async (opts) => {
+    if (opts.strategy !== 'auto' && opts.strategy !== 'multicall') {
+      console.error(`Unknown --strategy: ${opts.strategy}. Known: auto, multicall.`);
+      process.exit(2);
+    }
+    const outDir = resolve(opts.out);
+    await mkdir(outDir, { recursive: true });
+    const taskSet = await loadTaskSet(resolve(opts.tasks));
+    if (opts.runs) taskSet.runs = Number(opts.runs);
+    const vaultRoot = opts.vault ?? process.env.SEEKSTONE_VAULT;
+    const backend = await buildBackend(opts.backend, vaultRoot);
+    try {
+      const summary = await runScenarios({
+        backend,
+        taskSet,
+        forceMulticall: opts.strategy === 'multicall',
+      });
+      await writeFile(
+        join(outDir, `scenarios-${summary.label}.json`),
+        JSON.stringify(summary, null, 2),
+      );
+      await writeFile(
+        join(outDir, `scenarios-${summary.label}.md`),
+        renderScenarioMarkdown(summary),
+      );
+      console.log(
+        `scenarios (${summary.label}): ${summary.tasks.length} tasks × ${taskSet.runs} runs.`,
+      );
+      console.log(`         wrote ${join(outDir, `scenarios-${summary.label}.json`)}`);
+      console.log(`         wrote ${join(outDir, `scenarios-${summary.label}.md`)}`);
+    } finally {
+      await backend.close?.();
+    }
+  });
+
+// ---------- scenarios-compare ----------
+cli
+  .command(
+    'scenarios-compare',
+    'Generate a cross-adapter tokens-per-task comparison from scenario JSON files.',
+  )
+  .option('--reports <files>', 'Comma-separated paths to scenarios-*.json files.')
+  .option('--out <dir>', 'Output directory.', { default: 'reports' })
+  .action(async (opts) => {
+    const paths = needArg(opts.reports as string, 'reports')
+      .split(',')
+      .map((p: string) => resolve(p.trim()));
+    const summaries = await Promise.all(
+      paths.map(async (p: string) => {
+        const raw = await readFile(p, 'utf8');
+        return JSON.parse(raw) as import('./bench/scenarios.js').ScenarioSummary;
+      }),
+    );
+    const outDir = resolve(opts.out);
+    await mkdir(outDir, { recursive: true });
+    const outPath = join(outDir, 'scenarios-comparison.md');
+    await writeFile(outPath, renderScenarioComparisonMarkdown(summaries));
+    console.log(`scenarios-compare: wrote ${outPath}`);
   });
 
 // ---------- safety ----------

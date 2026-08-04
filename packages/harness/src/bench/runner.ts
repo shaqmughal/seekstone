@@ -8,6 +8,8 @@ export interface ToolBenchmarks {
   list: RunStats | null;
   /** list_tags — all tags sorted by count. */
   listTags: RunStats | null;
+  /** context_pack — one-call context assembly for the first search query. */
+  contextPack: { query: string; stats: RunStats } | null;
   /** outline_note — heading/block structure of the small read target. */
   outline: { path: string; stats: RunStats } | null;
   /** get_backlinks — reverse-link lookup for the small read target. */
@@ -111,7 +113,13 @@ export async function runBenchmark(opts: RunnerOptions): Promise<BenchmarkSummar
     : null;
 
   // ── Extended tool benchmarks ─────────────────────────────────────────────────
-  const tools = await runToolBenchmarks(backend, reads.small, querySet.runs, samplePeak);
+  const tools = await runToolBenchmarks(
+    backend,
+    reads.small,
+    querySet.queries[0]?.query ?? null,
+    querySet.runs,
+    samplePeak,
+  );
 
   return {
     snapshotDate: new Date().toISOString(),
@@ -134,6 +142,7 @@ export async function runBenchmark(opts: RunnerOptions): Promise<BenchmarkSummar
 async function runToolBenchmarks(
   backend: Backend,
   samplePath: string | null,
+  sampleQuery: string | null,
   runs: number,
   samplePeak: () => void,
 ): Promise<ToolBenchmarks> {
@@ -155,6 +164,13 @@ async function runToolBenchmarks(
 
   const listTagsFn = backend.listTags?.bind(backend);
   const listTags = listTagsFn ? await bench(() => listTagsFn()) : null;
+
+  // context_pack — one-call context assembly; needs a query string
+  const contextPackFn = backend.contextPack?.bind(backend);
+  const contextPack =
+    contextPackFn && sampleQuery
+      ? { query: sampleQuery, stats: await bench(() => contextPackFn(sampleQuery)) }
+      : null;
 
   // outline, getBacklinks, getLinks — all need a note path
   let outline: ToolBenchmarks['outline'] = null;
@@ -189,7 +205,7 @@ async function runToolBenchmarks(
   const getPeriodicNoteFn = backend.getPeriodicNote?.bind(backend);
   const getPeriodicNote = getPeriodicNoteFn ? await bench(() => getPeriodicNoteFn('daily')) : null;
 
-  return { list, listTags, outline, getBacklinks, getLinks, getPeriodicNote };
+  return { list, listTags, contextPack, outline, getBacklinks, getLinks, getPeriodicNote };
 }
 
 async function resolveReadPaths(

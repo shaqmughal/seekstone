@@ -1,0 +1,141 @@
+{
+  "snapshotDate": "2026-08-04T12:48:08.929Z",
+  "machine": {
+    "platform": "darwin",
+    "arch": "arm64",
+    "node": "v26.0.0",
+    "cpus": 10
+  },
+  "backend": {
+    "name": "seekstone",
+    "description": "Seekstone server (in-process function calls, no IPC)"
+  },
+  "label": "seekstone",
+  "runs": 5,
+  "tasks": [
+    {
+      "id": "phlogiston-theory",
+      "question": "What was the phlogiston theory and which chemists overturned it?",
+      "strategy": "context-pack",
+      "steps": [
+        {
+          "op": "context_pack",
+          "target": "phlogiston",
+          "payloadBytes": 2025,
+          "payloadTokens": 551
+        }
+      ],
+      "calls": 1,
+      "totalPayloadBytes": 2025,
+      "totalPayloadTokens": 551,
+      "payloadStable": true,
+      "latency": {
+        "coldMs": 43.844875,
+        "warm": {
+          "n": 4,
+          "min": 36.110792,
+          "median": 36.141542,
+          "p90": 37.832333,
+          "p95": 37.832333,
+          "p99": 37.832333,
+          "max": 37.832333,
+          "mean": 36.694354249999996
+        },
+        "runs": 5
+      }
+    },
+    {
+      "id": "roman-empire-extent",
+      "question": "What did the Roman Empire comprise at its greatest extent?",
+      "strategy": "context-pack",
+      "steps": [
+        {
+          "op": "context_pack",
+          "target": "Roman Empire",
+          "payloadBytes": 4062,
+          "payloadTokens": 1115
+        }
+      ],
+      "calls": 1,
+      "totalPayloadBytes": 4062,
+      "totalPayloadTokens": 1115,
+      "payloadStable": true,
+      "latency": {
+        "coldMs": 28.543584,
+        "warm": {
+          "n": 4,
+          "min": 25.555333,
+          "median": 25.774,
+          "p90": 27.435333,
+          "p95": 27.435333,
+          "p99": 27.435333,
+          "max": 27.435333,
+          "mean": 26.146489250000002
+        },
+        "runs": 5
+      }
+    },
+    {
+      "id": "church-architecture",
+      "question": "How is a mediaeval church laid out architecturally?",
+      "strategy": "context-pack",
+      "steps": [
+        {
+          "op": "context_pack",
+          "target": "church architecture nave",
+          "payloadBytes": 4066,
+          "payloadTokens": 1084
+        }
+      ],
+      "calls": 1,
+      "totalPayloadBytes": 4066,
+      "totalPayloadTokens": 1084,
+      "payloadStable": true,
+      "latency": {
+        "coldMs": 29.762208,
+        "warm": {
+          "n": 4,
+          "min": 29.212542,
+          "median": 30.088291,
+          "p90": 30.765042,
+          "p95": 30.765042,
+          "p99": 30.765042,
+          "max": 30.765042,
+          "mean": 30.095062499999997
+        },
+        "runs": 5
+      }
+    },
+    {
+      "id": "rome-hub-navigation",
+      "question": "Which articles does the ancient-rome map of content link to?",
+      "strategy": "context-pack",
+      "steps": [
+        {
+          "op": "context_pack",
+          "target": "ancient-rome MOC",
+          "payloadBytes": 2019,
+          "payloadTokens": 630
+        }
+      ],
+      "calls": 1,
+      "totalPayloadBytes": 2019,
+      "totalPayloadTokens": 630,
+      "payloadStable": true,
+      "latency": {
+        "coldMs": 153.635208,
+        "warm": {
+          "n": 4,
+          "min": 150.086375,
+          "median": 150.145208,
+          "p90": 153.436125,
+          "p95": 153.436125,
+          "p99": 153.436125,
+          "max": 153.436125,
+          "mean": 150.97620825
+        },
+        "runs": 5
+      }
+    }
+  ]
+}

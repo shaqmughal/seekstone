@@ -1,0 +1,39 @@
+{
+  "comment": "Task set for the tokens-per-task scenario benchmark (SHA-274). Methodology artifact like default.json: each task is one question an agent must gather context to answer, measured against the committed seed-42 EB1911 fixture vault (packages/harness/fixtures/vault). The scenario runner picks the cheapest sequence the backend supports — one context_pack call, or search → read ×K → backlinks without it — and sums payload bytes/tokens across the calls. Re-measure the notes below if you regenerate the vault.",
+  "tasks": [
+    {
+      "id": "phlogiston-theory",
+      "question": "What was the phlogiston theory and which chemists overturned it?",
+      "searchQuery": "phlogiston",
+      "readTopK": 3,
+      "budgetBytes": 2048,
+      "notes": "Rare term (~9 notes). The multi-call path reads 3 full articles; context_pack answers in one budgeted call."
+    },
+    {
+      "id": "roman-empire-extent",
+      "question": "What did the Roman Empire comprise at its greatest extent?",
+      "searchQuery": "Roman Empire",
+      "readTopK": 3,
+      "budgetBytes": 4096,
+      "notes": "Mid-frequency multi-term (~135 notes); EB1911 articles are long, so full reads are expensive."
+    },
+    {
+      "id": "church-architecture",
+      "question": "How is a mediaeval church laid out architecturally?",
+      "searchQuery": "church architecture nave",
+      "readTopK": 3,
+      "budgetBytes": 4096,
+      "notes": "High-frequency head term ('church' ~2,226 notes) narrowed by modifiers; stresses ranking plus read cost."
+    },
+    {
+      "id": "rome-hub-navigation",
+      "question": "Which articles does the ancient-rome map of content link to?",
+      "searchQuery": "ancient-rome MOC",
+      "readTopK": 2,
+      "budgetBytes": 2048,
+      "notes": "Wikilink-hub task: MOCs/ notes are link hubs. context_pack folds the link neighborhood in; the multi-call path needs read + get_backlinks. Zero hits from content-only searchers is a legitimate, reportable result."
+    }
+  ],
+  "runs": 5,
+  "_runsHint": "Tasks are multi-op and heavier than micro-benchmarks; 5 runs keeps latency honest (cold vs warm) while payload is deterministic anyway."
+}

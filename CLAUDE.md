@@ -23,6 +23,7 @@ npm run format                                        # biome write
 # the harness itself (run after `npm install`)
 npm run harness -- profile --vault "$SEEKSTONE_VAULT"
 npm run harness -- bench   --queries packages/harness/queries/default.json --stats reports/vault-stats.json
+npm run harness -- scenarios --backend seekstone --vault "$PWD/packages/harness/fixtures/vault"   # tokens-per-task
 npm run harness -- safety  --vault "$SEEKSTONE_VAULT"
 
 # the committed synthetic benchmark vault (no personal vault needed)

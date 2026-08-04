@@ -43,6 +43,7 @@ const minimalSummary: BenchmarkSummary = {
   tools: {
     list: null,
     listTags: null,
+    contextPack: null,
     outline: null,
     getBacklinks: null,
     getLinks: null,
@@ -207,6 +208,7 @@ describe('renderBenchmarkMarkdown', () => {
       tools: {
         list: toolStats,
         listTags: toolStats,
+        contextPack: { query: 'hello world', stats: toolStats },
         outline: { path: 'notes/small.md', stats: toolStats },
         getBacklinks: { path: 'notes/small.md', stats: toolStats },
         getLinks: { path: 'notes/small.md', stats: toolStats },
@@ -217,6 +219,7 @@ describe('renderBenchmarkMarkdown', () => {
     expect(md).toContain('## Tools');
     expect(md).toContain('list_notes');
     expect(md).toContain('list_tags');
+    expect(md).toContain('context_pack');
     expect(md).toContain('outline_note');
     expect(md).toContain('get_backlinks');
     expect(md).toContain('get_links');
@@ -237,6 +240,7 @@ describe('renderBenchmarkMarkdown', () => {
       tools: {
         list: toolStats,
         listTags: null,
+        contextPack: null,
         outline: null,
         getBacklinks: null,
         getLinks: null,
@@ -246,6 +250,7 @@ describe('renderBenchmarkMarkdown', () => {
     const md = renderBenchmarkMarkdown(s);
     expect(md).toContain('Not supported by this backend');
     expect(md).toContain('list_tags');
+    expect(md).toContain('context_pack');
     expect(md).toContain('outline_note');
   });
 

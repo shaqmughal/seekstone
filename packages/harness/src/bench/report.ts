@@ -48,7 +48,7 @@ export function renderBenchmarkMarkdown(s: BenchmarkSummary): string {
   }
   push();
   push(
-    `> **Context tax.** Payload is the raw bytes returned for the query. Token count uses tiktoken \`cl100k_base\`.`,
+    `> **Context tax.** Payload is the raw bytes returned for the query. Token count is encoder-approximate: tiktoken \`cl100k_base\` (an OpenAI encoder) on the raw payload text — per-model tokenizers differ in absolute counts, but cross-adapter ratios hold.`,
   );
   push();
 
@@ -74,7 +74,13 @@ export function renderBenchmarkMarkdown(s: BenchmarkSummary): string {
   if (s.tools) {
     const t = s.tools;
     const hasAny =
-      t.list || t.listTags || t.outline || t.getBacklinks || t.getLinks || t.getPeriodicNote;
+      t.list ||
+      t.listTags ||
+      t.contextPack ||
+      t.outline ||
+      t.getBacklinks ||
+      t.getLinks ||
+      t.getPeriodicNote;
 
     if (hasAny) {
       push(`## Tools`);
@@ -91,6 +97,10 @@ export function renderBenchmarkMarkdown(s: BenchmarkSummary): string {
 
       if (t.list) push(toolRow('list_notes', 'vault root', t.list));
       if (t.listTags) push(toolRow('list_tags', 'all tags', t.listTags));
+      if (t.contextPack)
+        push(
+          toolRow('context_pack', `\`${mdCellEscape(t.contextPack.query)}\``, t.contextPack.stats),
+        );
       if (t.outline) push(toolRow('outline_note', `\`${t.outline.path}\``, t.outline.stats));
       if (t.getBacklinks)
         push(toolRow('get_backlinks', `\`${t.getBacklinks.path}\``, t.getBacklinks.stats));
@@ -103,6 +113,7 @@ export function renderBenchmarkMarkdown(s: BenchmarkSummary): string {
       const unsupported: string[] = [];
       if (!t.list) unsupported.push('list_notes');
       if (!t.listTags) unsupported.push('list_tags');
+      if (!t.contextPack) unsupported.push('context_pack');
       if (!t.outline) unsupported.push('outline_note');
       if (!t.getBacklinks) unsupported.push('get_backlinks');
       if (!t.getLinks) unsupported.push('get_links');

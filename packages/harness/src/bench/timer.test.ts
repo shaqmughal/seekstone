@@ -1,8 +1,24 @@
 import { get_encoding } from 'tiktoken';
 import { describe, expect, it } from 'vitest';
-import { runN, runNStream, timed } from './timer.js';
+import { countTokens, runN, runNStream, timed } from './timer.js';
 
 const enc = get_encoding('cl100k_base');
+
+describe('countTokens', () => {
+  it('uses tiktoken cl100k_base when text is provided', () => {
+    const text = 'Hello, this is a sample note with some content for token counting.';
+    expect(countTokens(text, Buffer.byteLength(text, 'utf8'))).toBe(enc.encode(text).length);
+  });
+
+  it('falls back to ceil(bytes / 4) when text is undefined', () => {
+    expect(countTokens(undefined, 512)).toBe(128);
+    expect(countTokens(undefined, 513)).toBe(129);
+  });
+
+  it('counts an empty string as 0 tokens rather than falling back', () => {
+    expect(countTokens('', 512)).toBe(0);
+  });
+});
 
 describe('timed', () => {
   it('returns the result of the fn unchanged', async () => {
