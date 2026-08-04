@@ -1,6 +1,7 @@
 import { mkdtemp, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { describe, expect, it } from 'vitest';
 import { loadTaskSet } from './tasks.js';
 
@@ -51,7 +52,8 @@ describe('loadTaskSet', () => {
   });
 
   it('parses the committed tasks.json', async () => {
-    const committed = new URL('../../queries/tasks.json', import.meta.url).pathname;
+    // fileURLToPath, not .pathname — the latter mangles Windows drive letters.
+    const committed = fileURLToPath(new URL('../../queries/tasks.json', import.meta.url));
     const ts = await loadTaskSet(committed);
     expect(ts.tasks.length).toBeGreaterThanOrEqual(3);
     for (const t of ts.tasks) {
