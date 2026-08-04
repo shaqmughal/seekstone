@@ -144,14 +144,29 @@ Commit the captured `benchmark-{rest,mcp-obsidian,obsidian-mcp-server}.json` wit
 note of the date + Obsidian/plugin versions. The renderer merges whatever is
 present and lists anything still missing under "Not yet captured."
 
-## The three tools
+## The tools
 
 | Command | What it does | Output |
 | --- | --- | --- |
 | `profile` | Walks the vault, classifies files, aggregates note/link/tag/frontmatter stats | `vault-stats.{json,md}` |
 | `bench`   | Runs the query set against a `--backend` (`fs`, `rest`, …), capturing latency **and payload bytes/tokens** | `benchmark-<backend>.{json,md}` |
+| `scenarios` | Tokens-per-task: runs each task in `queries/tasks.json` as the call sequence an agent would make (one `context_pack` call where supported, else search → read ×K → backlinks) and sums payload across it | `scenarios-<label>.{json,md}` |
+| `scenarios-compare` | Cross-adapter tokens-per-task table from scenario JSONs | `scenarios-comparison.md` |
 | `safety`  | Byte-faithful write round-trip suite (operates on a vault **copy**) | `safety-<backend>.{json,md}` |
 | `compare` | Cross-adapter comparison from benchmark JSONs | `comparison.md` |
+
+### Tokens per task (`scenarios`)
+
+`queries/tasks.json` is a methodology artifact like the query set: each task is one
+question an agent must gather context to answer. The runner picks the cheapest
+sequence the backend supports — backends with `context_pack` answer in one call;
+everything else pays for `search` → `read` per top hit → `get_backlinks`, with reads
+following **that backend's own** hit ranking. Payload bytes and (encoder-approximate,
+tiktoken `cl100k_base`) tokens are summed per task; latency is whole-task cold/warm.
+`--strategy multicall` forces a context_pack-capable backend down the multi-call path
+(reported as `<name>-multicall`) — the ablation that shows the win is `context_pack`
+itself, not the adapter. Committed baselines live in
+`fixtures/baseline-reports/scenarios-*.{json,md}` + `scenarios-comparison.md`.
 
 See the root [`CLAUDE.md`](../../CLAUDE.md) for architecture details (the `Backend`
 contract, percentile shapes, write-safety guard rails) and required env vars for the

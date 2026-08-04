@@ -175,6 +175,7 @@ export function renderComparisonMarkdown(summaries: BenchmarkSummary[]): string 
   const toolNames: Array<[string, keyof import('./runner.js').ToolBenchmarks]> = [
     ['list_notes', 'list'],
     ['list_tags', 'listTags'],
+    ['context_pack', 'contextPack'],
     ['outline_note', 'outline'],
     ['get_backlinks', 'getBacklinks'],
     ['get_links', 'getLinks'],

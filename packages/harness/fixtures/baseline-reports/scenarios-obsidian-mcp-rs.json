@@ -1,0 +1,207 @@
+{
+  "snapshotDate": "2026-08-04T12:53:33.511Z",
+  "machine": {
+    "platform": "darwin",
+    "arch": "arm64",
+    "node": "v26.0.0",
+    "cpus": 10
+  },
+  "backend": {
+    "name": "obsidian-mcp-rs",
+    "description": "obsidian-mcp-rs (Rust, filesystem-direct, per-query scan, no Obsidian required)"
+  },
+  "label": "obsidian-mcp-rs",
+  "runs": 5,
+  "tasks": [
+    {
+      "id": "phlogiston-theory",
+      "question": "What was the phlogiston theory and which chemists overturned it?",
+      "strategy": "search-read",
+      "steps": [
+        {
+          "op": "search",
+          "target": "phlogiston",
+          "payloadBytes": 2773,
+          "payloadTokens": 762
+        },
+        {
+          "op": "read",
+          "target": "Sources/Combustion.md",
+          "payloadBytes": 3966,
+          "payloadTokens": 924
+        },
+        {
+          "op": "read",
+          "target": "Encyclopedia/B/Black.md",
+          "payloadBytes": 5783,
+          "payloadTokens": 1369
+        },
+        {
+          "op": "read",
+          "target": "Encyclopedia/K/Kirwan.md",
+          "payloadBytes": 3195,
+          "payloadTokens": 806
+        }
+      ],
+      "calls": 4,
+      "totalPayloadBytes": 15717,
+      "totalPayloadTokens": 3861,
+      "payloadStable": true,
+      "latency": {
+        "coldMs": 313.474083,
+        "warm": {
+          "n": 4,
+          "min": 40.986083,
+          "median": 41.075541,
+          "p90": 44.154916,
+          "p95": 44.154916,
+          "p99": 44.154916,
+          "max": 44.154916,
+          "mean": 42.43141625
+        },
+        "runs": 5
+      }
+    },
+    {
+      "id": "roman-empire-extent",
+      "question": "What did the Roman Empire comprise at its greatest extent?",
+      "strategy": "search-read",
+      "steps": [
+        {
+          "op": "search",
+          "target": "Roman Empire",
+          "payloadBytes": 7542,
+          "payloadTokens": 2135
+        },
+        {
+          "op": "read",
+          "target": "Reference/Empire.md",
+          "payloadBytes": 80534,
+          "payloadTokens": 19413
+        },
+        {
+          "op": "read",
+          "target": "Encyclopedia/C/Comnenus.md",
+          "payloadBytes": 1909,
+          "payloadTokens": 523
+        },
+        {
+          "op": "read",
+          "target": "Encyclopedia/G/Gallienus.md",
+          "payloadBytes": 1779,
+          "payloadTokens": 479
+        }
+      ],
+      "calls": 4,
+      "totalPayloadBytes": 91764,
+      "totalPayloadTokens": 22550,
+      "payloadStable": true,
+      "latency": {
+        "coldMs": 88.481583,
+        "warm": {
+          "n": 4,
+          "min": 76.225125,
+          "median": 79.485416,
+          "p90": 83.639042,
+          "p95": 83.639042,
+          "p99": 83.639042,
+          "max": 83.639042,
+          "mean": 80.30639575000001
+        },
+        "runs": 5
+      }
+    },
+    {
+      "id": "church-architecture",
+      "question": "How is a mediaeval church laid out architecturally?",
+      "strategy": "search-read",
+      "steps": [
+        {
+          "op": "search",
+          "target": "church architecture nave",
+          "payloadBytes": 7589,
+          "payloadTokens": 2079
+        },
+        {
+          "op": "read",
+          "target": "Encyclopedia/D/Dunkeld.md",
+          "payloadBytes": 5268,
+          "payloadTokens": 1386
+        },
+        {
+          "op": "read",
+          "target": "0 Inbox/Basilica.md",
+          "payloadBytes": 42571,
+          "payloadTokens": 10981
+        },
+        {
+          "op": "read",
+          "target": "Encyclopedia/A/Arcade.md",
+          "payloadBytes": 2763,
+          "payloadTokens": 726
+        }
+      ],
+      "calls": 4,
+      "totalPayloadBytes": 58191,
+      "totalPayloadTokens": 15172,
+      "payloadStable": true,
+      "latency": {
+        "coldMs": 70.017625,
+        "warm": {
+          "n": 4,
+          "min": 71.754334,
+          "median": 72.313375,
+          "p90": 155.809459,
+          "p95": 155.809459,
+          "p99": 155.809459,
+          "max": 155.809459,
+          "mean": 93.10444824999999
+        },
+        "runs": 5
+      }
+    },
+    {
+      "id": "rome-hub-navigation",
+      "question": "Which articles does the ancient-rome map of content link to?",
+      "strategy": "search-read",
+      "steps": [
+        {
+          "op": "search",
+          "target": "ancient-rome MOC",
+          "payloadBytes": 4574,
+          "payloadTokens": 1510
+        },
+        {
+          "op": "read",
+          "target": "MOCs/ancient-rome-studies MOC.md",
+          "payloadBytes": 529,
+          "payloadTokens": 192
+        },
+        {
+          "op": "read",
+          "target": "MOCs/ancient-rome MOC.md",
+          "payloadBytes": 657,
+          "payloadTokens": 240
+        }
+      ],
+      "calls": 3,
+      "totalPayloadBytes": 5760,
+      "totalPayloadTokens": 1942,
+      "payloadStable": true,
+      "latency": {
+        "coldMs": 67.477209,
+        "warm": {
+          "n": 4,
+          "min": 66.417667,
+          "median": 68.876583,
+          "p90": 71.863833,
+          "p95": 71.863833,
+          "p99": 71.863833,
+          "max": 71.863833,
+          "mean": 69.24134375
+        },
+        "runs": 5
+      }
+    }
+  ]
+}

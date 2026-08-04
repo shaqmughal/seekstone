@@ -183,7 +183,7 @@ the boundary** as the headline "context tax" metric.
 
 ```mermaid
 flowchart TD
-    cli["CLI — cli.ts (cac)<br/>profile · bench · safety · compare<br/>scale-render · gen-vault · fetch-corpus"]
+    cli["CLI — cli.ts (cac)<br/>profile · bench · scenarios · safety · compare<br/>scenarios-compare · scale-render · gen-vault · fetch-corpus"]
 
     backend["Backend contract — bench/backend.ts<br/>search · read · write · list (+ optional tools)<br/>every method → BackendResponse{ result, payloadBytes }"]
 
@@ -198,7 +198,7 @@ flowchart TD
 
     subgraph modules["Three measurement modules"]
         profiler["profiler/<br/>walk · classify · aggregate → VaultStats"]
-        bench["bench/<br/>runN cold/warm → BenchmarkSummary<br/>report · compare · scaling · timer"]
+        bench["bench/<br/>runN cold/warm → BenchmarkSummary<br/>scenarios (tokens-per-task) → ScenarioSummary<br/>report · compare · scaling · timer"]
         safety["safety/<br/>copyVault → runSafety ops → SafetySummary<br/>identity · body-append · fm-edit · patch · replace"]
     end
 
