@@ -86,7 +86,7 @@ export async function createNote(
 
   let raw = '';
   if (input.frontmatter && Object.keys(input.frontmatter).length > 0) {
-    raw = `---\n${stringifyYaml(input.frontmatter)}---\n`;
+    raw = `---\n${stringifyYaml(input.frontmatter, { lineWidth: 0 })}---\n`;
   }
   raw += input.content ?? '';
 

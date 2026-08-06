@@ -1,6 +1,7 @@
 import { mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
+import { extractLinksWithLines } from '@seekstone/core/extract';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import MiniSearch from 'minisearch';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
@@ -172,6 +173,25 @@ describe('patchFrontmatter', () => {
     expect(fm.data?.title).toBe('Created');
     // Original body preserved
     expect(written).toContain('# No Frontmatter');
+  });
+
+  it('does not fold a long value — a wikilink survives a patch to an unrelated key', async () => {
+    const target =
+      'sources/rag-notes/a-capture-slug-long-enough-to-exceed-the-default-line-width-2026-01-01';
+    const note = `---\ntitle: Long Sources\nupdated: 2026-01-01\nsources: ["[[${target}]]"]\n---\n# Body\n`;
+    await writeFile(join(vaultRoot, 'long-value.md'), note, 'utf8');
+    const ctx = buildCtx(vaultRoot, [
+      { id: 'long-value.md', title: 'Long Sources', body: '# Body\n', raw: note },
+    ]);
+
+    await patchFrontmatter(ctx, { path: 'long-value.md', patch: { updated: '2026-02-02' } });
+
+    const written = await readFile(join(vaultRoot, 'long-value.md'), 'utf8');
+
+    // A folded scalar is valid YAML that round-trips, so assert on the consumer that
+    // actually breaks: a wikilink split across lines matches no link-extraction regex.
+    expect(written).not.toContain('\\\n');
+    expect(extractLinksWithLines(written).map((l) => l.target)).toContain(target);
   });
 
   it('throws "Path outside vault" for path traversal', async () => {

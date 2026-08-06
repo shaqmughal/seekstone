@@ -74,7 +74,7 @@ export async function patchFrontmatter(
         keysAdded.push(k);
       }
     }
-    newContent = `---\n${doc.toString()}---\n${original}`;
+    newContent = `---\n${doc.toString({ lineWidth: 0 })}---\n${original}`;
   } else {
     // Parse the existing FM block preserving source tokens.
     const opensWithCRLF = original.startsWith('---\r\n');
@@ -102,7 +102,7 @@ export async function patchFrontmatter(
 
     const head = opensWithCRLF ? '---\r\n' : '---\n';
     const tail = opensWithCRLF ? '---\r\n' : '---\n';
-    newContent = `${head}${doc.toString()}${tail}${fm.body}`;
+    newContent = `${head}${doc.toString({ lineWidth: 0 })}${tail}${fm.body}`;
   }
 
   await atomicWrite(absPath, newContent);
