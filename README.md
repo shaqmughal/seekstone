@@ -307,13 +307,15 @@ Claude never sees your full vault at once — it searches and reads selectively,
 | Tool | Description |
 |---|---|
 | `create_note` | Create a note (optional frontmatter + body); parent directories are created automatically. |
-| `delete_note` | Permanently delete a note. **Irreversible.** |
+| `delete_note` | Move a note to the vault's `.trash/` folder (Obsidian-compatible, restorable). Pass `permanent: true` for an unrecoverable delete. |
 | `move_note` | Move or rename a note — wikilinks and markdown links in other notes that point at it are rewritten so nothing breaks (`rewriteLinks: false` to opt out); destination directories are created automatically. |
 | `append_note` | Append text to a note body without touching frontmatter. |
 | `patch_frontmatter` | Set, update, or delete frontmatter keys without reordering existing keys or changing quote style. |
 | `patch_note` | Insert text immediately after a heading without touching frontmatter. |
 | `replace_in_note` | Replace the first occurrence of a word or phrase in the note body. |
 | `append_periodic_note` | Append to today's periodic note, creating it from a template if it doesn't yet exist. |
+
+Every edit tool supports optional **compare-and-swap**: pass the `contentHash` you got from `read_note` as `prevHash` and the write fails cleanly if the note changed underneath you, instead of silently discarding the concurrent edit.
 
 **Fast *and* complete.** Seekstone is the only Obsidian MCP server in our benchmark set to implement `list_tags`, `outline_note`, `get_backlinks`, and `get_links` — every other tested server supports only search, read, list, and write. Three more capabilities set it apart:
 
