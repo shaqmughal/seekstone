@@ -29,7 +29,7 @@ body:
     attributes:
       label: seekstone version
       description: "Output of `npx seekstone --version` or the version in your config. Run the latest if you can."
-      placeholder: "0.1.0"
+      placeholder: "0.12.1"
     validations:
       required: true
   - type: dropdown

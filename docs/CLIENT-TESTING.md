@@ -8,6 +8,7 @@ How Seekstone backs the claim "works with any MCP client" (positioning decision 
 |---|---|---|
 | Protocol conformance | `npm run conformance` — boots the built server over stdio with the MCP SDK reference client; asserts the initialize handshake, the exact `HANDLED_TOOLS` surface, and a `search` + `append_note` round-trip against a scratch vault | Every CI run (Linux leg) and as a release gate |
 | Config writers | Unit tests per `seekstone init --client <name>` target (`packages/server/src/init.test.ts`) — exact file format and path per client | Every `npm test` |
+| Write-safety baseline | `node scripts/check-safety-baseline.mjs` — re-runs the harness safety suite and diffs against the committed golden report, gating client-visible write behavior | Every CI run (Linux leg) and as a release gate |
 | Real-client E2E | `scripts/claude-code-e2e.sh` — packs the current build, attaches it to headless Claude Code via `--mcp-config`, and asserts a model-driven `search` retrieves seeded vault content | Manual, before releases that change tool schemas |
 | GUI client checklist | The table below | Manual, when tool schemas or install docs change |
 
@@ -27,7 +28,7 @@ Record each pass here (newest first):
 |---|---|---|---|---|
 | _(add rows as runs happen)_ | | | | |
 
-Clients to cover as their install docs ship (SHA-61 children): Claude Desktop, Claude Code (scripted — see above), Cursor (SHA-230), VS Code / Copilot (SHA-62), JetBrains AI Assistant (SHA-67), Windsurf.
+Shipped first-class `init --client` targets: **Claude Desktop, Claude Code (scripted — see above), Cursor, VS Code / Copilot** (`init.ts` — `desktop | code | cursor | vscode`, each with one-click install paths in the README). Still uncovered: JetBrains AI Assistant (SHA-67), Windsurf (generic manual-config block only).
 
 ## Non-clients
 

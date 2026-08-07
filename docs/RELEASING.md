@@ -18,9 +18,9 @@ Re-running a release for an already-published version is a no-op, so the workflo
 
 ## Gates (must pass before publish)
 
-The `Release` workflow runs typecheck → `npm test` → `npm run lint` → **`npm run smoke`** → **`npm run conformance`** before the publish step. `smoke` packs the tarball, installs it into a throwaway project, and boots the `seekstone` bin to confirm `npx seekstone` works for a real user. `conformance` drives the built server with the MCP SDK reference client — handshake, exact tool surface, and a search + append round-trip — so a protocol regression can't ship (see `docs/CLIENT-TESTING.md`). A failure at any gate blocks the publish.
+The `Release` workflow runs typecheck → `npm test` → `npm run lint` → **`npm run smoke`** → **`npm run conformance`** → **write-safety baseline** (`node scripts/check-safety-baseline.mjs`, which re-runs the harness safety suite against the committed golden report — a write-behavior regression blocks the publish) before the publish step. `smoke` packs the tarball, installs it into a throwaway project, and boots the `seekstone` bin to confirm `npx seekstone` works for a real user. `conformance` drives the built server with the MCP SDK reference client — handshake, exact tool surface, and a search + append round-trip — so a protocol regression can't ship (see `docs/CLIENT-TESTING.md`). A failure at any gate blocks the publish.
 
-CI (the `CI` workflow) additionally enforces a **coverage gate** on the server's logic modules (thresholds in `packages/server/vitest.config.ts`).
+CI (the `CI` workflow) additionally enforces, on the Linux leg: **three coverage gates** (server, harness, and core — thresholds in each package's `vitest.config.ts`), the same write-safety baseline, protocol conformance, `server.json` version sync (`sync-server-json.mjs --check`), the `docs/REGISTRIES.md` tool-list guard (`check-registries-tools.mjs`), the docs-sync guard (`check-docs-sync.mjs`), and a **changeset check** that fails any PR touching `packages/server/src/` or `package.json` without a changeset.
 
 **Manual gate for tool-schema changes:** `scripts/claude-code-e2e.sh` runs a real headless Claude Code session against the packed tarball and asserts a model-driven `search` retrieves seeded vault content. Run it before releases that change tool names or input schemas (needs an authenticated `claude` CLI; spends a few tokens).
 
@@ -40,6 +40,7 @@ The default `GITHUB_TOKEN` can't be used to open the "Version Packages" PR: push
 4. Add two repo secrets (Settings → Secrets and variables → Actions):
    - `APP_ID` — the App's numeric ID (shown at the top of the App's settings page).
    - `APP_PRIVATE_KEY` — the full contents of the downloaded `.pem`, including the `-----BEGIN/END-----` lines.
+   - `VERCEL_DEPLOY_HOOK_URL` (optional) — when set, a successful publish triggers a seekstone.dev rebuild so the site's displayed version stays current.
 
 Once both secrets exist, releases are hands-off. If the App is ever uninstalled or the secrets are removed, the `Mint release-bot token` step fails fast at the top of the job.
 
@@ -53,6 +54,10 @@ The workflow publishes via **OIDC trusted publishing**: no npm token is stored, 
 
 Once configured, the publish step authenticates automatically — there is no `NODE_AUTH_TOKEN`. The old `NPM_TOKEN` secret is no longer used (deleted 2026-06-27).
 
+## Post-publish: automated pipeline
+
+On a successful publish (`published == 'true'`), `release.yml` also runs, in order: builds the **MCPB bundle** (`seekstone.mcpb`), generates a **SLSA build-provenance attestation** for it, uploads both to the **GitHub Release** (`seekstone.mcpb` + `seekstone.mcpb.intoto.jsonl`), re-publishes to the **official MCP Registry** (`mcp-publisher login github-oidc && mcp-publisher publish`), and fires the **seekstone.dev Vercel rebuild hook** (if `VERCEL_DEPLOY_HOOK_URL` is set). None of these need manual action.
+
 ## Post-publish: Glama (manual)
 
 After every npm publish you need to create a new release on the Glama listing manually:
@@ -61,7 +66,7 @@ After every npm publish you need to create a new release on the Glama listing ma
 2. Click **"Create Release"** (or the equivalent button in the admin UI).
 3. Verify the new version appears on <https://glama.ai/mcp/servers/shaqmughal/seekstone>.
 
-**Why this isn't automated yet:** Glama has no public REST API or documented webhook for programmatic release creation (investigated in SHA-85, June 2026). The build spec uses `"pinnedCommit": null`, so the build itself always pulls the latest commit — only the release creation step is missing. If Glama adds an API or webhook in the future, the step would slot into `release.yml` after the MCPB upload:
+**Why this isn't automated yet:** Glama has no public REST API or documented webhook for programmatic release creation (investigated in SHA-85, June 2026). Glama tracks the repository itself (our committed `glama.json` holds only the maintainer list), so the build follows the latest commit — only the release creation step is missing. If Glama adds an API or webhook in the future, the step would slot into `release.yml` after the MCPB upload:
 
 ```yaml
 - name: Trigger Glama release

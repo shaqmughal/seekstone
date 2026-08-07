@@ -75,6 +75,13 @@ jobs:
         if: matrix.os == 'ubuntu-latest'
         run: node scripts/check-registries-tools.mjs
 
+      # Guard: docs must not drift from the code — tool counts across every doc
+      # surface, retired marketing claims (575× etc.), and the env-var tables
+      # are all checked against dispatch.ts / server source. Runs once (Linux).
+      - name: docs sync
+        if: matrix.os == 'ubuntu-latest'
+        run: node scripts/check-docs-sync.mjs
+
       # Coverage gate runs once (Linux) — thresholds live in the server's
       # vitest config and fail the build if logic coverage regresses.
       - name: Coverage gate

@@ -21,6 +21,7 @@
     "smoke": "node scripts/smoke-install.mjs",
     "conformance": "node scripts/mcp-conformance.mjs",
     "check:registries": "node scripts/check-registries-tools.mjs",
+    "check:docs": "node scripts/check-docs-sync.mjs",
     "version-packages": "changeset version && node scripts/sync-server-json.mjs && biome format --write .",
     "release": "changeset publish"
   },

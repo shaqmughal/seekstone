@@ -61,10 +61,10 @@
 
 It reads your vault **directly from disk** rather than routing through the Obsidian Local REST API plugin, and holds a warm full-text index in-process. The practical difference is twofold:
 
-- **Speed.** Searches return in **single-digit milliseconds** warm — up to **~250× faster** than every other Obsidian MCP server we benchmarked, because there's no subprocess to spawn and no HTTP round-trip per query.
+- **Speed.** Searches return in **single-digit milliseconds** warm — up to **~440× faster** than every other Obsidian MCP server we benchmarked, because there's no subprocess to spawn and no HTTP round-trip per query.
 - **Context.** A broad search that returns **tens of megabytes** and millions of tokens via a REST-proxy server returns **~2 KB** via Seekstone — up to a **~47,000× reduction** that only widens as your vault grows.
 
-Search comes in two modes: ranked **full-text search** (fuzzy, prefix, phrase), and **structured metadata queries** — `query_notes` filters by frontmatter properties (`status`, `due`, `type`, …), tags, folder, modified time, and size, answering questions like *"which draft notes changed this week?"* in a few hundred bytes instead of a search-and-read loop.
+Search comes in two modes: ranked **full-text search** (fuzzy and prefix matching), and **structured metadata queries** — `query_notes` filters by frontmatter properties (`status`, `due`, `type`, …), tags, folder, modified time, and size, answering questions like *"which draft notes changed this week?"* in a few hundred bytes instead of a search-and-read loop.
 
 Claude can search and read your entire note library, in milliseconds, without burning most of its context window on a single tool call.
 
@@ -291,7 +291,7 @@ Claude never sees your full vault at once — it searches and reads selectively,
 
 | Tool | Description |
 |---|---|
-| `search` | Full-text search. Returns ranked excerpts (default ~120 chars, tunable via `excerptLength`), not full notes. Fuzzy, prefix, and phrase queries. |
+| `search` | Full-text search. Returns ranked excerpts (default ~120 chars, tunable via `excerptLength`), not full notes. Fuzzy and prefix matching. |
 | `query_notes` | Structured metadata query. Filter by frontmatter key/value predicates (`eq`, `ne`, `contains`, `exists`, `missing`, `gt`/`gte`/`lt`/`lte`), tag, folder, modified time, and size; sort and select the fields you need. Returns compact rows (path + title by default), not note content. |
 | `context_pack` | Answer-ready context for a natural-language question in one call, hard-capped at a byte budget (default 2 KB): ranked excerpts, linked neighbor notes with one-line summaries, and follow-up source paths — replaces a search → read → get_backlinks round-trip loop. |
 | `read_note` | Read the full content of a note by vault-relative path. Supports returning a single section, block, or line range. |
@@ -312,10 +312,10 @@ Claude never sees your full vault at once — it searches and reads selectively,
 | `append_note` | Append text to a note body without touching frontmatter. |
 | `patch_frontmatter` | Set, update, or delete frontmatter keys without reordering existing keys or changing quote style. |
 | `patch_note` | Insert text immediately after a heading without touching frontmatter. |
-| `replace_in_note` | Replace the first occurrence of a word or phrase in the note body. |
+| `replace_in_note` | Find and replace text in the note body — literal or regex, case sensitivity, whole-word matching, optional `limit` (replaces **all** occurrences by default), and a dry-run preview. |
 | `append_periodic_note` | Append to today's periodic note, creating it from a template if it doesn't yet exist. |
 
-Every edit tool supports optional **compare-and-swap**: pass the `contentHash` you got from `read_note` as `prevHash` and the write fails cleanly if the note changed underneath you, instead of silently discarding the concurrent edit.
+The content-editing tools (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `append_periodic_note`, and `create_note` with `overwrite: true`) support optional **compare-and-swap**: pass the `contentHash` you got from `read_note` as `prevHash` and the write fails cleanly if the note changed underneath you, instead of silently discarding the concurrent edit.
 
 **Fast *and* complete.** Seekstone is the only Obsidian MCP server in our benchmark set to implement `list_tags`, `outline_note`, `get_backlinks`, and `get_links` — every other tested server supports only search, read, list, and write. Three more capabilities set it apart:
 
@@ -332,6 +332,7 @@ Every edit tool supports optional **compare-and-swap**: pass the `contentHash` y
 | `SEEKSTONE_VAULT` | Yes | Absolute path to your Obsidian vault. |
 | `SEEKSTONE_LOG_LEVEL` | No | `error` \| `warn` \| `info` (default) \| `debug`. |
 | `SEEKSTONE_LOG_FILE` | No | Absolute path; when set, JSON-line logs are appended here (size-rotated). |
+| `SEEKSTONE_LOG_MAX_SIZE` | No | Log-rotation threshold for `SEEKSTONE_LOG_FILE` (e.g. `10mb`; default 5 MB). |
 | `SEEKSTONE_WATCH_POLL` | No | Set to `1` to stat-poll for changes instead of native OS events — slower but reliable on network drives, WSL, and some containers. |
 | `SEEKSTONE_READ_ONLY` | No | Set to `1` to run read-only: the 8 write tools are unregistered from the tool list entirely (and rejected if called anyway), so the session provably cannot modify your vault. |
 | `SEEKSTONE_WRITE_PATHS` | No | Comma-separated vault-relative globs (e.g. `journal/**,inbox/*.md`). Writes are permitted only under matching paths; the rest of the vault stays read-only. |
@@ -416,7 +417,7 @@ The server has a real build (tsup → `dist/`) and is published to npm. The harn
 
 ### The measurement harness
 
-The harness exists to reproduce the benchmark numbers that motivated the filesystem-direct design. It needs the Local REST API plugin for the `rest` backend.
+The harness exists to reproduce the benchmark numbers that motivated the filesystem-direct design. The default reproduction path (`fs`/`seekstone` backends against the committed synthetic vault) needs nothing extra; only the REST-backed backends (`rest`, `mcp-obsidian`, `obsidian-mcp-server`) need Obsidian running with the Local REST API plugin.
 
 ```bash
 export SEEKSTONE_VAULT="/absolute/path/to/your/vault"

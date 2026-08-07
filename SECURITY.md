@@ -16,12 +16,14 @@ Please include the version, your environment (OS, Node version), and steps to re
 
 Seekstone is designed to be conservative with your data. The published server:
 
-- **Reads and writes only under `SEEKSTONE_VAULT`.** It does not touch files outside the vault directory you configure (the one optional exception is a log file, only if you set `SEEKSTONE_LOG_FILE`).
+- **Reads and writes only under `SEEKSTONE_VAULT`.** Every tool handler resolves its path through a shared containment guard with a proper directory-boundary check. It does not touch files outside the vault directory you configure (the one optional exception: if you set `SEEKSTONE_LOG_FILE`, the log file and its single size-rotation sibling `<file>.1` are written at that path).
 - **Makes no outbound network connections and collects no telemetry.** Indexing and search run entirely on your machine.
-- **Only modifies your vault through explicit tool calls** (`create_note`, `delete_note`, `move_note`, `append_note`, `patch_frontmatter`). It never makes background edits.
+- **Only modifies your vault through explicit tool calls** — the 8 write tools: `create_note`, `delete_note`, `move_note`, `append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `append_periodic_note`. One read tool has a documented write side effect: `get_periodic_note` creates the periodic note when `createIfMissing` is set (neutralized in read-only mode). It never makes background edits.
+- **Can be locked down further.** `SEEKSTONE_READ_ONLY=1` runs the server read-only — the 8 write tools are removed from the advertised tool list entirely and rejected at dispatch if called anyway. `SEEKSTONE_WRITE_PATHS` (comma-separated vault-relative globs, e.g. `journal/**,inbox/*.md`) restricts writes to matching paths while the rest of the vault stays read-only. Both are enforced at the dispatch layer plus a shared per-handler check, so a new tool cannot forget them.
+- **Guards against lost updates.** Every read returns a `contentHash`; edit tools accept an optional `prevHash` and fail with a structured `hash_conflict` error instead of silently overwriting a concurrent change (compare-and-swap).
 - **Preserves file fidelity on writes.** Frontmatter edits keep key order, quote style, and comments; body appends leave the frontmatter region byte-identical. Writes are atomic (write-to-temp then rename).
 
-`delete_note` permanently removes a file and cannot be undone — treat it accordingly.
+`delete_note` moves the note to the vault's `.trash/` folder by default (Obsidian-compatible — restore by moving it back). Pass `permanent: true` for an unrecoverable delete. The full, tested write-safety guarantees are documented in [docs/WRITE-SAFETY.md](docs/WRITE-SAFETY.md).
 
 ## Logs and privacy
 

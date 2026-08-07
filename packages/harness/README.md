@@ -152,8 +152,13 @@ present and lists anything still missing under "Not yet captured."
 | `bench`   | Runs the query set against a `--backend` (`fs`, `rest`, …), capturing latency **and payload bytes/tokens** | `benchmark-<backend>.{json,md}` |
 | `scenarios` | Tokens-per-task: runs each task in `queries/tasks.json` as the call sequence an agent would make (one `context_pack` call where supported, else search → read ×K → backlinks) and sums payload across it | `scenarios-<label>.{json,md}` |
 | `scenarios-compare` | Cross-adapter tokens-per-task table from scenario JSONs | `scenarios-comparison.md` |
-| `safety`  | Byte-faithful write round-trip suite (operates on a vault **copy**) | `safety-<backend>.{json,md}` |
+| `safety`  | Write-safety suite (operates on a vault **copy**): five byte-faithful round-trip ops plus three behavioral ops — recoverable-delete, create-no-clobber, cas-conflict | `safety-<backend>.{json,md}` |
 | `compare` | Cross-adapter comparison from benchmark JSONs | `comparison.md` |
+| `gen-vault` | Regenerates the committed synthetic vault from the corpus (deterministic, `--seed 42`, `--count 10000`) | `fixtures/vault/` |
+| `fetch-corpus` | Downloads the PG EB1911 corpus into `fixtures/corpus/raw/` (gitignored) | corpus text |
+| `scale-render` | Renders the multi-scale (1k/5k/10k) comparison report from per-size benchmark JSONs | `benchmark-scaling.md` |
+
+`bench` and `scenarios` accept `--runs <n>` (default 20) — the run count behind the cold/warm split quoted in the reports. Each subprocess adapter's launch command can be overridden with `SEEKSTONE_<NAME>_CMD` (e.g. `SEEKSTONE_MCPVAULT_CMD`), matching the `SEEKSTONE_<NAME>_*` env convention.
 
 ### Tokens per task (`scenarios`)
 

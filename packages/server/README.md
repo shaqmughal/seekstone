@@ -110,7 +110,7 @@ Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their o
 
 | Tool | Description |
 |---|---|
-| `search` | Full-text search. Returns ranked excerpts (default ~120 chars, tunable via `excerptLength`), not full notes. Fuzzy, prefix, and phrase queries. |
+| `search` | Full-text search. Returns ranked excerpts (default ~120 chars, tunable via `excerptLength`), not full notes. Fuzzy and prefix matching. |
 | `query_notes` | Structured metadata query. Filter by frontmatter key/value predicates (`eq`, `ne`, `contains`, `exists`, `missing`, `gt`/`gte`/`lt`/`lte`), tag, folder, modified time, and size; sort and select the fields you need. Returns compact rows, not note content. |
 | `context_pack` | Answer-ready context for a natural-language question in one call, hard-capped at a byte budget (default 2 KB): ranked excerpts, linked neighbor notes with one-line summaries, and follow-up source paths — replaces a search → read → get_backlinks round-trip loop. |
 | `read_note` | Read the full content of a note by vault-relative path. Supports returning a single section, block, or line range. |
@@ -131,10 +131,10 @@ Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their o
 | `append_note` | Append to a note body without touching frontmatter. |
 | `patch_frontmatter` | Set/update/delete frontmatter keys without reordering existing keys or changing quote style. |
 | `patch_note` | Insert text immediately after a heading without touching frontmatter. |
-| `replace_in_note` | Replace the first occurrence of a word or phrase in the note body. |
+| `replace_in_note` | Find and replace text in the note body — literal or regex, whole-word, case sensitivity, optional `limit` (replaces **all** occurrences by default), dry-run preview. |
 | `append_periodic_note` | Append to today's periodic note, creating it from a template if it doesn't yet exist. |
 
-Every edit tool supports optional **compare-and-swap**: pass the `contentHash` you got from `read_note` as `prevHash` and the write fails cleanly if the note changed underneath you, instead of silently discarding the concurrent edit.
+The content-editing tools (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `append_periodic_note`, and `create_note` with `overwrite: true`) support optional **compare-and-swap**: pass the `contentHash` you got from `read_note` as `prevHash` and the write fails cleanly if the note changed underneath you, instead of silently discarding the concurrent edit.
 
 ---
 
@@ -146,6 +146,7 @@ Every edit tool supports optional **compare-and-swap**: pass the `contentHash` y
 | `SEEKSTONE_LOG_LEVEL` | no | `error` \| `warn` \| `info` (default) \| `debug`. |
 | `SEEKSTONE_LOG_FILE` | no | Absolute path; when set, JSON-line logs are appended here (size-rotated). |
 | `SEEKSTONE_WATCH_POLL` | no | Set to `1` to stat-poll for changes instead of native OS events — reliable on network drives, WSL, containers. |
+| `SEEKSTONE_LOG_MAX_SIZE` | no | Log-rotation threshold for `SEEKSTONE_LOG_FILE` (e.g. `10mb`; default 5 MB). |
 | `SEEKSTONE_READ_ONLY` | no | Set to `1` to run read-only: the 8 write tools are unregistered entirely (and rejected if called anyway), so the session provably cannot modify your vault. |
 | `SEEKSTONE_WRITE_PATHS` | no | Comma-separated vault-relative globs (e.g. `journal/**,inbox/*.md`). Writes are permitted only under matching paths; the rest of the vault stays read-only. |
 

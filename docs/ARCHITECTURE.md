@@ -40,7 +40,7 @@ flowchart TD
   never published**, so the server's build inlines it (see below).
 - **`seekstone`** (`packages/server`) — the product. The only runtime npm
   dependencies are `@modelcontextprotocol/sdk`, `chokidar`, `fast-glob`,
-  `minisearch`, `yaml`, and `zod`. `tsup` bundles `src/index.ts` **plus the
+  `minisearch`, `picomatch`, `yaml`, and `zod`. `tsup` bundles `src/index.ts` **plus the
   `@seekstone/core` workspace package** into a single self-contained
   `dist/index.js` (ESM, `#!/usr/bin/env node` shebang); the npm deps stay
   external and install normally. This is why `@seekstone/core` is a *devDep*
@@ -65,25 +65,29 @@ flowchart TD
         init["init.ts<br/>setup wizard"]
         guards["process-guards.ts"]
         log["log.ts<br/>structured logger"]
+        pol["policy.ts<br/>parseWritePolicy: SEEKSTONE_READ_ONLY<br/>SEEKSTONE_WRITE_PATHS globs"]
+        tl["tool-list.ts<br/>ALL_TOOLS schemas · visibleTools(policy)"]
     end
 
     subgraph idx["② Index layer — index/"]
         build["build.ts<br/>buildIndex(vaultRoot)"]
-        doc["doc.ts · excerpt.ts<br/>resolve.ts · types.ts"]
+        doc["doc.ts · excerpt.ts · resolve.ts<br/>backlinks.ts · types.ts"]
     end
 
-    ctx["③ ServerContext (context.ts)<br/>vaultRoot · index (MiniSearch)<br/>notes Map · backlinks Map"]
+    ctx["③ ServerContext (context.ts)<br/>vaultRoot · index (MiniSearch)<br/>notes Map · backlinks Map · policy"]
 
     watch["④ Watcher — watcher.ts<br/>chokidar → incremental re-index"]
 
     subgraph disp["⑤ Dispatch — dispatch.ts"]
-        dispatcher["dispatch(): timing · logging · errors<br/>HANDLED_TOOLS (16) → run() switch"]
+        dispatcher["dispatch(): timing · logging · errors<br/>read-only / write-policy gate (WRITE_TOOLS)<br/>HANDLED_TOOLS (18) → run() switch"]
     end
 
-    subgraph tools["Tools layer — tools/ (16)"]
-        reads["READ-ONLY<br/>search · read_note · list_notes<br/>list_tags · outline_note<br/>get_backlinks · get_links · get_periodic_note"]
+    subgraph tools["Tools layer — tools/ (18)"]
+        reads["READ-ONLY<br/>search · query_notes · context_pack<br/>read_note · list_notes · list_tags<br/>outline_note · get_backlinks · get_links<br/>get_periodic_note"]
         writes["WRITES (filesystem-direct)<br/>create_note · delete_note · move_note<br/>append_note · patch_note · patch_frontmatter<br/>replace_in_note · append_periodic_note"]
     end
+
+    prims["Write primitives (shared by every write tool)<br/>vault-path.ts resolveVaultPath · policy.ts assertWritable<br/>atomic-write.ts (temp-file+rename) · content-hash.ts (CAS)<br/>tools/rewrite_links.ts (link-aware moves)"]
 
     vault[("Obsidian vault<br/>(filesystem)")]
     core2["@seekstone/core<br/>frontmatter · extract · outline · walk"]
@@ -97,7 +101,8 @@ flowchart TD
     dispatcher --> reads
     dispatcher --> writes
     reads --> ctx
-    writes --> vault
+    writes --> prims
+    prims --> vault
     writes -. uses .-> core2
     reads -. read body .-> vault
     build -. walk .-> vault
@@ -108,31 +113,43 @@ flowchart TD
 
 1. **Bootstrap (`index.ts`)** — the executable entry. Handles `version` / `help`
    / `init` CLI intents (which print and exit before any server starts), then
-   for an MCP session: requires `SEEKSTONE_VAULT`, installs process guards
-   (a stray unhandled rejection must not kill a long-lived stdio session),
-   builds the index, constructs the `ServerContext`, starts the watcher, and
-   wires the `@modelcontextprotocol/sdk` `Server` to a `StdioServerTransport`
-   with `ListTools` + `CallTool` handlers.
+   for an MCP session: requires `SEEKSTONE_VAULT`, parses the write policy
+   (`policy.ts` — `SEEKSTONE_READ_ONLY`, `SEEKSTONE_WRITE_PATHS`), installs
+   process guards (a stray unhandled rejection must not kill a long-lived stdio
+   session), builds the index, constructs the `ServerContext`, starts the
+   watcher, and wires the `@modelcontextprotocol/sdk` `Server` to a
+   `StdioServerTransport` with `ListTools` + `CallTool` handlers. `ListTools`
+   answers from `tool-list.ts` (`visibleTools(policy)` — in read-only mode the
+   8 write tools are unregistered entirely, not just rejected).
 2. **Index layer (`index/`)** — `buildIndex(vaultRoot)` walks the vault, parses
    each note, and returns a `MiniSearch` full-text index, a `notes` map
    (path → `IndexedNote`), and a `backlinks` reverse-link map. This is the
    in-memory model every read tool queries.
 3. **`ServerContext` (`context.ts`)** — the single shared state bag:
-   `{ vaultRoot, index, notes, backlinks }`. No globals; it's threaded into every
-   tool call.
+   `{ vaultRoot, index, notes, backlinks, policy }`. No globals; it's threaded
+   into every tool call.
 4. **Watcher (`watcher.ts`)** — chokidar watches the vault and incrementally
    updates `index` / `notes` / `backlinks` so the in-memory model never goes
    stale during a session.
 5. **Dispatch (`dispatch.ts`)** — the routing seam. `dispatch()` wraps the
    per-tool `run()` switch with `performance.now()` timing, structured logging
    (content/query args are debug-only — never logged at info), payload-byte
-   measurement, and uniform error-to-`isError` handling. `HANDLED_TOOLS` is the
-   16-name source of truth, kept in sync with the `ListTools` schema.
+   measurement, and uniform error-to-`isError` handling. It is also the write
+   **policy enforcement seam**: calls to any of the 8 `WRITE_TOOLS` are rejected
+   in read-only mode, and `get_periodic_note`'s `createIfMissing` side effect is
+   neutralized there too. `HANDLED_TOOLS` is the 18-name source of truth, kept
+   in sync with the `ListTools` schemas in `tool-list.ts`.
 
 The **tools** themselves are thin: read tools answer from `ServerContext`
 (and read note bodies straight off disk when needed); write tools mutate the
-vault filesystem directly, using `@seekstone/core` to preserve frontmatter
-byte-for-byte.
+vault filesystem through a shared set of write primitives — path containment
+(`vault-path.ts`), a second per-handler `assertWritable` policy check
+(`policy.ts`), optional compare-and-swap via `prevHash` (`content-hash.ts`),
+and a crash-safe temp-file+rename write (`atomic-write.ts`) — using
+`@seekstone/core` to preserve frontmatter byte-for-byte. `delete_note` moves
+notes to the vault's `.trash/` folder rather than unlinking (unless
+`permanent: true`), and `move_note` rewrites inbound links via
+`tools/rewrite_links.ts`.
 
 ---
 
@@ -158,7 +175,9 @@ sequenceDiagram
         T->>Ctx: query index / notes / backlinks
         T-->>FS: read note body (only if needed)
     else write tool (append_note, patch_note, …)
-        T->>FS: write bytes directly (frontmatter preserved)
+        D->>D: policy gate (read-only → reject)
+        T->>T: resolveVaultPath · assertWritable<br/>prevHash CAS check (if given)
+        T->>FS: atomic temp-file + rename<br/>(frontmatter preserved)
     end
     T-->>D: ToolResult { content }
     D->>D: log tool ok { durationMs, resultBytes }
@@ -166,10 +185,10 @@ sequenceDiagram
     SDK-->>Client: CallToolResult
 ```
 
-`ListToolsRequest` is answered directly from the bootstrap's static schema list
-(the 18 tools). On error, `dispatch()` catches and returns
-`{ isError: true, content: [...] }` rather than throwing — the session stays
-alive.
+`ListToolsRequest` is answered from `tool-list.ts` (`visibleTools(ctx.policy)`)
+— all 18 tools normally, only the 10 read tools in read-only mode. On error,
+`dispatch()` catches and returns `{ isError: true, content: [...] }` rather
+than throwing — the session stays alive.
 
 ---
 
@@ -185,7 +204,7 @@ the boundary** as the headline "context tax" metric.
 flowchart TD
     cli["CLI — cli.ts (cac)<br/>profile · bench · scenarios · safety · compare<br/>scenarios-compare · scale-render · gen-vault · fetch-corpus"]
 
-    backend["Backend contract — bench/backend.ts<br/>search · read · write · list (+ optional tools)<br/>every method → BackendResponse{ result, payloadBytes }"]
+    backend["Backend contract — bench/backend.ts<br/>search · read · write · list<br/>+ optional tool methods (incl. contextPack)<br/>+ optional write-safety ops (delete/create/CAS)<br/>every method → BackendResponse{ result, payloadBytes }"]
 
     subgraph inproc["In-process adapters"]
         fs["fs<br/>standalone MiniSearch"]
@@ -197,9 +216,9 @@ flowchart TD
     end
 
     subgraph modules["Three measurement modules"]
-        profiler["profiler/<br/>walk · classify · aggregate → VaultStats"]
+        profiler["profiler/<br/>walk · aggregate → VaultStats"]
         bench["bench/<br/>runN cold/warm → BenchmarkSummary<br/>scenarios (tokens-per-task) → ScenarioSummary<br/>report · compare · scaling · timer"]
-        safety["safety/<br/>copyVault → runSafety ops → SafetySummary<br/>identity · body-append · fm-edit · patch · replace"]
+        safety["safety/<br/>copyVault → runSafety ops → SafetySummary<br/>byte ops: identity · body-append · fm-edit<br/>patch-note · replace-in-note<br/>behavioral ops: recoverable-delete<br/>create-no-clobber · cas-conflict"]
     end
 
     fixtures["fixtures/<br/>EB1911 corpus → 10k-note synthetic vault<br/>generate · prng · tags · parse-volume · corpus"]
@@ -220,10 +239,12 @@ flowchart TD
     seek -. imports .-> bench
 ```
 
-- **`Backend` contract** (`bench/backend.ts`) — intentionally tiny:
+- **`Backend` contract** (`bench/backend.ts`) — a tiny required core:
   `search`, `read`, `write`, `list`, plus optional extended tools
-  (`listTags`, `outline`, `getBacklinks`, `getLinks`, `getPeriodicNote`,
-  `searchStream`, `close`). Every call returns
+  (`listTags`, `contextPack`, `outline`, `getBacklinks`, `getLinks`,
+  `getPeriodicNote`, `searchStream`, `close`) and optional write-safety
+  methods (`deleteNote`, `createNote`, `readWithHash`, `casWrite`) that drive
+  the behavioral safety matrix. Every call returns
   `BackendResponse<T> = { result, payloadBytes, payloadText? }`, so the raw
   bytes a backend served are recorded at the boundary.
 - **Adapters** split into **in-process** (`fs`, `seekstone` — zero IPC, the most
@@ -235,8 +256,10 @@ flowchart TD
   **warm** (runs 2..N) so a cheap warm number can't hide a brutal cold start,
   and renders per-adapter + cross-adapter (`compare`) + multi-scale (`scaling`)
   reports.
-- **safety** copies the vault to a scratch dir and round-trips write ops,
-  proving frontmatter stays byte-identical.
+- **safety** copies the vault to a scratch dir and runs eight op kinds: five
+  byte-faithful round-trips (proving frontmatter stays byte-identical) plus
+  three behavioral ops proving recoverable deletes, no-clobber creates, and
+  compare-and-swap conflict detection.
 - **fixtures** generate the committed, personal-data-free 10k-note synthetic
   vault from the public-domain 1911 Encyclopædia Britannica (deterministic,
   seed 42 — hence the custom `prng`, since `Math.random()` is banned harness-wide).
@@ -257,7 +280,7 @@ flowchart LR
         direction TB
         s1["in-process MCP server"]
         s2["in-memory index (MiniSearch)<br/>+ direct file reads"]
-        s3["slim payload<br/>~200-char ranked excerpts,<br/>not whole notes"]
+        s3["slim payload<br/>~120-char ranked excerpts,<br/>not whole notes"]
         s1 --> s2 --> s3
     end
 
@@ -298,7 +321,7 @@ are the receipts.
 
 | Tool | Kind | Purpose |
 | --- | --- | --- |
-| `search` | read | Ranked full-text search; returns ~200-char excerpts, not full notes |
+| `search` | read | Ranked full-text search; returns ~120-char excerpts (tunable), not full notes |
 | `query_notes` | read | Structured metadata query: frontmatter predicates + mtime/size/tag/folder filters; compact rows, no note content |
 | `context_pack` | read | Byte-budgeted context pack for a question: ranked excerpts + link-neighborhood summaries + follow-up sources in one call |
 | `read_note` | read | Read a note (with optional outline/frontmatter metadata) |
@@ -309,8 +332,8 @@ are the receipts.
 | `get_links` | read | Outgoing wikilinks/embeds of a note |
 | `get_periodic_note` | read | Resolve today's / a given date's periodic note |
 | `create_note` | write | Create a new note |
-| `delete_note` | write | Delete a note |
-| `move_note` | write | Move/rename a note |
+| `delete_note` | write | Move a note to `.trash/` (recoverable); `permanent: true` unlinks |
+| `move_note` | write | Move/rename a note, rewriting inbound links in other notes |
 | `append_note` | write | Append to a note body |
 | `patch_note` | write | Targeted body edit by heading/block |
 | `patch_frontmatter` | write | Edit frontmatter, preserving key order/comments |
@@ -318,5 +341,6 @@ are the receipts.
 | `append_periodic_note` | write | Append to today's / a given date's periodic note |
 
 The list is mirrored in `dispatch.ts` (`HANDLED_TOOLS`) and the `ListTools`
-schema in `index.ts`; `docs/REGISTRIES.md` carries the same count and a CI guard
-keeps them in sync.
+schemas in `tool-list.ts`; `docs/REGISTRIES.md` carries the same count and CI
+guards (`check-registries-tools.mjs`, `check-docs-sync.mjs`) keep the counts in
+sync across docs.
