@@ -17,7 +17,7 @@
  * retired a month earlier (SHA-276) plus "16 tools" surviving in
  * ARCHITECTURE.md — every one of those would have been caught here.
  */
-import { readFileSync, readdirSync, statSync } from 'node:fs';
+import { readdirSync, readFileSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 
 const root = new URL('..', import.meta.url).pathname;
@@ -48,7 +48,7 @@ const COUNT_SURFACES = [
 ];
 for (const file of COUNT_SURFACES) {
   const text = read(file);
-  for (const m of text.matchAll(/(\d+)[  ](?:tools|read tools|write tools)/g)) {
+  for (const m of text.matchAll(/(\d+)[ {2}](?:tools|read tools|write tools)/g)) {
     const n = Number(m[1]);
     const kind = m[0].includes('read')
       ? { expect: readCount, label: 'read tools' }
