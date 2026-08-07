@@ -44,6 +44,7 @@ function summary(
     tools: {
       list: stats(800),
       listTags: stats(400),
+      contextPack: null,
       outline: null,
       getBacklinks: null,
       getLinks: null,
@@ -102,6 +103,7 @@ describe('renderComparisonMarkdown', () => {
       tools: {
         list: stats(800),
         listTags: stats(400),
+        contextPack: { query: 'hello world', stats: stats(700) },
         outline: { path: 'notes/o.md', stats: stats(600) },
         getBacklinks: null,
         getLinks: null,

@@ -3,6 +3,15 @@ import { get_encoding } from 'tiktoken';
 
 const enc = get_encoding('cl100k_base');
 
+/**
+ * Token count for a payload: exact tiktoken cl100k_base when the raw text is
+ * available, else bytes÷4. Encoder-approximate — cl100k_base is an OpenAI
+ * encoder, so absolute counts differ per model but cross-adapter ratios hold.
+ */
+export function countTokens(text: string | undefined, bytes: number): number {
+  return text !== undefined ? enc.encode(text).length : Math.ceil(bytes / 4);
+}
+
 export interface Timing<T> {
   result: T;
   durationMs: number;
@@ -56,8 +65,7 @@ export async function runN<T>(
   const cold = durations[0] ?? 0;
   const warmRuns = durations.slice(1);
   const payloadMean = payloads.reduce((a, b) => a + b, 0) / Math.max(1, payloads.length);
-  const payloadTokensMean =
-    sampleText !== undefined ? enc.encode(sampleText).length : Math.ceil(payloadMean / 4);
+  const payloadTokensMean = countTokens(sampleText, payloadMean);
   return {
     coldMs: cold,
     warm: summarise(warmRuns),

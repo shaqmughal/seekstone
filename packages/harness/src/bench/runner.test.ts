@@ -130,6 +130,44 @@ describe('runBenchmark', () => {
     expect(summary.search[0]?.ttfr?.coldTtfrMs).toBeGreaterThanOrEqual(0);
   });
 
+  it('tools.contextPack is null for a backend without contextPack (fs)', async () => {
+    const qs = {
+      queries: [{ id: 'q1', kind: 'single' as const, query: 'content' }],
+      reads: { small: 'small.md', large: 'large.md' },
+      runs: 2,
+    };
+    const summary = await runBenchmark({ backend: adapter, querySet: qs });
+    expect(summary.tools.contextPack).toBeNull();
+  });
+
+  it('tools.contextPack carries the first search query and stats when supported', async () => {
+    const packText = JSON.stringify({ excerpts: ['packed'] });
+    const backend = {
+      name: 'fake-pack',
+      description: 'fake contextPack-capable backend',
+      search: adapter.search.bind(adapter),
+      read: adapter.read.bind(adapter),
+      write: adapter.write.bind(adapter),
+      list: adapter.list.bind(adapter),
+      contextPack: async () => ({
+        result: { excerpts: ['packed'] },
+        payloadBytes: Buffer.byteLength(packText, 'utf8'),
+        payloadText: packText,
+      }),
+    };
+    const qs = {
+      queries: [{ id: 'q1', kind: 'single' as const, query: 'content' }],
+      reads: { small: 'small.md', large: 'large.md' },
+      runs: 2,
+    };
+    const summary = await runBenchmark({ backend, querySet: qs });
+    expect(summary.tools.contextPack?.query).toBe('content');
+    expect(summary.tools.contextPack?.stats.runs).toBe(2);
+    expect(summary.tools.contextPack?.stats.payloadBytesMean).toBe(
+      Buffer.byteLength(packText, 'utf8'),
+    );
+  });
+
   it('summary.read is {small: null, large: null} when reads are null and no statsPath', async () => {
     const qs = {
       queries: [{ id: 'q1', kind: 'single' as const, query: 'content' }],
