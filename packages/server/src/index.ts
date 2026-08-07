@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+import { resolve } from 'node:path';
 import { Server } from '@modelcontextprotocol/sdk/server/index.js';
 import { StdioServerTransport } from '@modelcontextprotocol/sdk/server/stdio.js';
 import {
@@ -53,11 +54,15 @@ const log = createLogger();
 // on a stray unhandled rejection rather than crashing the user's session.
 installProcessGuards(log);
 
-const vaultRoot = process.env.SEEKSTONE_VAULT;
-if (!vaultRoot) {
+const rawVaultRoot = process.env.SEEKSTONE_VAULT;
+if (!rawVaultRoot) {
   log.error('SEEKSTONE_VAULT env var is required');
   process.exit(1);
 }
+// Normalize once so the containment guard (vault-path.ts) compares against a
+// canonical absolute path — a relative or trailing-slash SEEKSTONE_VAULT must
+// not weaken the prefix boundary.
+const vaultRoot = resolve(rawVaultRoot);
 
 const policy = parseWritePolicy(process.env);
 if (policy.readOnly) log.info('read-only mode', { env: 'SEEKSTONE_READ_ONLY' });

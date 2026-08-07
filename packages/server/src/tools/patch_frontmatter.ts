@@ -1,5 +1,4 @@
 import { readFile } from 'node:fs/promises';
-import { join } from 'node:path';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { parseDocument } from 'yaml';
 import { z } from 'zod';
@@ -7,6 +6,7 @@ import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { assertWritable } from '../policy.js';
+import { resolveVaultPath } from '../vault-path.js';
 
 export const PatchFrontmatterInput = z.object({
   path: z.string().describe('Vault-relative path to the note.'),
@@ -49,10 +49,7 @@ export async function patchFrontmatter(
   ctx: ServerContext,
   input: PatchFrontmatterInput,
 ): Promise<PatchFrontmatterResult> {
-  const absPath = join(ctx.vaultRoot, input.path);
-  if (!absPath.startsWith(ctx.vaultRoot)) {
-    throw new Error(`Path outside vault: ${input.path}`);
-  }
+  const absPath = resolveVaultPath(ctx.vaultRoot, input.path);
   assertWritable(ctx.policy, input.path);
 
   const original = await readFile(absPath, 'utf8');

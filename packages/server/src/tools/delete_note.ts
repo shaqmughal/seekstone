@@ -4,6 +4,7 @@ import { z } from 'zod';
 import type { ServerContext } from '../context.js';
 import { removeNoteBacklinks } from '../index/backlinks.js';
 import { assertWritable } from '../policy.js';
+import { resolveVaultPath } from '../vault-path.js';
 
 export const DeleteNoteInput = z.object({
   path: z.string().describe('Vault-relative path of the note to delete.'),
@@ -44,10 +45,7 @@ export async function deleteNote(
   rawInput: DeleteNoteInput,
 ): Promise<DeleteNoteResult> {
   const input = DeleteNoteInput.parse(rawInput);
-  const absPath = join(ctx.vaultRoot, input.path);
-  if (!absPath.startsWith(ctx.vaultRoot)) {
-    throw new Error(`Path outside vault: ${input.path}`);
-  }
+  const absPath = resolveVaultPath(ctx.vaultRoot, input.path);
   // Policy applies to the note being deleted; the .trash/ destination is the
   // safety mechanism itself, not a user write.
   assertWritable(ctx.policy, input.path);

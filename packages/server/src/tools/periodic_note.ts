@@ -7,6 +7,7 @@ import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
 import { assertWritable } from '../policy.js';
+import { resolveVaultPath } from '../vault-path.js';
 
 // ── Period type ───────────────────────────────────────────────────────────────
 
@@ -163,9 +164,7 @@ export async function getPeriodicNote(
   const date = input.date ? new Date(input.date) : new Date();
   const cfg = await resolveConfig(ctx.vaultRoot, input.period);
   const path = resolveNotePath(cfg, date);
-  const abs = join(ctx.vaultRoot, path);
-
-  if (!abs.startsWith(ctx.vaultRoot)) throw new Error(`Path outside vault: ${path}`);
+  const abs = resolveVaultPath(ctx.vaultRoot, path);
 
   let existed = false;
   try {
@@ -184,15 +183,13 @@ export async function getPeriodicNote(
   // Read template if configured.
   let body = '';
   if (cfg.template) {
-    const templateAbs = join(
-      ctx.vaultRoot,
-      cfg.template.endsWith('.md') ? cfg.template : `${cfg.template}.md`,
-    );
-    if (templateAbs.startsWith(ctx.vaultRoot)) {
-      try {
-        body = await readFile(templateAbs, 'utf8');
-      } catch {}
-    }
+    try {
+      const templateAbs = resolveVaultPath(
+        ctx.vaultRoot,
+        cfg.template.endsWith('.md') ? cfg.template : `${cfg.template}.md`,
+      );
+      body = await readFile(templateAbs, 'utf8');
+    } catch {}
   }
 
   await mkdir(dirname(abs), { recursive: true });
@@ -239,9 +236,7 @@ export async function appendPeriodicNote(
   const date = input.date ? new Date(input.date) : new Date();
   const cfg = await resolveConfig(ctx.vaultRoot, input.period);
   const path = resolveNotePath(cfg, date);
-  const abs = join(ctx.vaultRoot, path);
-
-  if (!abs.startsWith(ctx.vaultRoot)) throw new Error(`Path outside vault: ${path}`);
+  const abs = resolveVaultPath(ctx.vaultRoot, path);
   assertWritable(ctx.policy, path);
 
   let original = '';
