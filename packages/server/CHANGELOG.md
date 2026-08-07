@@ -1,5 +1,12 @@
 # seekstone
 
+## 0.12.2
+
+### Patch Changes
+
+- 1ad6028: Documentation accuracy sweep: npm description now says 18 tools; `replace_in_note` is correctly documented as replacing all occurrences by default (literal/regex, whole-word, `limit`, dry-run); compare-and-swap docs name the six participating edit tools; `SEEKSTONE_LOG_MAX_SIZE` added to the configuration tables; SECURITY.md rewritten for recoverable deletes, the full 8-tool write surface, read-only mode, and write scoping; llms.txt and REGISTRIES.md updated to current benchmark claims. No code changes.
+- e2c5926: Harden the vault sandbox: path containment now uses a single shared guard (`resolveVaultPath`) with a proper separator-boundary check, replacing 13 inline `startsWith` checks that accepted paths escaping into sibling directories whose names share the vault's prefix (e.g. vault `/home/u/vault` + path `../vault-backup/x.md`). The vault root is also normalized with `resolve()` at startup so a relative or trailing-slash `SEEKSTONE_VAULT` can't weaken the boundary, and absolute-path inputs are now contained instead of concatenated.
+
 ## 0.12.1
 
 ### Patch Changes
