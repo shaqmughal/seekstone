@@ -7,6 +7,7 @@ import { addNoteBacklinks, removeNoteBacklinks } from '../index/backlinks.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
 import { assertWritable, isWritable } from '../policy.js';
 import { hasMarkdownLinkTo, rewriteNoteLinks } from './rewrite_links.js';
+import { resolveVaultPath } from '../vault-path.js';
 
 export const MoveNoteInput = z.object({
   from: z.string().describe('Vault-relative path of the note to move.'),
@@ -42,11 +43,8 @@ export async function moveNote(
   // Parse here (not only in dispatch) so defaults like rewriteLinks apply to
   // direct callers too — same pattern as periodic_note.
   const input = MoveNoteInput.parse(rawInput);
-  const absFrom = join(ctx.vaultRoot, input.from);
-  const absTo = join(ctx.vaultRoot, input.to);
-
-  if (!absFrom.startsWith(ctx.vaultRoot)) throw new Error(`Path outside vault: ${input.from}`);
-  if (!absTo.startsWith(ctx.vaultRoot)) throw new Error(`Path outside vault: ${input.to}`);
+  const absFrom = resolveVaultPath(ctx.vaultRoot, input.from);
+  const absTo = resolveVaultPath(ctx.vaultRoot, input.to);
   assertWritable(ctx.policy, input.from);
   assertWritable(ctx.policy, input.to);
 

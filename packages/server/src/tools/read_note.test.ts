@@ -67,6 +67,11 @@ describe('readNote — whole note', () => {
     await expect(readNote(ctx, { path: '../etc/passwd' })).rejects.toThrow('Path outside vault');
   });
 
+  it('throws "Path outside vault" for sibling-directory prefix escape', async () => {
+    const sibling = `../${vaultRoot.split('/').pop()}-backup/secret.md`;
+    await expect(readNote(ctx, { path: sibling })).rejects.toThrow('Path outside vault');
+  });
+
   it('throws ENOENT for a non-existent file', async () => {
     await expect(readNote(ctx, { path: 'does-not-exist.md' })).rejects.toThrow(/ENOENT/);
   });

@@ -4,6 +4,7 @@ import { extractLinksWithLines } from '@seekstone/core/extract';
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
 import { resolveLink } from '../index/resolve.js';
+import { resolveVaultPath } from '../vault-path.js';
 
 export const GetLinksInput = z.object({
   path: z.string().describe('Vault-relative path to the note.'),
@@ -25,10 +26,7 @@ export interface GetLinksResult {
 }
 
 export function getLinks(ctx: ServerContext, input: GetLinksInput): GetLinksResult {
-  const absPath = join(ctx.vaultRoot, input.path);
-  if (!absPath.startsWith(ctx.vaultRoot)) {
-    throw new Error(`Path outside vault: ${input.path}`);
-  }
+  const absPath = resolveVaultPath(ctx.vaultRoot, input.path);
   const note = ctx.notes.get(input.path);
   if (note === undefined) throw new Error(`Note not found: ${input.path}`);
 

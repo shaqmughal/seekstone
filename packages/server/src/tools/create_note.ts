@@ -7,6 +7,7 @@ import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
 import { assertWritable } from '../policy.js';
+import { resolveVaultPath } from '../vault-path.js';
 
 export const CreateNoteInput = z
   .object({
@@ -51,10 +52,7 @@ export async function createNote(
   rawInput: CreateNoteInput,
 ): Promise<CreateNoteResult> {
   const input = CreateNoteInput.parse(rawInput);
-  const absPath = join(ctx.vaultRoot, input.path);
-  if (!absPath.startsWith(ctx.vaultRoot)) {
-    throw new Error(`Path outside vault: ${input.path}`);
-  }
+  const absPath = resolveVaultPath(ctx.vaultRoot, input.path);
   assertWritable(ctx.policy, input.path);
 
   if (!input.overwrite) {

@@ -5,6 +5,7 @@ import { buildOutline } from '@seekstone/core/outline';
 import { z } from 'zod';
 import { contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
+import { resolveVaultPath } from '../vault-path.js';
 
 export const ReadNoteInput = z
   .object({
@@ -55,10 +56,7 @@ export interface ReadNoteResult {
 }
 
 export async function readNote(ctx: ServerContext, input: ReadNoteInput): Promise<ReadNoteResult> {
-  const absPath = join(ctx.vaultRoot, input.path);
-  if (!absPath.startsWith(ctx.vaultRoot)) {
-    throw new Error(`Path outside vault: ${input.path}`);
-  }
+  const absPath = resolveVaultPath(ctx.vaultRoot, input.path);
 
   const raw = await readFile(absPath, 'utf8');
   const noteBytes = Buffer.byteLength(raw, 'utf8');

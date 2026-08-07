@@ -149,6 +149,15 @@ describe('createNote', () => {
     );
   });
 
+  it('throws on sibling-directory prefix escape', async () => {
+    // A path resolving to <vault>-backup/… passes a bare startsWith(vaultRoot)
+    // check; the separator-boundary guard must reject it.
+    const sibling = `../${tmpDir.split('/').pop()}-backup/secret.md`;
+    await expect(createNote(ctx, { path: sibling, content: 'bad' })).rejects.toThrow(
+      'Path outside vault',
+    );
+  });
+
   it('respects write-path scoping', async () => {
     const scoped = { ...freshCtx(), policy: { readOnly: false, writeGlobs: ['journal/**'] } };
     await expect(
