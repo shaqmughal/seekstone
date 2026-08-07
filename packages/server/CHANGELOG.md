@@ -1,5 +1,16 @@
 # seekstone
 
+## 0.12.1
+
+### Patch Changes
+
+- d24cb4d: Refresh the npm-facing README to current messaging: 18 tools (adds `query_notes` and `context_pack` to the tables), recoverable `.trash/` deletes, compare-and-swap edits, the Write-Safety Contract, `SEEKSTONE_READ_ONLY` / `SEEKSTONE_WRITE_PATHS` configuration, and current benchmark numbers replacing the retired pre-launch figures. No code changes.
+- 8286529: Stop folding long frontmatter scalars. `create_note` and `patch_frontmatter` passed no
+  `lineWidth` to the YAML serializer, so values past 80 columns were wrapped across lines with a
+  trailing `\`. The output is valid YAML and round-trips, but link extraction runs per line, so a
+  wikilink split that way became invisible to the backlink index, `get_links` and `context_pack` —
+  a patch touching one key could silently drop a link declared under another.
+
 ## 0.12.0
 
 ### Minor Changes
