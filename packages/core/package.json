@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "type": "module",
-  "description": "Shared vault primitives — walk, frontmatter, extract, percentiles. Used by both harness and server.",
+  "description": "Shared vault primitives — walk, frontmatter, extract, outline, percentiles, pmap.",
   "exports": {
     "./walk": "./src/walk.ts",
     "./frontmatter": "./src/frontmatter.ts",

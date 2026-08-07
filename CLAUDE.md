@@ -38,20 +38,22 @@ The **server** has a real build — `npm run build -w seekstone` bundles it (and
 
 `packages/harness/fixtures/vault/` is a **committed 10,000-note synthetic vault** generated from the public-domain 1911 Encyclopædia Britannica (Project Gutenberg). It's the canonical, reproducible, personal-data-free benchmark target — use it instead of a personal vault. The generator (`src/fixtures/`, deterministic, seed 42) + pinned corpus manifest are committed; the raw corpus text under `fixtures/corpus/raw/` is gitignored and re-fetched on demand. `src/fixtures/profile-fixture.test.ts` snapshots the vault's content-derived profile so the target can't silently drift. See `packages/harness/README.md`. Freshness stats are N/A for the fixture (mtime = checkout time).
 
-## Required env vars
+## Required env vars (harness)
 
 - `SEEKSTONE_VAULT` — absolute path to the Obsidian vault.
 - `SEEKSTONE_REST_API_KEY` — required when invoking the `rest` backend; from the Local REST API plugin settings tab.
 - `SEEKSTONE_REST_URL` — defaults to `https://127.0.0.1:27124`. The plugin ships a self-signed cert; the adapter accepts it via an isolated `undici.Agent`, never by setting `NODE_TLS_REJECT_UNAUTHORIZED`.
 
+The **server** reads its own set (`SEEKSTONE_VAULT`, `SEEKSTONE_READ_ONLY`, `SEEKSTONE_WRITE_PATHS`, `SEEKSTONE_LOG_LEVEL`, `SEEKSTONE_LOG_FILE`, `SEEKSTONE_LOG_MAX_SIZE`, `SEEKSTONE_WATCH_POLL`) — documented in the README's Configuration table. Write behavior to know before editing tools: deletes are recoverable (`.trash/`), edits support `prevHash` compare-and-swap, moves rewrite inbound links, and every write is policy-gated + atomic (see `docs/ARCHITECTURE.md` §2).
+
 ## Architecture
 
 For the full picture — package graph, the server's five layers, the end-to-end request flow, and the harness — see [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) (Mermaid diagrams). Keep it in sync when you add a layer, tool, or adapter. The summary below covers the harness specifically.
 
-The harness is three modules behind one CLI, all sharing the same `Backend` abstraction so the eventual filesystem-direct server slots in without rewriting consumers.
+The harness is three modules behind one CLI, all sharing the same `Backend` abstraction the shipped filesystem-direct server plugs into (the in-process `seekstone` adapter).
 
 ### Backend interface (`packages/harness/src/bench/backend.ts`)
-One small contract: `search`, `read`, `write`, `list`. Every adapter returns `{ result, payloadBytes }` so payload size — the headline metric — is captured at the boundary. The MCP server is being designed to expose exactly this surface, which is why it's tiny on purpose.
+A small required core — `search`, `read`, `write`, `list` — plus optional extended tool methods (`listTags`, `contextPack`, `outline`, `getBacklinks`, `getLinks`, `getPeriodicNote`) and optional write-safety methods (`deleteNote`, `createNote`, `readWithHash`, `casWrite`) that drive the behavioral safety ops. Every adapter returns `{ result, payloadBytes }` so payload size — the headline metric — is captured at the boundary. The shipped server exposes this surface (18 tools; the `seekstone` adapter calls its tool functions in-process).
 
 ### Profiler (`packages/harness/src/profiler/`)
 Walks the vault with `fast-glob`, classifies each file (`note` / `image` / `pdf` / `excalidraw` / `canvas` / …), reads each note, and aggregates. Two things are subtle and worth knowing before editing:
@@ -73,7 +75,7 @@ Three guard rails, in this order, and they all matter:
 2. **`runSafety`** re-asserts copy ≠ original before doing anything.
 3. The **REST adapter writes to whatever vault Obsidian is open on** — so the workflow is two-phase: first invocation copies the vault and prints the path; you point Obsidian at the copy; second invocation runs with `--copy-vault-root`.
 
-Three ops per sampled note: `identity` (byte equality), `body-append` (FM untouched, body == original + marker), `fm-edit` (body untouched, existing FM key order preserved). `fm-edit` uses `yaml.parseDocument` because that's the only way to preserve comments / quote style / key order — anything that route-trips through `parseYaml` + `stringify` will fail the test, by design.
+Eight ops per sampled backend — five byte-faithful: `identity` (byte equality), `body-append` (FM untouched, body == original + marker), `fm-edit` (body untouched, existing FM key order preserved), `patch-note`, `replace-in-note`; and three behavioral (`safety/behavioral-ops.ts`): `recoverable-delete` (lands in `.trash/`, byte-identical), `create-no-clobber`, `cas-conflict` (stale `prevHash` must be refused). `fm-edit` uses `yaml.parseDocument` because that's the only way to preserve comments / quote style / key order — anything that round-trips through `parseYaml` + `stringify` will fail the test, by design.
 
 ## Conventions
 

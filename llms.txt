@@ -16,7 +16,7 @@ A user can paste this prompt into any coding agent (Claude Code, Cursor, Windsur
 
 ## Why filesystem-direct?
 
-Routing through the Obsidian Local REST API plugin returns ~1.75 MB (~459,000 tokens) for a typical search. Seekstone returns ~2 KB (~580 tokens) for the same query — a ~800× reduction. Claude can search an entire vault without burning its context window on a single tool call.
+Most Obsidian MCP servers return full note content for every search hit. Benchmarked across committed 1,000/5,000/10,000-note synthetic vaults against 7 other servers (open-source harness, reproducible): Seekstone returns ~2 KB per search and stays flat as the vault grows, while REST-proxy servers grow with the vault — up to 95 MB per query at 10k notes, and a single broad query peaked at ~370 MB / ~98M tokens in one tool call. That is up to a ~47,000× context-tax reduction. Warm search latency is 6.2 ms at 10k notes — the fastest alternative measured is ~6× slower, the REST-proxy generation ~70–250× slower. Full results: https://seekstone.dev/benchmarks
 
 ## How to install (Claude Desktop)
 
@@ -64,12 +64,12 @@ Read:
 
 Write:
 - `create_note` — create a note with optional frontmatter and body
-- `delete_note` — permanently delete a note
+- `delete_note` — move a note to the vault's `.trash/` folder (recoverable, Obsidian-compatible); `permanent: true` for an unrecoverable delete
 - `move_note` — move or rename a note, rewriting wikilinks and markdown links in other notes that point at it (link-aware; `rewriteLinks: false` to opt out)
 - `append_note` — append text to a note body without touching frontmatter
 - `patch_frontmatter` — set, update, or delete frontmatter keys while preserving key order and quote style
 - `patch_note` — insert text immediately after a heading
-- `replace_in_note` — replace the first occurrence of a word or phrase in the note body
+- `replace_in_note` — find and replace text in the note body (literal or regex, whole-word, case sensitivity, optional limit — replaces all occurrences by default, dry-run preview)
 - `append_periodic_note` — append to today's periodic note, creating it from a template if needed
 
 ## Requirements

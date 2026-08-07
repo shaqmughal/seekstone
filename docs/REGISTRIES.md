@@ -12,7 +12,7 @@ Seekstone is published as [`seekstone`](https://www.npmjs.com/package/seekstone)
 
 - **Name:** Seekstone
 - **Tagline:** An Obsidian MCP server — filesystem-direct, low context-tax.
-- **Description:** Seekstone reads your Obsidian vault directly from disk instead of routing through the Local REST API plugin, so Claude can search and edit notes without burning its context window on a single tool call (~575× smaller payloads in benchmarks). 18 tools over stdio; no Obsidian app or plugin required; macOS/Linux/Windows; no network, no telemetry.
+- **Description:** Seekstone reads your Obsidian vault directly from disk instead of routing through the Local REST API plugin, so Claude can search and edit notes without burning its context window on a single tool call (up to ~47,000× smaller payloads in reproducible multi-vault benchmarks). 18 tools over stdio; no Obsidian app or plugin required; macOS/Linux/Windows; no network, no telemetry.
 - **Install:** `npx -y seekstone`; env `SEEKSTONE_VAULT=/path/to/vault`
 - **Repo:** https://github.com/shaqmughal/seekstone
 - **npm:** https://www.npmjs.com/package/seekstone
@@ -23,14 +23,14 @@ Seekstone is published as [`seekstone`](https://www.npmjs.com/package/seekstone)
 
 ## 1. Official MCP registry
 
-`server.json` lists the `seekstone` npm package. After each release, re-publish to update the version:
+`server.json` lists the `seekstone` npm package. **Publishing is automated:** `release.yml` installs `mcp-publisher`, authenticates with `login github-oidc`, and re-publishes on every npm release; the version is synced by `scripts/sync-server-json.mjs` (run by `version-packages` and CI-guarded). The manual flow below is a fallback only:
 
 ```bash
 # Install the publisher CLI (macOS/Linux):
 curl -L "https://github.com/modelcontextprotocol/registry/releases/latest/download/mcp-publisher_$(uname -s | tr '[:upper:]' '[:lower:]')_$(uname -m | sed 's/x86_64/amd64/;s/aarch64/arm64/').tar.gz" | tar xz mcp-publisher && sudo mv mcp-publisher /usr/local/bin/
 # (or: brew install mcp-publisher)
 
-mcp-publisher login github   # device-code auth (one-time per session)
+mcp-publisher login github   # device-code auth (manual fallback; CI uses `login github-oidc`)
 mcp-publisher publish        # reads server.json, validates against mcpName in published package
 ```
 
@@ -62,6 +62,6 @@ The entry originally used `obsidian-mcp-seekstone`; that name is now deprecated 
 
 ## Keeping listings current
 
-- **Official registry:** bump the version in `server.json` and re-run `mcp-publisher publish` after each release. The `version` field should always match the current `seekstone` npm version.
+- **Official registry:** automated — `release.yml` re-publishes on every release, and `sync-server-json.mjs` keeps the `server.json` version matching npm (guarded in CI). No manual action needed.
 - **Glama:** tracks the repo automatically — no action needed on release.
 - **awesome-mcp-servers:** static PR; only needs updating if the description or install command changes.

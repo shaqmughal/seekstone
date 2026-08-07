@@ -46,23 +46,28 @@ path and refuses anything that escapes the vault root; traversal attempts
 Body-editing tools (`append_note`, `patch_note`, `replace_in_note`) never touch
 the frontmatter region — not re-serialized, not re-quoted, not re-ordered:
 byte-identical. `patch_frontmatter` edits values through a CST-preserving YAML
-parser, so untouched keys keep their order, quotes, and comments.
+parser, so untouched keys keep their order, quotes, and comments (and since
+0.12.1, serialization passes `lineWidth: 0`, so long values are never re-folded
+across lines).
 
 - Enforced by: byte-offset frontmatter handling (`parseFrontmatter` reports
   `bodyStart` as an offset) plus post-write re-read verification in
   `patch_note`/`replace_in_note`.
-- Proven by: the harness `identity`, `body-append`, `fm-edit`, `patch-note`,
-  and `replace-in-note` ops ([`ops.ts`](../packages/harness/src/safety/ops.ts))
-  — byte-region equality assertions on the re-read file.
+- Proven by: the harness `identity`, `body-append`, `patch-note`, and
+  `replace-in-note` ops ([`ops.ts`](../packages/harness/src/safety/ops.ts)) —
+  byte-region equality assertions on the re-read file. The `fm-edit` op asserts
+  body-untouched plus key-order preservation (not full byte equality of the
+  frontmatter region, since the edited key's line legitimately changes).
 
 ### 4. Atomic writes — no torn files
 
 Every write goes through one shared temp-file-plus-rename helper
 ([`atomic-write.ts`](../packages/server/src/atomic-write.ts)). A crash
 mid-write leaves either the old content or the new content on disk, never a
-truncated file. (`move_note`'s file relocation is an atomic rename; its link
-rewrites in referencing notes are each individually atomic. This is per-file
-crash-safety, not a multi-file transaction.)
+truncated file. (`move_note`'s file relocation and `delete_note`'s move-to-`.trash/` are
+atomic renames rather than temp-file writes; `move_note`'s link rewrites in
+referencing notes are each individually atomic. This is per-file crash-safety,
+not a multi-file transaction.)
 
 - Proven by: [`atomic-write.test.ts`](../packages/server/src/atomic-write.test.ts)
   and every write-tool test asserting exact post-write bytes.
@@ -92,9 +97,10 @@ reports where it went. `permanent: true` is the explicit opt-out.
 `read_note` returns a `contentHash` (sha-256 of the note's disk bytes). Edit
 tools accept `prevHash` and refuse to write — with a structured
 `hash_conflict` error carrying the current hash — when the note changed since
-it was read, so a concurrent edit is never silently discarded. Every mutating
-result returns the new hash, so chained edits need no re-reads. This is
-conflict **detection**, not locking.
+it was read, so a concurrent edit is never silently discarded. Every
+content-editing result returns the new hash, so chained edits need no re-reads
+(`move_note` and `delete_note` don't participate in hash chaining — re-read
+after them). This is conflict **detection**, not locking.
 
 - Enforced by: [`content-hash.ts`](../packages/server/src/content-hash.ts),
   checked immediately after the disk read in every edit tool.
@@ -144,8 +150,8 @@ whole-note updates are simply unavailable; its partial-edit tools were not
 driven by this suite. — n/a = the server does not expose the capability
 (no delete / create / CAS surface in its tools). **obsidian-mcp**
 (StevenStavrakis) is absent because its synchronous startup indexing does not
-complete within 5 minutes on the 10k-note vault — the same reason it is
-excluded from the scaling benchmark. REST-proxy servers need a live Obsidian
+complete within this suite's 5-minute init budget on the 10k-note vault. (It
+does appear in the scaling benchmark, whose per-run patience is higher.) REST-proxy servers need a live Obsidian
 session and are not part of this headless table.</sup>
 
 **obsidian-tc** (the governance platform) is absent for a structural reason:

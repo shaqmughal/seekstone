@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "description": "Profiler + benchmark harness for an Obsidian vault. Measures vault shape; benchmarks pluggable adapters (Obsidian Local REST API today, filesystem-direct next); verifies byte-faithful YAML round-trip.",
+  "description": "Measurement harness for Obsidian MCP access: vault profiler, cold/warm benchmark runner with pluggable adapters (filesystem-direct, REST, and 7 competing MCP servers), tokens-per-task scenario suite, and write-safety verification.",
   "bin": {
     "seekstone-harness": "./src/cli.ts"
   },

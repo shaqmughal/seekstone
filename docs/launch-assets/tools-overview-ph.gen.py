@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Generate the PH "what you get" card (1270x760) as HTML.
 
-Tool list source: README.md tools tables (17 tools: 9 read + 8 write).
+Tool list source: README.md tools tables (18 tools: 9 read + 8 write).
 Brand tokens: seekstone.dev src/styles/ds/colors.css.
 
 Usage: python3 tools-overview-ph.gen.py, then render the HTML it prints
@@ -86,7 +86,7 @@ html = f"""<!DOCTYPE html>
 </style></head>
 <body>
   <div class="wordmark"><div class="gem"></div><div class="name">seekstone</div></div>
-  <h1>17 tools. No plugin. Nothing running.</h1>
+  <h1>18 tools. No plugin. Nothing running.</h1>
   <div class="sub">Filesystem-direct MCP server for your Obsidian vault — works with Obsidian closed</div>
   <div class="install">
     <div class="cmd">npx -y seekstone init</div>

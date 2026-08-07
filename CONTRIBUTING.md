@@ -38,11 +38,11 @@ npx vitest run packages/server/src/tools/search.test.ts
 npx vitest run -t 'parses a typical frontmatter'
 ```
 
-Before opening a PR, make sure **`npm test`, `npm run lint`, and the typechecks all pass** — CI runs them on macOS, Linux, and Windows and will block a merge otherwise.
+Before opening a PR, make sure **`npm test`, `npm run lint`, and the typechecks all pass** — CI runs them on macOS, Linux, and Windows and will block a merge otherwise. The Linux leg additionally blocks on: protocol conformance (`npm run conformance`), the write-safety baseline (`node scripts/check-safety-baseline.mjs`), per-package coverage gates (server, harness, and core thresholds), `server.json` and docs-sync guards, and a **changeset check** — a PR touching `packages/server/src/` or `package.json` without a changeset fails CI (`npx changeset` to add one).
 
 ## Conventions
 
-- **Tests ship with the change.** Add or update co-located `*.test.ts` files for any code you touch. We aim to keep the server's logic modules well covered (CI enforces a coverage threshold).
+- **Tests ship with the change.** Add or update co-located `*.test.ts` files for any code you touch. We aim to keep the logic modules well covered (CI enforces coverage thresholds for the server, harness, and core packages).
 - **Formatting is biome.** Run `npm run format` before committing and **stage all the files it changes**, not just the ones you edited.
 - **Line endings are LF** (enforced via `.gitattributes`).
 - **Imports use `.js` extensions** even for TypeScript sources — that's what NodeNext + tsx + tsc agree on.
