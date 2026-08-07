@@ -1,8 +1,10 @@
-import { sep } from 'node:path';
+import { resolve, sep } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { resolveVaultPath } from './vault-path.js';
 
-const ROOT = ['', 'home', 'u', 'vault'].join(sep);
+// resolve() gives the root a drive letter on Windows, so comparisons inside
+// resolveVaultPath (which resolves its inputs) stay consistent cross-platform.
+const ROOT = resolve(sep, 'home', 'u', 'vault');
 
 describe('resolveVaultPath', () => {
   it('resolves a plain relative path inside the vault', () => {
@@ -32,7 +34,7 @@ describe('resolveVaultPath', () => {
   });
 
   it('rejects an absolute path outside the vault', () => {
-    expect(() => resolveVaultPath(ROOT, ['', 'etc', 'passwd'].join(sep))).toThrow(
+    expect(() => resolveVaultPath(ROOT, resolve(sep, 'etc', 'passwd'))).toThrow(
       'Path outside vault',
     );
   });

@@ -1,6 +1,6 @@
 import { mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
-import { join } from 'node:path';
+import { basename, join } from 'node:path';
 import MiniSearch from 'minisearch';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
@@ -68,7 +68,7 @@ describe('readNote — whole note', () => {
   });
 
   it('throws "Path outside vault" for sibling-directory prefix escape', async () => {
-    const sibling = `../${vaultRoot.split('/').pop()}-backup/secret.md`;
+    const sibling = `../${basename(vaultRoot)}-backup/secret.md`;
     await expect(readNote(ctx, { path: sibling })).rejects.toThrow('Path outside vault');
   });
 

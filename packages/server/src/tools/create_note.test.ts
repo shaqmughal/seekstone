@@ -1,6 +1,6 @@
 import { mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
-import { join } from 'node:path';
+import { basename, join } from 'node:path';
 import { extractLinksWithLines } from '@seekstone/core/extract';
 import MiniSearch from 'minisearch';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
@@ -152,7 +152,7 @@ describe('createNote', () => {
   it('throws on sibling-directory prefix escape', async () => {
     // A path resolving to <vault>-backup/… passes a bare startsWith(vaultRoot)
     // check; the separator-boundary guard must reject it.
-    const sibling = `../${tmpDir.split('/').pop()}-backup/secret.md`;
+    const sibling = `../${basename(tmpDir)}-backup/secret.md`;
     await expect(createNote(ctx, { path: sibling, content: 'bad' })).rejects.toThrow(
       'Path outside vault',
     );
