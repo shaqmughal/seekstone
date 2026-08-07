@@ -1,6 +1,7 @@
 import { mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
+import { extractLinksWithLines } from '@seekstone/core/extract';
 import MiniSearch from 'minisearch';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
@@ -55,6 +56,21 @@ describe('createNote', () => {
     expect(disk).toMatch(/^---\n/);
     expect(disk).toContain('title: My Note');
     expect(disk).toContain('Body here.');
+  });
+
+  it('does not fold a long frontmatter value, keeping a wikilink extractable', async () => {
+    const target =
+      'sources/rag-notes/a-capture-slug-long-enough-to-exceed-the-default-line-width-2026-01-01';
+    await createNote(ctx, {
+      path: 'long-fm.md',
+      content: '# Body\n',
+      frontmatter: { title: 'Long', sources: `[[${target}]]` },
+    });
+
+    const disk = await readFile(join(tmpDir, 'long-fm.md'), 'utf8');
+
+    expect(disk).not.toContain('\\\n');
+    expect(extractLinksWithLines(disk).map((l) => l.target)).toContain(target);
   });
 
   it('creates parent directories automatically', async () => {
