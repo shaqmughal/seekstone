@@ -1,5 +1,5 @@
 import { access, mkdir, readFile } from 'node:fs/promises';
-import { dirname, join } from 'node:path';
+import { dirname } from 'node:path';
 import { stringify as stringifyYaml } from 'yaml';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';

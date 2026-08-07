@@ -1,4 +1,3 @@
-import { join } from 'node:path';
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';
 import { resolveVaultPath } from '../vault-path.js';
@@ -35,7 +34,7 @@ export interface GetBacklinksResult {
 const EXCERPT_MAX = 200;
 
 export function getBacklinks(ctx: ServerContext, input: GetBacklinksInput): GetBacklinksResult {
-  const absPath = resolveVaultPath(ctx.vaultRoot, input.path);
+  resolveVaultPath(ctx.vaultRoot, input.path); // containment validation only
 
   const includeContext = input.includeContext ?? true;
   const limit = input.limit ?? 50;

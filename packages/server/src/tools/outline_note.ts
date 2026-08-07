@@ -1,5 +1,4 @@
 import { readFile } from 'node:fs/promises';
-import { join } from 'node:path';
 import { buildOutline } from '@seekstone/core/outline';
 import { z } from 'zod';
 import type { ServerContext } from '../context.js';

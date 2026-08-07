@@ -6,8 +6,8 @@ import type { ServerContext } from '../context.js';
 import { addNoteBacklinks, removeNoteBacklinks } from '../index/backlinks.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
 import { assertWritable, isWritable } from '../policy.js';
-import { hasMarkdownLinkTo, rewriteNoteLinks } from './rewrite_links.js';
 import { resolveVaultPath } from '../vault-path.js';
+import { hasMarkdownLinkTo, rewriteNoteLinks } from './rewrite_links.js';
 
 export const MoveNoteInput = z.object({
   from: z.string().describe('Vault-relative path of the note to move.'),

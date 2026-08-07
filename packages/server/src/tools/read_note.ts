@@ -1,5 +1,4 @@
 import { readFile } from 'node:fs/promises';
-import { join } from 'node:path';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { buildOutline } from '@seekstone/core/outline';
 import { z } from 'zod';

@@ -1,5 +1,4 @@
 import { readFile } from 'node:fs/promises';
-import { join } from 'node:path';
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';

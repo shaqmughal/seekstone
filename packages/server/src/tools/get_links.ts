@@ -1,4 +1,3 @@
-import { join } from 'node:path';
 import type { LinkType } from '@seekstone/core/extract';
 import { extractLinksWithLines } from '@seekstone/core/extract';
 import { z } from 'zod';
@@ -26,7 +25,7 @@ export interface GetLinksResult {
 }
 
 export function getLinks(ctx: ServerContext, input: GetLinksInput): GetLinksResult {
-  const absPath = resolveVaultPath(ctx.vaultRoot, input.path);
+  resolveVaultPath(ctx.vaultRoot, input.path); // containment validation only
   const note = ctx.notes.get(input.path);
   if (note === undefined) throw new Error(`Note not found: ${input.path}`);
 
