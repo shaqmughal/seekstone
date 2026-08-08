@@ -30,6 +30,25 @@ const MD_RE = /(!?)\[([^\]\n]*)\]\(([^)\n]+)\)/g;
 
 const FENCE_RE = /^\s*(```|~~~)/;
 
+/**
+ * Map `fn` over every line outside fenced code blocks (``` / ~~~), leaving
+ * fence delimiters and fenced content byte-identical. Shared by the move and
+ * rename-heading rewriters.
+ */
+export function mapUnfencedLines(raw: string, fn: (line: string) => string): string {
+  let inFence = false;
+  return raw
+    .split('\n')
+    .map((line) => {
+      if (FENCE_RE.test(line)) {
+        inFence = !inFence;
+        return line;
+      }
+      return inFence ? line : fn(line);
+    })
+    .join('\n');
+}
+
 export interface RewriteNoteLinksResult {
   content: string;
   /** Number of individual links rewritten. */
@@ -121,17 +140,9 @@ export function rewriteNoteLinks(
       return `${bang}[${text}](${target})`;
     });
 
-  let inFence = false;
-  const lines = raw.split('\n').map((line) => {
-    if (FENCE_RE.test(line)) {
-      inFence = !inFence;
-      return line;
-    }
-    if (inFence) return line;
-    return rewriteMdLine(rewriteWikiLine(line));
-  });
+  const content = mapUnfencedLines(raw, (line) => rewriteMdLine(rewriteWikiLine(line)));
 
-  return { content: lines.join('\n'), count };
+  return { content, count };
 }
 
 /**
