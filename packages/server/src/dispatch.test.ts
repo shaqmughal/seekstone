@@ -7,7 +7,7 @@ import { dispatch, HANDLED_TOOLS, WRITE_TOOLS } from './dispatch.js';
 import { buildIndex } from './index/build.js';
 import type { Logger } from './log.js';
 import { createLogger } from './log.js';
-import { PERMISSIVE_POLICY } from './policy.js';
+import { PERMISSIVE_POLICY, parseWritePolicy } from './policy.js';
 
 interface LogRecord {
   level: string;
@@ -180,5 +180,36 @@ describe('dispatch — read-only mode', () => {
     expect(res.isError).toBeUndefined();
     const parsed = JSON.parse(res.content[0]?.text ?? '{}');
     expect(parsed.created).toBe(false);
+  });
+});
+
+describe('rename_heading dispatch text', () => {
+  it('reports notes skipped by SEEKSTONE_WRITE_PATHS in the result text', async () => {
+    const scopedVault = await mkdtemp(join(tmpdir(), 'seekstone-dispatch-rename-'));
+    try {
+      await writeFile(join(scopedVault, 'subject.md'), '# Subject\n\n## Old\n\nbody\n', 'utf8');
+      await writeFile(join(scopedVault, 'linker.md'), 'See [[subject#Old]].\n', 'utf8');
+      const built = await buildIndex(scopedVault);
+      const scopedCtx: ServerContext = {
+        vaultRoot: scopedVault,
+        index: built.index,
+        notes: built.notes,
+        backlinks: built.backlinks,
+        policy: parseWritePolicy({ SEEKSTONE_WRITE_PATHS: 'subject.md' }),
+      };
+      const { logger } = recordingLogger();
+      const res = await dispatch(
+        scopedCtx,
+        'rename_heading',
+        { path: 'subject.md', oldHeading: 'Old', newHeading: 'New' },
+        logger,
+      );
+      expect(res.isError).toBeUndefined();
+      const text = res.content[0]?.text ?? '';
+      expect(text).toContain('Renamed heading "Old" → "New" in subject.md');
+      expect(text).toContain('Skipped (outside SEEKSTONE_WRITE_PATHS): linker.md.');
+    } finally {
+      await rm(scopedVault, { recursive: true, force: true });
+    }
   });
 });
