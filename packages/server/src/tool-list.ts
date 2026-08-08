@@ -246,6 +246,36 @@ export const ALL_TOOLS = [
     },
   },
   {
+    name: 'rename_heading',
+    description:
+      'Rename a heading in a note and rewrite every [[note#heading]] wikilink and embed across the vault so references keep working — aliases preserved, fenced code blocks left alone. Served from the warm backlink index, no vault scan. Heading matching is case-insensitive; with duplicate headings the first match wins, mirroring Obsidian link resolution.',
+    inputSchema: {
+      type: 'object',
+      properties: {
+        path: {
+          type: 'string',
+          description: 'Vault-relative path of the note containing the heading.',
+        },
+        oldHeading: {
+          type: 'string',
+          description:
+            'Current heading text, without # markers. Case-insensitive; first match wins.',
+        },
+        newHeading: {
+          type: 'string',
+          description:
+            'New heading text, without # markers. Must not contain newlines, "[", "]", "|", or "#".',
+        },
+        prevHash: {
+          type: 'string',
+          description:
+            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+        },
+      },
+      required: ['path', 'oldHeading', 'newHeading'],
+    },
+  },
+  {
     name: 'append_note',
     description:
       'Append text to a note body without touching the frontmatter. Safe for meeting notes, daily logs, and append-only workflows.',

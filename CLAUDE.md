@@ -53,7 +53,7 @@ For the full picture — package graph, the server's five layers, the end-to-end
 The harness is three modules behind one CLI, all sharing the same `Backend` abstraction the shipped filesystem-direct server plugs into (the in-process `seekstone` adapter).
 
 ### Backend interface (`packages/harness/src/bench/backend.ts`)
-A small required core — `search`, `read`, `write`, `list` — plus optional extended tool methods (`listTags`, `contextPack`, `outline`, `getBacklinks`, `getLinks`, `getPeriodicNote`) and optional write-safety methods (`deleteNote`, `createNote`, `readWithHash`, `casWrite`) that drive the behavioral safety ops. Every adapter returns `{ result, payloadBytes }` so payload size — the headline metric — is captured at the boundary. The shipped server exposes this surface (18 tools; the `seekstone` adapter calls its tool functions in-process).
+A small required core — `search`, `read`, `write`, `list` — plus optional extended tool methods (`listTags`, `contextPack`, `outline`, `getBacklinks`, `getLinks`, `getPeriodicNote`) and optional write-safety methods (`deleteNote`, `createNote`, `readWithHash`, `casWrite`) that drive the behavioral safety ops. Every adapter returns `{ result, payloadBytes }` so payload size — the headline metric — is captured at the boundary. The shipped server exposes this surface (19 tools; the `seekstone` adapter calls its tool functions in-process).
 
 ### Profiler (`packages/harness/src/profiler/`)
 Walks the vault with `fast-glob`, classifies each file (`note` / `image` / `pdf` / `excalidraw` / `canvas` / …), reads each note, and aggregates. Two things are subtle and worth knowing before editing:

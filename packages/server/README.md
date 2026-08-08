@@ -104,7 +104,7 @@ Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their o
 
 ## Tools
 
-18 tools: 10 read, 8 write.
+19 tools: 10 read, 9 write.
 
 ### Read
 
@@ -128,6 +128,7 @@ Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their o
 | `create_note` | Create a note (optional frontmatter + body); parent dirs created automatically. Never clobbers an existing note unless you pass `overwrite: true`. |
 | `delete_note` | Move a note to the vault's `.trash/` folder (Obsidian-compatible, restorable). Pass `permanent: true` for an unrecoverable delete. |
 | `move_note` | Move/rename a note — wikilinks and markdown links in other notes that point at it are rewritten so nothing breaks; destination dirs created automatically. |
+| `rename_heading` | Rename a heading in a note — every `[[note#heading]]` wikilink and embed across the vault is rewritten so references keep working (aliases preserved, fenced code blocks left alone). |
 | `append_note` | Append to a note body without touching frontmatter. |
 | `patch_frontmatter` | Set/update/delete frontmatter keys without reordering existing keys or changing quote style. |
 | `patch_note` | Insert text immediately after a heading without touching frontmatter. |
@@ -147,7 +148,7 @@ The content-editing tools (`append_note`, `patch_note`, `patch_frontmatter`, `re
 | `SEEKSTONE_LOG_FILE` | no | Absolute path; when set, JSON-line logs are appended here (size-rotated). |
 | `SEEKSTONE_WATCH_POLL` | no | Set to `1` to stat-poll for changes instead of native OS events — reliable on network drives, WSL, containers. |
 | `SEEKSTONE_LOG_MAX_SIZE` | no | Log-rotation threshold for `SEEKSTONE_LOG_FILE` (e.g. `10mb`; default 5 MB). |
-| `SEEKSTONE_READ_ONLY` | no | Set to `1` to run read-only: the 8 write tools are unregistered entirely (and rejected if called anyway), so the session provably cannot modify your vault. |
+| `SEEKSTONE_READ_ONLY` | no | Set to `1` to run read-only: the 9 write tools are unregistered entirely (and rejected if called anyway), so the session provably cannot modify your vault. |
 | `SEEKSTONE_WRITE_PATHS` | no | Comma-separated vault-relative globs (e.g. `journal/**,inbox/*.md`). Writes are permitted only under matching paths; the rest of the vault stays read-only. |
 
 ---

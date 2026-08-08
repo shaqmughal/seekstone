@@ -79,12 +79,12 @@ flowchart TD
     watch["④ Watcher — watcher.ts<br/>chokidar → incremental re-index"]
 
     subgraph disp["⑤ Dispatch — dispatch.ts"]
-        dispatcher["dispatch(): timing · logging · errors<br/>read-only / write-policy gate (WRITE_TOOLS)<br/>HANDLED_TOOLS (18) → run() switch"]
+        dispatcher["dispatch(): timing · logging · errors<br/>read-only / write-policy gate (WRITE_TOOLS)<br/>HANDLED_TOOLS (19) → run() switch"]
     end
 
-    subgraph tools["Tools layer — tools/ (18)"]
+    subgraph tools["Tools layer — tools/ (19)"]
         reads["READ-ONLY<br/>search · query_notes · context_pack<br/>read_note · list_notes · list_tags<br/>outline_note · get_backlinks · get_links<br/>get_periodic_note"]
-        writes["WRITES (filesystem-direct)<br/>create_note · delete_note · move_note<br/>append_note · patch_note · patch_frontmatter<br/>replace_in_note · append_periodic_note"]
+        writes["WRITES (filesystem-direct)<br/>create_note · delete_note · move_note<br/>rename_heading · append_note · patch_note<br/>patch_frontmatter · replace_in_note<br/>append_periodic_note"]
     end
 
     prims["Write primitives (shared by every write tool)<br/>vault-path.ts resolveVaultPath · policy.ts assertWritable<br/>atomic-write.ts (temp-file+rename) · content-hash.ts (CAS)<br/>tools/rewrite_links.ts (link-aware moves)"]
@@ -120,7 +120,7 @@ flowchart TD
    watcher, and wires the `@modelcontextprotocol/sdk` `Server` to a
    `StdioServerTransport` with `ListTools` + `CallTool` handlers. `ListTools`
    answers from `tool-list.ts` (`visibleTools(policy)` — in read-only mode the
-   8 write tools are unregistered entirely, not just rejected).
+   9 write tools are unregistered entirely, not just rejected).
 2. **Index layer (`index/`)** — `buildIndex(vaultRoot)` walks the vault, parses
    each note, and returns a `MiniSearch` full-text index, a `notes` map
    (path → `IndexedNote`), and a `backlinks` reverse-link map. This is the
@@ -135,9 +135,9 @@ flowchart TD
    per-tool `run()` switch with `performance.now()` timing, structured logging
    (content/query args are debug-only — never logged at info), payload-byte
    measurement, and uniform error-to-`isError` handling. It is also the write
-   **policy enforcement seam**: calls to any of the 8 `WRITE_TOOLS` are rejected
+   **policy enforcement seam**: calls to any of the 9 `WRITE_TOOLS` are rejected
    in read-only mode, and `get_periodic_note`'s `createIfMissing` side effect is
-   neutralized there too. `HANDLED_TOOLS` is the 18-name source of truth, kept
+   neutralized there too. `HANDLED_TOOLS` is the 19-name source of truth, kept
    in sync with the `ListTools` schemas in `tool-list.ts`.
 
 The **tools** themselves are thin: read tools answer from `ServerContext`
@@ -148,8 +148,9 @@ vault filesystem through a shared set of write primitives — path containment
 and a crash-safe temp-file+rename write (`atomic-write.ts`) — using
 `@seekstone/core` to preserve frontmatter byte-for-byte. `delete_note` moves
 notes to the vault's `.trash/` folder rather than unlinking (unless
-`permanent: true`), and `move_note` rewrites inbound links via
-`tools/rewrite_links.ts`.
+`permanent: true`), and `move_note` and `rename_heading` rewrite inbound
+references via `tools/rewrite_links.ts` (link targets on moves, `#heading`
+fragments on renames).
 
 ---
 
@@ -186,7 +187,7 @@ sequenceDiagram
 ```
 
 `ListToolsRequest` is answered from `tool-list.ts` (`visibleTools(ctx.policy)`)
-— all 18 tools normally, only the 10 read tools in read-only mode. On error,
+— all 19 tools normally, only the 10 read tools in read-only mode. On error,
 `dispatch()` catches and returns `{ isError: true, content: [...] }` rather
 than throwing — the session stays alive.
 
@@ -317,7 +318,7 @@ are the receipts.
 
 ---
 
-## The 18 tools
+## The 19 tools
 
 | Tool | Kind | Purpose |
 | --- | --- | --- |
@@ -334,6 +335,7 @@ are the receipts.
 | `create_note` | write | Create a new note |
 | `delete_note` | write | Move a note to `.trash/` (recoverable); `permanent: true` unlinks |
 | `move_note` | write | Move/rename a note, rewriting inbound links in other notes |
+| `rename_heading` | write | Rename a heading, rewriting `[[note#heading]]` links and embeds vault-wide |
 | `append_note` | write | Append to a note body |
 | `patch_note` | write | Targeted body edit by heading/block |
 | `patch_frontmatter` | write | Edit frontmatter, preserving key order/comments |

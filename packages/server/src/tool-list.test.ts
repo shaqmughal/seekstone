@@ -15,10 +15,10 @@ describe('ALL_TOOLS', () => {
 });
 
 describe('visibleTools', () => {
-  it('returns all 18 tools under a permissive policy', () => {
-    expect(visibleTools(PERMISSIVE_POLICY)).toHaveLength(18);
+  it('returns all 19 tools under a permissive policy', () => {
+    expect(visibleTools(PERMISSIVE_POLICY)).toHaveLength(19);
   });
-  it('unregisters the 8 write tools in read-only mode', () => {
+  it('unregisters the 9 write tools in read-only mode', () => {
     const visible = visibleTools({ readOnly: true });
     expect(visible).toHaveLength(10);
     for (const t of visible) expect(WRITE_TOOLS.has(t.name)).toBe(false);
@@ -27,6 +27,6 @@ describe('visibleTools', () => {
     expect(visible.map((t) => t.name)).toContain('get_periodic_note');
   });
   it('write-path scoping alone hides nothing', () => {
-    expect(visibleTools({ readOnly: false, writeGlobs: ['journal/**'] })).toHaveLength(18);
+    expect(visibleTools({ readOnly: false, writeGlobs: ['journal/**'] })).toHaveLength(19);
   });
 });

@@ -20,6 +20,7 @@ import {
 } from './tools/periodic_note.js';
 import { QueryNotesInput, queryNotes } from './tools/query_notes.js';
 import { ReadNoteInput, readNote } from './tools/read_note.js';
+import { RenameHeadingInput, renameHeading } from './tools/rename_heading.js';
 import { ReplaceInNoteInput, replaceInNote } from './tools/replace_in_note.js';
 import { SearchInput, search } from './tools/search.js';
 
@@ -39,6 +40,7 @@ export const HANDLED_TOOLS = [
   'create_note',
   'delete_note',
   'move_note',
+  'rename_heading',
   'append_note',
   'patch_frontmatter',
   'outline_note',
@@ -59,6 +61,7 @@ export const WRITE_TOOLS: ReadonlySet<string> = new Set([
   'create_note',
   'delete_note',
   'move_note',
+  'rename_heading',
   'append_note',
   'patch_frontmatter',
   'patch_note',
@@ -224,6 +227,17 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
       let text = `Moved ${result.from} → ${result.to}. Rewrote ${result.linksRewritten} link${
         result.linksRewritten === 1 ? '' : 's'
       } in ${result.notesRewritten} note${result.notesRewritten === 1 ? '' : 's'}.`;
+      if (result.skipped?.length) {
+        text += ` Skipped (outside SEEKSTONE_WRITE_PATHS): ${result.skipped.join(', ')}.`;
+      }
+      return { content: [{ type: 'text', text }] };
+    }
+    case 'rename_heading': {
+      const input = RenameHeadingInput.parse(args);
+      const result = await renameHeading(ctx, input);
+      let text = `Renamed heading "${result.oldHeading}" → "${result.newHeading}" in ${result.path} (line ${result.line}). Rewrote ${result.linksRewritten} link${
+        result.linksRewritten === 1 ? '' : 's'
+      } in ${result.notesRewritten} note${result.notesRewritten === 1 ? '' : 's'}. contentHash: ${result.contentHash}`;
       if (result.skipped?.length) {
         text += ` Skipped (outside SEEKSTONE_WRITE_PATHS): ${result.skipped.join(', ')}.`;
       }

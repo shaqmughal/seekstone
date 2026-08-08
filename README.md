@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"><strong>The Obsidian MCP server that needs no plugin, no running Obsidian app — and doesn't blow your context window.</strong></p>
-<p align="center"><em>Filesystem-direct · single-digit-ms search · ~2 KB payloads · 18 tools · macOS · Linux · Windows</em></p>
+<p align="center"><em>Filesystem-direct · single-digit-ms search · ~2 KB payloads · 19 tools · macOS · Linux · Windows</em></p>
 
 <p align="center"><a href="https://seekstone.dev"><strong>seekstone.dev →</strong></a></p>
 
@@ -258,7 +258,7 @@ Seekstone is a standard MCP stdio server — any MCP client can run it. Use the 
 
 ---
 
-After installing, restart the client. On startup Seekstone walks the vault, builds an in-memory full-text index (a few seconds for thousands of notes), and keeps it live as you edit. The 18 tools below are then available to Claude.
+After installing, restart the client. On startup Seekstone walks the vault, builds an in-memory full-text index (a few seconds for thousands of notes), and keeps it live as you edit. The 19 tools below are then available to Claude.
 
 Requires [Node.js](https://nodejs.org) ≥ 22 for the CLI options. The one-click `.mcpb` bundle has no external requirements.
 
@@ -309,6 +309,7 @@ Claude never sees your full vault at once — it searches and reads selectively,
 | `create_note` | Create a note (optional frontmatter + body); parent directories are created automatically. |
 | `delete_note` | Move a note to the vault's `.trash/` folder (Obsidian-compatible, restorable). Pass `permanent: true` for an unrecoverable delete. |
 | `move_note` | Move or rename a note — wikilinks and markdown links in other notes that point at it are rewritten so nothing breaks (`rewriteLinks: false` to opt out); destination directories are created automatically. |
+| `rename_heading` | Rename a heading in a note — every `[[note#heading]]` wikilink and embed across the vault is rewritten so references keep working (aliases preserved, fenced code blocks left alone). |
 | `append_note` | Append text to a note body without touching frontmatter. |
 | `patch_frontmatter` | Set, update, or delete frontmatter keys without reordering existing keys or changing quote style. |
 | `patch_note` | Insert text immediately after a heading without touching frontmatter. |
@@ -334,7 +335,7 @@ The content-editing tools (`append_note`, `patch_note`, `patch_frontmatter`, `re
 | `SEEKSTONE_LOG_FILE` | No | Absolute path; when set, JSON-line logs are appended here (size-rotated). |
 | `SEEKSTONE_LOG_MAX_SIZE` | No | Log-rotation threshold for `SEEKSTONE_LOG_FILE` (e.g. `10mb`; default 5 MB). |
 | `SEEKSTONE_WATCH_POLL` | No | Set to `1` to stat-poll for changes instead of native OS events — slower but reliable on network drives, WSL, and some containers. |
-| `SEEKSTONE_READ_ONLY` | No | Set to `1` to run read-only: the 8 write tools are unregistered from the tool list entirely (and rejected if called anyway), so the session provably cannot modify your vault. |
+| `SEEKSTONE_READ_ONLY` | No | Set to `1` to run read-only: the 9 write tools are unregistered from the tool list entirely (and rejected if called anyway), so the session provably cannot modify your vault. |
 | `SEEKSTONE_WRITE_PATHS` | No | Comma-separated vault-relative globs (e.g. `journal/**,inbox/*.md`). Writes are permitted only under matching paths; the rest of the vault stays read-only. |
 
 ---
@@ -373,7 +374,7 @@ No. Seekstone bypasses it entirely — that's the source of the up-to-47,000× p
 Any client that supports the [Model Context Protocol](https://modelcontextprotocol.io) (MCP) over stdio — Claude Desktop, Claude Code, Cursor, Windsurf, Continue, and others.
 
 **Is it safe to use on my vault?**
-Seekstone never modifies files except when you explicitly invoke one of its write tools (the eight in the table above — `create_note`, `append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `move_note`, `delete_note`, `append_periodic_note`). It makes no network requests. The vault path is sandboxed — no tool can read or write outside it. And you can tighten it further: `SEEKSTONE_READ_ONLY=1` removes the write tools from the session entirely, and `SEEKSTONE_WRITE_PATHS` restricts writes to the folders you allow (say, only `journal/**`). Both are enforced at the dispatch layer, not per-tool, so no tool can forget the check.
+Seekstone never modifies files except when you explicitly invoke one of its write tools (the nine in the table above — `create_note`, `append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `move_note`, `rename_heading`, `delete_note`, `append_periodic_note`). It makes no network requests. The vault path is sandboxed — no tool can read or write outside it. And you can tighten it further: `SEEKSTONE_READ_ONLY=1` removes the write tools from the session entirely, and `SEEKSTONE_WRITE_PATHS` restricts writes to the folders you allow (say, only `journal/**`). Both are enforced at the dispatch layer, not per-tool, so no tool can forget the check.
 
 **Does it work on Windows?**
 Yes. Seekstone is tested on macOS, Linux, and Windows in CI on every commit.
@@ -409,7 +410,7 @@ npx tsc -p packages/server/tsconfig.json --noEmit        # typecheck
 
 | Package | Purpose |
 |---|---|
-| `packages/server` | The published `seekstone` MCP server (18 tools, stdio, MiniSearch index, chokidar watcher). |
+| `packages/server` | The published `seekstone` MCP server (19 tools, stdio, MiniSearch index, chokidar watcher). |
 | `packages/core` | Shared vault primitives — walk, frontmatter parser, link/tag extractor, percentiles. Bundled into the server build. |
 | `packages/harness` | Profiler + benchmark + write-safety harness (REST vs filesystem) that produced the payload numbers above. Dev-only; not published. |
 
