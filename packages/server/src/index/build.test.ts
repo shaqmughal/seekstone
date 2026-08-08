@@ -131,4 +131,33 @@ describe('buildIndex', () => {
     expect(note?.tags).toContain('alpha');
     expect(note?.tags).toContain('beta');
   });
+
+  it('backlinks index picks up frontmatter wikilinks split across lines by folding', async () => {
+    // A wikilink folded across lines (yaml's default 80-col wrap — other
+    // writers, or files written by pre-0.12.1 seekstone) must still resolve
+    // into the backlink index.
+    const foldedVault = await mkdtemp(join(tmpdir(), 'seekstone-folded-fm-'));
+    try {
+      const folded = [
+        '---',
+        'source: long sentence that references [[Target Note With A',
+        '  Rather Long Name]] across a fold',
+        '---',
+        'Body.',
+        '',
+      ].join('\n');
+      await writeFile(join(foldedVault, 'linker.md'), folded, 'utf8');
+      await writeFile(
+        join(foldedVault, 'Target Note With A Rather Long Name.md'),
+        '# Target\n',
+        'utf8',
+      );
+
+      const { backlinks } = await buildIndex(foldedVault);
+      const refs = backlinks.get('Target Note With A Rather Long Name.md');
+      expect(refs).toEqual([{ path: 'linker.md', line: 2, linkType: 'wikilink' }]);
+    } finally {
+      await rm(foldedVault, { recursive: true, force: true });
+    }
+  });
 });
