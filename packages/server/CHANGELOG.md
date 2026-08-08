@@ -1,5 +1,15 @@
 # seekstone
 
+## 0.13.0
+
+### Minor Changes
+
+- e722330: New write tool `rename_heading` (19 tools): rename a heading in a note and rewrite every `[[note#heading]]` wikilink and embed across the vault so references keep working — aliases preserved, fenced code blocks and block refs (`#^id`) left alone, same-note anchors (`[[#heading]]`) included. Referencing notes come off the warm backlink index (no vault scan). Heading matching is case-insensitive and first-match-wins, mirroring Obsidian link resolution. Supports the optional `prevHash` compare-and-swap guard, and reports links/notes rewritten plus any notes skipped by `SEEKSTONE_WRITE_PATHS`.
+
+### Patch Changes
+
+- 4b2f3a2: YAML-aware frontmatter link extraction: wikilinks split across lines by scalar folding (hand edits, other tools, or files written by pre-0.12.1 versions) now extract correctly into the backlink index, `get_links`, and `context_pack`. The frontmatter block is parsed as YAML and its string values walked, instead of regexing raw lines; malformed frontmatter falls back to the previous per-line behavior. Links inside multi-line scalars are attributed to the line where the scalar begins, and YAML keys are no longer scanned for links.
+
 ## 0.12.2
 
 ### Patch Changes
