@@ -1,5 +1,11 @@
 # seekstone
 
+## 0.13.1
+
+### Patch Changes
+
+- 87dc5b2: Advertise explicit MCP safety annotations for every tool so clients can distinguish read-only, additive, destructive, idempotent, and closed-world operations.
+
 ## 0.13.0
 
 ### Minor Changes
