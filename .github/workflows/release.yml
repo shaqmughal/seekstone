@@ -99,10 +99,10 @@ jobs:
         id: changesets
         uses: changesets/action@198f833dd7d863100ea6e28967bc9a9fdefadb0a # v2.1.0
         with:
-          version: npm run version-packages
-          publish: npm run release
-          commit: 'chore: version packages'
-          title: 'chore: version packages'
+          version-script: npm run version-packages
+          publish-script: npm run release
+          commit-message: 'chore: version packages'
+          pr-title: 'chore: version packages'
         env:
           # The App token is the API token changesets uses to open the "Version
           # Packages" PR, so its author is the App bot rather than github-actions[bot].
