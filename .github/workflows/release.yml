@@ -103,13 +103,15 @@ jobs:
           publish-script: npm run release
           commit-message: 'chore: version packages'
           pr-title: 'chore: version packages'
-        env:
           # The App token is the API token changesets uses to open the "Version
           # Packages" PR, so its author is the App bot rather than github-actions[bot].
           # This pairs with the same token on the checkout step above: authoring the PR
           # via the App is not enough on its own — the branch must also be PUSHED with it
-          # (see that comment) for the required pull_request CI to fire.
-          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
+          # (see that comment) for the required pull_request CI to fire. Since action
+          # v2 the token goes through this input; a GITHUB_TOKEN env var that differs
+          # from it is a hard error.
+          github-token: ${{ steps.app-token.outputs.token }}
+        env:
           NPM_CONFIG_PROVENANCE: 'true'
 
       - name: Build MCP Bundle
