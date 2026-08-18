@@ -1,5 +1,32 @@
+import type { ToolAnnotations } from '@modelcontextprotocol/sdk/types.js';
 import { WRITE_TOOLS } from './dispatch.js';
 import type { WritePolicy } from './policy.js';
+
+const READ_ONLY_ANNOTATIONS = {
+  readOnlyHint: true,
+  openWorldHint: false,
+} as const satisfies ToolAnnotations;
+
+const ADDITIVE_WRITE_ANNOTATIONS = {
+  readOnlyHint: false,
+  destructiveHint: false,
+  idempotentHint: false,
+  openWorldHint: false,
+} as const satisfies ToolAnnotations;
+
+const DESTRUCTIVE_WRITE_ANNOTATIONS = {
+  readOnlyHint: false,
+  destructiveHint: true,
+  idempotentHint: false,
+  openWorldHint: false,
+} as const satisfies ToolAnnotations;
+
+const IDEMPOTENT_DESTRUCTIVE_WRITE_ANNOTATIONS = {
+  readOnlyHint: false,
+  destructiveHint: true,
+  idempotentHint: true,
+  openWorldHint: false,
+} as const satisfies ToolAnnotations;
 
 /**
  * The full tool list served to MCP clients, extracted verbatim from the
@@ -9,6 +36,7 @@ import type { WritePolicy } from './policy.js';
 export const ALL_TOOLS = [
   {
     name: 'search',
+    annotations: READ_ONLY_ANNOTATIONS,
     description:
       'Full-text search across the vault. Returns ranked excerpts (~200 chars) — not full notes — to minimise context usage. Supports fuzzy matching and prefix search.',
     inputSchema: {
@@ -24,6 +52,7 @@ export const ALL_TOOLS = [
   },
   {
     name: 'query_notes',
+    annotations: READ_ONLY_ANNOTATIONS,
     description:
       'Structured metadata query — filter notes by frontmatter key/value predicates, tag, folder, modified time, and size. Returns compact rows (path + title by default; opt into more via select), not note content. Use this instead of search when filtering by properties rather than text.',
     inputSchema: {
@@ -84,6 +113,7 @@ export const ALL_TOOLS = [
   },
   {
     name: 'context_pack',
+    annotations: READ_ONLY_ANNOTATIONS,
     description:
       'Assemble everything needed to ANSWER a natural-language question in one call, under a strict byte budget (default 2048): ranked excerpts, linked neighbor notes (backlinks/outlinks) with one-line summaries, and follow-up source paths. Use search to locate notes and query_notes for metadata filters; use context_pack when you want answer-ready context without multiple round-trips. Empty excerpts with confidence "none" or "low" means the vault lacks coverage — do not infer content.',
     inputSchema: {
@@ -100,6 +130,7 @@ export const ALL_TOOLS = [
   },
   {
     name: 'read_note',
+    annotations: READ_ONLY_ANNOTATIONS,
     description:
       'Read a note or a span of it — by heading section, block reference, or line range. Returns structured JSON with the content, bytes returned, total note size, and a contentHash to pass as prevHash to edit tools for compare-and-swap. Use search or outline_note first to find the right path and section names.',
     inputSchema: {
@@ -141,6 +172,7 @@ export const ALL_TOOLS = [
   },
   {
     name: 'list_notes',
+    annotations: READ_ONLY_ANNOTATIONS,
     description: 'List notes, optionally filtered by folder prefix or tag.',
     inputSchema: {
       type: 'object',
@@ -154,6 +186,7 @@ export const ALL_TOOLS = [
   },
   {
     name: 'list_tags',
+    annotations: READ_ONLY_ANNOTATIONS,
     description:
       'List all tags in the vault with usage counts. Supports substring filtering, minimum count threshold, and sort order. Nested tags (e.g. area/work) include a parent field.',
     inputSchema: {
@@ -179,6 +212,7 @@ export const ALL_TOOLS = [
   },
   {
     name: 'create_note',
+    annotations: DESTRUCTIVE_WRITE_ANNOTATIONS,
     description:
       'Create a new note at a vault-relative path. Optionally sets frontmatter and body content. Parent directories are created automatically. Fails if the note already exists unless overwrite is true (prevHash may guard the overwrite).',
     inputSchema: {
@@ -209,6 +243,7 @@ export const ALL_TOOLS = [
   },
   {
     name: 'delete_note',
+    annotations: DESTRUCTIVE_WRITE_ANNOTATIONS,
     description:
       'Delete a note. By default it is moved to the vault .trash/ folder (recoverable by moving it back); pass permanent: true to remove it outright.',
     inputSchema: {
@@ -225,6 +260,7 @@ export const ALL_TOOLS = [
   },
   {
     name: 'move_note',
+    annotations: DESTRUCTIVE_WRITE_ANNOTATIONS,
     description:
       'Move or rename a note to a new vault-relative path, rewriting wikilinks and markdown links in other notes that point at it so nothing breaks (links inside fenced code blocks are left alone). Parent directories at the destination are created automatically. Fails if the destination already exists unless overwrite is true.',
     inputSchema: {
@@ -247,6 +283,7 @@ export const ALL_TOOLS = [
   },
   {
     name: 'rename_heading',
+    annotations: DESTRUCTIVE_WRITE_ANNOTATIONS,
     description:
       'Rename a heading in a note and rewrite every [[note#heading]] wikilink and embed across the vault so references keep working — aliases preserved, fenced code blocks left alone. Served from the warm backlink index, no vault scan. Heading matching is case-insensitive; with duplicate headings the first match wins, mirroring Obsidian link resolution.',
     inputSchema: {
@@ -277,6 +314,7 @@ export const ALL_TOOLS = [
   },
   {
     name: 'append_note',
+    annotations: ADDITIVE_WRITE_ANNOTATIONS,
     description:
       'Append text to a note body without touching the frontmatter. Safe for meeting notes, daily logs, and append-only workflows.',
     inputSchema: {
@@ -295,6 +333,7 @@ export const ALL_TOOLS = [
   },
   {
     name: 'patch_frontmatter',
+    annotations: IDEMPOTENT_DESTRUCTIVE_WRITE_ANNOTATIONS,
     description:
       'Set, update, or delete frontmatter keys without reordering existing keys or changing quote style. Pass null as a value to delete a key.',
     inputSchema: {
@@ -317,6 +356,7 @@ export const ALL_TOOLS = [
   },
   {
     name: 'outline_note',
+    annotations: READ_ONLY_ANNOTATIONS,
     description:
       "Return a note's structure — heading tree with offsets, block-reference anchors, and frontmatter key list — without returning any prose. Use this before section reads or patches to discover what sections exist at a fraction of the cost of reading the full note.",
     inputSchema: {
@@ -337,6 +377,7 @@ export const ALL_TOOLS = [
   },
   {
     name: 'patch_note',
+    annotations: DESTRUCTIVE_WRITE_ANNOTATIONS,
     description:
       'Surgically edit a section of a note — targeted by heading or block reference — without rewriting the whole file. Operations: append (add after section), prepend (add after heading line), replace (swap section content). Frontmatter is never touched.',
     inputSchema: {
@@ -371,6 +412,7 @@ export const ALL_TOOLS = [
   },
   {
     name: 'get_backlinks',
+    annotations: READ_ONLY_ANNOTATIONS,
     description:
       'Return every note that links to the target note, with the source line and an optional excerpt. Results come from the pre-built reverse-link index so this is a fast, pure index lookup. Sort order: source path ascending.',
     inputSchema: {
@@ -391,6 +433,7 @@ export const ALL_TOOLS = [
   },
   {
     name: 'get_links',
+    annotations: READ_ONLY_ANNOTATIONS,
     description:
       'Return all outgoing wikilinks and embeds from a note. Each link is marked resolved (with target path) or unresolved. Duplicate targets are de-duplicated; results sorted by line number.',
     inputSchema: {
@@ -403,6 +446,7 @@ export const ALL_TOOLS = [
   },
   {
     name: 'replace_in_note',
+    annotations: DESTRUCTIVE_WRITE_ANNOTATIONS,
     description:
       'Find and replace text within a note body. Supports literal and regex search, case sensitivity, whole-word matching, and a replacement limit. Frontmatter is never touched. Use dryRun to preview matches before writing.',
     inputSchema: {
@@ -445,6 +489,7 @@ export const ALL_TOOLS = [
   },
   {
     name: 'get_periodic_note',
+    annotations: ADDITIVE_WRITE_ANNOTATIONS,
     description:
       'Get the path and existence status of a periodic note (daily, weekly, monthly, quarterly, or yearly) for a given date. Reads folder/format config from .obsidian/daily-notes.json (daily) or the periodic-notes plugin data.json. Optionally creates the note from the configured template if it is missing.',
     inputSchema: {
@@ -470,6 +515,7 @@ export const ALL_TOOLS = [
   },
   {
     name: 'append_periodic_note',
+    annotations: ADDITIVE_WRITE_ANNOTATIONS,
     description:
       'Append text to a periodic note (daily, weekly, monthly, quarterly, or yearly). Preserves existing frontmatter exactly. Creates the note first (from template if configured) when createIfMissing is true (default).',
     inputSchema: {
