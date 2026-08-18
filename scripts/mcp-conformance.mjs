@@ -8,6 +8,7 @@
 // Asserts:
 //   1. initialize handshake succeeds and identifies as `seekstone`
 //   2. tools/list matches HANDLED_TOOLS exactly (no drops, no strays)
+//      and every tool advertises explicit safety annotations
 //   3. tools/call round-trips: `search` finds seeded content, `append_note`
 //      writes it to disk with the frontmatter byte-identical
 //
@@ -85,6 +86,17 @@ try {
   check(
     tools.every((t) => t.description && t.inputSchema?.type === 'object'),
     'tools/list: every tool has a description and an object input schema',
+  );
+  check(
+    tools.every(
+      (t) =>
+        typeof t.annotations?.readOnlyHint === 'boolean' &&
+        typeof t.annotations?.openWorldHint === 'boolean' &&
+        (t.annotations.readOnlyHint ||
+          (typeof t.annotations.destructiveHint === 'boolean' &&
+            typeof t.annotations.idempotentHint === 'boolean')),
+    ),
+    'tools/list: every tool has explicit safety annotations',
   );
 
   // 3a. Read round-trip. The index builds at startup; retry briefly in case
