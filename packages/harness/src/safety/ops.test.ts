@@ -190,6 +190,99 @@ describe('fmEditOp', () => {
     expect(r.reason).toContain('body bytes changed');
   });
 
+  it('preserves a >80-column value under an untouched key byte-identically', () => {
+    const longLine = `long_value: "${'x'.repeat(120)}"`;
+    const note = `---\ntitle: Long\n${longLine}\nstatus: open\n---\nBody.\n`;
+    const orig = Buffer.from(note, 'utf8');
+    const op = fmEditOp(orig);
+    expect(op).not.toBeNull();
+    if (!op) return;
+    // The op's own output must keep the long line unfolded (keepSourceTokens);
+    // losing that (e.g. a parse+stringify round-trip) fails right here.
+    expect(op.bytes.toString('utf8')).toContain(longLine);
+    expect(op.verify(op.bytes, orig).pass).toBe(true);
+  });
+
+  it('rejects serializer-style folding of an untouched long value (seekstone#233 shape)', () => {
+    const longLine = `long_value: "${'x'.repeat(120)}"`;
+    const note = `---\ntitle: Long\n${longLine}\nstatus: open\n---\nBody.\n`;
+    const orig = Buffer.from(note, 'utf8');
+    const op = fmEditOp(orig);
+    expect(op).not.toBeNull();
+    if (!op) return;
+    // What an 80-column-folding serializer would produce: same keys, same
+    // order, same body — the parser sees identical structure, only the bytes
+    // of the untouched value moved. The old key-order check passed this.
+    const folded = `long_value: "${'x'.repeat(70)}\n  ${'x'.repeat(50)}"`;
+    const post = op.bytes.toString('utf8').replace(longLine, folded);
+    const r = op.verify(Buffer.from(post, 'utf8'), orig);
+    expect(r.pass).toBe(false);
+    expect(r.reason).toContain('untouched frontmatter line rewritten');
+  });
+
+  it('returns null when the note already carries the harness key', () => {
+    const note = '---\ntitle: T\n_seekstone_check: already-here\n---\nBody.\n';
+    expect(fmEditOp(Buffer.from(note, 'utf8'))).toBeNull();
+  });
+
+  it('returns null for a BOM + CRLF note (delimiter form the op cannot rebuild)', () => {
+    const note = '﻿---\r\ntitle: T\r\n---\r\nBody.\r\n';
+    expect(fmEditOp(Buffer.from(note, 'utf8'))).toBeNull();
+  });
+
+  it('round-trips a CRLF note and passes its own verify', () => {
+    const note = '---\r\ntitle: T\r\nstatus: open\r\n---\r\nBody.\r\n';
+    const orig = Buffer.from(note, 'utf8');
+    const op = fmEditOp(orig);
+    expect(op).not.toBeNull();
+    if (!op) return;
+    expect(op.bytes.toString('utf8')).toContain('title: T\r\n');
+    expect(op.verify(op.bytes, orig).pass).toBe(true);
+  });
+
+  it('rejects an injected extra key even when all original lines survive', () => {
+    const orig = Buffer.from(sampleNote, 'utf8');
+    const op = fmEditOp(orig);
+    expect(op).not.toBeNull();
+    if (!op) return;
+    // Insertion keeps every original line byte-identical — only the key
+    // census catches it.
+    const post = op.bytes
+      .toString('utf8')
+      .replace('date: 2026-05-28', 'date: 2026-05-28\ninjected: 1');
+    const r = op.verify(Buffer.from(post, 'utf8'), orig);
+    expect(r.pass).toBe(false);
+    expect(r.reason).toContain('key count drifted');
+  });
+
+  it('rejects reordered keys', () => {
+    const orig = Buffer.from(sampleNote, 'utf8');
+    const op = fmEditOp(orig);
+    expect(op).not.toBeNull();
+    if (!op) return;
+    const post = op.bytes
+      .toString('utf8')
+      .replace('title: Hello World\ntags:', 'tags:')
+      .replace('date: 2026-05-28', 'date: 2026-05-28\ntitle: Hello World');
+    const r = op.verify(Buffer.from(post, 'utf8'), orig);
+    expect(r.pass).toBe(false);
+    expect(r.reason).toContain('key order changed');
+  });
+
+  it('rejects re-quoting of an untouched value', () => {
+    const note = '---\ntitle: Plain Title\nstatus: open\n---\nBody.\n';
+    const orig = Buffer.from(note, 'utf8');
+    const op = fmEditOp(orig);
+    expect(op).not.toBeNull();
+    if (!op) return;
+    // "title: Plain Title" → "title: 'Plain Title'" parses identically; only
+    // the bytes differ. Must fail the byte-line assertion.
+    const post = op.bytes.toString('utf8').replace('title: Plain Title', "title: 'Plain Title'");
+    const r = op.verify(Buffer.from(post, 'utf8'), orig);
+    expect(r.pass).toBe(false);
+    expect(r.reason).toContain('untouched frontmatter line rewritten');
+  });
+
   it('fails verify when the added key is missing from post-write frontmatter', () => {
     const orig = Buffer.from(sampleNote, 'utf8');
     const op = fmEditOp(orig);

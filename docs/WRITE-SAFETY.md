@@ -56,8 +56,11 @@ across lines).
 - Proven by: the harness `identity`, `body-append`, `patch-note`, and
   `replace-in-note` ops ([`ops.ts`](../packages/harness/src/safety/ops.ts)) —
   byte-region equality assertions on the re-read file. The `fm-edit` op asserts
-  body-untouched plus key-order preservation (not full byte equality of the
-  frontmatter region, since the edited key's line legitimately changes).
+  body-untouched, key-order preservation, and that every original frontmatter
+  line not owned by the patched key appears byte-identically, in order, in the
+  post-write file — so a serializer that re-quotes or re-folds an untouched
+  value fails the op even though the YAML still parses to the same data (the
+  only line allowed to differ is the patched key's own).
 
 ### 4. Atomic writes — no torn files
 
