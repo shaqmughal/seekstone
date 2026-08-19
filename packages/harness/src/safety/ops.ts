@@ -1,5 +1,4 @@
 import { parseFrontmatter } from '@seekstone/core/frontmatter';
-import { parseDocument } from 'yaml';
 
 export type OpKind =
   | 'identity'
@@ -153,13 +152,22 @@ export function replaceInNoteOp(original: Buffer): OpResult | null {
 }
 
 /**
- * Frontmatter edit: flip / add one value using yaml.parseDocument so existing
- * keys keep their order, quote style, and comments. Verifies:
+ * Frontmatter edit: add one harness-owned key by pure text insertion before
+ * the closing delimiter — no YAML serializer touches the block, so the
+ * expected bytes cannot inherit a serializer's own normalizations (the
+ * previous doc.toString() construction silently reformatted untouched flow
+ * collections, e.g. `["x"]` → `[ "x" ]`, which made a same-serializer
+ * corruption invisible — the SHA-281 finding). Verifies:
  *   - body bytes unchanged
  *   - existing frontmatter keys still appear in the same order
- *   - quote style of pre-existing scalars is unchanged
+ *   - every original frontmatter line not owned by the patched key appears
+ *     byte-identically, in order, in the post-write file — so
+ *     serializer-induced rewrites of untouched keys (re-quoting, 80-column
+ *     scalar folding — the seekstone#233 bug shape) fail the op even though
+ *     the YAML still parses to the same data
  *
- * If we can't find a safely-editable key (everything is exotic), returns null.
+ * Returns null when there's no well-formed frontmatter to edit, or the note
+ * already carries the harness key.
  */
 export function fmEditOp(original: Buffer): OpResult | null {
   const text = original.toString('utf8');
@@ -178,19 +186,17 @@ export function fmEditOp(original: Buffer): OpResult | null {
   // closing delimiter is 5 or 7 bytes long depending on CRLF.
   const closeLen = opensWithCRLF ? 7 : 5;
   const yamlText = text.slice(openLen, fm.bodyStart - closeLen);
-  // Keep the trailing newline before `---` — parseDocument round-trips it.
-  const doc = parseDocument(yamlText, { keepSourceTokens: true });
 
-  // Choose a target: prefer a key the harness owns, fall back to flipping a
-  // scalar value of an existing key in a non-destructive way.
   const targetKey = '_seekstone_check';
-  doc.set(targetKey, new Date().toISOString());
+  // A pre-existing harness key would make the text insertion a duplicate-key
+  // edit; never true for real vaults, but bail rather than write bad YAML.
+  if (Object.hasOwn(fm.data, targetKey)) return null;
 
-  const newYaml = doc.toString();
-  const head = opensWithCRLF ? '---\r\n' : '---\n';
-  const tail = opensWithCRLF ? '---\r\n' : '---\n';
-  // doc.toString() ends with `\n`, which is the boundary before `---`.
-  const rebuilt = head + newYaml + tail + fm.body;
+  // Insert the new entry between the last original line and the closing
+  // delimiter. Every original byte of the block is carried over verbatim.
+  const nl = opensWithCRLF ? '\r\n' : '\n';
+  const head = `---${nl}`;
+  const rebuilt = `${head}${yamlText}${nl}${targetKey}: ${new Date().toISOString()}${nl}---${nl}${fm.body}`;
   const newBytes = Buffer.from(rebuilt, 'utf8');
 
   return {
@@ -208,6 +214,33 @@ export function fmEditOp(original: Buffer): OpResult | null {
           pass: false,
           reason: `added key ${targetKey} missing from post-write frontmatter`,
         };
+      }
+      // Byte-level guarantee: every original FM line that does not belong to
+      // the patched key must survive byte-identically and in order. Checking
+      // parsed keys alone cannot catch a serializer that refolds or re-quotes
+      // an untouched value — the YAML parses back to the same data either way.
+      const postYaml = postText.slice(
+        openLen,
+        postFm.bodyStart - (postText.startsWith('---\r\n') ? 7 : 5),
+      );
+      const postLines = postYaml.split('\n');
+      let cursor = 0;
+      for (const line of yamlText.split('\n')) {
+        if (line.startsWith(`${targetKey}:`)) continue; // the one line we own
+        let found = -1;
+        for (let i = cursor; i < postLines.length; i++) {
+          if (postLines[i] === line) {
+            found = i;
+            break;
+          }
+        }
+        if (found === -1) {
+          return {
+            pass: false,
+            reason: `untouched frontmatter line rewritten: ${JSON.stringify(line)}`,
+          };
+        }
+        cursor = found + 1;
       }
       // All pre-existing keys (excluding targetKey if it was already there) must
       // survive the round-trip in the same relative order.
