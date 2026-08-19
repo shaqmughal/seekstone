@@ -135,7 +135,7 @@ Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their o
 | `replace_in_note` | Find and replace text in the note body — literal or regex, whole-word, case sensitivity, optional `limit` (replaces **all** occurrences by default), dry-run preview. |
 | `append_periodic_note` | Append to today's periodic note, creating it from a template if it doesn't yet exist. |
 
-The content-editing tools (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `append_periodic_note`, and `create_note` with `overwrite: true`) support optional **compare-and-swap**: pass the `contentHash` you got from `read_note` as `prevHash` and the write fails cleanly if the note changed underneath you, instead of silently discarding the concurrent edit.
+Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `rename_heading`, `move_note`, `delete_note`, `append_periodic_note`, and `create_note` with `overwrite: true`) supports optional **compare-and-swap**: pass the `contentHash` you got from `read_note` as `prevHash` and the call fails cleanly if the note changed underneath you — no silently discarded concurrent edit, no moving or deleting content you haven't seen. Every mutating result returns the new `contentHash`, so chained edits need no re-reads.
 
 ---
 

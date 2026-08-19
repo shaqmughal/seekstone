@@ -254,6 +254,11 @@ export const ALL_TOOLS = [
           type: 'boolean',
           description: 'Permanently remove instead of moving to .trash/. Defaults to false.',
         },
+        prevHash: {
+          type: 'string',
+          description:
+            'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since — so you never delete content you have not seen.',
+        },
       },
       required: ['path'],
     },
@@ -276,6 +281,11 @@ export const ALL_TOOLS = [
           type: 'boolean',
           description:
             'Rewrite references in other notes to follow the move. Defaults to true; pass false to move the file only.',
+        },
+        prevHash: {
+          type: 'string',
+          description:
+            'Optional compare-and-swap guard on the source note: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
         },
       },
       required: ['from', 'to'],

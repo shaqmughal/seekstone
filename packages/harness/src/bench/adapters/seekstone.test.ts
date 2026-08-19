@@ -171,4 +171,28 @@ describe('SeekstoneAdapter', () => {
     const { result } = await adapter.read('.trash/doomed.md');
     expect(result).toBe('trash me');
   });
+
+  it('casMove() with the current hash moves; with a stale hash it conflicts', async () => {
+    await adapter.write('cas-mv.md', '# CAS move\n\noriginal\n');
+    const { hash } = await adapter.readWithHash('cas-mv.md');
+    await adapter.casMove('cas-mv.md', 'cas-mv-dest.md', hash);
+    const moved = await adapter.readWithHash('cas-mv-dest.md');
+    expect(moved.content).toContain('original');
+    // The move didn't change bytes, so the old hash is now stale only after a
+    // fresh edit — tamper, then attempt a guarded move with the pre-edit hash.
+    await adapter.write('cas-mv-dest.md', '# CAS move\n\ndrifted\n');
+    await expect(adapter.casMove('cas-mv-dest.md', 'cas-mv-nope.md', hash)).rejects.toThrow(
+      /hash_conflict/,
+    );
+  });
+
+  it('casDelete() with the current hash deletes; with a stale hash it conflicts', async () => {
+    await adapter.write('cas-del.md', '# CAS delete\n\noriginal\n');
+    const { hash } = await adapter.readWithHash('cas-del.md');
+    await adapter.write('cas-del.md', '# CAS delete\n\ndrifted\n');
+    await expect(adapter.casDelete('cas-del.md', hash)).rejects.toThrow(/hash_conflict/);
+    const fresh = await adapter.readWithHash('cas-del.md');
+    await adapter.casDelete('cas-del.md', fresh.hash);
+    await expect(adapter.readWithHash('cas-del.md')).rejects.toThrow();
+  });
 });

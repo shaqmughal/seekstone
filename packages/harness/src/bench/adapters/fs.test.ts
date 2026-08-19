@@ -195,5 +195,26 @@ describe('FsAdapter', () => {
       expect((await adapter.readWithHash('cas-ref.md')).content).toBe('v2');
       await expect(adapter.casWrite('cas-ref.md', 'v3', hash)).rejects.toThrow(/hash_conflict/);
     });
+
+    it('casMove moves on a current hash and conflicts on a stale one', async () => {
+      await adapter.write('cas-mv-ref.md', 'movable');
+      const { hash } = await adapter.readWithHash('cas-mv-ref.md');
+      await adapter.casMove('cas-mv-ref.md', 'cas-mv-ref-dest.md', hash);
+      expect((await adapter.readWithHash('cas-mv-ref-dest.md')).content).toBe('movable');
+      await adapter.write('cas-mv-ref-dest.md', 'drifted');
+      await expect(adapter.casMove('cas-mv-ref-dest.md', 'cas-mv-nope.md', hash)).rejects.toThrow(
+        /hash_conflict/,
+      );
+    });
+
+    it('casDelete deletes on a current hash and conflicts on a stale one', async () => {
+      await adapter.write('cas-del-ref.md', 'v1');
+      const { hash } = await adapter.readWithHash('cas-del-ref.md');
+      await adapter.write('cas-del-ref.md', 'v2');
+      await expect(adapter.casDelete('cas-del-ref.md', hash)).rejects.toThrow(/hash_conflict/);
+      const fresh = await adapter.readWithHash('cas-del-ref.md');
+      await adapter.casDelete('cas-del-ref.md', fresh.hash);
+      expect(await readFile(join(vaultDir, '.trash', 'cas-del-ref.md'), 'utf8')).toBe('v2');
+    });
   });
 });
