@@ -1,0 +1,49 @@
+{
+  "source": "Hugging Face — minishlab Model2Vec static-embedding models",
+  "license": "MIT (https://huggingface.co/minishlab)",
+  "note": "Pinned model files for the SHA-257 retrieval-quality eval. Fetched on demand via `npm run harness -- fetch-models` into gitignored subdirs next to this manifest. Entries with sha256 \"TBD\" are pinned on first verified download (the fetcher prints the computed hash and refuses to proceed until it is committed here).",
+  "entries": [
+    {
+      "model": "potion-base-8M",
+      "file": "model.safetensors",
+      "url": "https://huggingface.co/minishlab/potion-base-8M/resolve/main/model.safetensors",
+      "sha256": "f65d0f325faadc1e121c319e2faa41170d3fa07d8c89abd48ca5358d9a223de2",
+      "bytes": 30236760
+    },
+    {
+      "model": "potion-base-8M",
+      "file": "tokenizer.json",
+      "url": "https://huggingface.co/minishlab/potion-base-8M/resolve/main/tokenizer.json",
+      "sha256": "e67e803f624fb4d67dea1c730d06e1067e1b14d830e2c2202569e3ef0f70bb50",
+      "bytes": 683666
+    },
+    {
+      "model": "potion-base-8M",
+      "file": "config.json",
+      "url": "https://huggingface.co/minishlab/potion-base-8M/resolve/main/config.json",
+      "sha256": "2a6ac0e9aaa356a68a5688070db78fc3a464fefe85d2f06a1905ce3718687553",
+      "bytes": 202
+    },
+    {
+      "model": "potion-retrieval-32M",
+      "file": "model.safetensors",
+      "url": "https://huggingface.co/minishlab/potion-retrieval-32M/resolve/main/model.safetensors",
+      "sha256": "07609e5bd33aad37900b3fd62f4ec96f6daec88ca4d46b9d8b928bfababf6ea0",
+      "bytes": 129210456
+    },
+    {
+      "model": "potion-retrieval-32M",
+      "file": "tokenizer.json",
+      "url": "https://huggingface.co/minishlab/potion-retrieval-32M/resolve/main/tokenizer.json",
+      "sha256": "7d75cbc54318138807c401b0f0c9721117c628b39de8e8e0edb6cb17e0ee7d18",
+      "bytes": 1493150
+    },
+    {
+      "model": "potion-retrieval-32M",
+      "file": "config.json",
+      "url": "https://huggingface.co/minishlab/potion-retrieval-32M/resolve/main/config.json",
+      "sha256": "63c00d90824c832c04ec1d02b6a983fb90489bf049f29fbff15ba481b8a432ee",
+      "bytes": 202
+    }
+  ]
+}

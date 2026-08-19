@@ -45,6 +45,12 @@ safety-scratch/
 # the raw corpus is large and regenerable, so it stays out of git.
 packages/harness/fixtures/corpus/raw/
 
+# Model2Vec embedding models — fetched on demand via `npm run harness -- fetch-models`
+# and verified against models/manifest.json (which stays committed; `models/*`
+# rather than `models/` so the negation below can re-include it).
+packages/harness/fixtures/models/*
+!packages/harness/fixtures/models/manifest.json
+
 # claude code local task state
 .claude/scheduled_tasks.lock
 seekstone.mcpb

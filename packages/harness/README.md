@@ -156,6 +156,8 @@ present and lists anything still missing under "Not yet captured."
 | `compare` | Cross-adapter comparison from benchmark JSONs | `comparison.md` |
 | `gen-vault` | Regenerates the committed synthetic vault from the corpus (deterministic, `--seed 42`, `--count 10000`) | `fixtures/vault/` |
 | `fetch-corpus` | Downloads the PG EB1911 corpus into `fixtures/corpus/raw/` (gitignored) | corpus text |
+| `fetch-models` | Downloads the pinned Model2Vec embedding models into `fixtures/models/` (gitignored), checksum-verified against [`fixtures/models/manifest.json`](./fixtures/models/manifest.json) | model files |
+| `retrieval` | Retrieval-quality eval against `queries/golden.json`: lexical vs semantic (per model) vs hybrid RRF, hit@5 + MRR@10 per subset, warm latency, and the pre-registered SHA-257 ship gate | `retrieval-eval.{json,md}` |
 | `scale-render` | Renders the multi-scale (1k/5k/10k) comparison report from per-size benchmark JSONs | `benchmark-scaling.md` |
 
 `bench` and `scenarios` accept `--runs <n>` (default 20) — the run count behind the cold/warm split quoted in the reports. Each subprocess adapter's launch command can be overridden with `SEEKSTONE_<NAME>_CMD` (e.g. `SEEKSTONE_MCPVAULT_CMD`), matching the `SEEKSTONE_<NAME>_*` env convention.

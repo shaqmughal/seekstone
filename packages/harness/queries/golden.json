@@ -1,0 +1,355 @@
+{
+  "comment": "Hand-authored retrieval-quality golden set for fixtures/vault (10k notes, seed 42). Expected paths are vault-relative. Queries were written by reading each target article's prose; tags and See-also links in the fixture are randomly drawn and MUST NOT be used as relevance signals. kinds: 'semantic' = description-style, the headword never appears in the query; 'lexical' = exact/rare-term controls where keyword search should win; 'topical' = multi-note subjects, hit@5 counts any expected path.",
+  "queries": [
+    {
+      "id": "sem-anemometer",
+      "kind": "semantic",
+      "query": "instrument that measures the speed and pressure of wind",
+      "expected": ["Notes/Anemometer.md"],
+      "notes": "Headword absent; article opens 'an instrument for measuring either the velocity or the pressure of the wind'."
+    },
+    {
+      "id": "sem-anglesite",
+      "kind": "semantic",
+      "query": "mineral composed of lead sulphate",
+      "expected": ["Encyclopedia/A/Anglesite.md"],
+      "notes": "Article: 'a mineral consisting of lead sulphate, PbSO4'."
+    },
+    {
+      "id": "sem-enigma",
+      "kind": "semantic",
+      "query": "riddle whose answer is hidden behind metaphors",
+      "expected": ["Reference/Enigma.md"],
+      "notes": "Article: 'a riddle or puzzle... answer is concealed by means of metaphors'."
+    },
+    {
+      "id": "sem-jaguar",
+      "kind": "semantic",
+      "query": "largest wild cat found on the American continent",
+      "expected": ["Encyclopedia/J/Jaguar.md"],
+      "notes": "Article: 'the largest species of the Felidae found on the American continent'."
+    },
+    {
+      "id": "sem-kaleidoscope",
+      "kind": "semantic",
+      "query": "optical toy using inclined mirrors to create symmetrical patterns",
+      "expected": ["Encyclopedia/K/Kaleidoscope.md"],
+      "notes": "Article describes symmetrical images formed by two inclined mirrors."
+    },
+    {
+      "id": "sem-dahlia",
+      "kind": "semantic",
+      "query": "Mexican garden flower named after a pupil of Linnaeus",
+      "expected": ["Sources/Dahlia.md"],
+      "notes": "Article: 'so called after Dr Dahl, a pupil of Linnaeus... indigenous in the high sandy plains of Mexico'."
+    },
+    {
+      "id": "sem-dynamo",
+      "kind": "semantic",
+      "query": "generator that turns motion into electricity",
+      "expected": ["Sources/Dynamo.md"],
+      "notes": "Paraphrases 'a machine for converting mechanical into electrical energy' without sharing its wording."
+    },
+    {
+      "id": "sem-geyser",
+      "kind": "semantic",
+      "query": "natural hot spring that periodically erupts a column of boiling water and steam",
+      "expected": ["Sources/Geyser.md"],
+      "notes": "Article: 'discharges into the air, at more or less regular intervals... heated water and steam'."
+    },
+    {
+      "id": "sem-giraffe",
+      "kind": "semantic",
+      "query": "the tallest living mammal, an African ruminant with a long neck",
+      "expected": ["Encyclopedia/G/Giraffe.md"],
+      "notes": "Article: 'the tallest of all mammals'."
+    },
+    {
+      "id": "sem-guillotine",
+      "kind": "semantic",
+      "query": "beheading machine of the French Revolution",
+      "expected": ["Sources/Guillotine.md"],
+      "notes": "Article: 'instrument for inflicting capital punishment by decapitation, introduced into France at the period of the Revolution'."
+    },
+    {
+      "id": "sem-hurricane",
+      "kind": "semantic",
+      "query": "violent tropical wind storm of the West Indies",
+      "expected": ["Reference/Hurricane.md"],
+      "notes": "Article: 'a wind-storm of great force and violence, originally as experienced in the West Indies'."
+    },
+    {
+      "id": "sem-ivory",
+      "kind": "semantic",
+      "query": "carving material obtained from elephant tusks",
+      "expected": ["Encyclopedia/I/Ivory.md"],
+      "notes": "Article: 'the material represented by the tusk of the elephant'."
+    },
+    {
+      "id": "sem-jade",
+      "kind": "semantic",
+      "query": "green ornamental stone comprising nephrite and jadeite",
+      "expected": ["Notes/Jade.md"],
+      "notes": "Article names both nephrite and jadeite as the two species."
+    },
+    {
+      "id": "sem-lemur",
+      "kind": "semantic",
+      "query": "primates of Madagascar that are neither monkeys nor apes",
+      "expected": ["Encyclopedia/L/Lemur.md"],
+      "notes": "Article: 'peculiar Malagasy representatives of the order PRIMATES... neither monkeys nor apes'."
+    },
+    {
+      "id": "sem-candle",
+      "kind": "semantic",
+      "query": "cylinder of wax around a wick burnt to give light",
+      "expected": ["Encyclopedia/C/Candle.md"],
+      "notes": "Article: 'a cylindrical rod of solid fatty or waxy matter, enclosing a central fibrous wick... burnt for giving light'."
+    },
+    {
+      "id": "sem-cotton",
+      "kind": "semantic",
+      "query": "the most important vegetable fibre, hairs attached to plant seeds",
+      "expected": ["Sources/Cotton.md"],
+      "notes": "Article: 'the most important of the vegetable fibres... hairs which occur attached to the seeds'."
+    },
+    {
+      "id": "sem-kite-bird",
+      "kind": "semantic",
+      "query": "bird of prey once the most familiar in Great Britain, now among its rarest",
+      "expected": ["Encyclopedia/K/Kite.md"],
+      "notes": "The EB1911 Kite article is the bird (Milvus), not the toy — a deliberate sense test."
+    },
+    {
+      "id": "sem-cocoa",
+      "kind": "semantic",
+      "query": "dietary substance from tree seeds that is the basis of chocolate",
+      "expected": ["Encyclopedia/C/Cocoa.md"],
+      "notes": "Avoids 'Theobroma', which would hand lexical search a rare-term win."
+    },
+    {
+      "id": "sem-comet",
+      "kind": "semantic",
+      "query": "nebulous celestial body travelling a highly eccentric orbit around the sun",
+      "expected": ["Reference/Comet.md"],
+      "notes": "Article: 'seemingly nebulous bodies... in very eccentric orbits'."
+    },
+    {
+      "id": "sem-coral",
+      "kind": "semantic",
+      "query": "limestone skeletons built by marine polyps into reefs",
+      "expected": ["Reference/Coral.md"],
+      "notes": "Article: 'hard skeletons of various marine organisms... deposited in the tissues of Anthozoan polyps'."
+    },
+    {
+      "id": "sem-duel",
+      "kind": "semantic",
+      "query": "prearranged single combat fought under conventional rules of honour",
+      "expected": ["Encyclopedia/D/Duel.md"],
+      "notes": "Article: 'a prearranged encounter between two persons, with deadly weapons, in accordance with conventional rules'."
+    },
+    {
+      "id": "sem-fog",
+      "kind": "semantic",
+      "query": "suspended particles near the ground that make surrounding objects invisible",
+      "expected": ["Reference/Fog.md"],
+      "notes": "Article: 'distribution of solid or liquid particles in the surface layers of the atmosphere'."
+    },
+    {
+      "id": "sem-llama",
+      "kind": "semantic",
+      "query": "domesticated South American pack animal of the camel family",
+      "expected": ["Notes/Llama.md"],
+      "notes": "Article: 'the larger of the two domesticated members of the camel-tribe indigenous to South America'."
+    },
+    {
+      "id": "sem-fox-statesman",
+      "kind": "semantic",
+      "query": "eighteenth century British statesman and orator, son of Lord Holland",
+      "expected": ["Encyclopedia/F/Fox.md"],
+      "notes": "The EB1911 Fox article is Charles James Fox, not the animal — a sense test the title alone cannot answer."
+    },
+    {
+      "id": "sem-darwin",
+      "kind": "semantic",
+      "query": "Victorian naturalist who developed the theory of evolution by natural selection",
+      "expected": ["Sources/Darwin.md"],
+      "notes": "Avoids 'origin of species', which appears verbatim in the article."
+    },
+    {
+      "id": "sem-faraday",
+      "kind": "semantic",
+      "query": "English scientist famous for discoveries in electromagnetism and electrochemistry",
+      "expected": ["Reference/Faraday.md"],
+      "notes": "Article: 'English chemist and physicist'."
+    },
+    {
+      "id": "sem-kant",
+      "kind": "semantic",
+      "query": "German philosopher who examined the limits of pure reason",
+      "expected": ["Encyclopedia/K/Kant.md"],
+      "notes": "Description-style; headword absent."
+    },
+    {
+      "id": "sem-japan",
+      "kind": "semantic",
+      "query": "island nation of east Asia that rose to great power status",
+      "expected": ["Notes/Japan.md"],
+      "notes": "Targets the vault's largest note (832 KB) — exercises the chunking path."
+    },
+    {
+      "id": "sem-machiavelli",
+      "kind": "semantic",
+      "query": "Florentine political theorist whose name became a byword for cunning statecraft",
+      "expected": ["Encyclopedia/M/Machiavelli.md"],
+      "notes": "Article: 'Italian statesman and writer... born at Florence'."
+    },
+    {
+      "id": "sem-livingstone",
+      "kind": "semantic",
+      "query": "Scottish missionary who explored Africa",
+      "expected": ["Encyclopedia/L/Livingstone.md"],
+      "notes": "Article: 'Scottish missionary and explorer in Africa'."
+    },
+    {
+      "id": "lex-phlogiston",
+      "kind": "lexical",
+      "query": "phlogiston",
+      "expected": ["Sources/Combustion.md", "Sources/Lavoisier.md", "Encyclopedia/C/Chemistry.md"],
+      "notes": "Rare term (9 notes contain it, verified by grep); these three treat the theory centrally. Mirrors default.json's rare tier."
+    },
+    {
+      "id": "lex-chateaubriant",
+      "kind": "lexical",
+      "query": "Chateaubriant",
+      "expected": ["Encyclopedia/C/Chateaubriant.md"],
+      "notes": "Exact title match; the title boost should make this trivial for lexical search."
+    },
+    {
+      "id": "lex-asolo",
+      "kind": "lexical",
+      "query": "Asolo",
+      "expected": ["Encyclopedia/A/Asolo.md"],
+      "notes": "Exact title match, rare term."
+    },
+    {
+      "id": "lex-handel",
+      "kind": "lexical",
+      "query": "Handel",
+      "expected": ["Encyclopedia/H/Handel.md"],
+      "notes": "Exact title match."
+    },
+    {
+      "id": "lex-cromwell",
+      "kind": "lexical",
+      "query": "Cromwell",
+      "expected": ["Encyclopedia/C/Cromwell.md"],
+      "notes": "Exact title match."
+    },
+    {
+      "id": "lex-dante",
+      "kind": "lexical",
+      "query": "Dante",
+      "expected": ["Encyclopedia/D/Dante.md"],
+      "notes": "Exact title match."
+    },
+    {
+      "id": "lex-emerald-beryl",
+      "kind": "lexical",
+      "query": "emerald beryl",
+      "expected": ["Encyclopedia/E/Emerald.md"],
+      "notes": "Two-term query; both words in the article's opening sentence."
+    },
+    {
+      "id": "lex-hydrodynamics",
+      "kind": "lexical",
+      "query": "hydrodynamics",
+      "expected": ["Encyclopedia/H/Hydrodynamics.md"],
+      "notes": "Exact title match, technical term."
+    },
+    {
+      "id": "lex-argon",
+      "kind": "lexical",
+      "query": "argon",
+      "expected": ["Encyclopedia/A/Argon.md"],
+      "notes": "Exact title match, rare term."
+    },
+    {
+      "id": "lex-lavoisier",
+      "kind": "lexical",
+      "query": "Lavoisier",
+      "expected": ["Sources/Lavoisier.md"],
+      "notes": "Exact title match."
+    },
+    {
+      "id": "top-birds-of-prey",
+      "kind": "topical",
+      "query": "birds of prey",
+      "expected": ["Reference/Eagle.md", "Encyclopedia/H/Hawk.md", "Encyclopedia/K/Kite.md"],
+      "notes": "Any raptor article counts; hit@5 = any expected path."
+    },
+    {
+      "id": "top-big-cats",
+      "kind": "topical",
+      "query": "large wild cats",
+      "expected": ["Encyclopedia/J/Jaguar.md", "Encyclopedia/L/Leopard.md", "Reference/Lynx.md"],
+      "notes": "All three are Felidae articles."
+    },
+    {
+      "id": "top-green-gemstones",
+      "kind": "topical",
+      "query": "green gemstones",
+      "expected": ["Encyclopedia/E/Emerald.md", "Notes/Jade.md"],
+      "notes": "Both articles open on green ornamental stones."
+    },
+    {
+      "id": "top-fermented-drinks",
+      "kind": "topical",
+      "query": "fermented alcoholic beverages",
+      "expected": ["Encyclopedia/B/Beer.md", "Encyclopedia/C/Cider.md"],
+      "notes": "Beer (barley) and cider (apples) both open as fermented drinks."
+    },
+    {
+      "id": "top-hand-weapons",
+      "kind": "topical",
+      "query": "medieval hand weapons",
+      "expected": ["Encyclopedia/D/Dagger.md", "Encyclopedia/M/Mace.md"],
+      "notes": "Both open as hand weapons; Mace's EB1911 primary sense is the weapon, not the spice."
+    },
+    {
+      "id": "top-weather",
+      "kind": "topical",
+      "query": "violent weather phenomena",
+      "expected": ["Reference/Hurricane.md", "Encyclopedia/H/Hail.md", "Reference/Fog.md"],
+      "notes": "Meteorological articles."
+    },
+    {
+      "id": "top-textiles",
+      "kind": "topical",
+      "query": "textile fibres and fabrics",
+      "expected": ["Sources/Cotton.md", "Sources/Lace.md", "Reference/Carpet.md"],
+      "notes": "Fibre and fabric articles."
+    },
+    {
+      "id": "top-instruments",
+      "kind": "topical",
+      "query": "musical instruments",
+      "expected": ["Reference/Flute.md", "Sources/Drum.md"],
+      "notes": "Wind and percussion."
+    },
+    {
+      "id": "top-composers",
+      "kind": "topical",
+      "query": "great German composers",
+      "expected": ["Sources/Beethoven.md", "Encyclopedia/H/Handel.md"],
+      "notes": "Both articles open 'German musical composer' (Handel: 'German by origin')."
+    },
+    {
+      "id": "top-dairy",
+      "kind": "topical",
+      "query": "foods made from milk",
+      "expected": ["Encyclopedia/C/Cheese.md", "Encyclopedia/B/Butter.md"],
+      "notes": "Both open as milk-derived foods."
+    }
+  ]
+}
