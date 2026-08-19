@@ -1,5 +1,5 @@
 import { existsSync } from 'node:fs';
-import { mkdtemp, rm, writeFile } from 'node:fs/promises';
+import { mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -100,6 +100,46 @@ describe('loadModel2Vec', () => {
   it('falls back to a sole unnamed tensor but reports multi-tensor mismatches', async () => {
     const m = await load('other-name', { tensorName: 'weights' });
     expect(m.dim).toBe(3);
+  });
+
+  it('rejects a multi-tensor file with no "embeddings" tensor by listing names', async () => {
+    const dir = join(root, 'multi');
+    await mkdir(dir, { recursive: true });
+    await writeFile(join(dir, 'config.json'), JSON.stringify({ hidden_dim: 3 }));
+    await writeFile(join(dir, 'tokenizer.json'), JSON.stringify(MINI_TOKENIZER_JSON));
+    await writeFile(
+      join(dir, 'model.safetensors'),
+      makeTestSafetensors({ alpha: ROWS, beta: ROWS }),
+    );
+    await expect(loadModel2Vec(dir)).rejects.toThrow(/no "embeddings" tensor.*alpha, beta/);
+  });
+
+  it('rejects a non-2-D embedding tensor', async () => {
+    const dir = join(root, 'flat');
+    await mkdir(dir, { recursive: true });
+    await writeFile(join(dir, 'config.json'), JSON.stringify({}));
+    await writeFile(join(dir, 'tokenizer.json'), JSON.stringify(MINI_TOKENIZER_JSON));
+    // Hand-build a 1-D tensor: shape [30] over the same 30 floats.
+    const flat = makeTestSafetensors({ embeddings: [ROWS.flat()] });
+    const header = JSON.parse(
+      new TextDecoder().decode(
+        flat.subarray(8, 8 + Number(new DataView(flat.buffer).getBigUint64(0, true))),
+      ),
+    );
+    header.embeddings.shape = [30];
+    const headerBytes = new TextEncoder().encode(JSON.stringify(header));
+    const rebuilt = new Uint8Array(8 + headerBytes.length + 120);
+    new DataView(rebuilt.buffer).setBigUint64(0, BigInt(headerBytes.length), true);
+    rebuilt.set(headerBytes, 8);
+    rebuilt.set(flat.subarray(flat.length - 120), 8 + headerBytes.length);
+    await writeFile(join(dir, 'model.safetensors'), rebuilt);
+    await expect(loadModel2Vec(dir)).rejects.toThrow(/expected a 2-D embedding matrix/);
+  });
+
+  it('returns the zero vector unnormalized when every pooled row is zero', async () => {
+    const rows = ROWS.map((r, i) => (i === 4 ? [0, 0, 0] : r)); // zero out "hello"
+    const m = await load('zero-row', { rows });
+    expect([...m.embed('hello')]).toEqual([0, 0, 0]);
   });
 });
 

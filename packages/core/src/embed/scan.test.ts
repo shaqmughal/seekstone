@@ -66,5 +66,15 @@ describe('createVectorSet / scanTopNotes', () => {
 
   it('rejects an invalid dimension', () => {
     expect(() => createVectorSet(0)).toThrow(/invalid dim/);
+    expect(() => createVectorSet(1.5)).toThrow(/invalid dim/);
+  });
+
+  it('rejects a vector set not built by createVectorSet', () => {
+    const impostor = { dim: 2, size: 0, add() {} };
+    expect(() => scanTopNotes(vec(1, 0), impostor, 5)).toThrow(/expected a set from/);
+  });
+
+  it('scans an empty set to an empty result', () => {
+    expect(scanTopNotes(vec(1, 0), createVectorSet(2), 5)).toEqual([]);
   });
 });
