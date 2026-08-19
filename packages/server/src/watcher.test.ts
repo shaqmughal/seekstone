@@ -74,12 +74,27 @@ afterEach(async () => {
 // starving the event loop.
 describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
   it('indexes a new .md file created after startup', async () => {
+    // Create-after-ready shape: under usePolling this is the only event kind
+    // that needs a parent-dir rescan, so it gets the nudge mitigation and the
+    // rawEvents diagnostics (SHA-242 gave them to the nested/spaced tests;
+    // this one kept flaking on CI without them — SHA-275).
     const ctx = freshCtx(tmpDir);
-    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true });
+    const rawEvents: string[] = [];
+    const { stop, ready } = startWatcher(ctx, undefined, {
+      usePolling: true,
+      onRawEvent: (event, abs, rel) => rawEvents.push(`${event} abs=${abs} rel=${rel}`),
+    });
     try {
       await ready;
+      await new Promise((r) => setImmediate(r));
       await writeFile(join(tmpDir, 'watch-new.md'), 'watcher_unique_abc', 'utf8');
-      await waitFor(() => ctx.notes.has('watch-new.md'));
+      try {
+        await waitFor(() => ctx.notes.has('watch-new.md'), { nudge: dirNudger(tmpDir) });
+      } catch {
+        throw new Error(
+          `waitFor timeout — diagnostics:\n  platform=${process.platform} sep=${JSON.stringify(sep)}\n  vaultRoot=${tmpDir}\n  ctx.notes keys=[${[...ctx.notes.keys()].join(', ')}]\n  rawEvents(${rawEvents.length}):\n    ${rawEvents.join('\n    ') || '(none)'}`,
+        );
+      }
       expect(ctx.index.search('watcher_unique_abc').some((h) => h.id === 'watch-new.md')).toBe(
         true,
       );
@@ -199,13 +214,28 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
       info: noop,
       debug: (msg: string, fields?: Record<string, unknown>) => events.push({ msg, fields }),
     };
-    const { stop, ready } = startWatcher(ctx, log, { usePolling: true });
+    // Same create-after-ready shape as the first test, observed through the
+    // logger instead of ctx.notes — needs the same nudge + diagnostics
+    // (SHA-275; nudge files are non-.md so they never produce 'index updated').
+    const rawEvents: string[] = [];
+    const { stop, ready } = startWatcher(ctx, log, {
+      usePolling: true,
+      onRawEvent: (event, abs, rel) => rawEvents.push(`${event} abs=${abs} rel=${rel}`),
+    });
     try {
       await ready;
+      await new Promise((r) => setImmediate(r));
       await writeFile(join(tmpDir, 'watch-log.md'), 'logged_body_qrs', 'utf8');
-      await waitFor(() =>
-        events.some((e) => e.msg === 'index updated' && e.fields?.path === 'watch-log.md'),
-      );
+      try {
+        await waitFor(
+          () => events.some((e) => e.msg === 'index updated' && e.fields?.path === 'watch-log.md'),
+          { nudge: dirNudger(tmpDir) },
+        );
+      } catch {
+        throw new Error(
+          `waitFor timeout — diagnostics:\n  platform=${process.platform} sep=${JSON.stringify(sep)}\n  vaultRoot=${tmpDir}\n  ctx.notes keys=[${[...ctx.notes.keys()].join(', ')}]\n  rawEvents(${rawEvents.length}):\n    ${rawEvents.join('\n    ') || '(none)'}`,
+        );
+      }
       expect(ctx.notes.has('watch-log.md')).toBe(true);
       expect(
         events.some((e) => e.msg === 'index updated' && e.fields?.path === 'watch-log.md'),
