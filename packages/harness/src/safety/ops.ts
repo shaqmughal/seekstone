@@ -215,10 +215,30 @@ export function fmEditOp(original: Buffer): OpResult | null {
           reason: `added key ${targetKey} missing from post-write frontmatter`,
         };
       }
+      // Structural checks first (cheap, and their failures are the clearer
+      // diagnosis): all pre-existing keys must survive in the same relative
+      // order with nothing else added or dropped.
+      const expectedKeys = fm.keys.filter((k) => k !== targetKey);
+      const postKeys = postFm.keys.filter((k) => k !== targetKey);
+      if (postKeys.length !== expectedKeys.length) {
+        return {
+          pass: false,
+          reason: `frontmatter key count drifted: ${expectedKeys.length} → ${postKeys.length}`,
+        };
+      }
+      for (let i = 0; i < expectedKeys.length; i++) {
+        if (postKeys[i] !== expectedKeys[i]) {
+          return {
+            pass: false,
+            reason: `key order changed at index ${i}: ${expectedKeys[i]} → ${postKeys[i]}`,
+          };
+        }
+      }
       // Byte-level guarantee: every original FM line that does not belong to
-      // the patched key must survive byte-identically and in order. Checking
-      // parsed keys alone cannot catch a serializer that refolds or re-quotes
-      // an untouched value — the YAML parses back to the same data either way.
+      // the patched key must survive byte-identically and in order. The
+      // structural checks above cannot catch a serializer that refolds or
+      // re-quotes an untouched value — the YAML parses back to the same data
+      // either way (the seekstone#233 blind spot).
       const postYaml = postText.slice(
         openLen,
         postFm.bodyStart - (postText.startsWith('---\r\n') ? 7 : 5),
@@ -241,24 +261,6 @@ export function fmEditOp(original: Buffer): OpResult | null {
           };
         }
         cursor = found + 1;
-      }
-      // All pre-existing keys (excluding targetKey if it was already there) must
-      // survive the round-trip in the same relative order.
-      const expectedKeys = fm.keys.filter((k) => k !== targetKey);
-      const postKeys = postFm.keys.filter((k) => k !== targetKey);
-      if (postKeys.length !== expectedKeys.length) {
-        return {
-          pass: false,
-          reason: `frontmatter key count drifted: ${expectedKeys.length} → ${postKeys.length}`,
-        };
-      }
-      for (let i = 0; i < expectedKeys.length; i++) {
-        if (postKeys[i] !== expectedKeys[i]) {
-          return {
-            pass: false,
-            reason: `key order changed at index ${i}: ${expectedKeys[i]} → ${postKeys[i]}`,
-          };
-        }
       }
       return { pass: true };
     },

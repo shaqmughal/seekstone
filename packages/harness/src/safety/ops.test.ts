@@ -220,6 +220,40 @@ describe('fmEditOp', () => {
     expect(r.reason).toContain('untouched frontmatter line rewritten');
   });
 
+  it('returns null when the note already carries the harness key', () => {
+    const note = '---\ntitle: T\n_seekstone_check: already-here\n---\nBody.\n';
+    expect(fmEditOp(Buffer.from(note, 'utf8'))).toBeNull();
+  });
+
+  it('rejects an injected extra key even when all original lines survive', () => {
+    const orig = Buffer.from(sampleNote, 'utf8');
+    const op = fmEditOp(orig);
+    expect(op).not.toBeNull();
+    if (!op) return;
+    // Insertion keeps every original line byte-identical — only the key
+    // census catches it.
+    const post = op.bytes
+      .toString('utf8')
+      .replace('date: 2026-05-28', 'date: 2026-05-28\ninjected: 1');
+    const r = op.verify(Buffer.from(post, 'utf8'), orig);
+    expect(r.pass).toBe(false);
+    expect(r.reason).toContain('key count drifted');
+  });
+
+  it('rejects reordered keys', () => {
+    const orig = Buffer.from(sampleNote, 'utf8');
+    const op = fmEditOp(orig);
+    expect(op).not.toBeNull();
+    if (!op) return;
+    const post = op.bytes
+      .toString('utf8')
+      .replace('title: Hello World\ntags:', 'tags:')
+      .replace('date: 2026-05-28', 'date: 2026-05-28\ntitle: Hello World');
+    const r = op.verify(Buffer.from(post, 'utf8'), orig);
+    expect(r.pass).toBe(false);
+    expect(r.reason).toContain('key order changed');
+  });
+
   it('rejects re-quoting of an untouched value', () => {
     const note = '---\ntitle: Plain Title\nstatus: open\n---\nBody.\n';
     const orig = Buffer.from(note, 'utf8');
