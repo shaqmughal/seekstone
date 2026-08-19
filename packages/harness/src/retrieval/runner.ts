@@ -120,7 +120,10 @@ export interface RetrievalEvalOptions {
 
 interface ConditionAccumulator {
   condition: string;
+  /** Ranking used for quality metrics; may reuse cached lexical rankings. */
   rank: (q: GoldenQuery) => string[];
+  /** Ranking timed for latency; always does the full end-to-end work. */
+  timedRank: (q: GoldenQuery) => string[];
 }
 
 export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<RetrievalSummary> {
@@ -158,20 +161,19 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
   }
 
   const conditions: ConditionAccumulator[] = [
-    { condition: 'lexical', rank: (q) => lexicalRankings.get(q.id) as string[] },
+    {
+      condition: 'lexical',
+      rank: (q) => lexicalRankings.get(q.id) as string[],
+      timedRank: (q) => rankLexical(lexical.ctx, q.query, RETRIEVAL_DEPTH),
+    },
   ];
   for (const { id, embedder, index } of embedders) {
-    conditions.push({
-      condition: `semantic:${id}`,
-      rank: (q) => rankSemantic(embedder, index, q.query, RETRIEVAL_DEPTH),
-    });
+    const semantic = (q: GoldenQuery) => rankSemantic(embedder, index, q.query, RETRIEVAL_DEPTH);
+    conditions.push({ condition: `semantic:${id}`, rank: semantic, timedRank: semantic });
     conditions.push({
       condition: `hybrid-rrf:${id}`,
-      rank: (q) =>
-        rrfFuse([
-          lexicalRankings.get(q.id) as string[],
-          rankSemantic(embedder, index, q.query, RETRIEVAL_DEPTH),
-        ]),
+      rank: (q) => rrfFuse([lexicalRankings.get(q.id) as string[], semantic(q)]),
+      timedRank: (q) => rrfFuse([rankLexical(lexical.ctx, q.query, RETRIEVAL_DEPTH), semantic(q)]),
     });
   }
 
@@ -184,7 +186,7 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
   }));
 
   const conditionResults: ConditionResult[] = [];
-  for (const { condition, rank } of conditions) {
+  for (const { condition, rank, timedRank } of conditions) {
     for (let i = 0; i < queries.length; i++) {
       const q = queries[i] as GoldenQuery;
       const ranked = rank(q);
@@ -200,7 +202,7 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     for (const q of queries) {
       for (let r = 0; r < opts.runs; r++) {
         const t0 = performance.now();
-        rank(q);
+        timedRank(q);
         const ms = performance.now() - t0;
         if (r > 0) warm.push(ms);
       }
