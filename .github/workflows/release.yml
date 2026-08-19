@@ -55,12 +55,20 @@ jobs:
       # automatic OIDC trusted publishing handle auth against the default registry.
       - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
         with:
-          node-version: '22'
+          node-version: '24'
           cache: 'npm'
 
-      # OIDC trusted publishing requires npm >= 11.5.1.
-      - name: Upgrade npm
-        run: npm install -g npm@11.16.0
+      # OIDC trusted publishing requires npm >= 11.5.1. Node 24 has bundled a
+      # qualifying npm since 24.7.0, so no global npm upgrade is needed — but
+      # fail fast if a runner ever resolves an older toolchain, because the
+      # publish would otherwise fail late (or worse, unauthenticated → E404).
+      - name: Assert npm supports OIDC trusted publishing
+        run: |
+          v="$(npm --version)"
+          if [ "$(printf '%s\n' 11.5.1 "$v" | sort -V | head -1)" != "11.5.1" ]; then
+            echo "::error::npm $v < 11.5.1 — too old for OIDC trusted publishing"
+            exit 1
+          fi
 
       - name: Install dependencies
         run: npm ci
