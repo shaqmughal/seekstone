@@ -243,10 +243,15 @@ export function fmEditOp(original: Buffer): OpResult | null {
         openLen,
         postFm.bodyStart - (postText.startsWith('---\r\n') ? 7 : 5),
       );
-      const postLines = postYaml.split('\n');
+      // Split on the note's own newline style so a CRLF note's lines compare
+      // without their terminators on both sides; a corruptor switching EOL
+      // style still fails, because the mismatched terminator bytes end up
+      // inside the line chunks.
+      const postLines = postYaml.split(nl);
       let cursor = 0;
-      for (const line of yamlText.split('\n')) {
-        if (line.startsWith(`${targetKey}:`)) continue; // the one line we own
+      // No skip for the harness key here: the op bails when the original
+      // already carries it, so every original line is an untouched line.
+      for (const line of yamlText.split(nl)) {
         let found = -1;
         for (let i = cursor; i < postLines.length; i++) {
           if (postLines[i] === line) {

@@ -225,6 +225,21 @@ describe('fmEditOp', () => {
     expect(fmEditOp(Buffer.from(note, 'utf8'))).toBeNull();
   });
 
+  it('returns null for a BOM + CRLF note (delimiter form the op cannot rebuild)', () => {
+    const note = '﻿---\r\ntitle: T\r\n---\r\nBody.\r\n';
+    expect(fmEditOp(Buffer.from(note, 'utf8'))).toBeNull();
+  });
+
+  it('round-trips a CRLF note and passes its own verify', () => {
+    const note = '---\r\ntitle: T\r\nstatus: open\r\n---\r\nBody.\r\n';
+    const orig = Buffer.from(note, 'utf8');
+    const op = fmEditOp(orig);
+    expect(op).not.toBeNull();
+    if (!op) return;
+    expect(op.bytes.toString('utf8')).toContain('title: T\r\n');
+    expect(op.verify(op.bytes, orig).pass).toBe(true);
+  });
+
   it('rejects an injected extra key even when all original lines survive', () => {
     const orig = Buffer.from(sampleNote, 'utf8');
     const op = fmEditOp(orig);
