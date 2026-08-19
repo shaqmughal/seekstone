@@ -47,8 +47,8 @@ export interface ReplaceInNoteResult {
   matches: MatchPosition[];
   bytesWritten?: number;
   frontmatterUnchanged: true;
-  /** sha-256 (hex) of the new content after a write; absent on dry runs and zero-match calls. */
-  contentHash?: string;
+  /** sha-256 (hex) of the file content after the call — the new content after a write, the unchanged content on dry runs and zero-match calls. Always usable as prevHash for a chained edit. */
+  contentHash: string;
 }
 
 function escapeRegex(s: string): string {
@@ -105,6 +105,9 @@ export async function replaceInNote(
       replacements: toReplace.length,
       matches,
       frontmatterUnchanged: true,
+      // Nothing was written — hash the content as read, so chained edits can
+      // proceed from a dry run without a re-read.
+      contentHash: contentHash(raw),
     };
   }
 

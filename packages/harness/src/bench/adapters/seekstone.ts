@@ -10,6 +10,7 @@ import { getBacklinks as getBacklinksTool } from '../../../../server/src/tools/g
 import { getLinks as getLinksTool } from '../../../../server/src/tools/get_links.js';
 import { listNotes } from '../../../../server/src/tools/list_notes.js';
 import { listTags as listTagsTool } from '../../../../server/src/tools/list_tags.js';
+import { moveNote as moveNoteTool } from '../../../../server/src/tools/move_note.js';
 import { outlineNote } from '../../../../server/src/tools/outline_note.js';
 import { readNote } from '../../../../server/src/tools/read_note.js';
 import { search as searchTool } from '../../../../server/src/tools/search.js';
@@ -167,5 +168,13 @@ export class SeekstoneAdapter implements Backend {
     // create_note with overwrite + prevHash is the server's whole-file
     // guarded replace.
     await createNoteTool(this.ctx, { path, content, overwrite: true, prevHash });
+  }
+
+  async casMove(from: string, to: string, prevHash: string): Promise<void> {
+    await moveNoteTool(this.ctx, { from, to, prevHash });
+  }
+
+  async casDelete(path: string, prevHash: string): Promise<void> {
+    await deleteNoteTool(this.ctx, { path, prevHash });
   }
 }

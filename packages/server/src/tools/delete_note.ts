@@ -1,6 +1,7 @@
-import { access, mkdir, rename, rm } from 'node:fs/promises';
+import { access, mkdir, readFile, rename, rm } from 'node:fs/promises';
 import { basename, extname, join } from 'node:path';
 import { z } from 'zod';
+import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { removeNoteBacklinks } from '../index/backlinks.js';
 import { assertWritable } from '../policy.js';
@@ -14,6 +15,12 @@ export const DeleteNoteInput = z.object({
     .describe(
       'Permanently remove the note instead of moving it to the vault .trash/ folder. Defaults to false — deletes are recoverable.',
     ),
+  prevHash: z
+    .string()
+    .optional()
+    .describe(
+      'Optional compare-and-swap guard: the contentHash from a prior read. Fails with hash_conflict if the note changed since — so you never delete content you have not seen.',
+    ),
 });
 export type DeleteNoteInput = z.input<typeof DeleteNoteInput>;
 
@@ -22,6 +29,8 @@ export interface DeleteNoteResult {
   /** Vault-relative path the note was moved to, when not permanent. */
   trashedTo?: string;
   permanent: boolean;
+  /** sha-256 (hex) of the deleted content — for a recoverable delete this is the hash of the byte-identical file now in .trash/. */
+  contentHash: string;
 }
 
 /** Find a free destination name inside .trash/, suffixing before the extension on collision. */
@@ -50,14 +59,16 @@ export async function deleteNote(
   // safety mechanism itself, not a user write.
   assertWritable(ctx.policy, input.path);
 
+  // Read before deleting: ENOENT propagates for a missing note (same shape rm
+  // gave), the bytes are the CAS identity, and the hash documents exactly
+  // what was deleted (byte-identical to the .trash/ copy when recoverable).
+  const raw = await readFile(absPath, 'utf8');
+  if (input.prevHash !== undefined) assertHashMatch(raw, input.prevHash, input.path);
+
   let trashedTo: string | undefined;
   if (input.permanent) {
-    // rm throws ENOENT if the file doesn't exist — let it propagate.
     await rm(absPath);
   } else {
-    // access first so a missing note throws ENOENT like rm does, not a
-    // half-made .trash/ dir plus a rename error.
-    await access(absPath);
     await mkdir(join(ctx.vaultRoot, '.trash'), { recursive: true });
     trashedTo = await freeTrashPath(ctx.vaultRoot, basename(input.path));
     // Same-volume rename: atomic, byte-identical, and invisible to the index —
@@ -72,7 +83,11 @@ export async function deleteNote(
     ctx.notes.delete(input.path);
   }
 
-  const result: DeleteNoteResult = { path: input.path, permanent: input.permanent };
+  const result: DeleteNoteResult = {
+    path: input.path,
+    permanent: input.permanent,
+    contentHash: contentHash(raw),
+  };
   if (trashedTo !== undefined) result.trashedTo = trashedTo;
   return result;
 }

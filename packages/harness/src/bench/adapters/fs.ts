@@ -171,13 +171,30 @@ export class FsAdapter implements Backend {
   }
 
   async casWrite(path: string, content: string, prevHash: string): Promise<void> {
+    await this.assertHashUnchanged(path, prevHash);
+    await writeFile(join(this.vaultRoot, path), content, 'utf8');
+    this.noteMap.set(path, content);
+  }
+
+  async casMove(from: string, to: string, prevHash: string): Promise<void> {
+    await this.assertHashUnchanged(from, prevHash);
+    await rename(join(this.vaultRoot, from), join(this.vaultRoot, to));
+    const content = this.noteMap.get(from);
+    this.noteMap.delete(from);
+    if (content !== undefined) this.noteMap.set(to, content);
+  }
+
+  async casDelete(path: string, prevHash: string): Promise<void> {
+    await this.assertHashUnchanged(path, prevHash);
+    await this.deleteNote(path);
+  }
+
+  private async assertHashUnchanged(path: string, prevHash: string): Promise<void> {
     const current = await readFile(join(this.vaultRoot, path), 'utf8');
     const actual = createHash('sha256').update(current).digest('hex');
     if (actual !== prevHash) {
       throw new Error(`hash_conflict: expected ${prevHash}, disk is ${actual}`);
     }
-    await writeFile(join(this.vaultRoot, path), content, 'utf8');
-    this.noteMap.set(path, content);
   }
 }
 
