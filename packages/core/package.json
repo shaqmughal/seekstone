@@ -3,8 +3,9 @@
   "version": "0.0.1",
   "private": true,
   "type": "module",
-  "description": "Shared vault primitives — walk, frontmatter, extract, outline, percentiles, pmap.",
+  "description": "Shared vault primitives — walk, frontmatter, extract, outline, percentiles, pmap, embed.",
   "exports": {
+    "./embed": "./src/embed/index.ts",
     "./walk": "./src/walk.ts",
     "./frontmatter": "./src/frontmatter.ts",
     "./extract": "./src/extract.ts",
