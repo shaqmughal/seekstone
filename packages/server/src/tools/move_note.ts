@@ -1,7 +1,8 @@
-import { access, mkdir, rename } from 'node:fs/promises';
+import { access, mkdir, readFile, rename } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
+import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { addNoteBacklinks, removeNoteBacklinks } from '../index/backlinks.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
@@ -22,6 +23,12 @@ export const MoveNoteInput = z.object({
     .describe(
       'Rewrite wikilinks and markdown links in other notes that point at the moved note, so nothing breaks. Defaults to true; pass false to move the file only.',
     ),
+  prevHash: z
+    .string()
+    .optional()
+    .describe(
+      'Optional compare-and-swap guard on the source note: the contentHash from a prior read. Fails with hash_conflict if the note changed since.',
+    ),
 });
 export type MoveNoteInput = z.input<typeof MoveNoteInput>;
 
@@ -34,6 +41,8 @@ export interface MoveNoteResult {
   linksRewritten: number;
   /** Referencing notes left untouched because SEEKSTONE_WRITE_PATHS excludes them. */
   skipped?: string[];
+  /** sha-256 (hex) of the note at its new path — a move never changes content, so this is usable as prevHash for a chained edit at `to`. */
+  contentHash: string;
 }
 
 export async function moveNote(
@@ -48,11 +57,17 @@ export async function moveNote(
   assertWritable(ctx.policy, input.from);
   assertWritable(ctx.policy, input.to);
 
+  // Read the source bytes up front: they are the CAS identity, the result
+  // hash (a rename never changes content), and the truth the index entry at
+  // the new path is rebuilt from (more reliable than a possibly-lagging
+  // ctx.notes cache).
+  let raw: string;
   try {
-    await access(absFrom);
+    raw = await readFile(absFrom, 'utf8');
   } catch {
     throw new Error(`Note not found: ${input.from}`);
   }
+  if (input.prevHash !== undefined) assertHashMatch(raw, input.prevHash, input.from);
 
   if (!input.overwrite) {
     try {
@@ -87,10 +102,9 @@ export async function moveNote(
   await mkdir(dirname(absTo), { recursive: true });
   await rename(absFrom, absTo);
 
-  // Grab raw before removing the old entry, and clear the moved note's own
-  // outgoing backlink refs while its old entry is still readable — otherwise
-  // they stay registered under the stale source path forever.
-  const raw = ctx.notes.get(input.from)?.raw ?? '';
+  // Clear the moved note's own outgoing backlink refs while its old entry is
+  // still readable — otherwise they stay registered under the stale source
+  // path forever.
   removeNoteBacklinks(ctx, input.from);
 
   if (ctx.notes.has(input.from)) {
@@ -139,7 +153,13 @@ export async function moveNote(
   // Nothing resolves to the old path anymore — drop the stale key.
   ctx.backlinks.delete(input.from);
 
-  const result: MoveNoteResult = { from: input.from, to: input.to, notesRewritten, linksRewritten };
+  const result: MoveNoteResult = {
+    from: input.from,
+    to: input.to,
+    notesRewritten,
+    linksRewritten,
+    contentHash: contentHash(raw),
+  };
   if (skipped.length > 0) result.skipped = skipped;
   return result;
 }

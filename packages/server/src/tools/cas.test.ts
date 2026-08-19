@@ -9,6 +9,8 @@ import type { IndexedNote } from '../index/types.js';
 import { PERMISSIVE_POLICY } from '../policy.js';
 import { appendNote } from './append_note.js';
 import { createNote } from './create_note.js';
+import { deleteNote } from './delete_note.js';
+import { moveNote } from './move_note.js';
 import { patchFrontmatter } from './patch_frontmatter.js';
 import { patchNote } from './patch_note.js';
 import { readNote } from './read_note.js';
@@ -142,6 +144,84 @@ describe('CAS on edit tools', () => {
     await expect(
       replaceInNote(ctx, { path, find: 'x', replace: 'y', ...flags, dryRun: true, prevHash: hash }),
     ).rejects.toThrow(/hash_conflict/);
+  });
+
+  it('replace_in_note: dry runs and zero-match calls return the unchanged hash', async () => {
+    const { path, hash } = await seed('rin-dry.md');
+    const flags = { regex: false, caseSensitive: false, wholeWord: false };
+    const dry = await replaceInNote(ctx, {
+      path,
+      find: 'Original',
+      replace: 'X',
+      ...flags,
+      dryRun: true,
+    });
+    expect(dry.contentHash).toBe(hash);
+    const noMatch = await replaceInNote(ctx, {
+      path,
+      find: 'zz_never_present',
+      replace: 'X',
+      ...flags,
+      dryRun: false,
+    });
+    expect(noMatch.replacements).toBe(0);
+    expect(noMatch.contentHash).toBe(hash);
+    // The returned hash chains: a guarded edit straight from the dry run works.
+    const chained = await appendNote(ctx, {
+      path,
+      content: 'after dry',
+      prevHash: dry.contentHash,
+    });
+    expect(chained.contentHash).toBe(contentHash(await readFile(join(tmpDir, path), 'utf8')));
+  });
+
+  it('move_note: match moves and returns the hash at the new path; stale conflicts and leaves the file in place', async () => {
+    const { path, hash } = await seed('mv.md');
+    const ok = await moveNote(ctx, { from: path, to: 'moved/mv.md', prevHash: hash });
+    // A rename never changes content — the returned hash is the moved bytes'.
+    expect(ok.contentHash).toBe(hash);
+    expect(await readFile(join(tmpDir, 'moved/mv.md'), 'utf8')).toBe(NOTE);
+
+    // Stale guard: tamper out-of-band, then attempt a move with the old hash.
+    await appendNote(ctx, { path: 'moved/mv.md', content: 'drift' });
+    await moveNote(ctx, { from: 'moved/mv.md', to: 'moved/elsewhere.md', prevHash: hash }).then(
+      () => {
+        throw new Error('expected hash_conflict');
+      },
+      (err) => expectHashConflict(err, hash),
+    );
+    // Refused move leaves the source in place and creates no destination.
+    await expect(readFile(join(tmpDir, 'moved/mv.md'), 'utf8')).resolves.toContain('drift');
+    await expect(readFile(join(tmpDir, 'moved/elsewhere.md'), 'utf8')).rejects.toThrow();
+  });
+
+  it('delete_note: match deletes and returns the trashed content hash; stale conflicts and leaves the note', async () => {
+    const { path, hash } = await seed('del.md');
+    // Stale guard first: tamper, then attempt delete with the pre-tamper hash.
+    await appendNote(ctx, { path, content: 'drift' });
+    await deleteNote(ctx, { path, prevHash: hash }).then(
+      () => {
+        throw new Error('expected hash_conflict');
+      },
+      (err) => expectHashConflict(err, hash),
+    );
+    const tampered = await readFile(join(tmpDir, path), 'utf8');
+    expect(tampered).toContain('drift');
+
+    // Matching guard deletes; hash identifies the byte-identical .trash/ copy.
+    const ok = await deleteNote(ctx, { path, prevHash: contentHash(tampered) });
+    expect(ok.contentHash).toBe(contentHash(tampered));
+    expect(ok.trashedTo).toBeDefined();
+    expect(await readFile(join(tmpDir, ok.trashedTo as string), 'utf8')).toBe(tampered);
+    await expect(readFile(join(tmpDir, path), 'utf8')).rejects.toThrow();
+  });
+
+  it('delete_note: permanent delete also honors the guard and reports the destroyed hash', async () => {
+    const { path, hash } = await seed('del-perm.md');
+    const ok = await deleteNote(ctx, { path, permanent: true, prevHash: hash });
+    expect(ok.contentHash).toBe(hash);
+    expect(ok.trashedTo).toBeUndefined();
+    await expect(readFile(join(tmpDir, path), 'utf8')).rejects.toThrow();
   });
 
   it('omitting prevHash keeps unguarded behavior', async () => {

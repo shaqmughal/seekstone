@@ -1,4 +1,4 @@
-import { mkdtemp, readFile, rm, unlink, writeFile } from 'node:fs/promises';
+import { mkdtemp, readFile, rename, rm, unlink, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
@@ -83,6 +83,54 @@ describe('casConflictOp', () => {
     const { rel, abs, raw } = await seed('cas.md');
     const r = await casConflictOp(backend, rel, abs);
     expect(r.status).toBe('pass');
+    // The fs reference adapter declares all three guards, so the outcome
+    // records full coverage.
+    expect(r.reason).toBe('guards refused: write, move, delete');
+    expect(await readFile(abs, 'utf8')).toBe(raw); // restored
+  });
+
+  it('records write-only coverage for a backend without casMove/casDelete', async () => {
+    const { rel, abs, raw } = await seed('cas-write-only.md');
+    const writeOnly: Backend = {
+      ...backendShim(),
+      readWithHash: backend.readWithHash.bind(backend),
+      casWrite: backend.casWrite.bind(backend),
+    };
+    const r = await casConflictOp(writeOnly, rel, abs);
+    expect(r.status).toBe('pass');
+    expect(r.reason).toBe('guards refused: write');
+    expect(await readFile(abs, 'utf8')).toBe(raw);
+  });
+
+  it('fails when a stale-hash move lands anyway', async () => {
+    const { rel, abs, raw } = await seed('cas-bad-move.md');
+    const unguardedMove: Backend = {
+      ...backendShim(),
+      readWithHash: backend.readWithHash.bind(backend),
+      casWrite: backend.casWrite.bind(backend),
+      casMove: async (from: string, to: string) => {
+        await rename(join(vaultDir, from), join(vaultDir, to)); // ignores the hash
+      },
+    };
+    const r = await casConflictOp(unguardedMove, rel, abs);
+    expect(r.status).toBe('fail');
+    expect(r.reason).toContain('stale-hash move reported success');
+    expect(await readFile(abs, 'utf8')).toBe(raw); // restored at the source
+  });
+
+  it('fails when a stale-hash delete lands anyway', async () => {
+    const { rel, abs, raw } = await seed('cas-bad-delete.md');
+    const unguardedDelete: Backend = {
+      ...backendShim(),
+      readWithHash: backend.readWithHash.bind(backend),
+      casWrite: backend.casWrite.bind(backend),
+      casDelete: async (p: string) => {
+        await unlink(join(vaultDir, p)); // ignores the hash
+      },
+    };
+    const r = await casConflictOp(unguardedDelete, rel, abs);
+    expect(r.status).toBe('fail');
+    expect(r.reason).toContain('stale-hash delete reported success');
     expect(await readFile(abs, 'utf8')).toBe(raw); // restored
   });
 

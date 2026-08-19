@@ -94,19 +94,22 @@ reports where it went. `permanent: true` is the explicit opt-out.
 
 ### 7. Optional compare-and-swap on edits
 
-`read_note` returns a `contentHash` (sha-256 of the note's disk bytes). Edit
-tools accept `prevHash` and refuse to write — with a structured
+`read_note` returns a `contentHash` (sha-256 of the note's disk bytes). All
+nine write tools accept `prevHash` and refuse to act — with a structured
 `hash_conflict` error carrying the current hash — when the note changed since
-it was read, so a concurrent edit is never silently discarded. Every
-content-editing result returns the new hash, so chained edits need no re-reads
-(`move_note` and `delete_note` don't participate in hash chaining — re-read
-after them). This is conflict **detection**, not locking.
+it was read, so a concurrent edit is never silently discarded, moved, or
+deleted. Every mutating result returns a `contentHash`, so chained edits need
+no re-reads: `move_note` returns the hash of the (unchanged) bytes at the new
+path, `delete_note` the hash of the deleted content (byte-identical to the
+`.trash/` copy when recoverable), and `replace_in_note` returns the unchanged
+hash on dry runs and zero-match calls. This is conflict **detection**, not
+locking.
 
 - Enforced by: [`content-hash.ts`](../packages/server/src/content-hash.ts),
-  checked immediately after the disk read in every edit tool.
+  checked immediately after the disk read in every write tool.
 - Proven by: [`cas.test.ts`](../packages/server/src/tools/cas.test.ts) and the
-  harness `cas-conflict` op — a stale-hash write after an out-of-band edit
-  must be refused, and the out-of-band edit must survive.
+  harness `cas-conflict` op — a stale-hash write, move, or delete after an
+  out-of-band edit must be refused, and the out-of-band edit must survive.
 
 ### 8. Write scoping and read-only mode
 
@@ -142,6 +145,12 @@ Full per-server reports live in
 | recoverable-delete | ✅ 25/25 | ✅ 25/25 | ✅ 25/25 | — n/a | — n/a |
 | create-no-clobber | ✅ 25/25 | ✅ 25/25 | ✅ 25/25 | — n/a | ✅ 25/25 |
 | cas-conflict | ✅ 25/25 | ✅ 25/25 | — n/a | — n/a | — n/a |
+
+<sup>The cas-conflict op was extended on 2026-08-19 to also exercise stale-hash
+**move** and **delete** guards (seekstone and the fs reference declare and pass
+all three). The competitor rows are unchanged: their reports are dated
+snapshots from 2026-08-03, and none of those servers exposed a CAS surface for
+the op to drive in the first place.</sup>
 
 <sup>† obsidian-mcp-pro exposes no whole-file update tool — its `create_note`
 refuses existing paths, so the byte-edit ops cannot be exercised through its

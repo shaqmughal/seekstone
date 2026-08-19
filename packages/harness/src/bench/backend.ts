@@ -89,6 +89,14 @@ export interface Backend {
   readWithHash?(path: string): Promise<{ content: string; hash: string }>;
   /** Whole-file write guarded by a version token; expected to fail when the note changed. */
   casWrite?(path: string, content: string, prevHash: string): Promise<void>;
+  /**
+   * Move guarded by a version token on the SOURCE note; expected to fail when
+   * it changed. Declaring this method claims the guard — the cas-conflict op
+   * exercises it with a stale token and fails the backend if the move lands.
+   */
+  casMove?(from: string, to: string, prevHash: string): Promise<void>;
+  /** Delete guarded by a version token; expected to fail when the note changed. */
+  casDelete?(path: string, prevHash: string): Promise<void>;
 
   /** Optional cleanup (close keep-alive connections, etc). */
   close?(): Promise<void>;

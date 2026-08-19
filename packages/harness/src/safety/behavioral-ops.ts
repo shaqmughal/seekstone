@@ -123,15 +123,19 @@ export async function createNoClobberOp(
 
 /**
  * cas-conflict: read a version token, tamper with the file out-of-band, then
- * attempt a guarded write with the stale token. Pass = the write was refused
- * AND the out-of-band edit survived (the concurrent editor's work is safe).
+ * attempt guarded destructive calls with the stale token. Pass = every
+ * attempted call was refused AND the out-of-band edit survived (the
+ * concurrent editor's work is safe). The write guard is mandatory for the op
+ * to run; move and delete guards are exercised when the backend declares
+ * casMove/casDelete, and the outcome reason records which guards were
+ * covered so partial support is visible in the report.
  */
 export async function casConflictOp(
   backend: Backend,
   relPath: string,
   absPath: string,
 ): Promise<BehavioralOpOutcome> {
-  const change = 'stale-hash guarded write after out-of-band edit; expect conflict';
+  const change = 'stale-hash guarded write/move/delete after out-of-band edit; expect conflict';
   if (!backend.readWithHash || !backend.casWrite) {
     throw new Error('caller must check backend.readWithHash/casWrite');
   }
@@ -139,20 +143,51 @@ export async function casConflictOp(
   const { hash } = await backend.readWithHash(relPath);
   const tampered = Buffer.concat([original, Buffer.from('\n<!-- concurrent edit -->\n', 'utf8')]);
   await writeFile(absPath, tampered);
-  let errored = false;
-  try {
-    await backend.casWrite(relPath, 'CLOBBER ATTEMPT — must never land\n', hash);
-  } catch {
-    errored = true;
+
+  const covered: string[] = [];
+  const attempt = async (guard: string, call: () => Promise<void>): Promise<string | undefined> => {
+    let errored = false;
+    try {
+      await call();
+    } catch {
+      errored = true;
+    }
+    if (!errored) return `stale-hash ${guard} reported success`;
+    const post = await readFile(absPath).catch(() => Buffer.alloc(0));
+    if (!post.equals(tampered)) {
+      return `${guard} errored but the concurrent edit was lost`;
+    }
+    covered.push(guard);
+    return undefined;
+  };
+
+  let failReason = await attempt('write', () =>
+    (backend.casWrite as NonNullable<Backend['casWrite']>)(
+      relPath,
+      'CLOBBER ATTEMPT — must never land\n',
+      hash,
+    ),
+  );
+  if (failReason === undefined && backend.casMove) {
+    // Destination inside the scratch copy; a correctly refused move never
+    // creates it. If a buggy backend DID move the file, the attempt() disk
+    // check above reports the loss, and the restore below re-creates the
+    // original at the source path.
+    failReason = await attempt('move', () =>
+      (backend.casMove as NonNullable<Backend['casMove']>)(
+        relPath,
+        `${relPath}.cas-conflict-moved.md`,
+        hash,
+      ),
+    );
   }
-  const post = await readFile(absPath);
-  const concurrentEditSurvived = post.equals(tampered);
+  if (failReason === undefined && backend.casDelete) {
+    failReason = await attempt('delete', () =>
+      (backend.casDelete as NonNullable<Backend['casDelete']>)(relPath, hash),
+    );
+  }
+
   await writeFile(absPath, original);
-  if (!errored) {
-    return { status: 'fail', reason: 'stale-hash write reported success', change };
-  }
-  if (!concurrentEditSurvived) {
-    return { status: 'fail', reason: 'write errored but the concurrent edit was lost', change };
-  }
-  return { status: 'pass', change };
+  if (failReason !== undefined) return { status: 'fail', reason: failReason, change };
+  return { status: 'pass', reason: `guards refused: ${covered.join(', ')}`, change };
 }

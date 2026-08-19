@@ -316,7 +316,7 @@ Claude never sees your full vault at once — it searches and reads selectively,
 | `replace_in_note` | Find and replace text in the note body — literal or regex, case sensitivity, whole-word matching, optional `limit` (replaces **all** occurrences by default), and a dry-run preview. |
 | `append_periodic_note` | Append to today's periodic note, creating it from a template if it doesn't yet exist. |
 
-The content-editing tools (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `append_periodic_note`, and `create_note` with `overwrite: true`) support optional **compare-and-swap**: pass the `contentHash` you got from `read_note` as `prevHash` and the write fails cleanly if the note changed underneath you, instead of silently discarding the concurrent edit.
+Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `rename_heading`, `move_note`, `delete_note`, `append_periodic_note`, and `create_note` with `overwrite: true`) supports optional **compare-and-swap**: pass the `contentHash` you got from `read_note` as `prevHash` and the call fails cleanly if the note changed underneath you — no silently discarded concurrent edit, no moving or deleting content you haven't seen. Every mutating result returns the new `contentHash`, so chained edits need no re-reads.
 
 **Fast *and* complete.** Seekstone is the only Obsidian MCP server in our benchmark set to implement `list_tags`, `outline_note`, `get_backlinks`, and `get_links` — every other tested server supports only search, read, list, and write. Three more capabilities set it apart:
 
