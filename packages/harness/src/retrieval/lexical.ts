@@ -26,5 +26,7 @@ export async function buildLexicalContext(vaultRoot: string): Promise<LexicalCon
  * and the retrieval depth every eval condition uses.
  */
 export function rankLexical(ctx: ServerContext, query: string, limit = 50): string[] {
-  return searchTool(ctx, { query, limit }).map((h) => h.path);
+  // Index doc ids carry the platform separator (walkVault uses path.relative);
+  // golden-set paths are forward-slash canonical, so normalize here.
+  return searchTool(ctx, { query, limit }).map((h) => h.path.replace(/\\/g, '/'));
 }
