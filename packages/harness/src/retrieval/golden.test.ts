@@ -84,15 +84,15 @@ describe('loadGoldenSet validation', () => {
   });
 
   it('rejects unknown kinds', async () => {
-    await expect(
-      loadGoldenSet(await write('kind.json', valid({ kind: 'vibes' }))),
-    ).rejects.toThrow(/unknown kind/);
+    await expect(loadGoldenSet(await write('kind.json', valid({ kind: 'vibes' })))).rejects.toThrow(
+      /unknown kind/,
+    );
   });
 
   it('rejects empty expected lists and non-vault-relative paths', async () => {
-    await expect(
-      loadGoldenSet(await write('noexp.json', valid({ expected: [] }))),
-    ).rejects.toThrow(/no expected paths/);
+    await expect(loadGoldenSet(await write('noexp.json', valid({ expected: [] })))).rejects.toThrow(
+      /no expected paths/,
+    );
     await expect(
       loadGoldenSet(await write('abs.json', valid({ expected: ['/etc/passwd.md'] }))),
     ).rejects.toThrow(/vault-relative/);

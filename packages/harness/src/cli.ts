@@ -32,6 +32,9 @@ import { fetchModels } from './fixtures/models.js';
 import { profileVault } from './profiler/index.js';
 import { renderVaultStatsMarkdown } from './profiler/report.js';
 import { normalizeReportPath } from './report-paths.js';
+import { loadGoldenSet } from './retrieval/golden.js';
+import { renderRetrievalMarkdown } from './retrieval/report.js';
+import { runRetrievalEval } from './retrieval/runner.js';
 import { copyVault, renderSafetyMarkdown, runSafety } from './safety/index.js';
 
 // `npm run -w @seekstone/harness start` runs tsx with cwd = packages/harness,
@@ -46,6 +49,7 @@ process.chdir(REPO_ROOT);
 const FIXTURES = fileURLToPath(new URL('../fixtures', import.meta.url));
 const DEFAULT_QUERIES = fileURLToPath(new URL('../queries/default.json', import.meta.url));
 const DEFAULT_TASKS = fileURLToPath(new URL('../queries/tasks.json', import.meta.url));
+const DEFAULT_GOLDEN = fileURLToPath(new URL('../queries/golden.json', import.meta.url));
 
 const cli = cac('seekstone-harness');
 
@@ -298,6 +302,47 @@ cli
       (m) => console.log(`fetch-models: ${m}`),
     );
     console.log(`fetch-models: ${fetched} fetched, ${skipped} already present (verified).`);
+  });
+
+// ---------- retrieval ----------
+cli
+  .command(
+    'retrieval',
+    'Run the retrieval-quality eval (lexical vs semantic vs hybrid RRF) against the golden set.',
+  )
+  .option('--vault <path>', 'Vault root.', { default: `${FIXTURES}/vault` })
+  .option('--queries <file>', 'Golden query set JSON.', { default: DEFAULT_GOLDEN })
+  .option('--models <dir>', 'Model directory root (see fetch-models).', {
+    default: `${FIXTURES}/models`,
+  })
+  .option('--model <ids>', 'Comma-separated model ids, smallest first.', {
+    default: 'potion-base-8M,potion-retrieval-32M',
+  })
+  .option('--runs <n>', 'Latency runs per query (run 1 is cold and discarded).', { default: 20 })
+  .option('--out <dir>', 'Output directory.', { default: 'reports' })
+  .action(async (opts) => {
+    const outDir = resolve(opts.out);
+    await mkdir(outDir, { recursive: true });
+    const goldenSet = await loadGoldenSet(resolve(opts.queries));
+    const summary = await runRetrievalEval({
+      vaultRoot: resolve(opts.vault),
+      goldenSet,
+      modelsDir: resolve(opts.models),
+      modelIds: String(opts.model)
+        .split(',')
+        .map((s) => s.trim())
+        .filter(Boolean),
+      runs: Number(opts.runs),
+      log: (m) => console.log(`retrieval: ${m}`),
+    });
+    const report = { ...summary, vaultRoot: normalizeReportPath(summary.vaultRoot) };
+    await writeFile(join(outDir, 'retrieval-eval.json'), JSON.stringify(report, null, 2));
+    await writeFile(join(outDir, 'retrieval-eval.md'), renderRetrievalMarkdown(report));
+    console.log(
+      `retrieval: ${report.querySet.total} queries × ${report.conditions.length} conditions — gate: ${report.gate.verdict}${report.gate.chosenModel ? ` (${report.gate.chosenModel})` : ''}.`,
+    );
+    console.log(`         wrote ${join(outDir, 'retrieval-eval.json')}`);
+    console.log(`         wrote ${join(outDir, 'retrieval-eval.md')}`);
   });
 
 // ---------- gen-vault ----------
