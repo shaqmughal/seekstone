@@ -28,6 +28,7 @@ import {
 import { loadTaskSet } from './bench/tasks.js';
 import { fetchCorpus, loadCorpus } from './fixtures/corpus.js';
 import { generateVault } from './fixtures/generate.js';
+import { fetchModels } from './fixtures/models.js';
 import { profileVault } from './profiler/index.js';
 import { renderVaultStatsMarkdown } from './profiler/report.js';
 import { normalizeReportPath } from './report-paths.js';
@@ -279,6 +280,24 @@ cli
       console.log(`fetch-corpus: ${m}`),
     );
     console.log(`fetch-corpus: ${fetched} fetched, ${skipped} already present (verified).`);
+  });
+
+// ---------- fetch-models ----------
+cli
+  .command('fetch-models', 'Download the pinned Model2Vec embedding models (verified by checksum).')
+  .option('--manifest <file>', 'Model manifest JSON.', {
+    default: `${FIXTURES}/models/manifest.json`,
+  })
+  .option('--dest <dir>', 'Destination root for model directories.', {
+    default: `${FIXTURES}/models`,
+  })
+  .action(async (opts) => {
+    const { fetched, skipped } = await fetchModels(
+      resolve(opts.manifest),
+      resolve(opts.dest),
+      (m) => console.log(`fetch-models: ${m}`),
+    );
+    console.log(`fetch-models: ${fetched} fetched, ${skipped} already present (verified).`);
   });
 
 // ---------- gen-vault ----------
