@@ -126,11 +126,12 @@ export class Semantic {
         if (note) {
           const hash = contentHash(note.raw);
           const cachedVecs = cached?.hashes.get(id) === hash ? cached.vectors.get(id) : undefined;
-          if (cachedVecs !== undefined && cachedVecs.length > 0) {
-            this.store.setNote(id, cachedVecs);
+          if (cachedVecs !== undefined && cachedVecs.packed.length > 0) {
+            this.store.setNote(id, cachedVecs.packed, cachedVecs.spans);
             reused++;
           } else {
-            this.store.setNote(id, this.embedNote(note));
+            const { packed, spans } = this.embedNote(note);
+            this.store.setNote(id, packed, spans);
             if (++sinceYield >= this.yieldEvery) {
               sinceYield = 0;
               await new Promise((r) => setImmediate(r));
@@ -151,14 +152,21 @@ export class Semantic {
     if (reused < this.store.noteCount) await this.save();
   }
 
-  private embedNote(note: Pick<IndexedNote, 'title' | 'body'>): Float32Array {
+  private embedNote(note: Pick<IndexedNote, 'title' | 'body'>): {
+    packed: Float32Array;
+    spans: Uint32Array;
+  } {
     const chunks = chunkNote(note.title, note.body);
     const dim = this.embedder.dim;
     const packed = new Float32Array(chunks.length * dim);
+    const spans = new Uint32Array(chunks.length * 2);
     for (let i = 0; i < chunks.length; i++) {
-      packed.set(this.embedder.embed((chunks[i] as { text: string }).text), i * dim);
+      const chunk = chunks[i] as { text: string; start: number; end: number };
+      packed.set(this.embedder.embed(chunk.text), i * dim);
+      spans[i * 2] = chunk.start;
+      spans[i * 2 + 1] = chunk.end;
     }
-    return packed;
+    return { packed, spans };
   }
 
   embedQuery(query: string): Float32Array {
@@ -197,7 +205,8 @@ export class Semantic {
     if (!note) return;
     const hash = contentHash(note.raw);
     if (this.hashes.get(path) === hash) return;
-    this.store.setNote(path, this.embedNote(note));
+    const { packed, spans } = this.embedNote(note);
+    this.store.setNote(path, packed, spans);
     this.hashes.set(path, hash);
     this.log?.debug('semantic re-embed', { path });
     this.scheduleSave();

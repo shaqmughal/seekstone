@@ -64,7 +64,7 @@ It reads your vault **directly from disk** rather than routing through the Obsid
 - **Speed.** Searches return in **single-digit milliseconds** warm — up to **~440× faster** than every other Obsidian MCP server we benchmarked, because there's no subprocess to spawn and no HTTP round-trip per query.
 - **Context.** A broad search that returns **tens of megabytes** and millions of tokens via a REST-proxy server returns **~2 KB** via Seekstone — up to a **~47,000× reduction** that only widens as your vault grows.
 
-Search comes in two modes: ranked **full-text search** (fuzzy and prefix matching), and **structured metadata queries** — `query_notes` filters by frontmatter properties (`status`, `due`, `type`, …), tags, folder, modified time, and size, answering questions like *"which draft notes changed this week?"* in a few hundred bytes instead of a search-and-read loop.
+Search comes in three modes: ranked **full-text search** (fuzzy and prefix matching), optional **local semantic search** (meaning-based, via a small on-device embedding model — opt-in, fully offline), and **structured metadata queries** — `query_notes` filters by frontmatter properties (`status`, `due`, `type`, …), tags, folder, modified time, and size, answering questions like *"which draft notes changed this week?"* in a few hundred bytes instead of a search-and-read loop.
 
 Claude can search and read your entire note library, in milliseconds, without burning most of its context window on a single tool call.
 
@@ -291,7 +291,7 @@ Claude never sees your full vault at once — it searches and reads selectively,
 
 | Tool | Description |
 |---|---|
-| `search` | Full-text search. Returns ranked excerpts (default ~120 chars, tunable via `excerptLength`), not full notes. Fuzzy and prefix matching. |
+| `search` | Full-text search. Returns ranked excerpts (default ~120 chars, tunable via `excerptLength`), not full notes. Fuzzy and prefix matching; with `SEEKSTONE_SEMANTIC=1`, `mode: "semantic"`/`"hybrid"` searches by meaning via a local embedding model (nothing leaves your machine). |
 | `query_notes` | Structured metadata query. Filter by frontmatter key/value predicates (`eq`, `ne`, `contains`, `exists`, `missing`, `gt`/`gte`/`lt`/`lte`), tag, folder, modified time, and size; sort and select the fields you need. Returns compact rows (path + title by default), not note content. |
 | `context_pack` | Answer-ready context for a natural-language question in one call, hard-capped at a byte budget (default 2 KB): ranked excerpts, linked neighbor notes with one-line summaries, and follow-up source paths — replaces a search → read → get_backlinks round-trip loop. |
 | `read_note` | Read the full content of a note by vault-relative path. Supports returning a single section, block, or line range. |
@@ -337,6 +337,9 @@ Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_
 | `SEEKSTONE_WATCH_POLL` | No | Set to `1` to stat-poll for changes instead of native OS events — slower but reliable on network drives, WSL, and some containers. |
 | `SEEKSTONE_READ_ONLY` | No | Set to `1` to run read-only: the 9 write tools are unregistered from the tool list entirely (and rejected if called anyway), so the session provably cannot modify your vault. |
 | `SEEKSTONE_WRITE_PATHS` | No | Comma-separated vault-relative globs (e.g. `journal/**,inbox/*.md`). Writes are permitted only under matching paths; the rest of the vault stays read-only. |
+| `SEEKSTONE_SEMANTIC` | No | Set to `1` to enable semantic search (`search` gains `mode: "semantic"` and `"hybrid"`). Requires the local embedding model — download it once with `npx -y seekstone fetch-model`; the running server never touches the network. |
+| `SEEKSTONE_MODEL_PATH` | No | Directory holding the Model2Vec embedding model (default: where `fetch-model` puts it, under the cache dir). |
+| `SEEKSTONE_CACHE_DIR` | No | Cache root for the downloaded model and per-vault embedding caches (default `~/.cache/seekstone`). |
 
 ---
 

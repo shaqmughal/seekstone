@@ -44,7 +44,7 @@ The **server** has a real build — `npm run build -w seekstone` bundles it (and
 - `SEEKSTONE_REST_API_KEY` — required when invoking the `rest` backend; from the Local REST API plugin settings tab.
 - `SEEKSTONE_REST_URL` — defaults to `https://127.0.0.1:27124`. The plugin ships a self-signed cert; the adapter accepts it via an isolated `undici.Agent`, never by setting `NODE_TLS_REJECT_UNAUTHORIZED`.
 
-The **server** reads its own set (`SEEKSTONE_VAULT`, `SEEKSTONE_READ_ONLY`, `SEEKSTONE_WRITE_PATHS`, `SEEKSTONE_LOG_LEVEL`, `SEEKSTONE_LOG_FILE`, `SEEKSTONE_LOG_MAX_SIZE`, `SEEKSTONE_WATCH_POLL`) — documented in the README's Configuration table. Write behavior to know before editing tools: deletes are recoverable (`.trash/`), edits support `prevHash` compare-and-swap, moves rewrite inbound links, and every write is policy-gated + atomic (see `docs/ARCHITECTURE.md` §2).
+The **server** reads its own set (`SEEKSTONE_VAULT`, `SEEKSTONE_READ_ONLY`, `SEEKSTONE_WRITE_PATHS`, `SEEKSTONE_LOG_LEVEL`, `SEEKSTONE_LOG_FILE`, `SEEKSTONE_LOG_MAX_SIZE`, `SEEKSTONE_WATCH_POLL`, `SEEKSTONE_SEMANTIC`, `SEEKSTONE_MODEL_PATH`, `SEEKSTONE_CACHE_DIR`) — documented in the README's Configuration table. Write behavior to know before editing tools: deletes are recoverable (`.trash/`), edits support `prevHash` compare-and-swap, moves rewrite inbound links, and every write is policy-gated + atomic (see `docs/ARCHITECTURE.md` §2).
 
 ## Architecture
 

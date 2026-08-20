@@ -143,7 +143,7 @@ function semanticSearch(ctx: ServerContext, semantic: Semantic, input: SearchInp
       path: c.path,
       // Cosine similarity ∈ [-1, 1]: 3 decimals keep the ranking legible.
       score: Math.round(c.score * 1000) / 1000,
-      excerpt: chunkExcerpt(note, c.chunkIndex, terms, input.excerptLength ?? 120),
+      excerpt: chunkExcerpt(note.body, c, terms, input.excerptLength ?? 120),
     };
     decorate(hit, note.title, note.tags);
     hits.push(hit);

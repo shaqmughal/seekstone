@@ -123,6 +123,12 @@ export interface RetrievalEvalOptions {
    * conditions appear in the tables but never affect the gate.
    */
   experiments?: boolean;
+  /**
+   * Also evaluate the server's ACTUAL search tool with mode semantic/hybrid
+   * (first model only) — the shipped code path, using the real per-vault
+   * embedding cache. This is the SHA-307 acceptance run.
+   */
+  shipped?: boolean;
 }
 
 interface ConditionAccumulator {
@@ -209,6 +215,28 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     }
   }
 
+  let shippedStop: (() => void) | undefined;
+  if (opts.shipped && opts.modelIds[0]) {
+    const { buildShipped } = await import('./shipped.js');
+    const { defaultCacheDir } = await import('../../../server/src/semantic/config.js');
+    const { homedir } = await import('node:os');
+    const shipped = await buildShipped(
+      lexical.ctx,
+      join(opts.modelsDir, opts.modelIds[0]),
+      defaultCacheDir(process.env, homedir()),
+    );
+    shippedStop = shipped.stop;
+    log(`shipped semantic index ready in ${Math.round(shipped.buildMs)} ms (real cache path)`);
+    for (const mode of ['semantic', 'hybrid'] as const) {
+      const fn = (q: GoldenQuery) => shipped.rank(mode)(q.query);
+      conditions.push({
+        condition: `shipped-${mode}:${opts.modelIds[0]}`,
+        rank: fn,
+        timedRank: fn,
+      });
+    }
+  }
+
   const perQuery: PerQueryResult[] = queries.map((q) => ({
     id: q.id,
     kind: q.kind,
@@ -252,6 +280,7 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     log(`${condition}: hit@5 ${conditionResults.at(-1)?.metrics.overall.hit5.toFixed(1)}%`);
   }
 
+  shippedStop?.();
   return {
     snapshotDate: new Date().toISOString(),
     machine: {

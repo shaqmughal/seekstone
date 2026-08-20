@@ -320,6 +320,7 @@ cli
   })
   .option('--runs <n>', 'Latency runs per query (run 1 is cold and discarded).', { default: 20 })
   .option('--experiments', 'Also evaluate the SHA-307 fusion candidates (first model only).')
+  .option('--shipped', "Also evaluate the server's real search tool with mode semantic/hybrid.")
   .option('--out <dir>', 'Output directory.', { default: 'reports' })
   .action(async (opts) => {
     const outDir = resolve(opts.out);
@@ -335,6 +336,7 @@ cli
         .filter(Boolean),
       runs: Number(opts.runs),
       experiments: Boolean(opts.experiments),
+      shipped: Boolean(opts.shipped),
       log: (m) => console.log(`retrieval: ${m}`),
     });
     const report = { ...summary, vaultRoot: normalizeReportPath(summary.vaultRoot) };
