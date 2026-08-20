@@ -1,5 +1,0 @@
----
-"seekstone": minor
----
-
-Local semantic search, opt-in and fully offline. With `SEEKSTONE_SEMANTIC=1`, the `search` tool gains `mode: "semantic"` (meaning-based search — a description like "instrument that measures wind speed" finds the Anemometer note even when no words match) and `mode: "hybrid"` (exact-title lookups stay lexical, everything else goes semantic). Powered by an in-process Model2Vec embedding model downloaded once via the new `seekstone fetch-model` subcommand — the running server never touches the network, keeping the zero-network guarantee intact. The vault embeds in the background at boot and is cached per-vault (keyed by content hash) so restarts are instant; the file watcher re-embeds changed notes incrementally. Semantic hits return the same lean ranked-excerpt payloads, with excerpts drawn from the matching passage rather than the note head. On the 10k-note benchmark vault, semantic mode answers description-style queries at 70% hit@5 vs lexical's 30%, at ~14 ms warm.
