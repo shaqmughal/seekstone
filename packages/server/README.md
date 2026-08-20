@@ -110,7 +110,7 @@ Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their o
 
 | Tool | Description |
 |---|---|
-| `search` | Full-text search. Returns ranked excerpts (default ~120 chars, tunable via `excerptLength`), not full notes. Fuzzy and prefix matching. |
+| `search` | Full-text search. Returns ranked excerpts (default ~120 chars, tunable via `excerptLength`), not full notes. Fuzzy and prefix matching; with `SEEKSTONE_SEMANTIC=1`, `mode: "semantic"`/`"hybrid"` searches by meaning via a local embedding model (nothing leaves your machine). |
 | `query_notes` | Structured metadata query. Filter by frontmatter key/value predicates (`eq`, `ne`, `contains`, `exists`, `missing`, `gt`/`gte`/`lt`/`lte`), tag, folder, modified time, and size; sort and select the fields you need. Returns compact rows, not note content. |
 | `context_pack` | Answer-ready context for a natural-language question in one call, hard-capped at a byte budget (default 2 KB): ranked excerpts, linked neighbor notes with one-line summaries, and follow-up source paths — replaces a search → read → get_backlinks round-trip loop. |
 | `read_note` | Read the full content of a note by vault-relative path. Supports returning a single section, block, or line range. |
@@ -150,6 +150,9 @@ Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_
 | `SEEKSTONE_LOG_MAX_SIZE` | no | Log-rotation threshold for `SEEKSTONE_LOG_FILE` (e.g. `10mb`; default 5 MB). |
 | `SEEKSTONE_READ_ONLY` | no | Set to `1` to run read-only: the 9 write tools are unregistered entirely (and rejected if called anyway), so the session provably cannot modify your vault. |
 | `SEEKSTONE_WRITE_PATHS` | no | Comma-separated vault-relative globs (e.g. `journal/**,inbox/*.md`). Writes are permitted only under matching paths; the rest of the vault stays read-only. |
+| `SEEKSTONE_SEMANTIC` | no | Set to `1` to enable semantic search (`search` gains `mode: "semantic"` and `"hybrid"`). Download the local model once with `npx -y seekstone fetch-model`; the running server never touches the network. |
+| `SEEKSTONE_MODEL_PATH` | no | Directory holding the Model2Vec embedding model (default: where `fetch-model` puts it). |
+| `SEEKSTONE_CACHE_DIR` | no | Cache root for the model and per-vault embedding caches (default `~/.cache/seekstone`). |
 
 ---
 

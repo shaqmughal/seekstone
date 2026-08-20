@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+import { homedir } from 'node:os';
 import { resolve } from 'node:path';
 import { Server } from '@modelcontextprotocol/sdk/server/index.js';
 import { StdioServerTransport } from '@modelcontextprotocol/sdk/server/stdio.js';
@@ -15,6 +16,8 @@ import { parseInitArgs, runInit } from './init.js';
 import { createLogger } from './log.js';
 import { parseWritePolicy } from './policy.js';
 import { installProcessGuards } from './process-guards.js';
+import { resolveSemanticConfig } from './semantic/config.js';
+import { Semantic } from './semantic/state.js';
 import { visibleTools } from './tool-list.js';
 import { startWatcher } from './watcher.js';
 
@@ -47,6 +50,13 @@ if (intent === 'init') {
   process.stdout.write(`${result.output.join('\n')}\n`);
   process.exit(result.exitCode);
 }
+if (intent === 'fetch-model') {
+  const { runFetchModel } = await import('./semantic/fetch-model.js');
+  const { homedir } = await import('node:os');
+  const result = await runFetchModel({ env: process.env, homedir: homedir() });
+  process.stdout.write(`${result.output.join('\n')}\n`);
+  process.exit(result.exitCode);
+}
 
 const log = createLogger();
 
@@ -73,6 +83,24 @@ const { index, notes, backlinks, buildMs } = await buildIndex(vaultRoot);
 log.info('index ready', { notes: notes.size, buildMs });
 
 const ctx: ServerContext = { vaultRoot, index, notes, backlinks, policy };
+
+const semanticCfg = resolveSemanticConfig(process.env, homedir());
+if (semanticCfg) {
+  try {
+    // Model load is fast (~30 MB read); the index build continues in the
+    // background — semantic queries report progress until it finishes.
+    ctx.semantic = await Semantic.start(ctx, semanticCfg, { log });
+    log.info('semantic search enabled', {
+      model: ctx.semantic.embedder.id,
+      dim: ctx.semantic.embedder.dim,
+      notes: notes.size,
+    });
+  } catch (err) {
+    // The user enabled the feature explicitly — a broken setup fails loudly.
+    log.error(err instanceof Error ? err.message : String(err));
+    process.exit(1);
+  }
+}
 
 const watcher = startWatcher(ctx, log);
 // Exit handlers must stay synchronous — kick off the close; nothing awaits it.

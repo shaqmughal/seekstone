@@ -112,11 +112,12 @@ flowchart TD
 **Layer responsibilities**
 
 1. **Bootstrap (`index.ts`)** — the executable entry. Handles `version` / `help`
-   / `init` CLI intents (which print and exit before any server starts), then
-   for an MCP session: requires `SEEKSTONE_VAULT`, parses the write policy
-   (`policy.ts` — `SEEKSTONE_READ_ONLY`, `SEEKSTONE_WRITE_PATHS`), installs
-   process guards (a stray unhandled rejection must not kill a long-lived stdio
-   session), builds the index, constructs the `ServerContext`, starts the
+   / `init` / `fetch-model` CLI intents (which print and exit before any server
+   starts), then for an MCP session: requires `SEEKSTONE_VAULT`, parses the
+   write policy (`policy.ts` — `SEEKSTONE_READ_ONLY`, `SEEKSTONE_WRITE_PATHS`),
+   installs process guards (a stray unhandled rejection must not kill a
+   long-lived stdio session), builds the index, constructs the `ServerContext`,
+   optionally starts the semantic index (`SEEKSTONE_SEMANTIC=1`), starts the
    watcher, and wires the `@modelcontextprotocol/sdk` `Server` to a
    `StdioServerTransport` with `ListTools` + `CallTool` handlers. `ListTools`
    answers from `tool-list.ts` (`visibleTools(policy)` — in read-only mode the
@@ -126,11 +127,19 @@ flowchart TD
    (path → `IndexedNote`), and a `backlinks` reverse-link map. This is the
    in-memory model every read tool queries.
 3. **`ServerContext` (`context.ts`)** — the single shared state bag:
-   `{ vaultRoot, index, notes, backlinks, policy }`. No globals; it's threaded
-   into every tool call.
+   `{ vaultRoot, index, notes, backlinks, policy, semantic? }`. No globals;
+   it's threaded into every tool call.
 4. **Watcher (`watcher.ts`)** — chokidar watches the vault and incrementally
    updates `index` / `notes` / `backlinks` so the in-memory model never goes
-   stale during a session.
+   stale during a session; when semantic search is enabled it also pokes the
+   semantic index's debounced re-embed queue.
+   4b. **Semantic index (`semantic/`, opt-in)** — a local Model2Vec embedder
+   (`@seekstone/core/embed`; model fetched out-of-band by `seekstone
+   fetch-model`, never by the running server) plus a per-note chunk-vector
+   store. Built in the background at boot; persisted to a per-vault
+   `(path, contentHash)`-keyed cache under `SEEKSTONE_CACHE_DIR` so restarts
+   don't re-embed. `search`'s `mode: semantic` scans it; `mode: hybrid`
+   routes exact-title lookups to lexical and everything else here.
 5. **Dispatch (`dispatch.ts`)** — the routing seam. `dispatch()` wraps the
    per-tool `run()` switch with `performance.now()` timing, structured logging
    (content/query args are debug-only — never logged at info), payload-byte

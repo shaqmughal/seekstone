@@ -25,8 +25,16 @@ export async function buildLexicalContext(vaultRoot: string): Promise<LexicalCon
  * schema, so the limit is passed explicitly; 50 is the SearchInput maximum
  * and the retrieval depth every eval condition uses.
  */
-export function rankLexical(ctx: ServerContext, query: string, limit = 50): string[] {
+/** Top-`limit` lexical hits with MiniSearch scores (score fusion needs them). */
+export function rankLexicalScored(
+  ctx: ServerContext,
+  query: string,
+  limit = 50,
+): Array<{ path: string; score: number }> {
   // Index doc ids carry the platform separator (walkVault uses path.relative);
   // golden-set paths are forward-slash canonical, so normalize here.
-  return searchTool(ctx, { query, limit }).map((h) => h.path.replace(/\\/g, '/'));
+  return searchTool(ctx, { query, limit }).map((h) => ({
+    path: h.path.replace(/\\/g, '/'),
+    score: h.score,
+  }));
 }

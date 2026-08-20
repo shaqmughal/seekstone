@@ -14,11 +14,12 @@ import { cpus } from 'node:os';
 import { join } from 'node:path';
 import { type Embedder, loadModel2Vec } from '@seekstone/core/embed';
 import { type Distribution, summarise } from '@seekstone/core/percentiles';
+import { routeToLexical, type ScoredHit, wsumFuse } from './fusion.js';
 import type { GoldenKind, GoldenQuery, GoldenSet } from './golden.js';
-import { buildLexicalContext, rankLexical } from './lexical.js';
+import { buildLexicalContext, rankLexicalScored } from './lexical.js';
 import { hitAtK, mrrAtK } from './metrics.js';
 import { rrfFuse } from './rrf.js';
-import { buildSemanticIndex, rankSemantic, type SemanticIndex } from './semantic.js';
+import { buildSemanticIndex, rankSemanticScored, type SemanticIndex } from './semantic.js';
 
 export const RETRIEVAL_DEPTH = 50;
 export const HIT_K = 5;
@@ -116,6 +117,18 @@ export interface RetrievalEvalOptions {
   log?: (msg: string) => void;
   /** Test seam; defaults to loadModel2Vec. */
   loadEmbedder?: (modelDir: string) => Promise<Embedder>;
+  /**
+   * Also evaluate the SHA-307 fusion candidates (top2mean pooling, query
+   * routing, score-weighted fusion) for the FIRST model. Experimental
+   * conditions appear in the tables but never affect the gate.
+   */
+  experiments?: boolean;
+  /**
+   * Also evaluate the server's ACTUAL search tool with mode semantic/hybrid
+   * (first model only) — the shipped code path, using the real per-vault
+   * embedding cache. This is the SHA-307 acceptance run.
+   */
+  shipped?: boolean;
 }
 
 interface ConditionAccumulator {
@@ -155,26 +168,74 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
   }
 
   // Lexical rankings are computed once per query and shared by every hybrid.
-  const lexicalRankings = new Map<string, string[]>();
+  const lexicalScored = new Map<string, ScoredHit[]>();
   for (const q of queries) {
-    lexicalRankings.set(q.id, rankLexical(lexical.ctx, q.query, RETRIEVAL_DEPTH));
+    lexicalScored.set(q.id, rankLexicalScored(lexical.ctx, q.query, RETRIEVAL_DEPTH));
   }
+  const lexPaths = (q: GoldenQuery) => (lexicalScored.get(q.id) as ScoredHit[]).map((h) => h.path);
 
   const conditions: ConditionAccumulator[] = [
     {
       condition: 'lexical',
-      rank: (q) => lexicalRankings.get(q.id) as string[],
-      timedRank: (q) => rankLexical(lexical.ctx, q.query, RETRIEVAL_DEPTH),
+      rank: lexPaths,
+      timedRank: (q) => rankLexicalScored(lexical.ctx, q.query, RETRIEVAL_DEPTH).map((h) => h.path),
     },
   ];
-  for (const { id, embedder, index } of embedders) {
-    const semantic = (q: GoldenQuery) => rankSemantic(embedder, index, q.query, RETRIEVAL_DEPTH);
+  for (const [modelIdx, { id, embedder, index }] of embedders.entries()) {
+    const semScored = (q: GoldenQuery, pooling: 'max' | 'top2mean' = 'max') =>
+      rankSemanticScored(embedder, index, q.query, RETRIEVAL_DEPTH, pooling);
+    const semantic = (q: GoldenQuery) => semScored(q).map((h) => h.path);
     conditions.push({ condition: `semantic:${id}`, rank: semantic, timedRank: semantic });
     conditions.push({
       condition: `hybrid-rrf:${id}`,
-      rank: (q) => rrfFuse([lexicalRankings.get(q.id) as string[], semantic(q)]),
-      timedRank: (q) => rrfFuse([rankLexical(lexical.ctx, q.query, RETRIEVAL_DEPTH), semantic(q)]),
+      rank: (q) => rrfFuse([lexPaths(q), semantic(q)]),
+      timedRank: (q) =>
+        rrfFuse([
+          rankLexicalScored(lexical.ctx, q.query, RETRIEVAL_DEPTH).map((h) => h.path),
+          semantic(q),
+        ]),
     });
+    if (opts.experiments && modelIdx === 0) {
+      const semanticTop2 = (q: GoldenQuery) => semScored(q, 'top2mean').map((h) => h.path);
+      const route = (pooling: 'max' | 'top2mean') => (q: GoldenQuery) =>
+        routeToLexical(q.query, lexicalScored.get(q.id) as ScoredHit[])
+          ? lexPaths(q)
+          : semScored(q, pooling).map((h) => h.path);
+      const wsum = (alpha: number) => (q: GoldenQuery) =>
+        wsumFuse(lexicalScored.get(q.id) as ScoredHit[], semScored(q), alpha);
+      for (const [name, fn] of [
+        [`semantic-top2:${id}`, semanticTop2],
+        [`hybrid-route:${id}`, route('max')],
+        [`hybrid-route-top2:${id}`, route('top2mean')],
+        [`hybrid-wsum70:${id}`, wsum(0.7)],
+        [`hybrid-wsum85:${id}`, wsum(0.85)],
+      ] as const) {
+        conditions.push({ condition: name, rank: fn, timedRank: fn });
+      }
+    }
+  }
+
+  let shippedStop: (() => void) | undefined;
+  if (opts.shipped && opts.modelIds[0]) {
+    const { buildShipped } = await import('./shipped.js');
+    const { defaultCacheDir } = await import('../../../server/src/semantic/config.js');
+    const { homedir } = await import('node:os');
+    const shipped = await buildShipped(
+      lexical.ctx,
+      join(opts.modelsDir, opts.modelIds[0]),
+      defaultCacheDir(process.env, homedir()),
+      opts.loadEmbedder,
+    );
+    shippedStop = shipped.stop;
+    log(`shipped semantic index ready in ${Math.round(shipped.buildMs)} ms (real cache path)`);
+    for (const mode of ['semantic', 'hybrid'] as const) {
+      const fn = (q: GoldenQuery) => shipped.rank(mode)(q.query);
+      conditions.push({
+        condition: `shipped-${mode}:${opts.modelIds[0]}`,
+        rank: fn,
+        timedRank: fn,
+      });
+    }
   }
 
   const perQuery: PerQueryResult[] = queries.map((q) => ({
@@ -220,6 +281,7 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     log(`${condition}: hit@5 ${conditionResults.at(-1)?.metrics.overall.hit5.toFixed(1)}%`);
   }
 
+  shippedStop?.();
   return {
     snapshotDate: new Date().toISOString(),
     machine: {

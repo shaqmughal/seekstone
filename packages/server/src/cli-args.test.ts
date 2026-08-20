@@ -8,6 +8,7 @@ describe('parseCliIntent', () => {
 
   it('recognizes --version and -v', () => {
     expect(parseCliIntent(['--version'])).toBe('version');
+    expect(parseCliIntent(['fetch-model'])).toBe('fetch-model');
     expect(parseCliIntent(['-v'])).toBe('version');
   });
 
