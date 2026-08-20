@@ -134,12 +134,16 @@ describe('runRetrievalEval', () => {
   });
 });
 
-describe('runRetrievalEval --experiments', () => {
+describe('runRetrievalEval --experiments --shipped', () => {
   let vault: string;
   let summary: RetrievalSummary;
+  let priorCacheDir: string | undefined;
 
   beforeAll(async () => {
     vault = await mkdtemp(join(tmpdir(), 'seekstone-retrieval-exp-'));
+    // Keep the shipped path's embedding cache out of the real user cache dir.
+    priorCacheDir = process.env.SEEKSTONE_CACHE_DIR;
+    process.env.SEEKSTONE_CACHE_DIR = join(vault, '.cache');
     await mkdir(join(vault, 'Notes'), { recursive: true });
     await writeFile(
       join(vault, 'Notes', 'Windmill.md'),
@@ -166,14 +170,17 @@ describe('runRetrievalEval --experiments', () => {
       modelIds: ['stub-small'],
       runs: 2,
       experiments: true,
+      shipped: true,
       loadEmbedder: async (dir) => stubEmbedder(basename(dir)),
     });
   });
   afterAll(async () => {
+    if (priorCacheDir === undefined) delete process.env.SEEKSTONE_CACHE_DIR;
+    else process.env.SEEKSTONE_CACHE_DIR = priorCacheDir;
     await rm(vault, { recursive: true, force: true });
   });
 
-  it('adds the five fusion-candidate conditions for the first model', () => {
+  it('adds the fusion-candidate and shipped conditions for the first model', () => {
     expect(summary.conditions.map((c) => c.condition)).toEqual([
       'lexical',
       'semantic:stub-small',
@@ -183,7 +190,17 @@ describe('runRetrievalEval --experiments', () => {
       'hybrid-route-top2:stub-small',
       'hybrid-wsum70:stub-small',
       'hybrid-wsum85:stub-small',
+      'shipped-semantic:stub-small',
+      'shipped-hybrid:stub-small',
     ]);
+  });
+
+  it("shipped conditions run the server's real search tool", () => {
+    const sem = summary.perQuery.find((p) => p.id === 'sem-windmill');
+    expect(sem?.conditions['shipped-semantic:stub-small']?.hit5).toBe(true);
+    expect(sem?.conditions['shipped-hybrid:stub-small']?.hit5).toBe(true);
+    const lex = summary.perQuery.find((p) => p.id === 'lex-cheese');
+    expect(lex?.conditions['shipped-hybrid:stub-small']?.hit5).toBe(true);
   });
 
   it('routes the exact-title query to lexical and the description to semantic', () => {

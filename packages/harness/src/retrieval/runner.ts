@@ -224,6 +224,7 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
       lexical.ctx,
       join(opts.modelsDir, opts.modelIds[0]),
       defaultCacheDir(process.env, homedir()),
+      opts.loadEmbedder,
     );
     shippedStop = shipped.stop;
     log(`shipped semantic index ready in ${Math.round(shipped.buildMs)} ms (real cache path)`);

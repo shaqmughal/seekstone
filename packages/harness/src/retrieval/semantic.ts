@@ -54,18 +54,7 @@ export async function buildSemanticIndex(
   return { set, noteCount: notes.length, chunkCount, buildMs: performance.now() - t0 };
 }
 
-/** Top-`k` note paths by pooled chunk cosine similarity. */
-export function rankSemantic(
-  embedder: Embedder,
-  index: SemanticIndex,
-  query: string,
-  k = 50,
-  pooling: ChunkPooling = 'max',
-): string[] {
-  return rankSemanticScored(embedder, index, query, k, pooling).map((h) => h.path);
-}
-
-/** Like rankSemantic but keeps cosine scores (needed by score fusion). */
+/** Top-`k` notes by pooled chunk cosine similarity, with scores. */
 export function rankSemanticScored(
   embedder: Embedder,
   index: SemanticIndex,

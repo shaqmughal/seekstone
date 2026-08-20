@@ -25,11 +25,7 @@ export async function buildLexicalContext(vaultRoot: string): Promise<LexicalCon
  * schema, so the limit is passed explicitly; 50 is the SearchInput maximum
  * and the retrieval depth every eval condition uses.
  */
-export function rankLexical(ctx: ServerContext, query: string, limit = 50): string[] {
-  return rankLexicalScored(ctx, query, limit).map((h) => h.path);
-}
-
-/** Like rankLexical but keeps MiniSearch scores (needed by score fusion). */
+/** Top-`limit` lexical hits with MiniSearch scores (score fusion needs them). */
 export function rankLexicalScored(
   ctx: ServerContext,
   query: string,
