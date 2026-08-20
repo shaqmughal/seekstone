@@ -38,11 +38,17 @@ export const ALL_TOOLS = [
     name: 'search',
     annotations: READ_ONLY_ANNOTATIONS,
     description:
-      'Full-text search across the vault. Returns ranked excerpts (~200 chars) — not full notes — to minimise context usage. Supports fuzzy matching and prefix search.',
+      'Full-text search across the vault. Returns ranked excerpts (~200 chars) — not full notes — to minimise context usage. Supports fuzzy matching and prefix search; with SEEKSTONE_SEMANTIC=1, mode "semantic"/"hybrid" searches by meaning via a local embedding model.',
     inputSchema: {
       type: 'object',
       properties: {
         query: { type: 'string', description: 'Search query.' },
+        mode: {
+          type: 'string',
+          enum: ['lexical', 'semantic', 'hybrid'],
+          description:
+            'lexical = keyword search (default). semantic = meaning-based search (requires SEEKSTONE_SEMANTIC=1). hybrid = exact-title lookups go lexical, everything else semantic.',
+        },
         limit: { type: 'number', description: 'Max results (1–50, default 10).' },
         folder: { type: 'string', description: 'Restrict to a vault-relative folder prefix.' },
         tag: { type: 'string', description: 'Restrict to notes with this tag.' },

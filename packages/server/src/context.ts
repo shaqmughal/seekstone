@@ -2,6 +2,7 @@ import type { LinkType } from '@seekstone/core/extract';
 import type MiniSearch from 'minisearch';
 import type { IndexedNote } from './index/types.js';
 import type { WritePolicy } from './policy.js';
+import type { Semantic } from './semantic/state.js';
 
 export interface BacklinkRef {
   /** Vault-relative path of the note that contains the link. */
@@ -22,4 +23,10 @@ export interface ServerContext {
   backlinks: Map<string, BacklinkRef[]>;
   /** Read-only / write-path-scoping policy, parsed from env at boot. */
   policy: WritePolicy;
+  /**
+   * Live semantic index — present only when SEEKSTONE_SEMANTIC=1 and the
+   * local embedding model loaded at boot. Fed by the watcher; consumed by
+   * search's semantic/hybrid modes.
+   */
+  semantic?: Semantic;
 }

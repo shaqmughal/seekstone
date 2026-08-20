@@ -76,6 +76,9 @@ export function startWatcher(
       removeNoteBacklinks(ctx, relPath);
       upsertDoc(ctx, buildDoc(relPath, raw));
       addNoteBacklinks(ctx, relPath, raw);
+      // Semantic re-embeds are debounced internally and read the fresh
+      // ctx.notes entry — never the disk — so this stays off the hot path.
+      ctx.semantic?.noteChanged(relPath);
       log?.debug('index updated', { path: relPath, op });
     } catch {
       // File vanished between event and read — ignore; an unlink will follow.
@@ -87,6 +90,7 @@ export function startWatcher(
       removeNoteBacklinks(ctx, relPath);
       ctx.index.discard(relPath);
       ctx.notes.delete(relPath);
+      ctx.semantic?.noteRemoved(relPath);
       log?.debug('index removed', { path: relPath, op: 'delete' });
     }
   }

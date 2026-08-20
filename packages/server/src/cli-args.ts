@@ -5,7 +5,7 @@
  * CLI installed via `npx`.
  */
 
-export type CliIntent = 'version' | 'help' | 'init' | 'init-help' | 'run';
+export type CliIntent = 'version' | 'help' | 'init' | 'init-help' | 'fetch-model' | 'run';
 
 export function parseCliIntent(argv: readonly string[]): CliIntent {
   // A subcommand, if present, is the first non-flag token. A help flag after
@@ -17,6 +17,7 @@ export function parseCliIntent(argv: readonly string[]): CliIntent {
     }
     return 'init';
   }
+  if (argv[0] === 'fetch-model') return 'fetch-model';
   for (const arg of argv) {
     if (arg === '--version' || arg === '-v') return 'version';
     if (arg === '--help' || arg === '-h') return 'help';
@@ -37,10 +38,11 @@ Seekstone runs as a Model Context Protocol stdio server. It is normally
 launched by an MCP client (Claude Desktop, Claude Code, Cursor, …), not run by hand.
 
 Usage:
-  seekstone            Start the MCP server (reads from stdin/stdout)
-  seekstone init       Validate a vault and print/patch the client MCP config
-  seekstone --version  Print the version and exit
-  seekstone --help     Print this help and exit
+  seekstone              Start the MCP server (reads from stdin/stdout)
+  seekstone init         Validate a vault and print/patch the client MCP config
+  seekstone fetch-model  Download the local embedding model for semantic search
+  seekstone --version    Print the version and exit
+  seekstone --help       Print this help and exit
 
 "seekstone init" options:
 ${initOptionLines}
@@ -52,6 +54,9 @@ Optional environment:
   SEEKSTONE_LOG_LEVEL  error | warn | info (default) | debug
   SEEKSTONE_LOG_FILE   Absolute path; append JSON-line logs here
   SEEKSTONE_WATCH_POLL Set to 1 to poll for changes (network drives, WSL)
+  SEEKSTONE_SEMANTIC   Set to 1 to enable semantic search (needs fetch-model first)
+  SEEKSTONE_MODEL_PATH Override the embedding-model directory
+  SEEKSTONE_CACHE_DIR  Override the cache root (default ~/.cache/seekstone)
 
 Add to Claude Code:
   claude mcp add seekstone --env SEEKSTONE_VAULT=/path/to/vault -- npx -y seekstone
