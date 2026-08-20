@@ -134,6 +134,68 @@ describe('runRetrievalEval', () => {
   });
 });
 
+describe('runRetrievalEval --experiments', () => {
+  let vault: string;
+  let summary: RetrievalSummary;
+
+  beforeAll(async () => {
+    vault = await mkdtemp(join(tmpdir(), 'seekstone-retrieval-exp-'));
+    await mkdir(join(vault, 'Notes'), { recursive: true });
+    await writeFile(
+      join(vault, 'Notes', 'Windmill.md'),
+      '# Windmill\n\nA mill worked by the wind, its sails turning in the breeze.\n',
+    );
+    await writeFile(
+      join(vault, 'Notes', 'Cheese.md'),
+      '# Cheese\n\nCheese is a preparation of milk curd, a staple dairy food.\n',
+    );
+    summary = await runRetrievalEval({
+      vaultRoot: vault,
+      goldenSet: {
+        queries: [
+          { id: 'lex-cheese', kind: 'lexical', query: 'cheese', expected: ['Notes/Cheese.md'] },
+          {
+            id: 'sem-windmill',
+            kind: 'semantic',
+            query: 'machine driven by moving air',
+            expected: ['Notes/Windmill.md'],
+          },
+        ],
+      },
+      modelsDir: '/nonexistent',
+      modelIds: ['stub-small'],
+      runs: 2,
+      experiments: true,
+      loadEmbedder: async (dir) => stubEmbedder(basename(dir)),
+    });
+  });
+  afterAll(async () => {
+    await rm(vault, { recursive: true, force: true });
+  });
+
+  it('adds the five fusion-candidate conditions for the first model', () => {
+    expect(summary.conditions.map((c) => c.condition)).toEqual([
+      'lexical',
+      'semantic:stub-small',
+      'hybrid-rrf:stub-small',
+      'semantic-top2:stub-small',
+      'hybrid-route:stub-small',
+      'hybrid-route-top2:stub-small',
+      'hybrid-wsum70:stub-small',
+      'hybrid-wsum85:stub-small',
+    ]);
+  });
+
+  it('routes the exact-title query to lexical and the description to semantic', () => {
+    const q = summary.perQuery.find((p) => p.id === 'lex-cheese');
+    expect(q?.conditions['hybrid-route:stub-small']?.top10).toEqual(q?.conditions.lexical?.top10);
+    const sem = summary.perQuery.find((p) => p.id === 'sem-windmill');
+    expect(sem?.conditions['hybrid-route:stub-small']?.hit5).toBe(true);
+    expect(sem?.conditions['hybrid-wsum70:stub-small']?.hit5).toBe(true);
+    expect(sem?.conditions['semantic-top2:stub-small']?.hit5).toBe(true);
+  });
+});
+
 describe('computeGate', () => {
   const metrics = (hit5: number) => ({ hit5, mrr10: 0.5, n: 10 });
   const dist = (p95: number) => ({

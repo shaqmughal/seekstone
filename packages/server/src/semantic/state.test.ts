@@ -144,4 +144,76 @@ describe('Semantic', () => {
       ),
     ).rejects.toThrow(/fetch-model/);
   });
+
+  it('persists the cache after a watcher-driven re-embed', async () => {
+    const ctx = makeCtx('/vault/persist');
+    const s = await Semantic.start(ctx, cfg(), deps());
+    await s.ready();
+    ctx.notes.set('Notes/Other.md', note('Notes/Other.md', 'Fresh cheese content.'));
+    s.noteChanged('Notes/Other.md');
+    const { existsSync } = await import('node:fs');
+    const { cachePathsFor } = await import('./cache.js');
+    const paths = cachePathsFor(cacheDir, '/vault/persist', 'stub-model');
+    await vi.waitFor(() => {
+      expect(existsSync(paths.manifest)).toBe(true);
+    });
+    s.stop();
+  });
+
+  it('survives a failing cache save with a warning, and a failing build with an error log', async () => {
+    const logs: Record<string, string[]> = { error: [], warn: [], info: [], debug: [] };
+    const log = {
+      level: 'debug' as const,
+      error: (m: string) => void logs.error?.push(m),
+      warn: (m: string) => void logs.warn?.push(m),
+      info: (m: string) => void logs.info?.push(m),
+      debug: (m: string) => void logs.debug?.push(m),
+    };
+    // cacheDir pointing at a FILE makes every cache write fail.
+    const { writeFile: wf } = await import('node:fs/promises');
+    const notADir = join(cacheDir, 'not-a-dir');
+    await wf(notADir, 'occupied');
+    const s = await Semantic.start(
+      makeCtx('/vault/badsave'),
+      { modelDir: '/x', cacheDir: notADir },
+      {
+        ...deps(),
+        log,
+      },
+    );
+    await s.ready();
+    expect(s.progress).toEqual({ state: 'ready' }); // save failure never breaks the index
+    expect(logs.warn?.join(' ')).toContain('semantic cache save failed');
+    s.stop();
+
+    const boom: typeof stubEmbedder = {
+      ...stubEmbedder,
+      embed: () => {
+        throw new Error('embed exploded');
+      },
+    };
+    const failing = await Semantic.start(makeCtx('/vault/badbuild'), cfg(), {
+      ...deps(),
+      loadModel: async () => boom,
+      log,
+    });
+    await failing.ready(); // resolves — the build failure is caught and logged
+    expect(logs.error?.join(' ')).toContain('semantic build failed');
+    expect(failing.progress.state).toBe('building'); // never reached ready
+    failing.stop();
+  });
+
+  it('stop() cancels pending re-embeds and ignores later events', async () => {
+    const ctx = makeCtx('/vault/stop');
+    const s = await Semantic.start(ctx, cfg(), deps());
+    await s.ready();
+    ctx.notes.set('Notes/Other.md', note('Notes/Other.md', 'Now dairy milk cheese.'));
+    s.noteChanged('Notes/Other.md');
+    s.stop(); // before the 5 ms debounce fires
+    s.noteChanged('Notes/Other.md'); // no-op after stop
+    await new Promise((r) => setTimeout(r, 30));
+    const top = s.store.topNotes(s.embedQuery('dairy'), 3);
+    expect(top[0]?.path).toBe('Notes/Cheese.md'); // Other.md was never re-embedded
+    expect(top[0]?.score ?? 0).toBeGreaterThan(top[1]?.score ?? 0);
+  });
 });
