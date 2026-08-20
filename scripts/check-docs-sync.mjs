@@ -63,7 +63,7 @@ for (const file of COUNT_SURFACES) {
 }
 
 // ---------- check 2: retired claims ----------
-const RETIRED = [/575\s*[×x]/, /1\.75\s*MB/, /459,?000/, /~?800×/];
+const RETIRED = [/575\s*[×x]/, /1\.75\s*MB/, /459,?000/, /~?800×/, /compare-and-swap (on )?edits/];
 const RETIRED_SURFACES = [
   'README.md',
   'packages/server/README.md',

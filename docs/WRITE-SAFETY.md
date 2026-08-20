@@ -95,7 +95,7 @@ reports where it went. `permanent: true` is the explicit opt-out.
   and the harness `recoverable-delete` op — after a delete, a byte-identical
   copy must exist in a recoverable location.
 
-### 7. Optional compare-and-swap on edits
+### 7. Optional compare-and-swap on every write
 
 `read_note` returns a `contentHash` (sha-256 of the note's disk bytes). All
 nine write tools accept `prevHash` and refuse to act — with a structured
