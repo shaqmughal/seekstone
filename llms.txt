@@ -48,7 +48,7 @@ npx -y seekstone init --client cursor --write
 
 Or add the same `mcpServers` JSON block as Claude Desktop to `~/.cursor/mcp.json`. Any other MCP-over-stdio client (VS Code/Copilot, Windsurf, Cline, Continue, JetBrains, Zed) takes the identical block in its own MCP config file.
 
-## Tools (18)
+## Tools (19)
 
 Read:
 - `search` — full-text search returning ranked excerpts, ~120 chars by default and tunable (not full notes)
