@@ -110,7 +110,10 @@ describe('Semantic', () => {
     s.noteChanged('Notes/Other.md');
     await vi.waitFor(() => {
       const top = s.store.topNotes(s.embedQuery('dairy'), 2);
+      // Both dairy notes must score ~1 — Other.md at its build-time score of 0
+      // (a tie-break artifact) would mean the re-embed never happened.
       expect(top.map((h) => h.path)).toContain('Notes/Other.md');
+      expect(top[1]?.score ?? 0).toBeGreaterThan(0.9);
     });
     s.stop();
   });
@@ -149,15 +152,49 @@ describe('Semantic', () => {
     const ctx = makeCtx('/vault/persist');
     const s = await Semantic.start(ctx, cfg(), deps());
     await s.ready();
+    // The build already saved once — delete the manifest so a reappearing
+    // file can only come from the debounced post-change save.
+    const { existsSync } = await import('node:fs');
+    const { rm: rmFile } = await import('node:fs/promises');
+    const { cachePathsFor, loadCache } = await import('./cache.js');
+    const paths = cachePathsFor(cacheDir, '/vault/persist', 'stub-model');
+    await rmFile(paths.manifest, { force: true });
     ctx.notes.set('Notes/Other.md', note('Notes/Other.md', 'Fresh cheese content.'));
     s.noteChanged('Notes/Other.md');
-    const { existsSync } = await import('node:fs');
-    const { cachePathsFor } = await import('./cache.js');
-    const paths = cachePathsFor(cacheDir, '/vault/persist', 'stub-model');
     await vi.waitFor(() => {
       expect(existsSync(paths.manifest)).toBe(true);
     });
+    const reloaded = await loadCache(paths, 'stub-model', 3);
+    expect(reloaded?.vectors.has('Notes/Other.md')).toBe(true);
     s.stop();
+  });
+
+  it('drops a pending re-embed when the note is removed first', async () => {
+    const ctx = makeCtx('/vault/remove-pending');
+    const s = await Semantic.start(ctx, cfg(), deps());
+    await s.ready();
+    ctx.notes.set('Notes/Other.md', note('Notes/Other.md', 'About milk now.'));
+    s.noteChanged('Notes/Other.md'); // pending timer armed
+    ctx.notes.delete('Notes/Other.md');
+    s.noteRemoved('Notes/Other.md'); // must clear the pending timer too
+    await new Promise((r) => setTimeout(r, 30));
+    expect(s.store.noteCount).toBe(2);
+    expect(s.store.getNote('Notes/Other.md')).toBeUndefined();
+    s.stop();
+  });
+
+  it('applies default debounce/yield settings and the real model loader path', async () => {
+    // No deps beyond loadModel — exercises every ?? default.
+    const ctx = makeCtx('/vault/defaults');
+    const s = await Semantic.start(ctx, cfg(), { loadModel: async () => stubEmbedder });
+    await s.ready();
+    expect(s.store.noteCount).toBe(3);
+    s.stop();
+    // No loadModel seam at all — the real loadModel2Vec path runs and fails
+    // actionably on a missing model dir.
+    await expect(
+      Semantic.start(makeCtx('/vault/realloader'), { modelDir: '/definitely/missing', cacheDir }),
+    ).rejects.toThrow(/fetch-model/);
   });
 
   it('survives a failing cache save with a warning, and a failing build with an error log', async () => {
