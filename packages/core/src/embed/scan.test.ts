@@ -77,4 +77,27 @@ describe('createVectorSet / scanTopNotes', () => {
   it('scans an empty set to an empty result', () => {
     expect(scanTopNotes(vec(1, 0), createVectorSet(2), 5)).toEqual([]);
   });
+
+  it('top2mean pooling averages the two best chunks of a note', () => {
+    const set = createVectorSet(2);
+    // Hub note: one lucky chunk, one weak chunk.
+    set.add('hub.md', vec(1, 0));
+    set.add('hub.md', vec(0, 1));
+    // Focused note: two consistently relevant chunks.
+    set.add('focused.md', vec(0.9, 0.1));
+    set.add('focused.md', vec(0.8, 0.2));
+    const maxHits = scanTopNotes(vec(1, 0), set, 2, 'max');
+    expect(maxHits[0]?.path).toBe('hub.md'); // max rewards the lucky chunk
+    const pooled = scanTopNotes(vec(1, 0), set, 2, 'top2mean');
+    expect(pooled[0]?.path).toBe('focused.md'); // (0.9+0.8)/2 > (1+0)/2
+    expect(pooled[0]?.score).toBeCloseTo(0.85);
+    expect(pooled[1]?.score).toBeCloseTo(0.5);
+  });
+
+  it('top2mean keeps a single-chunk note at its full score', () => {
+    const set = createVectorSet(2);
+    set.add('single.md', vec(1, 0));
+    const hits = scanTopNotes(vec(1, 0), set, 1, 'top2mean');
+    expect(hits[0]?.score).toBeCloseTo(1);
+  });
 });

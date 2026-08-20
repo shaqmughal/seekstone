@@ -26,7 +26,19 @@ export async function buildLexicalContext(vaultRoot: string): Promise<LexicalCon
  * and the retrieval depth every eval condition uses.
  */
 export function rankLexical(ctx: ServerContext, query: string, limit = 50): string[] {
+  return rankLexicalScored(ctx, query, limit).map((h) => h.path);
+}
+
+/** Like rankLexical but keeps MiniSearch scores (needed by score fusion). */
+export function rankLexicalScored(
+  ctx: ServerContext,
+  query: string,
+  limit = 50,
+): Array<{ path: string; score: number }> {
   // Index doc ids carry the platform separator (walkVault uses path.relative);
   // golden-set paths are forward-slash canonical, so normalize here.
-  return searchTool(ctx, { query, limit }).map((h) => h.path.replace(/\\/g, '/'));
+  return searchTool(ctx, { query, limit }).map((h) => ({
+    path: h.path.replace(/\\/g, '/'),
+    score: h.score,
+  }));
 }

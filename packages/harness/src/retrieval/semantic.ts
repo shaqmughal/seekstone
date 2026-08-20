@@ -7,6 +7,7 @@
 import { readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import {
+  type ChunkPooling,
   chunkNote,
   createVectorSet,
   type Embedder,
@@ -53,12 +54,24 @@ export async function buildSemanticIndex(
   return { set, noteCount: notes.length, chunkCount, buildMs: performance.now() - t0 };
 }
 
-/** Top-`k` note paths by max-pooled chunk cosine similarity. */
+/** Top-`k` note paths by pooled chunk cosine similarity. */
 export function rankSemantic(
   embedder: Embedder,
   index: SemanticIndex,
   query: string,
   k = 50,
+  pooling: ChunkPooling = 'max',
 ): string[] {
-  return scanTopNotes(embedder.embed(query), index.set, k).map((h) => h.path);
+  return rankSemanticScored(embedder, index, query, k, pooling).map((h) => h.path);
+}
+
+/** Like rankSemantic but keeps cosine scores (needed by score fusion). */
+export function rankSemanticScored(
+  embedder: Embedder,
+  index: SemanticIndex,
+  query: string,
+  k = 50,
+  pooling: ChunkPooling = 'max',
+): Array<{ path: string; score: number }> {
+  return scanTopNotes(embedder.embed(query), index.set, k, pooling);
 }
