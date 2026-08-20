@@ -1,0 +1,4749 @@
+{
+  "snapshotDate": "2026-08-20T01:06:53.554Z",
+  "machine": {
+    "platform": "darwin",
+    "arch": "arm64",
+    "node": "v25.9.0",
+    "cpus": 16
+  },
+  "vaultRoot": "packages/harness/fixtures/vault",
+  "noteCount": 10000,
+  "querySet": {
+    "total": 50,
+    "semantic": 30,
+    "lexical": 10,
+    "topical": 10
+  },
+  "runs": 20,
+  "lexicalBuildMs": 42479,
+  "models": [
+    {
+      "modelId": "potion-base-8M",
+      "dim": 256,
+      "chunkCount": 45964,
+      "indexBuildMs": 22161.479375000003,
+      "loadMs": 15.112374999996973
+    }
+  ],
+  "conditions": [
+    {
+      "condition": "lexical",
+      "metrics": {
+        "overall": {
+          "hit5": 44,
+          "mrr10": 0.304,
+          "n": 50
+        },
+        "semantic": {
+          "hit5": 30,
+          "mrr10": 0.15,
+          "n": 30
+        },
+        "lexical": {
+          "hit5": 100,
+          "mrr10": 0.95,
+          "n": 10
+        },
+        "topical": {
+          "hit5": 30,
+          "mrr10": 0.12,
+          "n": 10
+        }
+      },
+      "latency": {
+        "warm": {
+          "n": 950,
+          "min": 1.0256249999947613,
+          "median": 33.8370419999992,
+          "p90": 199.96224999999686,
+          "p95": 220.41858300000604,
+          "p99": 240.04987499999697,
+          "max": 339.16258400000515,
+          "mean": 55.07083565894761
+        }
+      }
+    },
+    {
+      "condition": "semantic:potion-base-8M",
+      "metrics": {
+        "overall": {
+          "hit5": 68,
+          "mrr10": 0.5207460317460317,
+          "n": 50
+        },
+        "semantic": {
+          "hit5": 70,
+          "mrr10": 0.4977777777777777,
+          "n": 30
+        },
+        "lexical": {
+          "hit5": 80,
+          "mrr10": 0.7611111111111111,
+          "n": 10
+        },
+        "topical": {
+          "hit5": 50,
+          "mrr10": 0.3492857142857143,
+          "n": 10
+        }
+      },
+      "latency": {
+        "warm": {
+          "n": 950,
+          "min": 12.691625000006752,
+          "median": 12.787833000009414,
+          "p90": 13.361457999999402,
+          "p95": 13.942291000013938,
+          "p99": 14.25800000000163,
+          "max": 15.640374999988126,
+          "mean": 12.93750652315838
+        }
+      }
+    },
+    {
+      "condition": "hybrid-rrf:potion-base-8M",
+      "metrics": {
+        "overall": {
+          "hit5": 54,
+          "mrr10": 0.4001904761904761,
+          "n": 50
+        },
+        "semantic": {
+          "hit5": 46.666666666666664,
+          "mrr10": 0.2996296296296296,
+          "n": 30
+        },
+        "lexical": {
+          "hit5": 100,
+          "mrr10": 0.95,
+          "n": 10
+        },
+        "topical": {
+          "hit5": 30,
+          "mrr10": 0.15206349206349207,
+          "n": 10
+        }
+      },
+      "latency": {
+        "warm": {
+          "n": 950,
+          "min": 13.820375000010245,
+          "median": 46.76145799999358,
+          "p90": 210.69441699999152,
+          "p95": 236.05166699999245,
+          "p99": 270.26558300000033,
+          "max": 328.12187499998254,
+          "mean": 67.7937706252639
+        }
+      }
+    },
+    {
+      "condition": "shipped-semantic:potion-base-8M",
+      "metrics": {
+        "overall": {
+          "hit5": 68,
+          "mrr10": 0.5207460317460317,
+          "n": 50
+        },
+        "semantic": {
+          "hit5": 70,
+          "mrr10": 0.4977777777777777,
+          "n": 30
+        },
+        "lexical": {
+          "hit5": 80,
+          "mrr10": 0.7611111111111111,
+          "n": 10
+        },
+        "topical": {
+          "hit5": 50,
+          "mrr10": 0.3492857142857143,
+          "n": 10
+        }
+      },
+      "latency": {
+        "warm": {
+          "n": 950,
+          "min": 13.288708000007318,
+          "median": 13.610707999992883,
+          "p90": 14.023583000001963,
+          "p95": 14.436249999998836,
+          "p99": 14.996666999999434,
+          "max": 15.9292500000156,
+          "mean": 13.678578874736957
+        }
+      }
+    },
+    {
+      "condition": "shipped-hybrid:potion-base-8M",
+      "metrics": {
+        "overall": {
+          "hit5": 72,
+          "mrr10": 0.5585238095238094,
+          "n": 50
+        },
+        "semantic": {
+          "hit5": 70,
+          "mrr10": 0.4977777777777777,
+          "n": 30
+        },
+        "lexical": {
+          "hit5": 100,
+          "mrr10": 0.95,
+          "n": 10
+        },
+        "topical": {
+          "hit5": 50,
+          "mrr10": 0.3492857142857143,
+          "n": 10
+        }
+      },
+      "latency": {
+        "warm": {
+          "n": 950,
+          "min": 1.226375000027474,
+          "median": 13.750417000002926,
+          "p90": 35.04366600001231,
+          "p95": 41.2622080000001,
+          "p99": 56.42620899999747,
+          "max": 76.12012500001583,
+          "mean": 17.24564338105262
+        }
+      }
+    }
+  ],
+  "perQuery": [
+    {
+      "id": "sem-anemometer",
+      "kind": "semantic",
+      "query": "instrument that measures the speed and pressure of wind",
+      "expected": [
+        "Notes/Anemometer.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Reference/Hydraulics.md",
+            "Encyclopedia/I/Italy.md",
+            "Notes/Japan.md",
+            "Reference/India.md",
+            "Encyclopedia/C/Celt.md",
+            "Encyclopedia/E/English Law.md",
+            "0 Inbox/Mecca.md",
+            "Encyclopedia/D/Drama.md",
+            "Sources/Europe.md",
+            "Encyclopedia/I/Ireland.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Notes/Anemometer.md",
+            "Reference/Hydraulics.md",
+            "Reference/Chronograph.md",
+            "Sources/Electrometer.md",
+            "0 Inbox/Dynamometer.md",
+            "Notes/Gauge.md",
+            "Encyclopedia/H/Horn.md",
+            "Encyclopedia/C/Clarinet.md",
+            "Encyclopedia/M/Manometer.md",
+            "Reference/Flute.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Reference/Hydraulics.md",
+            "Encyclopedia/H/Horn.md",
+            "0 Inbox/Mecca.md",
+            "Encyclopedia/L/Ligao.md",
+            "Reference/Cloaca.md",
+            "Encyclopedia/C/Conveyancing.md",
+            "Encyclopedia/M/Magnesite.md",
+            "0 Inbox/Instrument.md",
+            "Encyclopedia/E/Eland.md",
+            "Encyclopedia/E/Electric Eel.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Notes/Anemometer.md",
+            "Reference/Hydraulics.md",
+            "Reference/Chronograph.md",
+            "Sources/Electrometer.md",
+            "0 Inbox/Dynamometer.md",
+            "Notes/Gauge.md",
+            "Encyclopedia/H/Horn.md",
+            "Encyclopedia/C/Clarinet.md",
+            "Encyclopedia/M/Manometer.md",
+            "Reference/Flute.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Notes/Anemometer.md",
+            "Reference/Hydraulics.md",
+            "Reference/Chronograph.md",
+            "Sources/Electrometer.md",
+            "0 Inbox/Dynamometer.md",
+            "Notes/Gauge.md",
+            "Encyclopedia/H/Horn.md",
+            "Encyclopedia/C/Clarinet.md",
+            "Encyclopedia/M/Manometer.md",
+            "Reference/Flute.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-anglesite",
+      "kind": "semantic",
+      "query": "mineral composed of lead sulphate",
+      "expected": [
+        "Encyclopedia/A/Anglesite.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Japan.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/I/Italy.md",
+            "Sources/Horticulture.md",
+            "Reference/Australia.md",
+            "Notes/Copper.md",
+            "Sources/Lanterns Of The Dead.md",
+            "Encyclopedia/I/Irnerius.md",
+            "Reference/India.md",
+            "Encyclopedia/L/Leadhillite.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/I/Irnerius.md",
+            "Notes/Copper.md",
+            "Encyclopedia/F/Fuel.md",
+            "Encyclopedia/C/Calcite.md",
+            "Encyclopedia/B/Beryllium.md",
+            "Encyclopedia/M/Magnesite.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/C/Cobalt.md",
+            "Notes/Gypsum.md",
+            "Encyclopedia/G/Galena.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Copper.md",
+            "Encyclopedia/I/Irnerius.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/C/Calcite.md",
+            "Encyclopedia/M/Magnesite.md",
+            "Sources/Horticulture.md",
+            "Encyclopedia/F/Fuel.md",
+            "Encyclopedia/B/Barytes.md",
+            "Encyclopedia/B/Bismuth.md",
+            "Reference/Coahuila.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/I/Irnerius.md",
+            "Notes/Copper.md",
+            "Encyclopedia/F/Fuel.md",
+            "Encyclopedia/C/Calcite.md",
+            "Encyclopedia/B/Beryllium.md",
+            "Encyclopedia/M/Magnesite.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/C/Cobalt.md",
+            "Notes/Gypsum.md",
+            "Encyclopedia/G/Galena.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/I/Irnerius.md",
+            "Notes/Copper.md",
+            "Encyclopedia/F/Fuel.md",
+            "Encyclopedia/C/Calcite.md",
+            "Encyclopedia/B/Beryllium.md",
+            "Encyclopedia/M/Magnesite.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/C/Cobalt.md",
+            "Notes/Gypsum.md",
+            "Encyclopedia/G/Galena.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-enigma",
+      "kind": "semantic",
+      "query": "riddle whose answer is hidden behind metaphors",
+      "expected": [
+        "Reference/Enigma.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Japan.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/E/English Law.md",
+            "Sources/Europe.md",
+            "Sources/Evidence.md",
+            "Encyclopedia/D/Drama.md",
+            "Encyclopedia/J/Jesup.md",
+            "Sources/Aristotle.md",
+            "Encyclopedia/E/Eucharist.md",
+            "Encyclopedia/I/Italy.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Encyclopedia/L/Locke.md",
+            "Reference/Enigma.md",
+            "Reference/Berkeley.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/G/Gnosticism.md",
+            "Notes/Blake.md",
+            "Encyclopedia/K/Kant.md",
+            "Notes/Boehme.md",
+            "Encyclopedia/D/Dryden.md",
+            "Reference/Emerson.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.3333333333333333,
+          "top10": [
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/J/Jesup.md",
+            "Reference/Enigma.md",
+            "Sources/Aristotle.md",
+            "Encyclopedia/D/Drama.md",
+            "Encyclopedia/G/Genesis.md",
+            "Sources/Arnold.md",
+            "Reference/Ethics.md",
+            "Encyclopedia/D/Deadwood.md",
+            "Encyclopedia/L/Locke.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Encyclopedia/L/Locke.md",
+            "Reference/Enigma.md",
+            "Reference/Berkeley.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/G/Gnosticism.md",
+            "Notes/Blake.md",
+            "Encyclopedia/K/Kant.md",
+            "Notes/Boehme.md",
+            "Encyclopedia/D/Dryden.md",
+            "Reference/Emerson.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Encyclopedia/L/Locke.md",
+            "Reference/Enigma.md",
+            "Reference/Berkeley.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/G/Gnosticism.md",
+            "Notes/Blake.md",
+            "Encyclopedia/K/Kant.md",
+            "Notes/Boehme.md",
+            "Encyclopedia/D/Dryden.md",
+            "Reference/Emerson.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-jaguar",
+      "kind": "semantic",
+      "query": "largest wild cat found on the American continent",
+      "expected": [
+        "Encyclopedia/J/Jaguar.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Japan.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/C/Celt.md",
+            "Reference/India.md",
+            "Reference/Australia.md",
+            "Encyclopedia/I/Ireland.md",
+            "Notes/Canachus.md",
+            "Sources/Europe.md",
+            "Encyclopedia/E/English Law.md",
+            "Sources/Cotton.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Canachus.md",
+            "Reference/Leprosy.md",
+            "Reference/Lynx.md",
+            "Reference/India.md",
+            "Encyclopedia/G/Geography.md",
+            "Encyclopedia/C/Crocodile.md",
+            "Encyclopedia/A/Asia.md",
+            "Notes/Central America.md",
+            "Encyclopedia/G/Goose.md",
+            "Encyclopedia/I/Ivory.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Canachus.md",
+            "Reference/India.md",
+            "Encyclopedia/G/Geography.md",
+            "Reference/Australia.md",
+            "Encyclopedia/I/Indo-China.md",
+            "Notes/Central America.md",
+            "Encyclopedia/A/Asia.md",
+            "Sources/Cotton.md",
+            "Sources/Europe.md",
+            "0 Inbox/Mammalia.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Canachus.md",
+            "Reference/Leprosy.md",
+            "Reference/Lynx.md",
+            "Reference/India.md",
+            "Encyclopedia/G/Geography.md",
+            "Encyclopedia/C/Crocodile.md",
+            "Encyclopedia/A/Asia.md",
+            "Notes/Central America.md",
+            "Encyclopedia/G/Goose.md",
+            "Encyclopedia/I/Ivory.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Canachus.md",
+            "Reference/Leprosy.md",
+            "Reference/Lynx.md",
+            "Reference/India.md",
+            "Encyclopedia/G/Geography.md",
+            "Encyclopedia/C/Crocodile.md",
+            "Encyclopedia/A/Asia.md",
+            "Notes/Central America.md",
+            "Encyclopedia/G/Goose.md",
+            "Encyclopedia/I/Ivory.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-kaleidoscope",
+      "kind": "semantic",
+      "query": "optical toy using inclined mirrors to create symmetrical patterns",
+      "expected": [
+        "Encyclopedia/K/Kaleidoscope.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 0.2,
+          "top10": [
+            "Notes/Japan.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/E/Electric Eel.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/K/Kaleidoscope.md",
+            "Encyclopedia/C/Celt.md",
+            "Reference/Australia.md",
+            "Encyclopedia/L/Ligao.md",
+            "Encyclopedia/M/Magnesite.md",
+            "Encyclopedia/D/Difflugia.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/K/Kaleidoscope.md",
+            "Encyclopedia/L/Ligao.md",
+            "Reference/Camera Lucida.md",
+            "Encyclopedia/E/Electric Eel.md",
+            "Notes/Heliometer.md",
+            "Notes/Camera Obscura.md",
+            "Reference/Astronomy.md",
+            "Reference/Lantern.md",
+            "Reference/Heliostat.md",
+            "Notes/Japan.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/K/Kaleidoscope.md",
+            "Encyclopedia/E/Electric Eel.md",
+            "Encyclopedia/L/Ligao.md",
+            "Notes/Japan.md",
+            "Reference/Lantern.md",
+            "Notes/Camera Obscura.md",
+            "Encyclopedia/D/Difflugia.md",
+            "0 Inbox/Mecca.md",
+            "Encyclopedia/M/Magnesite.md",
+            "Reference/Astronomy.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/K/Kaleidoscope.md",
+            "Encyclopedia/L/Ligao.md",
+            "Reference/Camera Lucida.md",
+            "Encyclopedia/E/Electric Eel.md",
+            "Notes/Heliometer.md",
+            "Notes/Camera Obscura.md",
+            "Reference/Astronomy.md",
+            "Reference/Lantern.md",
+            "Reference/Heliostat.md",
+            "Notes/Japan.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/K/Kaleidoscope.md",
+            "Encyclopedia/L/Ligao.md",
+            "Reference/Camera Lucida.md",
+            "Encyclopedia/E/Electric Eel.md",
+            "Notes/Heliometer.md",
+            "Notes/Camera Obscura.md",
+            "Reference/Astronomy.md",
+            "Reference/Lantern.md",
+            "Reference/Heliostat.md",
+            "Notes/Japan.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-dahlia",
+      "kind": "semantic",
+      "query": "Mexican garden flower named after a pupil of Linnaeus",
+      "expected": [
+        "Sources/Dahlia.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/I/Italy.md",
+            "Notes/Japan.md",
+            "Sources/Horticulture.md",
+            "Encyclopedia/E/English Law.md",
+            "Reference/India.md",
+            "Reference/Australia.md",
+            "Encyclopedia/I/Ireland.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/I/Inscriptions.md",
+            "Encyclopedia/D/Drama.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Sources/Dahlia.md",
+            "0 Inbox/Freesia.md",
+            "Reference/Lobelia.md",
+            "Encyclopedia/J/Jasmine.md",
+            "Reference/Gardenia.md",
+            "Sources/Fuchsia.md",
+            "Encyclopedia/C/Campanula.md",
+            "Sources/Iridaceae.md",
+            "Encyclopedia/I/Impatiens.md",
+            "Reference/Duckweed.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.16666666666666666,
+          "top10": [
+            "Sources/Horticulture.md",
+            "Notes/Japan.md",
+            "0 Inbox/Flower.md",
+            "Sources/Europe.md",
+            "Encyclopedia/I/Italy.md",
+            "Sources/Dahlia.md",
+            "0 Inbox/Freesia.md",
+            "Reference/Lobelia.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/J/Jasmine.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Sources/Dahlia.md",
+            "0 Inbox/Freesia.md",
+            "Reference/Lobelia.md",
+            "Encyclopedia/J/Jasmine.md",
+            "Reference/Gardenia.md",
+            "Sources/Fuchsia.md",
+            "Encyclopedia/C/Campanula.md",
+            "Sources/Iridaceae.md",
+            "Encyclopedia/I/Impatiens.md",
+            "Reference/Duckweed.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Sources/Dahlia.md",
+            "0 Inbox/Freesia.md",
+            "Reference/Lobelia.md",
+            "Encyclopedia/J/Jasmine.md",
+            "Reference/Gardenia.md",
+            "Sources/Fuchsia.md",
+            "Encyclopedia/C/Campanula.md",
+            "Sources/Iridaceae.md",
+            "Encyclopedia/I/Impatiens.md",
+            "Reference/Duckweed.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-dynamo",
+      "kind": "semantic",
+      "query": "generator that turns motion into electricity",
+      "expected": [
+        "Sources/Dynamo.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Encyclopedia/E/Electric Eel.md",
+            "Sources/Dynamo.md",
+            "Encyclopedia/M/Magnesite.md",
+            "Notes/French Revolutionary Wars.md",
+            "Reference/Cloaca.md",
+            "Encyclopedia/E/Energy.md",
+            "0 Inbox/Mecca.md",
+            "Notes/Copper.md",
+            "Encyclopedia/L/Ligao.md",
+            "Reference/Hydraulics.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Sources/Dynamo.md",
+            "Reference/Hydraulics.md",
+            "Encyclopedia/E/Energy.md",
+            "Encyclopedia/E/Electrokinetics.md",
+            "Encyclopedia/E/Electric Eel.md",
+            "Reference/Induction Coil.md",
+            "Encyclopedia/L/Ligao.md",
+            "Reference/Cloaca.md",
+            "Reference/Coahuila.md",
+            "Encyclopedia/E/Elevators.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Sources/Dynamo.md",
+            "Encyclopedia/E/Electric Eel.md",
+            "Encyclopedia/E/Energy.md",
+            "Reference/Hydraulics.md",
+            "Reference/Cloaca.md",
+            "Encyclopedia/L/Ligao.md",
+            "Encyclopedia/M/Magnesite.md",
+            "Encyclopedia/E/Electrokinetics.md",
+            "Reference/Coahuila.md",
+            "Reference/Induction Coil.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Sources/Dynamo.md",
+            "Reference/Hydraulics.md",
+            "Encyclopedia/E/Energy.md",
+            "Encyclopedia/E/Electrokinetics.md",
+            "Encyclopedia/E/Electric Eel.md",
+            "Reference/Induction Coil.md",
+            "Encyclopedia/L/Ligao.md",
+            "Reference/Cloaca.md",
+            "Reference/Coahuila.md",
+            "Encyclopedia/E/Elevators.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Sources/Dynamo.md",
+            "Reference/Hydraulics.md",
+            "Encyclopedia/E/Energy.md",
+            "Encyclopedia/E/Electrokinetics.md",
+            "Encyclopedia/E/Electric Eel.md",
+            "Reference/Induction Coil.md",
+            "Encyclopedia/L/Ligao.md",
+            "Reference/Cloaca.md",
+            "Reference/Coahuila.md",
+            "Encyclopedia/E/Elevators.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-geyser",
+      "kind": "semantic",
+      "query": "natural hot spring that periodically erupts a column of boiling water and steam",
+      "expected": [
+        "Sources/Geyser.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Japan.md",
+            "Encyclopedia/I/Italy.md",
+            "Reference/India.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/I/Ireland.md",
+            "Sources/Horticulture.md",
+            "Encyclopedia/C/Celt.md",
+            "Encyclopedia/E/English Law.md",
+            "0 Inbox/Mecca.md",
+            "Sources/Cotton.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Sources/Boiler.md",
+            "Sources/Geyser.md",
+            "Sources/Horticulture.md",
+            "Encyclopedia/H/Hydropathy.md",
+            "Encyclopedia/F/Fuel.md",
+            "Reference/Coal-Tar.md",
+            "Encyclopedia/D/Distillation.md",
+            "Sources/Bathos.md",
+            "Sources/Flounder.md",
+            "Encyclopedia/H/Hotch-Pot.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.1,
+          "top10": [
+            "Sources/Horticulture.md",
+            "Encyclopedia/E/Electric Eel.md",
+            "Sources/Cotton.md",
+            "Encyclopedia/B/Bacsanyi.md",
+            "Encyclopedia/D/Daille.md",
+            "Reference/Insanity.md",
+            "Notes/Japan.md",
+            "Sources/Boiler.md",
+            "Encyclopedia/I/Italy.md",
+            "Sources/Geyser.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Sources/Boiler.md",
+            "Sources/Geyser.md",
+            "Sources/Horticulture.md",
+            "Encyclopedia/H/Hydropathy.md",
+            "Encyclopedia/F/Fuel.md",
+            "Reference/Coal-Tar.md",
+            "Encyclopedia/D/Distillation.md",
+            "Sources/Bathos.md",
+            "Sources/Flounder.md",
+            "Encyclopedia/H/Hotch-Pot.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Sources/Boiler.md",
+            "Sources/Geyser.md",
+            "Sources/Horticulture.md",
+            "Encyclopedia/H/Hydropathy.md",
+            "Encyclopedia/F/Fuel.md",
+            "Reference/Coal-Tar.md",
+            "Encyclopedia/D/Distillation.md",
+            "Sources/Bathos.md",
+            "Sources/Flounder.md",
+            "Encyclopedia/H/Hotch-Pot.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-giraffe",
+      "kind": "semantic",
+      "query": "the tallest living mammal, an African ruminant with a long neck",
+      "expected": [
+        "Encyclopedia/G/Giraffe.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/I/Italy.md",
+            "Notes/Japan.md",
+            "Sources/Horticulture.md",
+            "Reference/India.md",
+            "Encyclopedia/C/Celt.md",
+            "Sources/Evidence.md",
+            "Encyclopedia/I/Ireland.md",
+            "Reference/Australia.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/C/Chemistry.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Reference/Australia.md",
+            "Encyclopedia/A/Angola.md",
+            "Sources/Cetacea.md",
+            "Encyclopedia/I/Indo-China.md",
+            "Encyclopedia/M/Madagascar.md",
+            "0 Inbox/Antelope.md",
+            "Notes/British Columbia.md",
+            "Reference/India.md",
+            "Encyclopedia/I/Insectivora.md",
+            "0 Inbox/Gerenuk.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Reference/Australia.md",
+            "Reference/India.md",
+            "Encyclopedia/M/Madagascar.md",
+            "Encyclopedia/C/Chile.md",
+            "0 Inbox/Mammalia.md",
+            "Encyclopedia/A/Asia.md",
+            "Notes/Argentina.md",
+            "Notes/Horse.md",
+            "Encyclopedia/G/Geography.md",
+            "Encyclopedia/I/Italy.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Reference/Australia.md",
+            "Encyclopedia/A/Angola.md",
+            "Sources/Cetacea.md",
+            "Encyclopedia/I/Indo-China.md",
+            "Encyclopedia/M/Madagascar.md",
+            "0 Inbox/Antelope.md",
+            "Notes/British Columbia.md",
+            "Reference/India.md",
+            "Encyclopedia/I/Insectivora.md",
+            "0 Inbox/Gerenuk.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Reference/Australia.md",
+            "Encyclopedia/A/Angola.md",
+            "Sources/Cetacea.md",
+            "Encyclopedia/I/Indo-China.md",
+            "Encyclopedia/M/Madagascar.md",
+            "0 Inbox/Antelope.md",
+            "Notes/British Columbia.md",
+            "Reference/India.md",
+            "Encyclopedia/I/Insectivora.md",
+            "0 Inbox/Gerenuk.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-guillotine",
+      "kind": "semantic",
+      "query": "beheading machine of the French Revolution",
+      "expected": [
+        "Sources/Guillotine.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/F/French Revolution.md",
+            "Notes/French Revolutionary Wars.md",
+            "Notes/Japan.md",
+            "0 Inbox/Mecca.md",
+            "Sources/Europe.md",
+            "Encyclopedia/I/Italy.md",
+            "Notes/History.md",
+            "Encyclopedia/D/Drama.md",
+            "Encyclopedia/C/Crimea.md",
+            "Reference/Hydraulics.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/F/French Revolution.md",
+            "Notes/French Revolutionary Wars.md",
+            "0 Inbox/Cordeliers.md",
+            "Notes/History.md",
+            "Encyclopedia/D/Dauphine.md",
+            "Sources/Convention.md",
+            "Reference/Bastille.md",
+            "Sources/Europe.md",
+            "Notes/Cathelineau.md",
+            "Encyclopedia/I/Italy.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/F/French Revolution.md",
+            "Notes/French Revolutionary Wars.md",
+            "Notes/History.md",
+            "Sources/Europe.md",
+            "Encyclopedia/I/Italy.md",
+            "Sources/Cotton.md",
+            "Encyclopedia/E/Edric.md",
+            "Notes/Canachus.md",
+            "0 Inbox/Cordeliers.md",
+            "Notes/Japan.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/F/French Revolution.md",
+            "Notes/French Revolutionary Wars.md",
+            "0 Inbox/Cordeliers.md",
+            "Notes/History.md",
+            "Encyclopedia/D/Dauphine.md",
+            "Sources/Convention.md",
+            "Reference/Bastille.md",
+            "Sources/Europe.md",
+            "Notes/Cathelineau.md",
+            "Encyclopedia/I/Italy.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/F/French Revolution.md",
+            "Notes/French Revolutionary Wars.md",
+            "0 Inbox/Cordeliers.md",
+            "Notes/History.md",
+            "Encyclopedia/D/Dauphine.md",
+            "Sources/Convention.md",
+            "Reference/Bastille.md",
+            "Sources/Europe.md",
+            "Notes/Cathelineau.md",
+            "Encyclopedia/I/Italy.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-hurricane",
+      "kind": "semantic",
+      "query": "violent tropical wind storm of the West Indies",
+      "expected": [
+        "Reference/Hurricane.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Japan.md",
+            "Encyclopedia/I/Italy.md",
+            "Reference/India.md",
+            "Encyclopedia/C/Celt.md",
+            "Sources/Europe.md",
+            "Reference/Australia.md",
+            "Sources/Cotton.md",
+            "Encyclopedia/E/English Law.md",
+            "Sources/Germanium.md",
+            "Notes/Canachus.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Reference/Hurricane.md",
+            "Encyclopedia/A/Asia.md",
+            "Encyclopedia/B/Breaking Bulk.md",
+            "Notes/Argentina.md",
+            "Encyclopedia/B/Brickfielder.md",
+            "Encyclopedia/A/Atlantic Ocean.md",
+            "Notes/Japan.md",
+            "Encyclopedia/F/Fiji.md",
+            "Reference/Australia.md",
+            "Reference/Mauritius.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Japan.md",
+            "Reference/Australia.md",
+            "Reference/India.md",
+            "Notes/Argentina.md",
+            "Encyclopedia/A/Asia.md",
+            "Sources/Europe.md",
+            "Reference/Hydraulics.md",
+            "Encyclopedia/B/Breaking Bulk.md",
+            "Encyclopedia/C/Chile.md",
+            "Encyclopedia/G/Geography.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Reference/Hurricane.md",
+            "Encyclopedia/A/Asia.md",
+            "Encyclopedia/B/Breaking Bulk.md",
+            "Notes/Argentina.md",
+            "Encyclopedia/B/Brickfielder.md",
+            "Encyclopedia/A/Atlantic Ocean.md",
+            "Notes/Japan.md",
+            "Encyclopedia/F/Fiji.md",
+            "Reference/Australia.md",
+            "Reference/Mauritius.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Reference/Hurricane.md",
+            "Encyclopedia/A/Asia.md",
+            "Encyclopedia/B/Breaking Bulk.md",
+            "Notes/Argentina.md",
+            "Encyclopedia/B/Brickfielder.md",
+            "Encyclopedia/A/Atlantic Ocean.md",
+            "Notes/Japan.md",
+            "Encyclopedia/F/Fiji.md",
+            "Reference/Australia.md",
+            "Reference/Mauritius.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-ivory",
+      "kind": "semantic",
+      "query": "carving material obtained from elephant tusks",
+      "expected": [
+        "Encyclopedia/I/Ivory.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Reference/Elephant.md",
+            "Encyclopedia/I/Ivory.md",
+            "Notes/Japan.md",
+            "Reference/India.md",
+            "Encyclopedia/E/English Law.md",
+            "0 Inbox/Mammalia.md",
+            "Encyclopedia/I/Italy.md",
+            "Sources/Cotton.md",
+            "Sources/Lapidary.md",
+            "Sources/Evidence.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/I/Ivory.md",
+            "Reference/Elephant.md",
+            "Encyclopedia/P/Plate Ii..md",
+            "Encyclopedia/C/Carbon.md",
+            "Encyclopedia/B/Bombay City.md",
+            "Encyclopedia/B/Burma.md",
+            "Sources/Madelenian.md",
+            "Encyclopedia/I/Indo-China.md",
+            "Sources/Elephanta Isle.md",
+            "Encyclopedia/F/Fine Arts.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/I/Ivory.md",
+            "Reference/Elephant.md",
+            "Notes/Japan.md",
+            "Reference/India.md",
+            "Encyclopedia/P/Plate Ii..md",
+            "Encyclopedia/F/Fine Arts.md",
+            "Encyclopedia/B/Burma.md",
+            "Sources/Lapidary.md",
+            "Sources/Horticulture.md",
+            "Encyclopedia/C/Carving And Gilding.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/I/Ivory.md",
+            "Reference/Elephant.md",
+            "Encyclopedia/P/Plate Ii..md",
+            "Encyclopedia/C/Carbon.md",
+            "Encyclopedia/B/Bombay City.md",
+            "Encyclopedia/B/Burma.md",
+            "Sources/Madelenian.md",
+            "Encyclopedia/I/Indo-China.md",
+            "Sources/Elephanta Isle.md",
+            "Encyclopedia/F/Fine Arts.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/I/Ivory.md",
+            "Reference/Elephant.md",
+            "Encyclopedia/P/Plate Ii..md",
+            "Encyclopedia/C/Carbon.md",
+            "Encyclopedia/B/Bombay City.md",
+            "Encyclopedia/B/Burma.md",
+            "Sources/Madelenian.md",
+            "Encyclopedia/I/Indo-China.md",
+            "Sources/Elephanta Isle.md",
+            "Encyclopedia/F/Fine Arts.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-jade",
+      "kind": "semantic",
+      "query": "green ornamental stone comprising nephrite and jadeite",
+      "expected": [
+        "Notes/Jade.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Notes/Jade.md",
+            "Reference/Australia.md",
+            "Sources/Horticulture.md",
+            "Encyclopedia/M/Masonry.md",
+            "Reference/India.md",
+            "Encyclopedia/I/Ireland.md",
+            "Sources/Archaeology.md",
+            "Notes/Japan.md",
+            "Sources/Map.md",
+            "Encyclopedia/G/Grasses.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Notes/Jade.md",
+            "Notes/Marble.md",
+            "Encyclopedia/L/Limestone.md",
+            "Encyclopedia/G/Gothite.md",
+            "Sources/Borolanite.md",
+            "Notes/Greenockite.md",
+            "Encyclopedia/E/Epidote.md",
+            "Encyclopedia/L/Labradorite.md",
+            "Encyclopedia/I/Ijolite.md",
+            "Reference/Apatite.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Notes/Jade.md",
+            "Notes/Marble.md",
+            "Reference/Australia.md",
+            "Encyclopedia/L/Limestone.md",
+            "Sources/Horticulture.md",
+            "Encyclopedia/G/Gothite.md",
+            "Encyclopedia/M/Masonry.md",
+            "Reference/India.md",
+            "Sources/Borolanite.md",
+            "Encyclopedia/I/Ireland.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Notes/Jade.md",
+            "Notes/Marble.md",
+            "Encyclopedia/L/Limestone.md",
+            "Encyclopedia/G/Gothite.md",
+            "Sources/Borolanite.md",
+            "Notes/Greenockite.md",
+            "Encyclopedia/E/Epidote.md",
+            "Encyclopedia/L/Labradorite.md",
+            "Encyclopedia/I/Ijolite.md",
+            "Reference/Apatite.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Notes/Jade.md",
+            "Notes/Marble.md",
+            "Encyclopedia/L/Limestone.md",
+            "Encyclopedia/G/Gothite.md",
+            "Sources/Borolanite.md",
+            "Notes/Greenockite.md",
+            "Encyclopedia/E/Epidote.md",
+            "Encyclopedia/L/Labradorite.md",
+            "Encyclopedia/I/Ijolite.md",
+            "Reference/Apatite.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-lemur",
+      "kind": "semantic",
+      "query": "primates of Madagascar that are neither monkeys nor apes",
+      "expected": [
+        "Encyclopedia/L/Lemur.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0.1,
+          "top10": [
+            "Encyclopedia/M/Madagascar.md",
+            "Encyclopedia/I/Ireland.md",
+            "Notes/Japan.md",
+            "Reference/India.md",
+            "0 Inbox/Mammalia.md",
+            "Encyclopedia/I/Italy.md",
+            "Reference/Australia.md",
+            "Encyclopedia/A/Asia.md",
+            "Encyclopedia/E/Edric.md",
+            "Encyclopedia/L/Lemur.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.2,
+          "top10": [
+            "Encyclopedia/G/Gorilla.md",
+            "0 Inbox/Mammalia.md",
+            "Encyclopedia/A/Ape.md",
+            "Encyclopedia/M/Madagascar.md",
+            "Encyclopedia/L/Lemur.md",
+            "Reference/Elephant.md",
+            "Reference/Australia.md",
+            "Encyclopedia/H/Himalaya.md",
+            "Notes/Japan.md",
+            "Encyclopedia/L/Leopard.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.2,
+          "top10": [
+            "Encyclopedia/M/Madagascar.md",
+            "0 Inbox/Mammalia.md",
+            "Notes/Japan.md",
+            "Reference/Australia.md",
+            "Encyclopedia/L/Lemur.md",
+            "Encyclopedia/A/Asia.md",
+            "Reference/India.md",
+            "Encyclopedia/A/Ape.md",
+            "Encyclopedia/G/Geography.md",
+            "Notes/Argentina.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.2,
+          "top10": [
+            "Encyclopedia/G/Gorilla.md",
+            "0 Inbox/Mammalia.md",
+            "Encyclopedia/A/Ape.md",
+            "Encyclopedia/M/Madagascar.md",
+            "Encyclopedia/L/Lemur.md",
+            "Reference/Elephant.md",
+            "Reference/Australia.md",
+            "Encyclopedia/H/Himalaya.md",
+            "Notes/Japan.md",
+            "Encyclopedia/L/Leopard.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.2,
+          "top10": [
+            "Encyclopedia/G/Gorilla.md",
+            "0 Inbox/Mammalia.md",
+            "Encyclopedia/A/Ape.md",
+            "Encyclopedia/M/Madagascar.md",
+            "Encyclopedia/L/Lemur.md",
+            "Reference/Elephant.md",
+            "Reference/Australia.md",
+            "Encyclopedia/H/Himalaya.md",
+            "Notes/Japan.md",
+            "Encyclopedia/L/Leopard.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-candle",
+      "kind": "semantic",
+      "query": "cylinder of wax around a wick burnt to give light",
+      "expected": [
+        "Encyclopedia/C/Candle.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Japan.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/E/English Law.md",
+            "Sources/Horticulture.md",
+            "Reference/India.md",
+            "Encyclopedia/I/Ireland.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/C/Celt.md",
+            "0 Inbox/Mecca.md",
+            "Sources/Cotton.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/C/Candle.md",
+            "Reference/Lantern.md",
+            "Notes/Blowpipe.md",
+            "Encyclopedia/L/Lamp-Black.md",
+            "Encyclopedia/C/Cordite.md",
+            "Encyclopedia/C/Candlestick.md",
+            "Reference/Charcoal.md",
+            "Sources/Combustion.md",
+            "Sources/Brickwork.md",
+            "Encyclopedia/F/Fuel.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.2,
+          "top10": [
+            "Sources/Horticulture.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Reference/Coahuila.md",
+            "Encyclopedia/E/Electric Eel.md",
+            "Encyclopedia/C/Candle.md",
+            "Notes/Japan.md",
+            "Encyclopedia/I/Italy.md",
+            "Reference/Lantern.md",
+            "Encyclopedia/E/English Law.md",
+            "Notes/Blowpipe.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/C/Candle.md",
+            "Reference/Lantern.md",
+            "Notes/Blowpipe.md",
+            "Encyclopedia/L/Lamp-Black.md",
+            "Encyclopedia/C/Cordite.md",
+            "Encyclopedia/C/Candlestick.md",
+            "Reference/Charcoal.md",
+            "Sources/Combustion.md",
+            "Sources/Brickwork.md",
+            "Encyclopedia/F/Fuel.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/C/Candle.md",
+            "Reference/Lantern.md",
+            "Notes/Blowpipe.md",
+            "Encyclopedia/L/Lamp-Black.md",
+            "Encyclopedia/C/Cordite.md",
+            "Encyclopedia/C/Candlestick.md",
+            "Reference/Charcoal.md",
+            "Sources/Combustion.md",
+            "Sources/Brickwork.md",
+            "Encyclopedia/F/Fuel.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-cotton",
+      "kind": "semantic",
+      "query": "the most important vegetable fibre, hairs attached to plant seeds",
+      "expected": [
+        "Sources/Cotton.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 0.25,
+          "top10": [
+            "Notes/Japan.md",
+            "Encyclopedia/I/Italy.md",
+            "Sources/Horticulture.md",
+            "Sources/Cotton.md",
+            "Reference/India.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/I/Ireland.md",
+            "Reference/Australia.md",
+            "Sources/Europe.md",
+            "Encyclopedia/C/Celt.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.3333333333333333,
+          "top10": [
+            "Sources/Horticulture.md",
+            "Encyclopedia/D/Dicotyledons.md",
+            "Sources/Cotton.md",
+            "Reference/India.md",
+            "Notes/Canachus.md",
+            "Encyclopedia/C/Carronade.md",
+            "Encyclopedia/D/Daille.md",
+            "Notes/Fibres.md",
+            "Encyclopedia/G/Grasses.md",
+            "Encyclopedia/A/Asia.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Sources/Horticulture.md",
+            "Sources/Cotton.md",
+            "Reference/India.md",
+            "Notes/Canachus.md",
+            "Notes/Fibres.md",
+            "Sources/Europe.md",
+            "Encyclopedia/D/Daille.md",
+            "Encyclopedia/I/Ireland.md",
+            "Encyclopedia/I/Italy.md",
+            "Reference/Australia.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.3333333333333333,
+          "top10": [
+            "Sources/Horticulture.md",
+            "Encyclopedia/D/Dicotyledons.md",
+            "Sources/Cotton.md",
+            "Reference/India.md",
+            "Notes/Canachus.md",
+            "Encyclopedia/C/Carronade.md",
+            "Encyclopedia/D/Daille.md",
+            "Notes/Fibres.md",
+            "Encyclopedia/G/Grasses.md",
+            "Encyclopedia/A/Asia.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.3333333333333333,
+          "top10": [
+            "Sources/Horticulture.md",
+            "Encyclopedia/D/Dicotyledons.md",
+            "Sources/Cotton.md",
+            "Reference/India.md",
+            "Notes/Canachus.md",
+            "Encyclopedia/C/Carronade.md",
+            "Encyclopedia/D/Daille.md",
+            "Notes/Fibres.md",
+            "Encyclopedia/G/Grasses.md",
+            "Encyclopedia/A/Asia.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-kite-bird",
+      "kind": "semantic",
+      "query": "bird of prey once the most familiar in Great Britain, now among its rarest",
+      "expected": [
+        "Encyclopedia/K/Kite.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Japan.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/I/Ireland.md",
+            "Reference/India.md",
+            "Encyclopedia/E/Edric.md",
+            "Encyclopedia/C/Celt.md",
+            "Reference/Ethics.md",
+            "Reference/Insanity.md",
+            "Encyclopedia/I/Insurance.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.2,
+          "top10": [
+            "Encyclopedia/F/Flycatcher.md",
+            "Sources/Goldfinch.md",
+            "Encyclopedia/G/Goose.md",
+            "Reference/Eagle.md",
+            "Encyclopedia/K/Kite.md",
+            "Sources/Harrier.md",
+            "Reference/Cuckoo.md",
+            "Encyclopedia/F/Finch.md",
+            "Encyclopedia/H/Harpy.md",
+            "Encyclopedia/C/Canary Islands.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Reference/Australia.md",
+            "Reference/India.md",
+            "Notes/Canachus.md",
+            "Encyclopedia/F/Flycatcher.md",
+            "Notes/Japan.md",
+            "Encyclopedia/I/Italy.md",
+            "Sources/Goldfinch.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/G/Goose.md",
+            "Encyclopedia/I/Ireland.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.2,
+          "top10": [
+            "Encyclopedia/F/Flycatcher.md",
+            "Sources/Goldfinch.md",
+            "Encyclopedia/G/Goose.md",
+            "Reference/Eagle.md",
+            "Encyclopedia/K/Kite.md",
+            "Sources/Harrier.md",
+            "Reference/Cuckoo.md",
+            "Encyclopedia/F/Finch.md",
+            "Encyclopedia/H/Harpy.md",
+            "Encyclopedia/C/Canary Islands.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.2,
+          "top10": [
+            "Encyclopedia/F/Flycatcher.md",
+            "Sources/Goldfinch.md",
+            "Encyclopedia/G/Goose.md",
+            "Reference/Eagle.md",
+            "Encyclopedia/K/Kite.md",
+            "Sources/Harrier.md",
+            "Reference/Cuckoo.md",
+            "Encyclopedia/F/Finch.md",
+            "Encyclopedia/H/Harpy.md",
+            "Encyclopedia/C/Canary Islands.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-cocoa",
+      "kind": "semantic",
+      "query": "dietary substance from tree seeds that is the basis of chocolate",
+      "expected": [
+        "Encyclopedia/C/Cocoa.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/C/Chemistry.md",
+            "Notes/Japan.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/C/Celt.md",
+            "Encyclopedia/D/Drama.md",
+            "Sources/Aristotle.md",
+            "Encyclopedia/D/Dietary.md",
+            "Reference/India.md",
+            "Sources/Horticulture.md",
+            "Encyclopedia/I/Ireland.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Notes/Dietetics.md",
+            "Encyclopedia/C/Cocoa.md",
+            "Notes/Canachus.md",
+            "Notes/Central America.md",
+            "Sources/Cotton.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/F/Fiji.md",
+            "Sources/Flounder.md",
+            "Encyclopedia/D/Daille.md",
+            "Sources/Horticulture.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/C/Cocoa.md",
+            "Sources/Horticulture.md",
+            "Reference/India.md",
+            "Notes/Canachus.md",
+            "Sources/Cotton.md",
+            "Encyclopedia/D/Dietary.md",
+            "Encyclopedia/D/Daille.md",
+            "Encyclopedia/A/Asia.md",
+            "Notes/Dietetics.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Notes/Dietetics.md",
+            "Encyclopedia/C/Cocoa.md",
+            "Notes/Canachus.md",
+            "Notes/Central America.md",
+            "Sources/Cotton.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/F/Fiji.md",
+            "Sources/Flounder.md",
+            "Encyclopedia/D/Daille.md",
+            "Sources/Horticulture.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Notes/Dietetics.md",
+            "Encyclopedia/C/Cocoa.md",
+            "Notes/Canachus.md",
+            "Notes/Central America.md",
+            "Sources/Cotton.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/F/Fiji.md",
+            "Sources/Flounder.md",
+            "Encyclopedia/D/Daille.md",
+            "Sources/Horticulture.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-comet",
+      "kind": "semantic",
+      "query": "nebulous celestial body travelling a highly eccentric orbit around the sun",
+      "expected": [
+        "Reference/Comet.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/E/English Law.md",
+            "Notes/Japan.md",
+            "0 Inbox/Mecca.md",
+            "Reference/Astronomy.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Reference/India.md",
+            "Encyclopedia/C/Celt.md",
+            "Sources/Evidence.md",
+            "Encyclopedia/I/Inscriptions.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Reference/Comet.md",
+            "Reference/Astronomy.md",
+            "Encyclopedia/E/Eccentric.md",
+            "Reference/Mars.md",
+            "Encyclopedia/A/Astrology.md",
+            "Reference/Eclipse.md",
+            "Notes/Ecliptic.md",
+            "Reference/Cosmic.md",
+            "Encyclopedia/H/Herschel.md",
+            "Notes/Horse.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.1111111111111111,
+          "top10": [
+            "Reference/Astronomy.md",
+            "Notes/Japan.md",
+            "0 Inbox/Mecca.md",
+            "Notes/Horse.md",
+            "Encyclopedia/B/Babylon.md",
+            "Sources/Hindostani.md",
+            "Sources/Map.md",
+            "Encyclopedia/I/Italy.md",
+            "Reference/Comet.md",
+            "Encyclopedia/E/English Law.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Reference/Comet.md",
+            "Reference/Astronomy.md",
+            "Encyclopedia/E/Eccentric.md",
+            "Reference/Mars.md",
+            "Encyclopedia/A/Astrology.md",
+            "Reference/Eclipse.md",
+            "Notes/Ecliptic.md",
+            "Reference/Cosmic.md",
+            "Encyclopedia/H/Herschel.md",
+            "Notes/Horse.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Reference/Comet.md",
+            "Reference/Astronomy.md",
+            "Encyclopedia/E/Eccentric.md",
+            "Reference/Mars.md",
+            "Encyclopedia/A/Astrology.md",
+            "Reference/Eclipse.md",
+            "Notes/Ecliptic.md",
+            "Reference/Cosmic.md",
+            "Encyclopedia/H/Herschel.md",
+            "Notes/Horse.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-coral",
+      "kind": "semantic",
+      "query": "limestone skeletons built by marine polyps into reefs",
+      "expected": [
+        "Reference/Coral.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 0.25,
+          "top10": [
+            "Encyclopedia/L/Limestone.md",
+            "Encyclopedia/A/Anthozoa.md",
+            "Encyclopedia/D/Dolomite.md",
+            "Reference/Coral.md",
+            "Encyclopedia/D/Devonian System.md",
+            "0 Inbox/Foraminifera.md",
+            "Encyclopedia/H/Hydrozoa.md",
+            "Encyclopedia/C/Corallian.md",
+            "Reference/Australia.md",
+            "Encyclopedia/M/Maine.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Encyclopedia/L/Limestone.md",
+            "Reference/Coral.md",
+            "Encyclopedia/C/Corallian.md",
+            "Encyclopedia/A/Anthozoa.md",
+            "Encyclopedia/B/Bahamas.md",
+            "Notes/Marble.md",
+            "Reference/Coahuila.md",
+            "Encyclopedia/D/Dolomite.md",
+            "Encyclopedia/H/Hair-Tail.md",
+            "Encyclopedia/J/Java.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.3333333333333333,
+          "top10": [
+            "Encyclopedia/L/Limestone.md",
+            "Encyclopedia/A/Anthozoa.md",
+            "Reference/Coral.md",
+            "Encyclopedia/C/Corallian.md",
+            "Encyclopedia/D/Dolomite.md",
+            "Encyclopedia/D/Devonian System.md",
+            "Encyclopedia/B/Bahamas.md",
+            "0 Inbox/Foraminifera.md",
+            "Reference/Australia.md",
+            "Notes/Marble.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Encyclopedia/L/Limestone.md",
+            "Reference/Coral.md",
+            "Encyclopedia/C/Corallian.md",
+            "Encyclopedia/A/Anthozoa.md",
+            "Encyclopedia/B/Bahamas.md",
+            "Notes/Marble.md",
+            "Reference/Coahuila.md",
+            "Encyclopedia/D/Dolomite.md",
+            "Encyclopedia/H/Hair-Tail.md",
+            "Encyclopedia/J/Java.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Encyclopedia/L/Limestone.md",
+            "Reference/Coral.md",
+            "Encyclopedia/C/Corallian.md",
+            "Encyclopedia/A/Anthozoa.md",
+            "Encyclopedia/B/Bahamas.md",
+            "Notes/Marble.md",
+            "Reference/Coahuila.md",
+            "Encyclopedia/D/Dolomite.md",
+            "Encyclopedia/H/Hair-Tail.md",
+            "Encyclopedia/J/Java.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-duel",
+      "kind": "semantic",
+      "query": "prearranged single combat fought under conventional rules of honour",
+      "expected": [
+        "Encyclopedia/D/Duel.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 0.2,
+          "top10": [
+            "Notes/Japan.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/I/Ireland.md",
+            "Encyclopedia/D/Duel.md",
+            "Notes/French Revolutionary Wars.md",
+            "Encyclopedia/I/Insurance.md",
+            "Notes/History.md",
+            "Reference/Ethics.md",
+            "Encyclopedia/E/Epee-De-Combat.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/D/Duel.md",
+            "Notes/Japan.md",
+            "Reference/Lance.md",
+            "Sources/Guerrilla.md",
+            "Encyclopedia/C/Colours.md",
+            "Encyclopedia/E/Epee-De-Combat.md",
+            "Encyclopedia/G/Guards.md",
+            "Notes/Cavalry.md",
+            "Encyclopedia/B/Boxing.md",
+            "Sources/Great Rebellion.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Notes/Japan.md",
+            "Encyclopedia/D/Duel.md",
+            "Encyclopedia/E/Epee-De-Combat.md",
+            "Notes/French Revolutionary Wars.md",
+            "Encyclopedia/K/Knight.md",
+            "Encyclopedia/I/Ireland.md",
+            "Encyclopedia/F/Flag.md",
+            "Sources/Evidence.md",
+            "Notes/History.md",
+            "Reference/India.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/D/Duel.md",
+            "Notes/Japan.md",
+            "Reference/Lance.md",
+            "Sources/Guerrilla.md",
+            "Encyclopedia/C/Colours.md",
+            "Encyclopedia/E/Epee-De-Combat.md",
+            "Encyclopedia/G/Guards.md",
+            "Notes/Cavalry.md",
+            "Encyclopedia/B/Boxing.md",
+            "Sources/Great Rebellion.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/D/Duel.md",
+            "Notes/Japan.md",
+            "Reference/Lance.md",
+            "Sources/Guerrilla.md",
+            "Encyclopedia/C/Colours.md",
+            "Encyclopedia/E/Epee-De-Combat.md",
+            "Encyclopedia/G/Guards.md",
+            "Notes/Cavalry.md",
+            "Encyclopedia/B/Boxing.md",
+            "Sources/Great Rebellion.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-fog",
+      "kind": "semantic",
+      "query": "suspended particles near the ground that make surrounding objects invisible",
+      "expected": [
+        "Reference/Fog.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Japan.md",
+            "Encyclopedia/D/Drama.md",
+            "Encyclopedia/I/Italy.md",
+            "0 Inbox/Mecca.md",
+            "Encyclopedia/E/Electric Eel.md",
+            "Reference/Hydraulics.md",
+            "Encyclopedia/A/Athenry.md",
+            "Sources/Horticulture.md",
+            "Encyclopedia/M/Magnesite.md",
+            "Encyclopedia/L/Ligao.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.16666666666666666,
+          "top10": [
+            "Encyclopedia/D/Dust.md",
+            "0 Inbox/Mecca.md",
+            "0 Inbox/Cap Haitien.md",
+            "Reference/Lantern.md",
+            "Encyclopedia/M/Magnesite.md",
+            "Reference/Fog.md",
+            "Reference/Mars.md",
+            "Encyclopedia/E/Electric Eel.md",
+            "Reference/Camera Lucida.md",
+            "Reference/Astronomy.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.1111111111111111,
+          "top10": [
+            "0 Inbox/Mecca.md",
+            "Encyclopedia/E/Electric Eel.md",
+            "Encyclopedia/M/Magnesite.md",
+            "0 Inbox/Cap Haitien.md",
+            "Reference/Astronomy.md",
+            "Reference/Hydraulics.md",
+            "Encyclopedia/L/Ligao.md",
+            "Encyclopedia/D/Dust.md",
+            "Reference/Fog.md",
+            "Encyclopedia/B/Bacsanyi.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.16666666666666666,
+          "top10": [
+            "Encyclopedia/D/Dust.md",
+            "0 Inbox/Mecca.md",
+            "0 Inbox/Cap Haitien.md",
+            "Reference/Lantern.md",
+            "Encyclopedia/M/Magnesite.md",
+            "Reference/Fog.md",
+            "Reference/Mars.md",
+            "Encyclopedia/E/Electric Eel.md",
+            "Reference/Camera Lucida.md",
+            "Reference/Astronomy.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.16666666666666666,
+          "top10": [
+            "Encyclopedia/D/Dust.md",
+            "0 Inbox/Mecca.md",
+            "0 Inbox/Cap Haitien.md",
+            "Reference/Lantern.md",
+            "Encyclopedia/M/Magnesite.md",
+            "Reference/Fog.md",
+            "Reference/Mars.md",
+            "Encyclopedia/E/Electric Eel.md",
+            "Reference/Camera Lucida.md",
+            "Reference/Astronomy.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-llama",
+      "kind": "semantic",
+      "query": "domesticated South American pack animal of the camel family",
+      "expected": [
+        "Notes/Llama.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Sources/Family.md",
+            "Reference/India.md",
+            "Notes/Japan.md",
+            "Encyclopedia/I/Italy.md",
+            "Reference/Australia.md",
+            "Sources/Europe.md",
+            "Encyclopedia/C/Celt.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/I/Ireland.md",
+            "Sources/Evidence.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/C/Cruelty.md",
+            "Reference/India.md",
+            "Notes/Horse.md",
+            "Encyclopedia/A/Asia.md",
+            "Encyclopedia/I/Indo-China.md",
+            "Notes/British Columbia.md",
+            "Notes/Canachus.md",
+            "0 Inbox/Cambiasi.md",
+            "Encyclopedia/H/Himalaya.md",
+            "Notes/Central America.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Reference/India.md",
+            "Reference/Australia.md",
+            "Encyclopedia/A/Asia.md",
+            "Notes/Horse.md",
+            "Encyclopedia/I/Indo-China.md",
+            "Encyclopedia/I/Italy.md",
+            "Notes/Canachus.md",
+            "Notes/Japan.md",
+            "Notes/Central America.md",
+            "Encyclopedia/D/Daille.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/C/Cruelty.md",
+            "Reference/India.md",
+            "Notes/Horse.md",
+            "Encyclopedia/A/Asia.md",
+            "Encyclopedia/I/Indo-China.md",
+            "Notes/British Columbia.md",
+            "Notes/Canachus.md",
+            "0 Inbox/Cambiasi.md",
+            "Encyclopedia/H/Himalaya.md",
+            "Notes/Central America.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/C/Cruelty.md",
+            "Reference/India.md",
+            "Notes/Horse.md",
+            "Encyclopedia/A/Asia.md",
+            "Encyclopedia/I/Indo-China.md",
+            "Notes/British Columbia.md",
+            "Notes/Canachus.md",
+            "0 Inbox/Cambiasi.md",
+            "Encyclopedia/H/Himalaya.md",
+            "Notes/Central America.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-fox-statesman",
+      "kind": "semantic",
+      "query": "eighteenth century British statesman and orator, son of Lord Holland",
+      "expected": [
+        "Encyclopedia/F/Fox.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Japan.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/I/Ireland.md",
+            "Reference/India.md",
+            "Notes/History.md",
+            "Encyclopedia/E/Edric.md",
+            "Encyclopedia/I/Italy.md",
+            "Sources/Hymettus.md",
+            "Notes/French Revolutionary Wars.md",
+            "Sources/Europe.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/H/Harrowby.md",
+            "Encyclopedia/M/Marchmont.md",
+            "Notes/Hatherley.md",
+            "Sources/Harcourt.md",
+            "Reference/Leven And Melville.md",
+            "Reference/Holdernesse.md",
+            "Reference/Harrington.md",
+            "Notes/Loudoun.md",
+            "Encyclopedia/B/Bedford.md",
+            "Reference/Boyd.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Reference/George.md",
+            "Encyclopedia/B/Belgium.md",
+            "Encyclopedia/L/Leeds.md",
+            "Encyclopedia/H/Harrowby.md",
+            "Notes/Japan.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/M/Marchmont.md",
+            "Encyclopedia/I/Ireland.md",
+            "Notes/Hatherley.md",
+            "Reference/India.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/H/Harrowby.md",
+            "Encyclopedia/M/Marchmont.md",
+            "Notes/Hatherley.md",
+            "Sources/Harcourt.md",
+            "Reference/Leven And Melville.md",
+            "Reference/Holdernesse.md",
+            "Reference/Harrington.md",
+            "Notes/Loudoun.md",
+            "Encyclopedia/B/Bedford.md",
+            "Reference/Boyd.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/H/Harrowby.md",
+            "Encyclopedia/M/Marchmont.md",
+            "Notes/Hatherley.md",
+            "Sources/Harcourt.md",
+            "Reference/Leven And Melville.md",
+            "Reference/Holdernesse.md",
+            "Reference/Harrington.md",
+            "Notes/Loudoun.md",
+            "Encyclopedia/B/Bedford.md",
+            "Reference/Boyd.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-darwin",
+      "kind": "semantic",
+      "query": "Victorian naturalist who developed the theory of evolution by natural selection",
+      "expected": [
+        "Sources/Darwin.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Sources/Evidence.md",
+            "Notes/Japan.md",
+            "Encyclopedia/E/English Law.md",
+            "Reference/Ethics.md",
+            "Sources/Aristotle.md",
+            "Encyclopedia/E/Edric.md",
+            "Encyclopedia/C/Celt.md",
+            "Encyclopedia/I/Italy.md",
+            "Sources/Germanium.md",
+            "Encyclopedia/D/Drama.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Sources/Evidence.md",
+            "Sources/Darwin.md",
+            "Notes/Hybla.md",
+            "Reference/Ethics.md",
+            "Encyclopedia/H/Hunter.md",
+            "Encyclopedia/B/Biogenesis.md",
+            "Encyclopedia/F/Fine Arts.md",
+            "Encyclopedia/A/Anthozoa.md",
+            "Encyclopedia/H/Heredity.md",
+            "Encyclopedia/E/Embrun.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Sources/Evidence.md",
+            "Reference/Ethics.md",
+            "Sources/Aristotle.md",
+            "Reference/Australia.md",
+            "Encyclopedia/E/Embrun.md",
+            "Encyclopedia/F/Fine Arts.md",
+            "Notes/Japan.md",
+            "Encyclopedia/G/Geography.md",
+            "Encyclopedia/B/Bacsanyi.md",
+            "Encyclopedia/H/Hexapoda.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Sources/Evidence.md",
+            "Sources/Darwin.md",
+            "Notes/Hybla.md",
+            "Reference/Ethics.md",
+            "Encyclopedia/H/Hunter.md",
+            "Encyclopedia/B/Biogenesis.md",
+            "Encyclopedia/F/Fine Arts.md",
+            "Encyclopedia/A/Anthozoa.md",
+            "Encyclopedia/H/Heredity.md",
+            "Encyclopedia/E/Embrun.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Sources/Evidence.md",
+            "Sources/Darwin.md",
+            "Notes/Hybla.md",
+            "Reference/Ethics.md",
+            "Encyclopedia/H/Hunter.md",
+            "Encyclopedia/B/Biogenesis.md",
+            "Encyclopedia/F/Fine Arts.md",
+            "Encyclopedia/A/Anthozoa.md",
+            "Encyclopedia/H/Heredity.md",
+            "Encyclopedia/E/Embrun.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-faraday",
+      "kind": "semantic",
+      "query": "English scientist famous for discoveries in electromagnetism and electrochemistry",
+      "expected": [
+        "Reference/Faraday.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Japan.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/E/Electric Eel.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Reference/Ethics.md",
+            "Encyclopedia/I/Ireland.md",
+            "Encyclopedia/L/Ligao.md",
+            "Reference/India.md",
+            "Sources/Cotton.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.2,
+          "top10": [
+            "Encyclopedia/E/Electric Eel.md",
+            "Encyclopedia/E/Electrokinetics.md",
+            "Encyclopedia/M/Magnesite.md",
+            "Encyclopedia/B/Becquerel.md",
+            "Reference/Faraday.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/D/Dialysis.md",
+            "Sources/Maxwell.md",
+            "Encyclopedia/E/Electra.md",
+            "Encyclopedia/D/Dewar.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.1,
+          "top10": [
+            "Encyclopedia/E/Electric Eel.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/M/Magnesite.md",
+            "Encyclopedia/L/Ligao.md",
+            "Notes/Japan.md",
+            "Encyclopedia/E/Electrokinetics.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/B/Becquerel.md",
+            "Reference/Faraday.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.2,
+          "top10": [
+            "Encyclopedia/E/Electric Eel.md",
+            "Encyclopedia/E/Electrokinetics.md",
+            "Encyclopedia/M/Magnesite.md",
+            "Encyclopedia/B/Becquerel.md",
+            "Reference/Faraday.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/D/Dialysis.md",
+            "Sources/Maxwell.md",
+            "Encyclopedia/E/Electra.md",
+            "Encyclopedia/D/Dewar.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.2,
+          "top10": [
+            "Encyclopedia/E/Electric Eel.md",
+            "Encyclopedia/E/Electrokinetics.md",
+            "Encyclopedia/M/Magnesite.md",
+            "Encyclopedia/B/Becquerel.md",
+            "Reference/Faraday.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/D/Dialysis.md",
+            "Sources/Maxwell.md",
+            "Encyclopedia/E/Electra.md",
+            "Encyclopedia/D/Dewar.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-kant",
+      "kind": "semantic",
+      "query": "German philosopher who examined the limits of pure reason",
+      "expected": [
+        "Encyclopedia/K/Kant.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Reference/Ethics.md",
+            "Notes/Japan.md",
+            "Sources/Germanium.md",
+            "Sources/Aristotle.md",
+            "Sources/Evidence.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/C/Celt.md",
+            "Notes/Church Congress.md",
+            "Encyclopedia/C/Chemistry.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.3333333333333333,
+          "top10": [
+            "Reference/Ethics.md",
+            "Encyclopedia/E/Epicurus.md",
+            "Encyclopedia/K/Kant.md",
+            "Sources/Eucken.md",
+            "Sources/Butler.md",
+            "Encyclopedia/L/Lewes.md",
+            "Sources/Aristotle.md",
+            "Encyclopedia/E/Eclecticism.md",
+            "Encyclopedia/C/Cousin.md",
+            "Notes/Antinomy.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.3333333333333333,
+          "top10": [
+            "Reference/Ethics.md",
+            "Sources/Aristotle.md",
+            "Encyclopedia/K/Kant.md",
+            "Encyclopedia/E/Edric.md",
+            "Encyclopedia/L/Locke.md",
+            "Encyclopedia/H/Hinduism.md",
+            "Encyclopedia/C/Creeds.md",
+            "Encyclopedia/E/Epicurus.md",
+            "Notes/Japan.md",
+            "Sources/Germanium.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.3333333333333333,
+          "top10": [
+            "Reference/Ethics.md",
+            "Encyclopedia/E/Epicurus.md",
+            "Encyclopedia/K/Kant.md",
+            "Sources/Eucken.md",
+            "Sources/Butler.md",
+            "Encyclopedia/L/Lewes.md",
+            "Sources/Aristotle.md",
+            "Encyclopedia/E/Eclecticism.md",
+            "Encyclopedia/C/Cousin.md",
+            "Notes/Antinomy.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.3333333333333333,
+          "top10": [
+            "Reference/Ethics.md",
+            "Encyclopedia/E/Epicurus.md",
+            "Encyclopedia/K/Kant.md",
+            "Sources/Eucken.md",
+            "Sources/Butler.md",
+            "Encyclopedia/L/Lewes.md",
+            "Sources/Aristotle.md",
+            "Encyclopedia/E/Eclecticism.md",
+            "Encyclopedia/C/Cousin.md",
+            "Notes/Antinomy.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-japan",
+      "kind": "semantic",
+      "query": "island nation of east Asia that rose to great power status",
+      "expected": [
+        "Notes/Japan.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Notes/Japan.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/A/Asia.md",
+            "Reference/India.md",
+            "Encyclopedia/I/Ireland.md",
+            "Sources/Europe.md",
+            "Encyclopedia/C/Celt.md",
+            "Reference/Australia.md",
+            "Notes/Costume.md",
+            "Encyclopedia/E/English Law.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/A/Asia.md",
+            "Encyclopedia/L/Luchu Archipelago.md",
+            "Encyclopedia/G/Geography.md",
+            "Sources/Malayalam.md",
+            "Encyclopedia/L/Loyalty Islands.md",
+            "Notes/Korea.md",
+            "Encyclopedia/B/Bonin Islands.md",
+            "Sources/Island.md",
+            "Sources/Beri-Beri.md",
+            "Encyclopedia/I/Ito.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Encyclopedia/A/Asia.md",
+            "Notes/Japan.md",
+            "Reference/Australia.md",
+            "Reference/India.md",
+            "Encyclopedia/G/Geography.md",
+            "Sources/Europe.md",
+            "Encyclopedia/J/Java.md",
+            "Encyclopedia/B/Bering Island.md",
+            "Encyclopedia/I/Indo-China.md",
+            "Encyclopedia/M/Madagascar.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/A/Asia.md",
+            "Encyclopedia/L/Luchu Archipelago.md",
+            "Encyclopedia/G/Geography.md",
+            "Sources/Malayalam.md",
+            "Encyclopedia/L/Loyalty Islands.md",
+            "Notes/Korea.md",
+            "Encyclopedia/B/Bonin Islands.md",
+            "Sources/Island.md",
+            "Sources/Beri-Beri.md",
+            "Encyclopedia/I/Ito.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/A/Asia.md",
+            "Encyclopedia/L/Luchu Archipelago.md",
+            "Encyclopedia/G/Geography.md",
+            "Sources/Malayalam.md",
+            "Encyclopedia/L/Loyalty Islands.md",
+            "Notes/Korea.md",
+            "Encyclopedia/B/Bonin Islands.md",
+            "Sources/Island.md",
+            "Sources/Beri-Beri.md",
+            "Encyclopedia/I/Ito.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-machiavelli",
+      "kind": "semantic",
+      "query": "Florentine political theorist whose name became a byword for cunning statecraft",
+      "expected": [
+        "Encyclopedia/M/Machiavelli.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Japan.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/E/English Law.md",
+            "Sources/Europe.md",
+            "Reference/India.md",
+            "Encyclopedia/C/Celt.md",
+            "Reference/Ethics.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Reference/Australia.md",
+            "Sources/Evidence.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/F/Florence.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/B/Botticelli.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/F/Flore And Blanchefleur.md",
+            "Encyclopedia/F/Foscolo.md",
+            "Encyclopedia/F/Florus.md",
+            "Encyclopedia/M/Mazzini.md",
+            "Encyclopedia/F/Ficino.md",
+            "Encyclopedia/G/Guicciardini.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/F/Florence.md",
+            "Sources/Germanium.md",
+            "Notes/Japan.md",
+            "Encyclopedia/B/Botticelli.md",
+            "Sources/Europe.md",
+            "Encyclopedia/F/Flore And Blanchefleur.md",
+            "Reference/India.md",
+            "Encyclopedia/C/Celt.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/F/Florence.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/B/Botticelli.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/F/Flore And Blanchefleur.md",
+            "Encyclopedia/F/Foscolo.md",
+            "Encyclopedia/F/Florus.md",
+            "Encyclopedia/M/Mazzini.md",
+            "Encyclopedia/F/Ficino.md",
+            "Encyclopedia/G/Guicciardini.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/F/Florence.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/B/Botticelli.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/F/Flore And Blanchefleur.md",
+            "Encyclopedia/F/Foscolo.md",
+            "Encyclopedia/F/Florus.md",
+            "Encyclopedia/M/Mazzini.md",
+            "Encyclopedia/F/Ficino.md",
+            "Encyclopedia/G/Guicciardini.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sem-livingstone",
+      "kind": "semantic",
+      "query": "Scottish missionary who explored Africa",
+      "expected": [
+        "Encyclopedia/L/Livingstone.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Encyclopedia/B/British Central Africa.md",
+            "Encyclopedia/L/Livingstone.md",
+            "Reference/Australia.md",
+            "Encyclopedia/A/Asia.md",
+            "Encyclopedia/C/Cameronians.md",
+            "Encyclopedia/G/Geography.md",
+            "Encyclopedia/I/Ireland.md",
+            "Notes/Canachus.md",
+            "Encyclopedia/B/Baptists.md",
+            "Encyclopedia/L/Laing.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/L/Livingstone.md",
+            "Sources/Germanium.md",
+            "Notes/Crowther.md",
+            "Encyclopedia/H/Haldane.md",
+            "Encyclopedia/B/British Central Africa.md",
+            "Sources/Baker.md",
+            "Reference/Burton.md",
+            "Encyclopedia/I/Ireland.md",
+            "Notes/Laird.md",
+            "Encyclopedia/F/Fremont.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/L/Livingstone.md",
+            "Encyclopedia/B/British Central Africa.md",
+            "Sources/Germanium.md",
+            "Encyclopedia/I/Ireland.md",
+            "Encyclopedia/B/Baptists.md",
+            "Encyclopedia/G/Geography.md",
+            "Sources/Map.md",
+            "Encyclopedia/C/Cameronians.md",
+            "Encyclopedia/G/Gold Coast.md",
+            "Reference/Australia.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/L/Livingstone.md",
+            "Sources/Germanium.md",
+            "Notes/Crowther.md",
+            "Encyclopedia/H/Haldane.md",
+            "Encyclopedia/B/British Central Africa.md",
+            "Sources/Baker.md",
+            "Reference/Burton.md",
+            "Encyclopedia/I/Ireland.md",
+            "Notes/Laird.md",
+            "Encyclopedia/F/Fremont.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/L/Livingstone.md",
+            "Sources/Germanium.md",
+            "Notes/Crowther.md",
+            "Encyclopedia/H/Haldane.md",
+            "Encyclopedia/B/British Central Africa.md",
+            "Sources/Baker.md",
+            "Reference/Burton.md",
+            "Encyclopedia/I/Ireland.md",
+            "Notes/Laird.md",
+            "Encyclopedia/F/Fremont.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lex-phlogiston",
+      "kind": "lexical",
+      "query": "phlogiston",
+      "expected": [
+        "Sources/Combustion.md",
+        "Sources/Lavoisier.md",
+        "Encyclopedia/C/Chemistry.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Sources/Combustion.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/K/Kirwan.md",
+            "Sources/Lavoisier.md",
+            "Encyclopedia/B/Black.md",
+            "Encyclopedia/C/Cavendish.md",
+            "Encyclopedia/A/Argon.md",
+            "Encyclopedia/H/Hydrodynamics.md",
+            "Notes/Arsenic.md",
+            "Encyclopedia/M/Marggraf.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/C/Chemistry.md",
+            "0 Inbox/Elliotson.md",
+            "Encyclopedia/A/Asia.md",
+            "Encyclopedia/C/Carbohydrate.md",
+            "Encyclopedia/C/Cavendish.md",
+            "Sources/Homoeopathy.md",
+            "Reference/Astronomy.md",
+            "Sources/Balard.md",
+            "Encyclopedia/B/Burdon-Sanderson.md",
+            "Encyclopedia/D/Deslongchamps.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/C/Cavendish.md",
+            "Encyclopedia/A/Argon.md",
+            "Encyclopedia/M/Marggraf.md",
+            "Encyclopedia/B/Black.md",
+            "Sources/Combustion.md",
+            "0 Inbox/Elliotson.md",
+            "Encyclopedia/A/Asia.md",
+            "Encyclopedia/K/Kirwan.md",
+            "Encyclopedia/C/Carbohydrate.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/C/Chemistry.md",
+            "0 Inbox/Elliotson.md",
+            "Encyclopedia/A/Asia.md",
+            "Encyclopedia/C/Carbohydrate.md",
+            "Encyclopedia/C/Cavendish.md",
+            "Sources/Homoeopathy.md",
+            "Reference/Astronomy.md",
+            "Sources/Balard.md",
+            "Encyclopedia/B/Burdon-Sanderson.md",
+            "Encyclopedia/D/Deslongchamps.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/C/Chemistry.md",
+            "0 Inbox/Elliotson.md",
+            "Encyclopedia/A/Asia.md",
+            "Encyclopedia/C/Carbohydrate.md",
+            "Encyclopedia/C/Cavendish.md",
+            "Sources/Homoeopathy.md",
+            "Reference/Astronomy.md",
+            "Sources/Balard.md",
+            "Encyclopedia/B/Burdon-Sanderson.md",
+            "Encyclopedia/D/Deslongchamps.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lex-chateaubriant",
+      "kind": "lexical",
+      "query": "Chateaubriant",
+      "expected": [
+        "Encyclopedia/C/Chateaubriant.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/C/Chateaubriant.md",
+            "MOCs/history MOC.md",
+            "MOCs/artillery MOC.md",
+            "MOCs/antiquity-studies MOC.md",
+            "MOCs/biology-studies MOC.md",
+            "MOCs/mythology MOC.md",
+            "Daily Notes/2023-01-05.md",
+            "Daily Notes/2025-07-30.md",
+            "MOCs/engineering-studies MOC.md",
+            "MOCs/language-studies MOC.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/C/Chateaubriant.md",
+            "Sources/Castle.md",
+            "Daily Notes/2023-01-05.md",
+            "Daily Notes/2023-01-01.md",
+            "Encyclopedia/A/Aveyron.md",
+            "Encyclopedia/C/Chateau-Thierry.md",
+            "Reference/Blaye-Et-Ste Luce.md",
+            "Encyclopedia/L/Loiret.md",
+            "Reference/Guienne.md",
+            "Daily Notes/2024-08-21.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/C/Chateaubriant.md",
+            "Daily Notes/2023-01-05.md",
+            "Daily Notes/2025-07-30.md",
+            "Daily Notes/2023-01-01.md",
+            "Daily Notes/2024-08-21.md",
+            "Daily Notes/2023-01-23.md",
+            "Daily Notes/2023-11-20.md",
+            "Daily Notes/2023-08-11.md",
+            "Daily Notes/2024-08-16.md",
+            "Daily Notes/2024-05-07.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/C/Chateaubriant.md",
+            "Sources/Castle.md",
+            "Daily Notes/2023-01-05.md",
+            "Daily Notes/2023-01-01.md",
+            "Encyclopedia/A/Aveyron.md",
+            "Encyclopedia/C/Chateau-Thierry.md",
+            "Reference/Blaye-Et-Ste Luce.md",
+            "Encyclopedia/L/Loiret.md",
+            "Reference/Guienne.md",
+            "Daily Notes/2024-08-21.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/C/Chateaubriant.md",
+            "MOCs/history MOC.md",
+            "MOCs/artillery MOC.md",
+            "MOCs/antiquity-studies MOC.md",
+            "MOCs/biology-studies MOC.md",
+            "MOCs/mythology MOC.md",
+            "Daily Notes/2023-01-05.md",
+            "Daily Notes/2025-07-30.md",
+            "MOCs/engineering-studies MOC.md",
+            "MOCs/language-studies MOC.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lex-asolo",
+      "kind": "lexical",
+      "query": "Asolo",
+      "expected": [
+        "Encyclopedia/A/Asolo.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/A/Asolo.md",
+            "Daily Notes/2024-05-12.md",
+            "Reference/Lotto.md",
+            "Encyclopedia/C/Canova.md",
+            "Sources/Fixtures.md",
+            "Encyclopedia/I/Ii.--Secular Vocal Music.md",
+            "Encyclopedia/I/I.--Church Music.md",
+            "0 Inbox/Instrument.md",
+            "Encyclopedia/H/Hincmar.md",
+            "Encyclopedia/F/Fuero.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.1111111111111111,
+          "top10": [
+            "Encyclopedia/C/Campoamor Y Campoosorio.md",
+            "Notes/Leopardo.md",
+            "Notes/Folengo.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/F/Firenzuola.md",
+            "Encyclopedia/C/Corenzio.md",
+            "Notes/Collodion.md",
+            "Encyclopedia/F/Foscolo.md",
+            "Encyclopedia/A/Asolo.md",
+            "Sources/Lobo.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/A/Asolo.md",
+            "Encyclopedia/I/Italy.md",
+            "0 Inbox/Instrument.md",
+            "Encyclopedia/B/Barahona De Soto.md",
+            "Encyclopedia/C/Campoamor Y Campoosorio.md",
+            "Daily Notes/2024-05-12.md",
+            "Notes/Leopardo.md",
+            "Notes/Folengo.md",
+            "Reference/Lotto.md",
+            "Encyclopedia/C/Canova.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.1111111111111111,
+          "top10": [
+            "Encyclopedia/C/Campoamor Y Campoosorio.md",
+            "Notes/Leopardo.md",
+            "Notes/Folengo.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/F/Firenzuola.md",
+            "Encyclopedia/C/Corenzio.md",
+            "Notes/Collodion.md",
+            "Encyclopedia/F/Foscolo.md",
+            "Encyclopedia/A/Asolo.md",
+            "Sources/Lobo.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/A/Asolo.md",
+            "Daily Notes/2024-05-12.md",
+            "Reference/Lotto.md",
+            "Encyclopedia/C/Canova.md",
+            "Sources/Fixtures.md",
+            "Encyclopedia/I/Ii.--Secular Vocal Music.md",
+            "Encyclopedia/I/I.--Church Music.md",
+            "0 Inbox/Instrument.md",
+            "Encyclopedia/H/Hincmar.md",
+            "Encyclopedia/F/Fuero.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lex-handel",
+      "kind": "lexical",
+      "query": "Handel",
+      "expected": [
+        "Encyclopedia/H/Handel.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/H/Handel.md",
+            "0 Inbox/Handsel.md",
+            "Reference/Aria.md",
+            "Encyclopedia/G/Grumbach.md",
+            "Notes/Dettingen.md",
+            "Encyclopedia/I/Ii.--Secular Vocal Music.md",
+            "Encyclopedia/C/Chandos.md",
+            "Sources/Hornpipe.md",
+            "Reference/Clari.md",
+            "0 Inbox/Instrument.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/H/Handel.md",
+            "Reference/Geminiani.md",
+            "Reference/Helmund.md",
+            "0 Inbox/Hopkins.md",
+            "0 Inbox/Galuppi.md",
+            "Sources/Jommelli.md",
+            "Sources/Archaeology.md",
+            "Reference/Jew'S Harp.md",
+            "Encyclopedia/E/Eccard.md",
+            "Reference/Flute.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/H/Handel.md",
+            "Reference/Geminiani.md",
+            "Encyclopedia/I/Ii.--Secular Vocal Music.md",
+            "Reference/Clari.md",
+            "Sources/Hornpipe.md",
+            "Reference/Aria.md",
+            "0 Inbox/Instrument.md",
+            "Encyclopedia/H/Horn.md",
+            "Notes/Haydn.md",
+            "Notes/Hamburg.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/H/Handel.md",
+            "Reference/Geminiani.md",
+            "Reference/Helmund.md",
+            "0 Inbox/Hopkins.md",
+            "0 Inbox/Galuppi.md",
+            "Sources/Jommelli.md",
+            "Sources/Archaeology.md",
+            "Reference/Jew'S Harp.md",
+            "Encyclopedia/E/Eccard.md",
+            "Reference/Flute.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/H/Handel.md",
+            "0 Inbox/Handsel.md",
+            "Reference/Aria.md",
+            "Encyclopedia/G/Grumbach.md",
+            "Notes/Dettingen.md",
+            "Encyclopedia/I/Ii.--Secular Vocal Music.md",
+            "Encyclopedia/C/Chandos.md",
+            "Sources/Hornpipe.md",
+            "Reference/Clari.md",
+            "0 Inbox/Instrument.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lex-cromwell",
+      "kind": "lexical",
+      "query": "Cromwell",
+      "expected": [
+        "Encyclopedia/C/Cromwell.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/C/Cromwell.md",
+            "Encyclopedia/C/Coxwell.md",
+            "Encyclopedia/B/Bramwell.md",
+            "Encyclopedia/C/Cowell.md",
+            "Encyclopedia/L/Lambert.md",
+            "Notes/Boorde.md",
+            "Sources/Great Rebellion.md",
+            "Reference/Ireton.md",
+            "Encyclopedia/F/Fleetwood.md",
+            "Sources/Deane.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/C/Cromwell.md",
+            "Reference/Ireton.md",
+            "Sources/Deane.md",
+            "Encyclopedia/D/Downing.md",
+            "Encyclopedia/L/Lambert.md",
+            "Sources/Great Rebellion.md",
+            "Sources/Ludlow.md",
+            "Notes/Goffe.md",
+            "Encyclopedia/I/Ireland.md",
+            "Encyclopedia/L/Lenthall.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/C/Cromwell.md",
+            "Reference/Ireton.md",
+            "Encyclopedia/L/Lambert.md",
+            "Sources/Deane.md",
+            "Sources/Great Rebellion.md",
+            "Encyclopedia/D/Downing.md",
+            "Notes/Goffe.md",
+            "Encyclopedia/F/Fleetwood.md",
+            "Sources/Ludlow.md",
+            "Encyclopedia/L/Lenthall.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/C/Cromwell.md",
+            "Reference/Ireton.md",
+            "Sources/Deane.md",
+            "Encyclopedia/D/Downing.md",
+            "Encyclopedia/L/Lambert.md",
+            "Sources/Great Rebellion.md",
+            "Sources/Ludlow.md",
+            "Notes/Goffe.md",
+            "Encyclopedia/I/Ireland.md",
+            "Encyclopedia/L/Lenthall.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/C/Cromwell.md",
+            "Encyclopedia/C/Coxwell.md",
+            "Encyclopedia/B/Bramwell.md",
+            "Encyclopedia/C/Cowell.md",
+            "Encyclopedia/L/Lambert.md",
+            "Notes/Boorde.md",
+            "Sources/Great Rebellion.md",
+            "Reference/Ireton.md",
+            "Encyclopedia/F/Fleetwood.md",
+            "Sources/Deane.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lex-dante",
+      "kind": "lexical",
+      "query": "Dante",
+      "expected": [
+        "Encyclopedia/D/Dante.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/D/Dante.md",
+            "Encyclopedia/A/Ante-Fixae.md",
+            "Encyclopedia/A/Ashwell.md",
+            "Encyclopedia/B/Botticelli.md",
+            "Notes/Boccaccio.md",
+            "Encyclopedia/F/Florence.md",
+            "Encyclopedia/C/Cavalcanti.md",
+            "Encyclopedia/C/Cino Da Pistoia.md",
+            "0 Inbox/Lacaita.md",
+            "Daily Notes/2023-02-21.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/D/Dante.md",
+            "Sources/Deane.md",
+            "Encyclopedia/C/Cade.md",
+            "Notes/Devadatta.md",
+            "Sources/Dennis.md",
+            "Reference/Guido Of Arezzo.md",
+            "Encyclopedia/A/Antichrist.md",
+            "Encyclopedia/F/Florence.md",
+            "Encyclopedia/C/Cavalcanti.md",
+            "Encyclopedia/F/Faust.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/D/Dante.md",
+            "Encyclopedia/F/Florence.md",
+            "Encyclopedia/C/Cavalcanti.md",
+            "Notes/Boccaccio.md",
+            "Encyclopedia/B/Botticelli.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/C/Cino Da Pistoia.md",
+            "Encyclopedia/L/Lombardo.md",
+            "Encyclopedia/A/Ante-Fixae.md",
+            "Sources/Deane.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/D/Dante.md",
+            "Sources/Deane.md",
+            "Encyclopedia/C/Cade.md",
+            "Notes/Devadatta.md",
+            "Sources/Dennis.md",
+            "Reference/Guido Of Arezzo.md",
+            "Encyclopedia/A/Antichrist.md",
+            "Encyclopedia/F/Florence.md",
+            "Encyclopedia/C/Cavalcanti.md",
+            "Encyclopedia/F/Faust.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/D/Dante.md",
+            "Encyclopedia/A/Ante-Fixae.md",
+            "Encyclopedia/A/Ashwell.md",
+            "Encyclopedia/B/Botticelli.md",
+            "Notes/Boccaccio.md",
+            "Encyclopedia/F/Florence.md",
+            "Encyclopedia/C/Cavalcanti.md",
+            "Encyclopedia/C/Cino Da Pistoia.md",
+            "0 Inbox/Lacaita.md",
+            "Daily Notes/2023-02-21.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lex-emerald-beryl",
+      "kind": "lexical",
+      "query": "emerald beryl",
+      "expected": [
+        "Encyclopedia/E/Emerald.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Encyclopedia/B/Beryl.md",
+            "Encyclopedia/E/Emerald.md",
+            "Encyclopedia/B/Beryllium.md",
+            "Encyclopedia/H/Hiddenite.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/C/Chrysoberyl.md",
+            "Encyclopedia/G/Glucinum.md",
+            "Notes/Euclase.md",
+            "Sources/Aquamarine.md",
+            "Encyclopedia/D/Demantoid.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Encyclopedia/B/Beryl.md",
+            "Encyclopedia/E/Emerald.md",
+            "Encyclopedia/C/Chrysoberyl.md",
+            "Reference/Jasper.md",
+            "Encyclopedia/J/Jewelry.md",
+            "Sources/Lapidary.md",
+            "Notes/Bead.md",
+            "Reference/Australia.md",
+            "Sources/Aquamarine.md",
+            "Reference/Iridium.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Encyclopedia/B/Beryl.md",
+            "Encyclopedia/E/Emerald.md",
+            "Encyclopedia/C/Chrysoberyl.md",
+            "Encyclopedia/B/Beryllium.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Reference/Jasper.md",
+            "Sources/Aquamarine.md",
+            "Sources/Lapidary.md",
+            "Encyclopedia/D/Demantoid.md",
+            "Encyclopedia/J/Jewelry.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Encyclopedia/B/Beryl.md",
+            "Encyclopedia/E/Emerald.md",
+            "Encyclopedia/C/Chrysoberyl.md",
+            "Reference/Jasper.md",
+            "Encyclopedia/J/Jewelry.md",
+            "Sources/Lapidary.md",
+            "Notes/Bead.md",
+            "Reference/Australia.md",
+            "Sources/Aquamarine.md",
+            "Reference/Iridium.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Encyclopedia/B/Beryl.md",
+            "Encyclopedia/E/Emerald.md",
+            "Encyclopedia/C/Chrysoberyl.md",
+            "Reference/Jasper.md",
+            "Encyclopedia/J/Jewelry.md",
+            "Sources/Lapidary.md",
+            "Notes/Bead.md",
+            "Reference/Australia.md",
+            "Sources/Aquamarine.md",
+            "Reference/Iridium.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lex-hydrodynamics",
+      "kind": "lexical",
+      "query": "hydrodynamics",
+      "expected": [
+        "Encyclopedia/H/Hydrodynamics.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/H/Hydrodynamics.md",
+            "Encyclopedia/H/Hydrostatics.md",
+            "Encyclopedia/H/Hydromechanics.md",
+            "Encyclopedia/B/Borda.md",
+            "Encyclopedia/B/Bessel Function.md",
+            "Reference/Hydraulics.md",
+            "0 Inbox/Cap Haitien.md",
+            "Notes/Lagrange.md",
+            "Reference/Kelvin.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/H/Hydrodynamics.md",
+            "Encyclopedia/H/Hydrostatics.md",
+            "Encyclopedia/B/Baltic Sea.md",
+            "Encyclopedia/H/Hydrography.md",
+            "Encyclopedia/G/Guanidine.md",
+            "Encyclopedia/H/Hydromechanics.md",
+            "Encyclopedia/C/Cloud-Burst.md",
+            "Reference/Hydraulics.md",
+            "Sources/Hydrazine.md",
+            "Encyclopedia/C/Cobalt.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/H/Hydrodynamics.md",
+            "Encyclopedia/H/Hydrostatics.md",
+            "Encyclopedia/H/Hydromechanics.md",
+            "Reference/Hydraulics.md",
+            "Encyclopedia/B/Baltic Sea.md",
+            "Encyclopedia/B/Borda.md",
+            "Encyclopedia/H/Hydrography.md",
+            "Encyclopedia/B/Bessel Function.md",
+            "Encyclopedia/G/Guanidine.md",
+            "0 Inbox/Cap Haitien.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/H/Hydrodynamics.md",
+            "Encyclopedia/H/Hydrostatics.md",
+            "Encyclopedia/B/Baltic Sea.md",
+            "Encyclopedia/H/Hydrography.md",
+            "Encyclopedia/G/Guanidine.md",
+            "Encyclopedia/H/Hydromechanics.md",
+            "Encyclopedia/C/Cloud-Burst.md",
+            "Reference/Hydraulics.md",
+            "Sources/Hydrazine.md",
+            "Encyclopedia/C/Cobalt.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/H/Hydrodynamics.md",
+            "Encyclopedia/H/Hydrostatics.md",
+            "Encyclopedia/H/Hydromechanics.md",
+            "Encyclopedia/B/Borda.md",
+            "Encyclopedia/B/Bessel Function.md",
+            "Reference/Hydraulics.md",
+            "0 Inbox/Cap Haitien.md",
+            "Notes/Lagrange.md",
+            "Reference/Kelvin.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lex-argon",
+      "kind": "lexical",
+      "query": "argon",
+      "expected": [
+        "Encyclopedia/A/Argon.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/A/Argon.md",
+            "Encyclopedia/A/Arlon.md",
+            "Encyclopedia/A/Arson.md",
+            "Encyclopedia/A/Arion.md",
+            "Encyclopedia/J/Jargon.md",
+            "Notes/Argos.md",
+            "Encyclopedia/A/Aragon.md",
+            "0 Inbox/Catherine Of Aragon.md",
+            "Encyclopedia/H/Helium.md",
+            "Encyclopedia/F/Fumarole.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Sources/Antigone.md",
+            "Encyclopedia/L/Ligonier.md",
+            "Encyclopedia/A/Arnim.md",
+            "Sources/Arran.md",
+            "Sources/Ardashir.md",
+            "Reference/Arbuthnot.md",
+            "Notes/Argos.md",
+            "Encyclopedia/A/Arnauld.md",
+            "Encyclopedia/A/Arndt.md",
+            "Reference/Curtea De Argesh.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/A/Argon.md",
+            "Notes/Argos.md",
+            "Encyclopedia/A/Arlon.md",
+            "Reference/Carnarvonshire.md",
+            "Encyclopedia/A/Arion.md",
+            "Encyclopedia/B/Babylon.md",
+            "Sources/Antigone.md",
+            "Encyclopedia/L/Ligonier.md",
+            "Encyclopedia/A/Arnim.md",
+            "Encyclopedia/A/Arson.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Sources/Antigone.md",
+            "Encyclopedia/L/Ligonier.md",
+            "Encyclopedia/A/Arnim.md",
+            "Sources/Arran.md",
+            "Sources/Ardashir.md",
+            "Reference/Arbuthnot.md",
+            "Notes/Argos.md",
+            "Encyclopedia/A/Arnauld.md",
+            "Encyclopedia/A/Arndt.md",
+            "Reference/Curtea De Argesh.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/A/Argon.md",
+            "Encyclopedia/A/Arlon.md",
+            "Encyclopedia/A/Arson.md",
+            "Encyclopedia/A/Arion.md",
+            "Encyclopedia/J/Jargon.md",
+            "Notes/Argos.md",
+            "Encyclopedia/A/Aragon.md",
+            "0 Inbox/Catherine Of Aragon.md",
+            "Encyclopedia/H/Helium.md",
+            "Encyclopedia/F/Fumarole.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lex-lavoisier",
+      "kind": "lexical",
+      "query": "Lavoisier",
+      "expected": [
+        "Sources/Lavoisier.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Sources/Lavoisier.md",
+            "Encyclopedia/B/Berthollet.md",
+            "Notes/Fourcroy.md",
+            "Encyclopedia/K/Kirwan.md",
+            "Encyclopedia/A/Aubin.md",
+            "Encyclopedia/B/Black.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/G/Gibbs.md",
+            "Sources/Combustion.md",
+            "Encyclopedia/M/Mayow.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Sources/Lavoisier.md",
+            "Encyclopedia/L/Louvois.md",
+            "Encyclopedia/B/Bellini.md",
+            "Encyclopedia/D/Dictator.md",
+            "Encyclopedia/A/Azeglio.md",
+            "Encyclopedia/I/Italy.md",
+            "Notes/French Revolutionary Wars.md",
+            "Encyclopedia/L/Larivey.md",
+            "0 Inbox/Cagliostro.md",
+            "Reference/Lares.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Sources/Lavoisier.md",
+            "Encyclopedia/B/Berthollet.md",
+            "Encyclopedia/L/Louvois.md",
+            "Encyclopedia/B/Bellini.md",
+            "Notes/Fourcroy.md",
+            "Encyclopedia/D/Dictator.md",
+            "Encyclopedia/K/Kirwan.md",
+            "Encyclopedia/A/Aubin.md",
+            "Encyclopedia/A/Azeglio.md",
+            "Encyclopedia/B/Black.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Sources/Lavoisier.md",
+            "Encyclopedia/L/Louvois.md",
+            "Encyclopedia/B/Bellini.md",
+            "Encyclopedia/D/Dictator.md",
+            "Encyclopedia/A/Azeglio.md",
+            "Encyclopedia/I/Italy.md",
+            "Notes/French Revolutionary Wars.md",
+            "Encyclopedia/L/Larivey.md",
+            "0 Inbox/Cagliostro.md",
+            "Reference/Lares.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Sources/Lavoisier.md",
+            "Encyclopedia/B/Berthollet.md",
+            "Notes/Fourcroy.md",
+            "Encyclopedia/K/Kirwan.md",
+            "Encyclopedia/A/Aubin.md",
+            "Encyclopedia/B/Black.md",
+            "Encyclopedia/C/Chemistry.md",
+            "Encyclopedia/G/Gibbs.md",
+            "Sources/Combustion.md",
+            "Encyclopedia/M/Mayow.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "top-birds-of-prey",
+      "kind": "topical",
+      "query": "birds of prey",
+      "expected": [
+        "Reference/Eagle.md",
+        "Encyclopedia/H/Hawk.md",
+        "Encyclopedia/K/Kite.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Japan.md",
+            "Encyclopedia/F/Frigate-Bird.md",
+            "Notes/Humming-Bird.md",
+            "Encyclopedia/M/Martin Of Troppau.md",
+            "Reference/India.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/C/Celt.md",
+            "Encyclopedia/K/King-Bird.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/I/Ireland.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/H/Himalaya.md",
+            "Encyclopedia/C/Canary Islands.md",
+            "Reference/Malta.md",
+            "Sources/Guiana.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/M/Madagascar.md",
+            "Reference/Australia.md",
+            "Encyclopedia/F/Falkland Islands.md",
+            "Encyclopedia/I/Indiana.md",
+            "Notes/Canachus.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.1,
+          "top10": [
+            "Encyclopedia/I/Italy.md",
+            "Reference/India.md",
+            "Notes/Humming-Bird.md",
+            "Reference/Australia.md",
+            "Encyclopedia/F/Frigate-Bird.md",
+            "Encyclopedia/K/Kestrel.md",
+            "Notes/Canachus.md",
+            "Encyclopedia/F/Feather.md",
+            "Encyclopedia/M/Madagascar.md",
+            "Reference/Eagle.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/H/Himalaya.md",
+            "Encyclopedia/C/Canary Islands.md",
+            "Reference/Malta.md",
+            "Sources/Guiana.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/M/Madagascar.md",
+            "Reference/Australia.md",
+            "Encyclopedia/F/Falkland Islands.md",
+            "Encyclopedia/I/Indiana.md",
+            "Notes/Canachus.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/H/Himalaya.md",
+            "Encyclopedia/C/Canary Islands.md",
+            "Reference/Malta.md",
+            "Sources/Guiana.md",
+            "Encyclopedia/I/Italy.md",
+            "Encyclopedia/M/Madagascar.md",
+            "Reference/Australia.md",
+            "Encyclopedia/F/Falkland Islands.md",
+            "Encyclopedia/I/Indiana.md",
+            "Notes/Canachus.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "top-big-cats",
+      "kind": "topical",
+      "query": "large wild cats",
+      "expected": [
+        "Encyclopedia/J/Jaguar.md",
+        "Encyclopedia/L/Leopard.md",
+        "Reference/Lynx.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/F/Fur.md",
+            "Reference/Australia.md",
+            "0 Inbox/Mammalia.md",
+            "Reference/India.md",
+            "Sources/Cotton.md",
+            "Encyclopedia/H/Himalaya.md",
+            "Encyclopedia/D/Daille.md",
+            "Notes/Canachus.md",
+            "Notes/Japan.md",
+            "Encyclopedia/L/Longevity.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Reference/Lynx.md",
+            "Reference/India.md",
+            "Encyclopedia/A/Assam.md",
+            "Encyclopedia/I/Indo-China.md",
+            "Encyclopedia/H/Himalaya.md",
+            "Encyclopedia/F/Falkland Islands.md",
+            "Encyclopedia/M/Manchuria.md",
+            "Encyclopedia/L/Louisiana.md",
+            "Encyclopedia/F/Fur.md",
+            "Sources/Catesby.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.16666666666666666,
+          "top10": [
+            "Reference/India.md",
+            "Encyclopedia/F/Fur.md",
+            "Encyclopedia/H/Himalaya.md",
+            "Reference/Australia.md",
+            "Notes/Canachus.md",
+            "Reference/Lynx.md",
+            "Encyclopedia/M/Manchuria.md",
+            "Encyclopedia/I/Italy.md",
+            "0 Inbox/Mammalia.md",
+            "Encyclopedia/I/Indo-China.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Reference/Lynx.md",
+            "Reference/India.md",
+            "Encyclopedia/A/Assam.md",
+            "Encyclopedia/I/Indo-China.md",
+            "Encyclopedia/H/Himalaya.md",
+            "Encyclopedia/F/Falkland Islands.md",
+            "Encyclopedia/M/Manchuria.md",
+            "Encyclopedia/L/Louisiana.md",
+            "Encyclopedia/F/Fur.md",
+            "Sources/Catesby.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Reference/Lynx.md",
+            "Reference/India.md",
+            "Encyclopedia/A/Assam.md",
+            "Encyclopedia/I/Indo-China.md",
+            "Encyclopedia/H/Himalaya.md",
+            "Encyclopedia/F/Falkland Islands.md",
+            "Encyclopedia/M/Manchuria.md",
+            "Encyclopedia/L/Louisiana.md",
+            "Encyclopedia/F/Fur.md",
+            "Sources/Catesby.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "top-green-gemstones",
+      "kind": "topical",
+      "query": "green gemstones",
+      "expected": [
+        "Encyclopedia/E/Emerald.md",
+        "Notes/Jade.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Green.md",
+            "Encyclopedia/B/Bowling Green.md",
+            "Sources/Bethnal Green.md",
+            "Encyclopedia/G/Green Monkey.md",
+            "Sources/Green Bay.md",
+            "Reference/Greensand.md",
+            "Notes/Green Ribbon Club.md",
+            "Notes/Greenockite.md",
+            "Encyclopedia/G/Greenheart.md",
+            "Encyclopedia/G/Greensboro.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Sources/Lapidary.md",
+            "Encyclopedia/E/Emerald.md",
+            "Encyclopedia/B/Beryl.md",
+            "Reference/Australia.md",
+            "Encyclopedia/L/Limestone.md",
+            "Encyclopedia/J/Jewelry.md",
+            "Notes/Greenockite.md",
+            "Encyclopedia/A/Aragonite.md",
+            "Notes/Japan.md",
+            "Reference/Jasper.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Greenockite.md",
+            "Encyclopedia/E/Epidote.md",
+            "Reference/Greensand.md",
+            "Notes/Marble.md",
+            "Reference/Apatite.md",
+            "Encyclopedia/D/Demantoid.md",
+            "Encyclopedia/C/Chrysoberyl.md",
+            "Reference/Hornblende.md",
+            "Encyclopedia/A/Apophyllite.md",
+            "Encyclopedia/M/Marl.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Sources/Lapidary.md",
+            "Encyclopedia/E/Emerald.md",
+            "Encyclopedia/B/Beryl.md",
+            "Reference/Australia.md",
+            "Encyclopedia/L/Limestone.md",
+            "Encyclopedia/J/Jewelry.md",
+            "Notes/Greenockite.md",
+            "Encyclopedia/A/Aragonite.md",
+            "Notes/Japan.md",
+            "Reference/Jasper.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Sources/Lapidary.md",
+            "Encyclopedia/E/Emerald.md",
+            "Encyclopedia/B/Beryl.md",
+            "Reference/Australia.md",
+            "Encyclopedia/L/Limestone.md",
+            "Encyclopedia/J/Jewelry.md",
+            "Notes/Greenockite.md",
+            "Encyclopedia/A/Aragonite.md",
+            "Notes/Japan.md",
+            "Reference/Jasper.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "top-fermented-drinks",
+      "kind": "topical",
+      "query": "fermented alcoholic beverages",
+      "expected": [
+        "Encyclopedia/B/Beer.md",
+        "Encyclopedia/C/Cider.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Notes/Gin.md",
+            "Encyclopedia/B/Beer.md",
+            "Encyclopedia/B/Brewer.md",
+            "Encyclopedia/F/Fusel Oil.md",
+            "Encyclopedia/K/Kava.md",
+            "Encyclopedia/C/Cocoa.md",
+            "Encyclopedia/B/Brandy.md",
+            "0 Inbox/Fungi.md",
+            "Reference/Drunkenness.md",
+            "Notes/Japan.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Encyclopedia/B/Brewer.md",
+            "Encyclopedia/B/Beer.md",
+            "Notes/Gin.md",
+            "Encyclopedia/B/Brandy.md",
+            "Encyclopedia/F/Fusel Oil.md",
+            "Encyclopedia/K/Kava.md",
+            "Encyclopedia/E/Esters.md",
+            "Encyclopedia/C/Cider.md",
+            "Encyclopedia/K/Kirsch.md",
+            "0 Inbox/Fungi.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.3333333333333333,
+          "top10": [
+            "Encyclopedia/B/Brewer.md",
+            "Notes/Gin.md",
+            "Encyclopedia/B/Beer.md",
+            "Encyclopedia/F/Fusel Oil.md",
+            "Encyclopedia/B/Brandy.md",
+            "Encyclopedia/K/Kava.md",
+            "0 Inbox/Fungi.md",
+            "Encyclopedia/C/Cider.md",
+            "Encyclopedia/B/Bacsanyi.md",
+            "Reference/Drunkenness.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Encyclopedia/B/Brewer.md",
+            "Encyclopedia/B/Beer.md",
+            "Notes/Gin.md",
+            "Encyclopedia/B/Brandy.md",
+            "Encyclopedia/F/Fusel Oil.md",
+            "Encyclopedia/K/Kava.md",
+            "Encyclopedia/E/Esters.md",
+            "Encyclopedia/C/Cider.md",
+            "Encyclopedia/K/Kirsch.md",
+            "0 Inbox/Fungi.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Encyclopedia/B/Brewer.md",
+            "Encyclopedia/B/Beer.md",
+            "Notes/Gin.md",
+            "Encyclopedia/B/Brandy.md",
+            "Encyclopedia/F/Fusel Oil.md",
+            "Encyclopedia/K/Kava.md",
+            "Encyclopedia/E/Esters.md",
+            "Encyclopedia/C/Cider.md",
+            "Encyclopedia/K/Kirsch.md",
+            "0 Inbox/Fungi.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "top-hand-weapons",
+      "kind": "topical",
+      "query": "medieval hand weapons",
+      "expected": [
+        "Encyclopedia/D/Dagger.md",
+        "Encyclopedia/M/Mace.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Japan.md",
+            "Sources/Archaeology.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/H/Hutten.md",
+            "Encyclopedia/F/Fine Arts.md",
+            "Encyclopedia/C/Celt.md",
+            "Encyclopedia/D/Drift.md",
+            "Encyclopedia/I/Italy.md",
+            "Reference/India.md",
+            "0 Inbox/Kafiristan.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/D/Dagger.md",
+            "Encyclopedia/A/Arm.md",
+            "Sources/Cannon.md",
+            "Notes/Japan.md",
+            "Encyclopedia/B/Bilin.md",
+            "Reference/Lance.md",
+            "Sources/Archaeology.md",
+            "Notes/Cavalry.md",
+            "Encyclopedia/B/Bronze Age.md",
+            "Encyclopedia/I/Ivory.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.3333333333333333,
+          "top10": [
+            "Notes/Japan.md",
+            "Sources/Archaeology.md",
+            "Encyclopedia/D/Dagger.md",
+            "Notes/Cavalry.md",
+            "Encyclopedia/L/Lake Dwellings.md",
+            "0 Inbox/Kafiristan.md",
+            "Sources/Europe.md",
+            "Encyclopedia/B/Bilin.md",
+            "Encyclopedia/E/English Law.md",
+            "Encyclopedia/C/Celt.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/D/Dagger.md",
+            "Encyclopedia/A/Arm.md",
+            "Sources/Cannon.md",
+            "Notes/Japan.md",
+            "Encyclopedia/B/Bilin.md",
+            "Reference/Lance.md",
+            "Sources/Archaeology.md",
+            "Notes/Cavalry.md",
+            "Encyclopedia/B/Bronze Age.md",
+            "Encyclopedia/I/Ivory.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 1,
+          "top10": [
+            "Encyclopedia/D/Dagger.md",
+            "Encyclopedia/A/Arm.md",
+            "Sources/Cannon.md",
+            "Notes/Japan.md",
+            "Encyclopedia/B/Bilin.md",
+            "Reference/Lance.md",
+            "Sources/Archaeology.md",
+            "Notes/Cavalry.md",
+            "Encyclopedia/B/Bronze Age.md",
+            "Encyclopedia/I/Ivory.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "top-weather",
+      "kind": "topical",
+      "query": "violent weather phenomena",
+      "expected": [
+        "Reference/Hurricane.md",
+        "Encyclopedia/H/Hail.md",
+        "Reference/Fog.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Reference/Eclipse.md",
+            "Notes/Divination.md",
+            "Sources/Influenza.md",
+            "Encyclopedia/K/Kant.md",
+            "Notes/Japan.md",
+            "Encyclopedia/H/Hibernation.md",
+            "Reference/India.md",
+            "Sources/Horticulture.md",
+            "Reference/Comet.md",
+            "Reference/Hydraulics.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/B/Breaking Bulk.md",
+            "Reference/Australia.md",
+            "Reference/Mauritius.md",
+            "Encyclopedia/I/Indo-China.md",
+            "Encyclopedia/C/Chile.md",
+            "Reference/Malta.md",
+            "Encyclopedia/L/Louisiana.md",
+            "Sources/Europe.md",
+            "Reference/India.md",
+            "Encyclopedia/J/Java.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Reference/India.md",
+            "Notes/Japan.md",
+            "Encyclopedia/C/Chile.md",
+            "Reference/Australia.md",
+            "Sources/Influenza.md",
+            "Encyclopedia/B/Breaking Bulk.md",
+            "Sources/Europe.md",
+            "Encyclopedia/H/Hibernation.md",
+            "Reference/Malta.md",
+            "Encyclopedia/E/Earth Pillar.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/B/Breaking Bulk.md",
+            "Reference/Australia.md",
+            "Reference/Mauritius.md",
+            "Encyclopedia/I/Indo-China.md",
+            "Encyclopedia/C/Chile.md",
+            "Reference/Malta.md",
+            "Encyclopedia/L/Louisiana.md",
+            "Sources/Europe.md",
+            "Reference/India.md",
+            "Encyclopedia/J/Java.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/B/Breaking Bulk.md",
+            "Reference/Australia.md",
+            "Reference/Mauritius.md",
+            "Encyclopedia/I/Indo-China.md",
+            "Encyclopedia/C/Chile.md",
+            "Reference/Malta.md",
+            "Encyclopedia/L/Louisiana.md",
+            "Sources/Europe.md",
+            "Reference/India.md",
+            "Encyclopedia/J/Java.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "top-textiles",
+      "kind": "topical",
+      "query": "textile fibres and fabrics",
+      "expected": [
+        "Sources/Cotton.md",
+        "Sources/Lace.md",
+        "Reference/Carpet.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 0.5,
+          "top10": [
+            "Notes/Fibres.md",
+            "Sources/Cotton.md",
+            "Encyclopedia/C/Cellulose.md",
+            "Encyclopedia/F/Finiguerra.md",
+            "Encyclopedia/F/Felt.md",
+            "Encyclopedia/L/Line Engraving.md",
+            "Encyclopedia/B/Bleaching.md",
+            "Reference/Carpet.md",
+            "Encyclopedia/I/Italy.md",
+            "Notes/Japan.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.14285714285714285,
+          "top10": [
+            "Notes/Fibres.md",
+            "Encyclopedia/F/Felt.md",
+            "Notes/Bagging.md",
+            "Encyclopedia/L/Line Engraving.md",
+            "Reference/Knitting.md",
+            "Encyclopedia/G/Glasgow.md",
+            "Reference/Carpet.md",
+            "Sources/Cotton.md",
+            "Notes/Japan.md",
+            "Reference/India.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.3333333333333333,
+          "top10": [
+            "Notes/Fibres.md",
+            "Encyclopedia/F/Felt.md",
+            "Sources/Cotton.md",
+            "Encyclopedia/L/Line Engraving.md",
+            "Notes/Bagging.md",
+            "Reference/Carpet.md",
+            "Notes/Japan.md",
+            "Encyclopedia/F/Finiguerra.md",
+            "Encyclopedia/C/Cellulose.md",
+            "Reference/Knitting.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.14285714285714285,
+          "top10": [
+            "Notes/Fibres.md",
+            "Encyclopedia/F/Felt.md",
+            "Notes/Bagging.md",
+            "Encyclopedia/L/Line Engraving.md",
+            "Reference/Knitting.md",
+            "Encyclopedia/G/Glasgow.md",
+            "Reference/Carpet.md",
+            "Sources/Cotton.md",
+            "Notes/Japan.md",
+            "Reference/India.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.14285714285714285,
+          "top10": [
+            "Notes/Fibres.md",
+            "Encyclopedia/F/Felt.md",
+            "Notes/Bagging.md",
+            "Encyclopedia/L/Line Engraving.md",
+            "Reference/Knitting.md",
+            "Encyclopedia/G/Glasgow.md",
+            "Reference/Carpet.md",
+            "Sources/Cotton.md",
+            "Notes/Japan.md",
+            "Reference/India.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "top-instruments",
+      "kind": "topical",
+      "query": "musical instruments",
+      "expected": [
+        "Reference/Flute.md",
+        "Sources/Drum.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": true,
+          "rr10": 0.2,
+          "top10": [
+            "0 Inbox/Instrument.md",
+            "Encyclopedia/C/Clarinet.md",
+            "Encyclopedia/H/Horn.md",
+            "Encyclopedia/G/Guitar.md",
+            "Reference/Flute.md",
+            "Reference/Cithara.md",
+            "Reference/Bombardon.md",
+            "Reference/Keyboard.md",
+            "Reference/Cittern.md",
+            "Encyclopedia/H/Harmonica.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.1,
+          "top10": [
+            "0 Inbox/Instrument.md",
+            "Encyclopedia/K/Kettle.md",
+            "Encyclopedia/H/Harmonica.md",
+            "0 Inbox/Harmonichord.md",
+            "Encyclopedia/G/Guitar.md",
+            "Encyclopedia/B/Band.md",
+            "Reference/Keyboard.md",
+            "Encyclopedia/C/Clarinet.md",
+            "Reference/Bombardon.md",
+            "Sources/Drum.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.1111111111111111,
+          "top10": [
+            "0 Inbox/Instrument.md",
+            "Encyclopedia/G/Guitar.md",
+            "Encyclopedia/C/Clarinet.md",
+            "Encyclopedia/K/Kettle.md",
+            "Encyclopedia/H/Harmonica.md",
+            "Reference/Keyboard.md",
+            "Encyclopedia/H/Horn.md",
+            "Reference/Bombardon.md",
+            "Reference/Flute.md",
+            "Reference/Aria.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.1,
+          "top10": [
+            "0 Inbox/Instrument.md",
+            "Encyclopedia/K/Kettle.md",
+            "Encyclopedia/H/Harmonica.md",
+            "0 Inbox/Harmonichord.md",
+            "Encyclopedia/G/Guitar.md",
+            "Encyclopedia/B/Band.md",
+            "Reference/Keyboard.md",
+            "Encyclopedia/C/Clarinet.md",
+            "Reference/Bombardon.md",
+            "Sources/Drum.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.1,
+          "top10": [
+            "0 Inbox/Instrument.md",
+            "Encyclopedia/K/Kettle.md",
+            "Encyclopedia/H/Harmonica.md",
+            "0 Inbox/Harmonichord.md",
+            "Encyclopedia/G/Guitar.md",
+            "Encyclopedia/B/Band.md",
+            "Reference/Keyboard.md",
+            "Encyclopedia/C/Clarinet.md",
+            "Reference/Bombardon.md",
+            "Sources/Drum.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "top-composers",
+      "kind": "topical",
+      "query": "great German composers",
+      "expected": [
+        "Sources/Beethoven.md",
+        "Encyclopedia/H/Handel.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Sources/Germanium.md",
+            "Sources/Great Rebellion.md",
+            "Encyclopedia/L/Ligne.md",
+            "Encyclopedia/G/Germanic Laws.md",
+            "Reference/Encyclical.md",
+            "Reference/Bastian.md",
+            "Notes/History.md",
+            "Sources/German Catholics.md",
+            "Sources/Franco-German War.md",
+            "Encyclopedia/H/Hail.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Haydn.md",
+            "Encyclopedia/E/Eccard.md",
+            "Encyclopedia/V/V.--Arrangements Of Works By Other Composers.md",
+            "Reference/Goetz.md",
+            "Encyclopedia/C/Chorale.md",
+            "Sources/Hymettus.md",
+            "Encyclopedia/C/Czerny.md",
+            "Encyclopedia/F/Franz.md",
+            "Sources/Fesca.md",
+            "Encyclopedia/H/Hiller.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0.14285714285714285,
+          "top10": [
+            "Sources/Germanium.md",
+            "Sources/Hymettus.md",
+            "Notes/History.md",
+            "Encyclopedia/C/Chorale.md",
+            "Reference/Encyclical.md",
+            "0 Inbox/Instrument.md",
+            "Encyclopedia/H/Handel.md",
+            "Encyclopedia/H/Horn.md",
+            "Encyclopedia/M/Macdonough.md",
+            "Sources/Beethoven.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Haydn.md",
+            "Encyclopedia/E/Eccard.md",
+            "Encyclopedia/V/V.--Arrangements Of Works By Other Composers.md",
+            "Reference/Goetz.md",
+            "Encyclopedia/C/Chorale.md",
+            "Sources/Hymettus.md",
+            "Encyclopedia/C/Czerny.md",
+            "Encyclopedia/F/Franz.md",
+            "Sources/Fesca.md",
+            "Encyclopedia/H/Hiller.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Notes/Haydn.md",
+            "Encyclopedia/E/Eccard.md",
+            "Encyclopedia/V/V.--Arrangements Of Works By Other Composers.md",
+            "Reference/Goetz.md",
+            "Encyclopedia/C/Chorale.md",
+            "Sources/Hymettus.md",
+            "Encyclopedia/C/Czerny.md",
+            "Encyclopedia/F/Franz.md",
+            "Sources/Fesca.md",
+            "Encyclopedia/H/Hiller.md"
+          ]
+        }
+      }
+    },
+    {
+      "id": "top-dairy",
+      "kind": "topical",
+      "query": "foods made from milk",
+      "expected": [
+        "Encyclopedia/C/Cheese.md",
+        "Encyclopedia/B/Butter.md"
+      ],
+      "conditions": {
+        "lexical": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/D/Daille.md",
+            "Reference/Cattle.md",
+            "Notes/Horse.md",
+            "Notes/Dietetics.md",
+            "Reference/India.md",
+            "Notes/Canachus.md",
+            "Notes/Japan.md",
+            "Encyclopedia/I/Ireland.md",
+            "Reference/Insanity.md",
+            "Encyclopedia/B/Bleaching.md"
+          ]
+        },
+        "semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.25,
+          "top10": [
+            "Encyclopedia/D/Daille.md",
+            "Reference/Cattle.md",
+            "Notes/Canachus.md",
+            "Encyclopedia/C/Cheese.md",
+            "Notes/Dietetics.md",
+            "Encyclopedia/B/Butter.md",
+            "Encyclopedia/B/Bacsanyi.md",
+            "Sources/Margarine.md",
+            "Sources/Cotton.md",
+            "Sources/Bosnia And Herzegovina.md"
+          ]
+        },
+        "hybrid-rrf:potion-base-8M": {
+          "hit5": false,
+          "rr10": 0,
+          "top10": [
+            "Encyclopedia/D/Daille.md",
+            "Reference/Cattle.md",
+            "Notes/Canachus.md",
+            "Notes/Dietetics.md",
+            "Reference/India.md",
+            "Sources/Cotton.md",
+            "Notes/Horse.md",
+            "Encyclopedia/B/Bacsanyi.md",
+            "Notes/Japan.md",
+            "Encyclopedia/I/Italy.md"
+          ]
+        },
+        "shipped-semantic:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.25,
+          "top10": [
+            "Encyclopedia/D/Daille.md",
+            "Reference/Cattle.md",
+            "Notes/Canachus.md",
+            "Encyclopedia/C/Cheese.md",
+            "Notes/Dietetics.md",
+            "Encyclopedia/B/Butter.md",
+            "Encyclopedia/B/Bacsanyi.md",
+            "Sources/Margarine.md",
+            "Sources/Cotton.md",
+            "Sources/Bosnia And Herzegovina.md"
+          ]
+        },
+        "shipped-hybrid:potion-base-8M": {
+          "hit5": true,
+          "rr10": 0.25,
+          "top10": [
+            "Encyclopedia/D/Daille.md",
+            "Reference/Cattle.md",
+            "Notes/Canachus.md",
+            "Encyclopedia/C/Cheese.md",
+            "Notes/Dietetics.md",
+            "Encyclopedia/B/Butter.md",
+            "Encyclopedia/B/Bacsanyi.md",
+            "Sources/Margarine.md",
+            "Sources/Cotton.md",
+            "Sources/Bosnia And Herzegovina.md"
+          ]
+        }
+      }
+    }
+  ],
+  "gate": {
+    "perModel": [
+      {
+        "model": "potion-base-8M",
+        "semanticDeltaHit5": 16.666666666666664,
+        "lexicalDeltaHit5": 0,
+        "semanticWarmP95Ms": 13.942291000013938,
+        "verdict": "ship",
+        "reasons": [
+          "semantic subset hit@5 +16.7 pts (gate ≥ +10): PASS",
+          "lexical subset hit@5 0.0 pts (gate ≥ -2): PASS",
+          "semantic warm p95 13.94 ms (gate ≤ 15 ms): PASS"
+        ]
+      }
+    ],
+    "verdict": "ship",
+    "chosenModel": "potion-base-8M"
+  }
+}
