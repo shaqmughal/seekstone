@@ -27,7 +27,7 @@ telemetry, no update checks, no cloud calls. Nothing leaves your machine.
   the MCP SDK, chokidar, fast-glob, minisearch, yaml, zod, picomatch.
 - Proven by: [`no-network.test.ts`](../packages/server/src/no-network.test.ts)
   replaces Node's socket/http/https primitives with throwing stubs, then runs
-  the real index build **and all 18 tools** through the real dispatcher. Any
+  the real index build **and all 19 tools** through the real dispatcher. Any
   connection attempt fails the suite.
 
 ### 2. Vault sandbox
@@ -95,7 +95,7 @@ reports where it went. `permanent: true` is the explicit opt-out.
   and the harness `recoverable-delete` op — after a delete, a byte-identical
   copy must exist in a recoverable location.
 
-### 7. Optional compare-and-swap on edits
+### 7. Optional compare-and-swap on every write
 
 `read_note` returns a `contentHash` (sha-256 of the note's disk bytes). All
 nine write tools accept `prevHash` and refuse to act — with a structured
@@ -116,7 +116,7 @@ locking.
 
 ### 8. Write scoping and read-only mode
 
-`SEEKSTONE_READ_ONLY=1` removes the 8 write tools from `tools/list` entirely
+`SEEKSTONE_READ_ONLY=1` removes the 9 write tools from `tools/list` entirely
 (and rejects them at dispatch if a client calls anyway — including
 `get_periodic_note`'s create flag). `SEEKSTONE_WRITE_PATHS` restricts writes to
 an explicit glob allowlist. Both are enforced at the dispatch layer plus a
