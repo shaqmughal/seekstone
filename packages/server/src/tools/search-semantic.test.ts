@@ -1,6 +1,10 @@
 import { mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
+
+/** Index doc ids carry the platform separator (walkVault uses path.relative). */
+const id = (name: string) => join('Notes', name);
+
 import type { Embedder } from '@seekstone/core/embed';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import type { ServerContext } from '../context.js';
@@ -65,12 +69,12 @@ describe('search modes', () => {
 
   it('defaults to lexical mode (direct calls bypass zod defaults)', () => {
     const hits = search(ctx, { query: 'cheese', limit: 10 });
-    expect(hits[0]?.path).toBe('Notes/Cheese.md');
+    expect(hits[0]?.path).toBe(id('Cheese.md'));
   });
 
   it('semantic mode ranks by meaning, not keywords', () => {
     const hits = search(ctx, { query: 'machine driven by moving air', mode: 'semantic', limit: 5 });
-    expect(hits[0]?.path).toBe('Notes/Windmill.md');
+    expect(hits[0]?.path).toBe(id('Windmill.md'));
     expect(hits[0]?.score).toBeGreaterThan(0.9);
     // Chunk-aware excerpt comes from the matching chunk's text, not empty.
     expect(hits[0]?.excerpt).toContain('mill worked by the wind');
@@ -81,9 +85,9 @@ describe('search modes', () => {
       query: 'dairy food',
       mode: 'semantic',
       limit: 5,
-      folder: 'Notes/',
+      folder: 'Notes',
     });
-    expect(folderHits[0]?.path).toBe('Notes/Cheese.md');
+    expect(folderHits[0]?.path).toBe(id('Cheese.md'));
     const tagHits = search(ctx, {
       query: 'machine driven by moving air',
       mode: 'semantic',
@@ -91,12 +95,12 @@ describe('search modes', () => {
       tag: 'machine',
     });
     expect(tagHits).toHaveLength(1);
-    expect(tagHits[0]?.path).toBe('Notes/Windmill.md');
+    expect(tagHits[0]?.path).toBe(id('Windmill.md'));
   });
 
   it('hybrid mode routes an exact-title query to lexical', () => {
     const hits = search(ctx, { query: 'Heraldry', mode: 'hybrid', limit: 5 });
-    expect(hits[0]?.path).toBe('Notes/Heraldry.md');
+    expect(hits[0]?.path).toBe(id('Heraldry.md'));
     // Lexical scores are MiniSearch magnitudes (> 1), not cosines.
     expect(hits[0]?.score).toBeGreaterThan(1);
   });
@@ -107,7 +111,7 @@ describe('search modes', () => {
       mode: 'hybrid',
       limit: 5,
     });
-    expect(hits[0]?.path).toBe('Notes/Cheese.md');
+    expect(hits[0]?.path).toBe(id('Cheese.md'));
     expect(hits[0]?.score).toBeLessThanOrEqual(1); // cosine
   });
 
