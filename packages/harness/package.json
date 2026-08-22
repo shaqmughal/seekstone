@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "description": "Measurement harness for Obsidian MCP access: vault profiler, cold/warm benchmark runner with pluggable adapters (filesystem-direct, REST, and 7 competing MCP servers), tokens-per-task scenario suite, and write-safety verification.",
+  "description": "Measurement harness for Obsidian MCP access: vault profiler, cold/warm benchmark runner with pluggable adapters (filesystem-direct, REST, and 7 competing MCP servers), tokens-per-task scenario suite, write-safety verification, and a retrieval-quality eval (golden query set + pre-registered ship gate).",
   "bin": {
     "seekstone-harness": "./src/cli.ts"
   },

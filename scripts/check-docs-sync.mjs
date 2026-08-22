@@ -38,17 +38,21 @@ const readCount = toolCount - writeCount;
 const COUNT_SURFACES = [
   'README.md',
   'packages/server/README.md',
+  'packages/harness/README.md',
   'packages/server/package.json',
-  'docs/ARCHITECTURE.md',
-  'docs/CLIENT-TESTING.md',
-  'docs/REGISTRIES.md',
   'llms.txt',
   'SECURITY.md',
+  'CONTRIBUTING.md',
   'CLAUDE.md',
+  // Every docs/*.md — a hand-maintained list left docs/WRITE-SAFETY.md
+  // unguarded, which is exactly the file that went stale before.
+  ...readdirSync(join(root, 'docs'))
+    .filter((f) => f.endsWith('.md') && statSync(join(root, 'docs', f)).isFile())
+    .map((f) => `docs/${f}`),
 ];
 for (const file of COUNT_SURFACES) {
   const text = read(file);
-  for (const m of text.matchAll(/(\d+)[ {2}](?:tools|read tools|write tools)/g)) {
+  for (const m of text.matchAll(/(\d+) {1,2}(?:tools|read tools|write tools)/g)) {
     const n = Number(m[1]);
     const kind = m[0].includes('read')
       ? { expect: readCount, label: 'read tools' }
@@ -63,7 +67,15 @@ for (const file of COUNT_SURFACES) {
 }
 
 // ---------- check 2: retired claims ----------
-const RETIRED = [/575\s*[×x]/, /1\.75\s*MB/, /459,?000/, /~?800×/, /compare-and-swap (on )?edits/];
+const RETIRED = [
+  /575\s*[×x]/,
+  /1\.75\s*MB/,
+  /459,?000/,
+  /~?800×/,
+  /compare-and-swap (on )?edits/,
+  // Reversed word order of the same retired scoping ("edits support … CAS").
+  /\bedits? support\b[^.\n]{0,80}compare-and-swap/,
+];
 const RETIRED_SURFACES = [
   'README.md',
   'packages/server/README.md',
@@ -96,14 +108,20 @@ const walk = (dir) => {
     const p = join(dir, entry);
     if (statSync(p).isDirectory()) walk(p);
     else if (entry.endsWith('.ts') && !entry.endsWith('.test.ts')) {
-      for (const m of readFileSync(p, 'utf8').matchAll(/env\.(SEEKSTONE_[A-Z_]+)/g)) {
+      const src = readFileSync(p, 'utf8');
+      for (const m of src.matchAll(/env(?:\.|\[['"])(SEEKSTONE_[A-Z_]+)/g)) {
         vars.add(m[1]);
       }
     }
   }
 };
 walk(serverSrc);
-for (const file of ['README.md', 'packages/server/README.md']) {
+for (const file of [
+  'README.md',
+  'packages/server/README.md',
+  'CLAUDE.md',
+  'docs/ARCHITECTURE.md',
+]) {
   const text = read(file);
   for (const v of vars) {
     if (!text.includes(v)) errors.push(`${file} is missing env var ${v} from its config table`);

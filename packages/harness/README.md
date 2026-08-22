@@ -1,9 +1,11 @@
 # @seekstone/harness
 
 Dev-only measurement harness for the seekstone Obsidian MCP server: a **profiler**, a
-**benchmark runner**, and a **write-safety suite**, all sharing one `Backend` contract so
-filesystem-direct, REST, and other adapters are measured identically. Run from source via
-`tsx`; never published to npm.
+**benchmark runner**, a **write-safety suite**, and a **retrieval-quality eval**. The
+first three share one `Backend` contract so filesystem-direct, REST, and other adapters
+are measured identically; the retrieval eval deliberately bypasses `Backend` and calls
+the server's search internals directly — it measures ranking quality, not payload bytes.
+Run from source via `tsx`; never published to npm.
 
 > The product story this harness exists to substantiate: **filesystem-direct beats
 > REST-proxy, and the win is mostly payload size ("context tax"), not raw CPU.**
@@ -39,12 +41,18 @@ OUT="$PWD/packages/harness/fixtures/baseline-reports"
 npm run harness -- profile --vault "$V" --out "$OUT"
 npm run harness -- bench   --backend fs --vault "$V" --stats "$OUT/vault-stats.json" --out "$OUT"
 npm run harness -- safety  --backend fs --vault "$V" --sample 25 --out "$OUT"
+
+# retrieval quality (needs the models once: npm run harness -- fetch-models).
+# This exact invocation produced the committed retrieval-eval.{json,md} baseline:
+npm run harness -- retrieval --model potion-base-8M --shipped --out "$OUT"
 ```
 
 Committed baseline outputs live in [`fixtures/baseline-reports/`](./fixtures/baseline-reports).
 **Payload bytes/tokens are deterministic** (they don't depend on the machine) and are the
 headline "context tax" metric; latency numbers are machine-specific, so reproduce the
-*methodology*, not the exact milliseconds.
+*methodology*, not the exact milliseconds. The retrieval baseline follows the same split:
+hit@5/MRR@10 are deterministic for a fixed vault + model + golden set, while its warm-p95
+latency (and therefore the gate's ≤ 15 ms clause) is machine-specific.
 
 ### Regenerate the vault (only if you change it)
 
@@ -59,10 +67,17 @@ npm run harness -- gen-vault --count 10000   # deterministic; same corpus+count+
 - `gen-vault` is seeded (`--seed`, default 42) and uses no `Math.random`, so output is
   fully deterministic. Provenance + public-domain status:
   [`fixtures/corpus/PROVENANCE.md`](./fixtures/corpus/PROVENANCE.md).
+- `fetch-models` follows the same committed-manifest pattern for the Model2Vec embedding
+  models: [`fixtures/models/manifest.json`](./fixtures/models/manifest.json) pins URLs +
+  SHA-256 per file, payloads land gitignored under `fixtures/models/`, and a manifest
+  entry with `sha256: "TBD"` downloads, prints the computed hash, and refuses to proceed
+  until the pin is committed.
 
 If you regenerate with a different `--count`/`--seed`, the vault changes — re-measure the
-query terms in [`queries/default.json`](./queries/default.json), update the golden
-snapshot (`npx vitest -u`), and regenerate the baseline reports.
+query terms in [`queries/default.json`](./queries/default.json), update the profile
+snapshot (`npx vitest -u`), fix [`queries/golden.json`](./queries/golden.json) (its
+50 retrieval queries name concrete vault paths; `src/retrieval/golden.test.ts` hard-fails
+on any that vanish — by design), and regenerate the baseline reports.
 
 ### Drift guard
 
@@ -157,10 +172,10 @@ present and lists anything still missing under "Not yet captured."
 | `gen-vault` | Regenerates the committed synthetic vault from the corpus (deterministic, `--seed 42`, `--count 10000`) | `fixtures/vault/` |
 | `fetch-corpus` | Downloads the PG EB1911 corpus into `fixtures/corpus/raw/` (gitignored) | corpus text |
 | `fetch-models` | Downloads the pinned Model2Vec embedding models into `fixtures/models/` (gitignored), checksum-verified against [`fixtures/models/manifest.json`](./fixtures/models/manifest.json) | model files |
-| `retrieval` | Retrieval-quality eval against `queries/golden.json`: lexical vs semantic (per model) vs hybrid RRF, hit@5 + MRR@10 per subset, warm latency, and the pre-registered SHA-257 ship gate | `retrieval-eval.{json,md}` |
+| `retrieval` | Retrieval-quality eval against `queries/golden.json`: lexical vs semantic (per model) vs hybrid, hit@5 + MRR@10 per subset, warm latency, and the pre-registered SHA-257 ship gate. `--experiments` adds the fusion candidates (reported, never gated); `--shipped` reruns every query through the server's real `search` tool and the real per-vault embedding cache — the one harness path that writes outside the repo (`SEEKSTONE_CACHE_DIR`, default `~/.cache/seekstone`) | `retrieval-eval.{json,md}` |
 | `scale-render` | Renders the multi-scale (1k/5k/10k) comparison report from per-size benchmark JSONs | `benchmark-scaling.md` |
 
-`bench` and `scenarios` accept `--runs <n>` (default 20) — the run count behind the cold/warm split quoted in the reports. Each subprocess adapter's launch command can be overridden with `SEEKSTONE_<NAME>_CMD` (e.g. `SEEKSTONE_MCPVAULT_CMD`), matching the `SEEKSTONE_<NAME>_*` env convention.
+`bench` and `scenarios` accept `--runs <n>` (default 20) — the run count behind the cold/warm split quoted in the reports. `retrieval` takes `--runs` too (default 20), but with different semantics: run 1 per query is cold and discarded, and only the pooled warm distribution is reported. Each subprocess adapter's launch command can be overridden with `SEEKSTONE_<NAME>_CMD` (e.g. `SEEKSTONE_MCPVAULT_CMD`), matching the `SEEKSTONE_<NAME>_*` env convention.
 
 ### Tokens per task (`scenarios`)
 

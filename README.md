@@ -64,7 +64,7 @@ It reads your vault **directly from disk** rather than routing through the Obsid
 - **Speed.** Searches return in **single-digit milliseconds** warm — up to **~440× faster** than every other Obsidian MCP server we benchmarked, because there's no subprocess to spawn and no HTTP round-trip per query.
 - **Context.** A broad search that returns **tens of megabytes** and millions of tokens via a REST-proxy server returns **~2 KB** via Seekstone — up to a **~47,000× reduction** that only widens as your vault grows.
 
-Search comes in three modes: ranked **full-text search** (fuzzy and prefix matching), optional **local semantic search** (meaning-based, via a small on-device embedding model — opt-in, fully offline), and **structured metadata queries** — `query_notes` filters by frontmatter properties (`status`, `due`, `type`, …), tags, folder, modified time, and size, answering questions like *"which draft notes changed this week?"* in a few hundred bytes instead of a search-and-read loop.
+Search comes in three modes: ranked **full-text search** (fuzzy and prefix matching), optional **local semantic search** (meaning-based, via a small on-device embedding model — opt-in, offline at runtime after a one-time ~30 MB model download), and **structured metadata queries** — `query_notes` filters by frontmatter properties (`status`, `due`, `type`, …), tags, folder, modified time, and size, answering questions like *"which draft notes changed this week?"* in a few hundred bytes instead of a search-and-read loop.
 
 Claude can search and read your entire note library, in milliseconds, without burning most of its context window on a single tool call.
 
@@ -312,13 +312,15 @@ Claude never sees your full vault at once — it searches and reads selectively,
 | `rename_heading` | Rename a heading in a note — every `[[note#heading]]` wikilink and embed across the vault is rewritten so references keep working (aliases preserved, fenced code blocks left alone). |
 | `append_note` | Append text to a note body without touching frontmatter. |
 | `patch_frontmatter` | Set, update, or delete frontmatter keys without reordering existing keys or changing quote style. |
-| `patch_note` | Insert text immediately after a heading without touching frontmatter. |
+| `patch_note` | Append, prepend, or replace text at a heading or block reference (`createIfMissing` to add the section) — frontmatter untouched. |
 | `replace_in_note` | Find and replace text in the note body — literal or regex, case sensitivity, whole-word matching, optional `limit` (replaces **all** occurrences by default), and a dry-run preview. |
 | `append_periodic_note` | Append to today's periodic note, creating it from a template if it doesn't yet exist. |
 
 Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `rename_heading`, `move_note`, `delete_note`, `append_periodic_note`, and `create_note` with `overwrite: true`) supports optional **compare-and-swap**: pass the `contentHash` you got from `read_note` as `prevHash` and the call fails cleanly if the note changed underneath you — no silently discarded concurrent edit, no moving or deleting content you haven't seen. Every mutating result returns the new `contentHash`, so chained edits need no re-reads.
 
-**Fast *and* complete.** Seekstone is the only Obsidian MCP server in our benchmark set to implement `list_tags`, `outline_note`, `get_backlinks`, and `get_links` — every other tested server supports only search, read, list, and write. Three more capabilities set it apart:
+**Fast *and* complete.** Seekstone is the only Obsidian MCP server in our benchmark set to implement `list_tags`, `outline_note`, `get_backlinks`, and `get_links` — every other tested server supports only search, read, list, and write. Four more capabilities set it apart:
+
+- **Local semantic search, fully in-process.** With `SEEKSTONE_SEMANTIC=1`, `search` gains `mode: "semantic"` and `"hybrid"` — meaning-based retrieval through a small on-device embedding model (one-time `npx -y seekstone fetch-model` download; the running server never touches the network). No other benchmarked server ships offline, zero-native-dependency embeddings — the others delegate to Ollama/OpenAI or require native modules.
 
 - **Periodic notes, filesystem-direct.** `get_periodic_note` and `append_periodic_note` resolve daily, weekly, monthly, quarterly, and yearly note paths by reading your vault's own config (`.obsidian/daily-notes.json` and the Periodic Notes plugin) — **with Obsidian closed.** Every REST-based server can only do this while the app is running.
 - **Byte-identical frontmatter, guaranteed.** `patch_frontmatter` edits YAML in place — preserving key order, quote style, and comments — and write-safety is proven byte-for-byte by the test harness. No other server we surveyed makes this guarantee.
@@ -357,7 +359,7 @@ For a layer-by-layer tour of the codebase — packages, the server's internals, 
 
 ## Security & privacy
 
-Seekstone reads — and, via the write tools, modifies — files under `SEEKSTONE_VAULT` on your local disk. It makes **no network calls** and sends **no telemetry**. Logs are metadata-only by default (note contents only appear at `debug` level). Nothing is written outside the vault except an optional log file you configure.
+Seekstone reads — and, via the write tools, modifies — files under `SEEKSTONE_VAULT` on your local disk. The running server makes **no network calls** and sends **no telemetry** (the one network path in the package is the explicit `npx -y seekstone fetch-model` subcommand — a SHA-256-verified, one-time download of the optional semantic-search model that exits before serving starts). Logs are metadata-only by default (note contents only appear at `debug` level). Nothing is written outside the vault except an optional log file you configure and, with `SEEKSTONE_SEMANTIC=1`, the per-vault embedding cache under `~/.cache/seekstone` (derived vectors of your notes — never sent anywhere).
 
 ### The Write-Safety Contract
 
@@ -377,7 +379,7 @@ No. Seekstone bypasses it entirely — that's the source of the up-to-47,000× p
 Any client that supports the [Model Context Protocol](https://modelcontextprotocol.io) (MCP) over stdio — Claude Desktop, Claude Code, Cursor, Windsurf, Continue, and others.
 
 **Is it safe to use on my vault?**
-Seekstone never modifies files except when you explicitly invoke one of its write tools (the nine in the table above — `create_note`, `append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `move_note`, `rename_heading`, `delete_note`, `append_periodic_note`). It makes no network requests. The vault path is sandboxed — no tool can read or write outside it. And you can tighten it further: `SEEKSTONE_READ_ONLY=1` removes the write tools from the session entirely, and `SEEKSTONE_WRITE_PATHS` restricts writes to the folders you allow (say, only `journal/**`). Both are enforced at the dispatch layer, not per-tool, so no tool can forget the check.
+Seekstone never modifies files except when you explicitly invoke one of its write tools (the nine in the table above — `create_note`, `append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `move_note`, `rename_heading`, `delete_note`, `append_periodic_note`). The running server makes no network requests (semantic search's model is fetched once, out-of-band, by the explicit `fetch-model` subcommand). The vault path is sandboxed — no tool can read or write outside it. And you can tighten it further: `SEEKSTONE_READ_ONLY=1` removes the write tools from the session entirely, and `SEEKSTONE_WRITE_PATHS` restricts writes to the folders you allow (say, only `journal/**`). Both are enforced at the dispatch layer, not per-tool, so no tool can forget the check.
 
 **Does it work on Windows?**
 Yes. Seekstone is tested on macOS, Linux, and Windows in CI on every commit.
@@ -414,7 +416,7 @@ npx tsc -p packages/server/tsconfig.json --noEmit        # typecheck
 | Package | Purpose |
 |---|---|
 | `packages/server` | The published `seekstone` MCP server (19 tools, stdio, MiniSearch index, chokidar watcher). |
-| `packages/core` | Shared vault primitives — walk, frontmatter parser, link/tag extractor, percentiles. Bundled into the server build. |
+| `packages/core` | Shared vault primitives — walk, frontmatter parser, link/tag extractor, outline, percentiles, pmap, and the Model2Vec embedder. Bundled into the server build. |
 | `packages/harness` | Profiler + benchmark + write-safety harness (REST vs filesystem) that produced the payload numbers above. Dev-only; not published. |
 
 The server has a real build (tsup → `dist/`) and is published to npm. The harness is run from source via `tsx`. Releases are automated — see [docs/RELEASING.md](docs/RELEASING.md).
