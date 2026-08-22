@@ -89,4 +89,75 @@ describe('renderRetrievalMarkdown', () => {
     expect(md).not.toContain('**sem-hit**');
     expect(md).toContain('hybrid-rrf:potion-base-8M top 5: Notes/A.md, Notes/B.md');
   });
+
+  it('omits the competitor section when no competitors ran', () => {
+    expect(md).not.toContain('Competitor setup cost');
+  });
+
+  it('labels in-process conditions in the payload column', () => {
+    expect(md).toContain('| lexical | 2.00 ms | 3.00 ms | 3.00 ms | 3.00 ms | in-process |');
+  });
+});
+
+describe('renderRetrievalMarkdown with competitors (SHA-308)', () => {
+  const setupBase = {
+    version: '1.0.0',
+    provider: 'ollama/stub-embed (loopback HTTP)',
+    indexMs: 1_590_000,
+    indexStats: '{"chunks_upserted": 65263}',
+  };
+  const competitorSummary: RetrievalSummary = {
+    ...summary,
+    conditions: [
+      ...summary.conditions,
+      {
+        condition: 'competitor:stub-tc',
+        metrics: { overall: metrics, semantic: metrics, lexical: metrics, topical: metrics },
+        latency: { warm: dist },
+        payloadBytesMean: 15_770,
+      },
+      {
+        condition: 'competitor:stub-tc-graph',
+        metrics: { overall: metrics, semantic: metrics, lexical: metrics, topical: metrics },
+        latency: { warm: dist },
+        payloadBytesMean: 850,
+      },
+    ],
+    competitorSetups: [
+      { ...setupBase, name: 'competitor:stub-tc', notes: ['semantic kNN'] },
+      { ...setupBase, name: 'competitor:stub-tc-graph', notes: ['GraphRAG mode'] },
+      {
+        name: 'competitor:stub-broken',
+        version: '9.9.9',
+        provider: 'ollama/stub-embed (loopback HTTP)',
+        indexMs: 893_000,
+        indexStats: 'Invalid string length',
+        failed: true,
+        notes: ['setup did not complete'],
+      },
+    ],
+  };
+  const md = renderRetrievalMarkdown(competitorSummary);
+
+  it('renders the setup-cost table, deduping conditions that share one index', () => {
+    expect(md).toContain('## Competitor setup cost (SHA-308)');
+    // stub-tc and stub-tc-graph share version|indexMs → one row.
+    expect(md).toContain('| stub-tc | 1.0.0 | ollama/stub-embed (loopback HTTP) | 1590.0 s |');
+    expect(md).not.toContain('| stub-tc-graph |');
+  });
+
+  it('renders failed setups as FAILED with elapsed seconds', () => {
+    expect(md).toContain('**FAILED** after 893 s');
+  });
+
+  it('renders per-setup notes and raw index stats', () => {
+    expect(md).toContain('**competitor:stub-tc** — semantic kNN');
+    expect(md).toContain('{"chunks_upserted": 65263}');
+    expect(md).toContain('Invalid string length');
+  });
+
+  it('formats payload means in KB above 1 KiB and bytes below', () => {
+    expect(md).toContain('15.4 KB |');
+    expect(md).toContain('850 B |');
+  });
 });

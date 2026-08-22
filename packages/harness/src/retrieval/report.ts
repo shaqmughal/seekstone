@@ -42,14 +42,49 @@ export function renderRetrievalMarkdown(s: RetrievalSummary): string {
   }
   lines.push('');
 
-  lines.push('## Query latency (warm)');
+  lines.push('## Query latency (warm) & payload');
   lines.push('');
-  lines.push('| Condition | p50 | p90 | p95 | p99 |');
-  lines.push('| --- | ---: | ---: | ---: | ---: |');
+  lines.push('| Condition | p50 | p90 | p95 | p99 | payload/query |');
+  lines.push('| --- | ---: | ---: | ---: | ---: | ---: |');
   for (const c of s.conditions) {
-    lines.push(latencyRow(c.condition, c.latency.warm));
+    const payload =
+      c.payloadBytesMean === undefined
+        ? 'in-process'
+        : c.payloadBytesMean >= 1024
+          ? `${(c.payloadBytesMean / 1024).toFixed(1)} KB`
+          : `${Math.round(c.payloadBytesMean)} B`;
+    lines.push(`${latencyRow(c.condition, c.latency.warm)} ${payload} |`);
   }
   lines.push('');
+
+  if (s.competitorSetups && s.competitorSetups.length > 0) {
+    lines.push('## Competitor setup cost (SHA-308)');
+    lines.push('');
+    lines.push(
+      'Both competitors delegate embeddings to a local Ollama (`nomic-embed-text`) — a second server seekstone does not need. Cold index build over the same fixture vault:',
+    );
+    lines.push('');
+    lines.push('| Server | Version | Embedding provider | Cold index |');
+    lines.push('| --- | --- | --- | ---: |');
+    const seen = new Set<string>();
+    for (const c of s.competitorSetups) {
+      const key = `${c.version}|${c.indexMs}`;
+      if (seen.has(key)) continue; // tc + tc-graph share one index
+      seen.add(key);
+      lines.push(
+        `| ${c.name.replace('competitor:', '').replace('-graph', '')} | ${c.version} | ${c.provider} | ${c.failed ? `**FAILED** after ${(c.indexMs / 1000).toFixed(0)} s` : `${(c.indexMs / 1000).toFixed(1)} s`} |`,
+      );
+    }
+    lines.push('');
+    for (const c of s.competitorSetups) {
+      lines.push(`**${c.name}** — ${c.notes.join(' ')}`);
+      lines.push('');
+      lines.push('```');
+      lines.push(c.indexStats);
+      lines.push('```');
+      lines.push('');
+    }
+  }
 
   const missed = s.perQuery.filter((p) =>
     Object.entries(p.conditions).some(([cond, r]) => cond.startsWith('hybrid-rrf:') && !r.hit5),
