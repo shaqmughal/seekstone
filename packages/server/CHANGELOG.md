@@ -1,5 +1,12 @@
 # seekstone
 
+## 0.15.1
+
+### Patch Changes
+
+- ea89043: The npm package description now owns both search latencies precisely: single-digit-ms keyword search and ~14 ms local semantic search (previously the unqualified "single-digit-ms search", which was no longer accurate for semantic mode).
+- 2a8adfd: The `search` tool's advertised schema now matches its behavior: the long-documented `excerptLength` option (20–2000 characters, default 120) is exposed in the MCP input schema so clients can actually discover and use it, and the tool description's excerpt-size figure is corrected from ~200 to ~120 characters. Search's `mode` now also appears in info-level logs' safe metadata. The `no-network` guarantee test additionally proves the semantic subsystem — index build, cache persistence, and semantic/hybrid queries — runs fully offline.
+
 ## 0.15.0
 
 ### Minor Changes
