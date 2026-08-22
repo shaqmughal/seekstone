@@ -2,7 +2,7 @@ import { mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { basename, join } from 'node:path';
 import type { Embedder } from '@seekstone/core/embed';
-import { afterAll, beforeAll, describe, expect, it } from 'vitest';
+import { afterAll, beforeAll, describe, expect, it, vi } from 'vitest';
 import type { GoldenSet } from './golden.js';
 import {
   type ConditionResult,
@@ -210,6 +210,108 @@ describe('runRetrievalEval --experiments --shipped', () => {
     expect(sem?.conditions['hybrid-route:stub-small']?.hit5).toBe(true);
     expect(sem?.conditions['hybrid-wsum70:stub-small']?.hit5).toBe(true);
     expect(sem?.conditions['semantic-top2:stub-small']?.hit5).toBe(true);
+  });
+});
+
+// The real builder spawns npx subprocesses and needs Ollama — mock the module
+// boundary; the runner's merge/teardown/payload plumbing is what's under test.
+const competitorStop = vi.hoisted(() => vi.fn(async () => {}));
+vi.mock('./competitors.js', () => ({
+  buildCompetitors: async () => ({
+    handles: [
+      {
+        setup: {
+          name: 'competitor:stub-tc',
+          version: '1.0.0',
+          provider: 'ollama/stub-embed (loopback HTTP)',
+          indexMs: 1500,
+          indexStats: '{"chunks_upserted": 4}',
+          notes: ['stub handle'],
+        },
+        rank: async (query: string) => ({
+          paths: /cheese/.test(query) ? ['Notes/Cheese.md'] : ['Notes/Windmill.md'],
+          payloadBytes: 2048,
+        }),
+        stop: competitorStop,
+      },
+    ],
+    failures: [
+      {
+        name: 'competitor:stub-broken',
+        version: '9.9.9',
+        provider: 'ollama/stub-embed (loopback HTTP)',
+        indexMs: 5000,
+        indexStats: 'Invalid string length',
+        failed: true,
+        notes: ['setup did not complete'],
+      },
+    ],
+  }),
+}));
+
+describe('runRetrievalEval --competitors', () => {
+  let vault: string;
+  let summary: RetrievalSummary;
+
+  beforeAll(async () => {
+    vault = await mkdtemp(join(tmpdir(), 'seekstone-retrieval-comp-'));
+    await mkdir(join(vault, 'Notes'), { recursive: true });
+    await writeFile(
+      join(vault, 'Notes', 'Windmill.md'),
+      '# Windmill\n\nA mill worked by the wind, its sails turning in the breeze.\n',
+    );
+    await writeFile(
+      join(vault, 'Notes', 'Cheese.md'),
+      '# Cheese\n\nCheese is a preparation of milk curd, a staple dairy food.\n',
+    );
+    summary = await runRetrievalEval({
+      vaultRoot: vault,
+      goldenSet: {
+        queries: [
+          { id: 'lex-cheese', kind: 'lexical', query: 'cheese', expected: ['Notes/Cheese.md'] },
+          {
+            id: 'sem-windmill',
+            kind: 'semantic',
+            query: 'machine driven by moving air',
+            expected: ['Notes/Windmill.md'],
+          },
+        ],
+      },
+      modelsDir: '/nonexistent',
+      modelIds: ['stub-small'],
+      runs: 2,
+      competitors: true,
+      loadEmbedder: async (dir) => stubEmbedder(basename(dir)),
+    });
+  });
+  afterAll(async () => {
+    await rm(vault, { recursive: true, force: true });
+  });
+
+  it('appends a condition per competitor handle and scores it like any other', () => {
+    expect(summary.conditions.map((c) => c.condition)).toContain('competitor:stub-tc');
+    const lex = summary.perQuery.find((p) => p.id === 'lex-cheese');
+    expect(lex?.conditions['competitor:stub-tc']?.hit5).toBe(true);
+    expect(lex?.conditions['competitor:stub-tc']?.top10).toEqual(['Notes/Cheese.md']);
+  });
+
+  it('records the mean payload bytes for external conditions only', () => {
+    const comp = summary.conditions.find((c) => c.condition === 'competitor:stub-tc');
+    expect(comp?.payloadBytesMean).toBe(2048);
+    const lexical = summary.conditions.find((c) => c.condition === 'lexical');
+    expect(lexical?.payloadBytesMean).toBeUndefined();
+  });
+
+  it('merges successful setups and failures into competitorSetups', () => {
+    expect(summary.competitorSetups?.map((s) => s.name)).toEqual([
+      'competitor:stub-tc',
+      'competitor:stub-broken',
+    ]);
+    expect(summary.competitorSetups?.[1]?.failed).toBe(true);
+  });
+
+  it('stops every competitor subprocess after the run', () => {
+    expect(competitorStop).toHaveBeenCalledTimes(1);
   });
 });
 
