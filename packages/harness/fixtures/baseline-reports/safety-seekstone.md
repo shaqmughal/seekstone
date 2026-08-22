@@ -1,9 +1,9 @@
 # Write Safety — seekstone
 
 - **Adapter:** Seekstone server (in-process function calls, no IPC)
-- **Snapshot:** 2026-08-03T03:12:56.203Z
+- **Snapshot:** 2026-08-22T15:01:10.318Z
 - **Sample:** 25 frontmatter-heavy notes
-- **Vault copy:** `<tmpdir>/seekstone-safety-zUiVNz`
+- **Vault copy:** `<tmpdir>/seekstone-safety-tode6t`
 - **Original (read-only, untouched):** `packages/harness/fixtures/vault`
 
 ## Summary

@@ -1,10 +1,10 @@
 {
-  "snapshotDate": "2026-08-03T03:12:56.203Z",
+  "snapshotDate": "2026-08-22T15:01:10.318Z",
   "backend": {
     "name": "seekstone",
     "description": "Seekstone server (in-process function calls, no IPC)"
   },
-  "vaultCopyRoot": "<tmpdir>/seekstone-safety-zUiVNz",
+  "vaultCopyRoot": "<tmpdir>/seekstone-safety-tode6t",
   "originalVaultRoot": "packages/harness/fixtures/vault",
   "sampleSize": 25,
   "passByOp": {
@@ -98,7 +98,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -150,7 +151,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -202,7 +204,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -253,7 +256,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -304,7 +308,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -356,7 +361,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -407,7 +413,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -461,7 +468,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -513,7 +521,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -565,7 +574,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -617,7 +627,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -668,7 +679,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -719,7 +731,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -771,7 +784,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -823,7 +837,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -876,7 +891,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -927,7 +943,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -979,7 +996,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -1033,7 +1051,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -1085,7 +1104,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -1137,7 +1157,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -1189,7 +1210,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -1241,7 +1263,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -1293,7 +1316,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     },
@@ -1346,7 +1370,8 @@
         {
           "op": "cas-conflict",
           "status": "pass",
-          "change": "stale-hash guarded write after out-of-band edit; expect conflict"
+          "reason": "guards refused: write, move, delete",
+          "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
         }
       ]
     }
