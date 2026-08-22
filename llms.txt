@@ -16,7 +16,7 @@ A user can paste this prompt into any coding agent (Claude Code, Cursor, Windsur
 
 ## Why filesystem-direct?
 
-Most Obsidian MCP servers return full note content for every search hit. Benchmarked across committed 1,000/5,000/10,000-note synthetic vaults against 7 other servers (open-source harness, reproducible): Seekstone returns ~2 KB per search and stays flat as the vault grows, while REST-proxy servers grow with the vault — up to 95 MB per query at 10k notes, and a single broad query peaked at ~370 MB / ~98M tokens in one tool call. That is up to a ~47,000× context-tax reduction. Warm search latency is 6.2 ms at 10k notes — the fastest alternative measured is ~6× slower, the REST-proxy generation ~70–250× slower. Full results: https://seekstone.dev/benchmarks
+Most Obsidian MCP servers return full note content for every search hit. Benchmarked across committed 1,000/5,000/10,000-note synthetic vaults against 7 other servers (open-source harness, reproducible): Seekstone returns ~2 KB per search and stays flat as the vault grows, while REST-proxy servers grow with the vault — up to 95 MB per query at 10k notes, and a single broad query averaged ~370 MB / ~98M tokens per call. That is up to a ~47,000× context-tax reduction. Warm keyword-search latency is 6.2 ms at 10k notes (semantic mode ~14 ms) — the fastest alternative measured is ~6× slower, the REST-proxy generation ~90–250× slower. Full results: https://seekstone.dev/benchmarks
 
 ## How to install (Claude Desktop)
 
@@ -98,6 +98,7 @@ Write:
 - **What it is not:** A plugin, a REST proxy, a cloud service, or anything that requires Obsidian to be running
 - **Privacy:** No network calls at runtime, no telemetry. All data stays on the local machine — including the optional per-vault embedding cache (`~/.cache/seekstone`), which holds derived vectors of your notes and is never transmitted. The only download is the explicit one-time `fetch-model` subcommand (SHA-256-pinned).
 - **Write safety:** Seekstone ships a named Write-Safety Contract (docs/WRITE-SAFETY.md) of eight tested guarantees: zero network/telemetry, vault sandbox, byte-identical frontmatter on body edits, atomic writes (no torn files), creates never clobber, recoverable deletes (moved to `.trash/`, not unlinked), optional compare-and-swap on every write tool, including move and delete (`contentHash`/`prevHash` with structured `hash_conflict` errors), and write scoping (`SEEKSTONE_WRITE_PATHS`) / read-only mode (`SEEKSTONE_READ_ONLY=1`, write tools unregistered and rejected). Every guarantee is enforced in code and proven by a test that runs in CI on every commit and release; the harness safety suite verifies them byte-by-byte and runs headlessly against competing servers for comparison.
+- **Unique capability (surveyed field):** the only Obsidian MCP server we surveyed with fully-offline, in-process, zero-native-dependency semantic search — on the committed 10k-note benchmark, description-style queries hit@5 70% vs 30% for keyword search
 - **Compatibility:** Any MCP-over-stdio client — Claude Desktop, Claude Code, Cursor, Windsurf, Continue
 - **License:** MIT
 
