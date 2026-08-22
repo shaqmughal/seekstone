@@ -45,6 +45,11 @@ npm run harness -- safety  --backend fs --vault "$V" --sample 25 --out "$OUT"
 # retrieval quality (needs the models once: npm run harness -- fetch-models).
 # This exact invocation produced the committed retrieval-eval.{json,md} baseline:
 npm run harness -- retrieval --model potion-base-8M --shipped --out "$OUT"
+
+# competitor semantic comparison (SHA-308) — produced retrieval-eval-competitors.{json,md}.
+# Needs a local Ollama serving nomic-embed-text (both competitors delegate embeddings to it):
+#   brew install ollama && ollama serve & && ollama pull nomic-embed-text
+npm run harness -- retrieval --model potion-base-8M --runs 5 --shipped --competitors --out "$OUT"
 ```
 
 Committed baseline outputs live in [`fixtures/baseline-reports/`](./fixtures/baseline-reports).
