@@ -49,6 +49,8 @@ export interface ConditionResult {
     topical: ConditionMetrics;
   };
   latency: { warm: Distribution };
+  /** Mean raw response bytes per query (external-server conditions only). */
+  payloadBytesMean?: number;
 }
 
 export interface PerQueryCondition {
@@ -100,9 +102,25 @@ export interface RetrievalSummary {
   runs: number;
   lexicalBuildMs: number;
   models: ModelInfo[];
+  /** External competitor servers evaluated via --competitors. */
+  competitorSetups?: CompetitorSetup[];
   conditions: ConditionResult[];
   perQuery: PerQueryResult[];
   gate: GateResult;
+}
+
+export interface CompetitorSetup {
+  name: string;
+  version: string;
+  /** True when the server could not complete indexing/serving — the failure IS the result. */
+  failed?: boolean;
+  /** Embedding provider + model, e.g. "ollama/nomic-embed-text (HTTP, loopback)". */
+  provider: string;
+  /** Cold index build over the fixture vault, ms. */
+  indexMs: number;
+  /** Raw index stats reported by the server. */
+  indexStats: string;
+  notes: string[];
 }
 
 export interface RetrievalEvalOptions {
@@ -129,14 +147,35 @@ export interface RetrievalEvalOptions {
    * embedding cache. This is the SHA-307 acceptance run.
    */
   shipped?: boolean;
+  /**
+   * Also evaluate external competitor semantic search (obsidian-mcp-pro,
+   * obsidian-tc) via MCP-over-stdio against the same golden set. Requires a
+   * local Ollama serving nomic-embed-text — both servers delegate their
+   * embeddings to it. SHA-308.
+   */
+  competitors?: boolean;
+}
+
+interface RankedResult {
+  paths: string[];
+  /** Raw tool-response bytes, when the condition talks to an external server. */
+  payloadBytes?: number;
 }
 
 interface ConditionAccumulator {
   condition: string;
   /** Ranking used for quality metrics; may reuse cached lexical rankings. */
-  rank: (q: GoldenQuery) => string[];
+  rank: (q: GoldenQuery) => string[] | Promise<RankedResult>;
   /** Ranking timed for latency; always does the full end-to-end work. */
-  timedRank: (q: GoldenQuery) => string[];
+  timedRank: (q: GoldenQuery) => string[] | Promise<RankedResult>;
+}
+
+async function resolveRank(
+  fn: (q: GoldenQuery) => string[] | Promise<RankedResult>,
+  q: GoldenQuery,
+): Promise<RankedResult> {
+  const out = await fn(q);
+  return Array.isArray(out) ? { paths: out } : out;
 }
 
 export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<RetrievalSummary> {
@@ -216,6 +255,8 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
   }
 
   let shippedStop: (() => void) | undefined;
+  let competitorStops: Array<() => Promise<void>> = [];
+  let competitorSetups: CompetitorSetup[] | undefined;
   if (opts.shipped && opts.modelIds[0]) {
     const { buildShipped } = await import('./shipped.js');
     const { defaultCacheDir } = await import('../../../server/src/semantic/config.js');
@@ -238,6 +279,17 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     }
   }
 
+  if (opts.competitors) {
+    const { buildCompetitors } = await import('./competitors.js');
+    const { handles, failures } = await buildCompetitors(opts.vaultRoot, log);
+    competitorSetups = [...handles.map((h) => h.setup), ...failures];
+    competitorStops = handles.map((h) => h.stop);
+    for (const h of handles) {
+      const fn = (q: GoldenQuery) => h.rank(q.query);
+      conditions.push({ condition: h.setup.name, rank: fn, timedRank: fn });
+    }
+  }
+
   const perQuery: PerQueryResult[] = queries.map((q) => ({
     id: q.id,
     kind: q.kind,
@@ -248,13 +300,15 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
 
   const conditionResults: ConditionResult[] = [];
   for (const { condition, rank, timedRank } of conditions) {
+    const payloads: number[] = [];
     for (let i = 0; i < queries.length; i++) {
       const q = queries[i] as GoldenQuery;
-      const ranked = rank(q);
+      const ranked = await resolveRank(rank, q);
+      if (ranked.payloadBytes !== undefined) payloads.push(ranked.payloadBytes);
       (perQuery[i] as PerQueryResult).conditions[condition] = {
-        hit5: hitAtK(ranked, q.expected, HIT_K),
-        rr10: mrrAtK(ranked, q.expected, MRR_K),
-        top10: ranked.slice(0, MRR_K),
+        hit5: hitAtK(ranked.paths, q.expected, HIT_K),
+        rr10: mrrAtK(ranked.paths, q.expected, MRR_K),
+        top10: ranked.paths.slice(0, MRR_K),
       };
     }
     // Latency: `runs` timed executions per query; run 1 per query is cold
@@ -263,7 +317,7 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     for (const q of queries) {
       for (let r = 0; r < opts.runs; r++) {
         const t0 = performance.now();
-        timedRank(q);
+        await resolveRank(timedRank, q);
         const ms = performance.now() - t0;
         if (r > 0) warm.push(ms);
       }
@@ -277,11 +331,15 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
         topical: aggregate(perQuery, condition, 'topical'),
       },
       latency: { warm: summarise(warm) },
+      ...(payloads.length > 0
+        ? { payloadBytesMean: payloads.reduce((a, b) => a + b, 0) / payloads.length }
+        : {}),
     });
     log(`${condition}: hit@5 ${conditionResults.at(-1)?.metrics.overall.hit5.toFixed(1)}%`);
   }
 
   shippedStop?.();
+  for (const stop of competitorStops) await stop();
   return {
     snapshotDate: new Date().toISOString(),
     machine: {
@@ -301,6 +359,7 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     runs: opts.runs,
     lexicalBuildMs: lexical.buildMs,
     models,
+    ...(competitorSetups ? { competitorSetups } : {}),
     conditions: conditionResults,
     perQuery,
     gate: computeGate(opts.modelIds, conditionResults),
