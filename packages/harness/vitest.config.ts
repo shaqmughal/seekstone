@@ -28,6 +28,7 @@ export default defineConfig({
         'src/bench/adapters/obsidian-mcp-rs.ts',
         'src/bench/adapters/obsidian-mcp-server.ts',
         'src/bench/adapters/obsidian-tc.ts',
+        'src/retrieval/competitors.ts',
         'src/fixtures/corpus.ts',
         'src/fixtures/generate.ts',
         '**/*.test.ts',
