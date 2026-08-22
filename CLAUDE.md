@@ -25,6 +25,8 @@ npm run harness -- profile --vault "$SEEKSTONE_VAULT"
 npm run harness -- bench   --queries packages/harness/queries/default.json --stats reports/vault-stats.json
 npm run harness -- scenarios --backend seekstone --vault "$PWD/packages/harness/fixtures/vault"   # tokens-per-task
 npm run harness -- safety  --vault "$SEEKSTONE_VAULT"
+npm run harness -- fetch-models                       # download + pin-verify the Model2Vec embedding models
+npm run harness -- retrieval --shipped                # retrieval-quality eval (golden set; --shipped = through the real search tool)
 
 # the committed synthetic benchmark vault (no personal vault needed)
 npm run harness -- gen-vault --count 10000            # regenerate fixtures/vault (deterministic, seed 42)
@@ -36,7 +38,7 @@ The **server** has a real build — `npm run build -w seekstone` bundles it (and
 
 ## Benchmark vault (committed fixture)
 
-`packages/harness/fixtures/vault/` is a **committed 10,000-note synthetic vault** generated from the public-domain 1911 Encyclopædia Britannica (Project Gutenberg). It's the canonical, reproducible, personal-data-free benchmark target — use it instead of a personal vault. The generator (`src/fixtures/`, deterministic, seed 42) + pinned corpus manifest are committed; the raw corpus text under `fixtures/corpus/raw/` is gitignored and re-fetched on demand. `src/fixtures/profile-fixture.test.ts` snapshots the vault's content-derived profile so the target can't silently drift. See `packages/harness/README.md`. Freshness stats are N/A for the fixture (mtime = checkout time).
+`packages/harness/fixtures/vault/` is a **committed 10,000-note synthetic vault** generated from the public-domain 1911 Encyclopædia Britannica (Project Gutenberg). It's the canonical, reproducible, personal-data-free benchmark target — use it instead of a personal vault. The generator (`src/fixtures/`, deterministic, seed 42) + pinned corpus manifest are committed; the raw corpus text under `fixtures/corpus/raw/` is gitignored and re-fetched on demand. The same committed-manifest/gitignored-payload pattern covers the Model2Vec embedding models (`fixtures/models/manifest.json` + `fetch-models`). `queries/golden.json` (50 retrieval queries: 30 semantic / 10 lexical / 10 topical) is a committed methodology artifact guarded by `src/retrieval/golden.test.ts` — regenerating the vault with a different count/seed breaks it by design; fix the golden set in the same change. `src/fixtures/profile-fixture.test.ts` snapshots the vault's content-derived profile so the target can't silently drift. See `packages/harness/README.md`. Freshness stats are N/A for the fixture (mtime = checkout time).
 
 ## Required env vars (harness)
 
@@ -44,16 +46,16 @@ The **server** has a real build — `npm run build -w seekstone` bundles it (and
 - `SEEKSTONE_REST_API_KEY` — required when invoking the `rest` backend; from the Local REST API plugin settings tab.
 - `SEEKSTONE_REST_URL` — defaults to `https://127.0.0.1:27124`. The plugin ships a self-signed cert; the adapter accepts it via an isolated `undici.Agent`, never by setting `NODE_TLS_REJECT_UNAUTHORIZED`.
 
-The **server** reads its own set (`SEEKSTONE_VAULT`, `SEEKSTONE_READ_ONLY`, `SEEKSTONE_WRITE_PATHS`, `SEEKSTONE_LOG_LEVEL`, `SEEKSTONE_LOG_FILE`, `SEEKSTONE_LOG_MAX_SIZE`, `SEEKSTONE_WATCH_POLL`, `SEEKSTONE_SEMANTIC`, `SEEKSTONE_MODEL_PATH`, `SEEKSTONE_CACHE_DIR`) — documented in the README's Configuration table. Write behavior to know before editing tools: deletes are recoverable (`.trash/`), edits support `prevHash` compare-and-swap, moves rewrite inbound links, and every write is policy-gated + atomic (see `docs/ARCHITECTURE.md` §2).
+The **server** reads its own set (`SEEKSTONE_VAULT`, `SEEKSTONE_READ_ONLY`, `SEEKSTONE_WRITE_PATHS`, `SEEKSTONE_LOG_LEVEL`, `SEEKSTONE_LOG_FILE`, `SEEKSTONE_LOG_MAX_SIZE`, `SEEKSTONE_WATCH_POLL`, `SEEKSTONE_SEMANTIC`, `SEEKSTONE_MODEL_PATH`, `SEEKSTONE_CACHE_DIR`) — documented in the README's Configuration table. Write behavior to know before editing tools: deletes are recoverable (`.trash/`), every write tool supports optional `prevHash` compare-and-swap (moves and deletes included since 0.14.0; every mutating result returns a `contentHash`), moves rewrite inbound links, and every write is policy-gated + atomic (see `docs/ARCHITECTURE.md` §2).
 
 ## Architecture
 
 For the full picture — package graph, the server's five layers, the end-to-end request flow, and the harness — see [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) (Mermaid diagrams). Keep it in sync when you add a layer, tool, or adapter. The summary below covers the harness specifically.
 
-The harness is three modules behind one CLI, all sharing the same `Backend` abstraction the shipped filesystem-direct server plugs into (the in-process `seekstone` adapter).
+The harness is four modules behind one CLI. Profiler, benchmark runner, and write-safety share the `Backend` abstraction the shipped filesystem-direct server plugs into (the in-process `seekstone` adapter); the retrieval eval deliberately bypasses `Backend` and calls server internals directly — it measures ranking quality, not payload bytes.
 
 ### Backend interface (`packages/harness/src/bench/backend.ts`)
-A small required core — `search`, `read`, `write`, `list` — plus optional extended tool methods (`listTags`, `contextPack`, `outline`, `getBacklinks`, `getLinks`, `getPeriodicNote`) and optional write-safety methods (`deleteNote`, `createNote`, `readWithHash`, `casWrite`) that drive the behavioral safety ops. Every adapter returns `{ result, payloadBytes }` so payload size — the headline metric — is captured at the boundary. The shipped server exposes this surface (19 tools; the `seekstone` adapter calls its tool functions in-process).
+A small required core — `search`, `read`, `write`, `list` — plus optional extended tool methods (`listTags`, `contextPack`, `outline`, `getBacklinks`, `getLinks`, `getPeriodicNote`) and optional write-safety methods (`deleteNote`, `createNote`, `readWithHash`, `casWrite`, `casMove`, `casDelete` — declaring one claims the guard) that drive the behavioral safety ops, plus optional `searchStream` (TTFR) and `close`. Every adapter returns `{ result, payloadBytes }` so payload size — the headline metric — is captured at the boundary. The shipped server exposes this surface (19 tools; the `seekstone` adapter calls its tool functions in-process).
 
 ### Profiler (`packages/harness/src/profiler/`)
 Walks the vault with `fast-glob`, classifies each file (`note` / `image` / `pdf` / `excalidraw` / `canvas` / …), reads each note, and aggregates. Two things are subtle and worth knowing before editing:
@@ -66,7 +68,7 @@ Link resolution is intentionally loose ("does any indexed note's basename or rel
 ### Benchmark runner (`packages/harness/src/bench/`)
 `runN()` returns **cold** (run 1), **warm** (runs 2..N), and **all** distributions for every measurement. The split exists so a cheap warm number can't hide a brutal cold start — both numbers go in the markdown report. Payload bytes mean is averaged across all runs.
 
-The query set (`packages/harness/queries/default.json`) is the methodology artifact: it must be edited per-vault (so the rare-term query actually matches your content) and committed. Re-runs against the same set is what makes results comparable across snapshots and adapters.
+The query sets under `packages/harness/queries/` (`default.json`, `tasks.json`, `golden.json`, per-size variants) are the methodology artifacts; `default.json` it must be edited per-vault (so the rare-term query actually matches your content) and committed. Re-runs against the same set is what makes results comparable across snapshots and adapters.
 
 ### Write-safety (`packages/harness/src/safety/`)
 Three guard rails, in this order, and they all matter:
@@ -77,13 +79,17 @@ Three guard rails, in this order, and they all matter:
 
 Eight ops per sampled backend — five byte-faithful: `identity` (byte equality), `body-append` (FM untouched, body == original + marker), `fm-edit` (body untouched, key order preserved, and every untouched FM line byte-identical), `patch-note`, `replace-in-note`; and three behavioral (`safety/behavioral-ops.ts`): `recoverable-delete` (lands in `.trash/`, byte-identical), `create-no-clobber`, `cas-conflict` (stale `prevHash` must be refused on write, move, and delete). `fm-edit` builds its expected bytes by pure text insertion — no YAML serializer touches the block, so the op can't inherit a serializer's own normalizations — and its verify asserts untouched source lines survive byte-identically: anything that round-trips the block through a stringifier (re-quoting, 80-column folding) fails the test, by design.
 
+
+### Retrieval eval (`packages/harness/src/retrieval/`)
+Quality, not payload: scores lexical vs semantic vs hybrid retrieval against `queries/golden.json` (hit@5 + MRR@10 per subset) and computes the pre-registered SHA-257 ship gate (hybrid ≥ +10 pts hit@5 on the semantic subset, ≤ 2 pts lexical regression, warm semantic p95 ≤ 15 ms @10k) in code. Golden-set rule: the fixture's tags and See-also links are RANDOM — relevance labels come from body prose only, and semantic queries must not contain their target's headword (test-enforced). `--experiments` adds the fusion candidates (never affects the gate); `--shipped` runs queries through the server's real `search` tool with `mode: semantic|hybrid` — note it reads/writes the real per-vault embedding cache (`SEEKSTONE_CACHE_DIR`, default `~/.cache/seekstone`). The committed baseline is `fixtures/baseline-reports/retrieval-eval.{json,md}` (produced with `--model potion-base-8M --shipped`).
+
 ## Conventions
 
 - **Module imports use `.js` extensions** even when importing TS sources — that's what NodeNext + tsx + tsc emit all agree on. `*.ts` extensions in imports require `allowImportingTsExtensions` and are avoided.
 - **`Distribution` is the single percentile shape** (`min`/`median`/`p90`/`p95`/`p99`/`max`/`mean`). Any new metric goes through `summarise()` so the report tables stay uniform.
-- **Reports are deterministic for a fixed snapshot.** Frontmatter-heavy notes are sorted lexically then strided so the safety sample is the same across runs of the same vault. Don't introduce `Math.random()` anywhere in profiler or safety paths.
+- **Reports are deterministic for a fixed snapshot.** Frontmatter-heavy notes are sorted lexically then strided so the safety sample is the same across runs of the same vault. `Math.random()` is banned harness-wide (seeded `prng.ts` when randomness is needed).
 - **Never mutate the live vault.** Anything touching writes routes through the safety harness or an adapter pointed at a scratch copy. The CLI's `safety` command enforces this explicitly.
 
 ## Adding a backend
 
-Implement `Backend` in `packages/harness/src/bench/adapters/`. Wire it up in `cli.ts:buildBackend()`. Add an env var pattern matching `SEEKSTONE_<NAME>_*` for config. Reports automatically pick up the new adapter via its `name` field — output files get suffixed `benchmark-<name>.{json,md}` and `safety-<name>.{json,md}`.
+Implement `Backend` in `packages/harness/src/bench/adapters/`. Wire it up in `cli.ts:buildBackend()`. Add an env var pattern matching `SEEKSTONE_<NAME>_*` for config. Reports pick up the new adapter via its `name` field — output files get suffixed `benchmark-<name>.{json,md}` and `safety-<name>.{json,md}` — but add the name to `src/bench/scaling.ts`'s `order` array or the scaling table sorts it last.

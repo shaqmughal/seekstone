@@ -78,6 +78,7 @@ const META_KEYS = [
   'to',
   'folder',
   'tag',
+  'mode',
   'limit',
   'overwrite',
   'pattern',

@@ -131,7 +131,7 @@ Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their o
 | `rename_heading` | Rename a heading in a note — every `[[note#heading]]` wikilink and embed across the vault is rewritten so references keep working (aliases preserved, fenced code blocks left alone). |
 | `append_note` | Append to a note body without touching frontmatter. |
 | `patch_frontmatter` | Set/update/delete frontmatter keys without reordering existing keys or changing quote style. |
-| `patch_note` | Insert text immediately after a heading without touching frontmatter. |
+| `patch_note` | Append, prepend, or replace text at a heading or block reference (`createIfMissing` to add the section) — frontmatter untouched. |
 | `replace_in_note` | Find and replace text in the note body — literal or regex, whole-word, case sensitivity, optional `limit` (replaces **all** occurrences by default), dry-run preview. |
 | `append_periodic_note` | Append to today's periodic note, creating it from a template if it doesn't yet exist. |
 
@@ -183,7 +183,7 @@ Any MCP-over-stdio client: Claude Desktop, Claude Code, Cursor, VS Code, Windsur
 Yes — tested on macOS, Linux, and Windows in CI on every commit.
 
 **Is it safe?**
-No network calls, no telemetry. The vault path is sandboxed — no tool reads or writes outside it. Writes are covered by the tested Write-Safety Contract above, and `SEEKSTONE_READ_ONLY=1` removes the write tools entirely.
+No network calls while running, no telemetry (the optional semantic-search model is downloaded once by the explicit `fetch-model` subcommand, SHA-256-verified, before any serving starts). The vault path is sandboxed — no tool reads or writes outside it. Writes are covered by the tested Write-Safety Contract above, and `SEEKSTONE_READ_ONLY=1` removes the write tools entirely.
 
 ---
 

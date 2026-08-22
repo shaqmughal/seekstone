@@ -47,7 +47,7 @@ Before opening a PR, make sure **`npm test`, `npm run lint`, and the typechecks 
 - **Line endings are LF** (enforced via `.gitattributes`).
 - **Imports use `.js` extensions** even for TypeScript sources — that's what NodeNext + tsx + tsc agree on.
 - **Never mutate the live vault outside an explicit tool.** Write paths must preserve byte-faithful frontmatter; see the write-safety harness.
-- **No telemetry, no network calls** in the server. This is a core promise — keep it.
+- **No telemetry, and no network calls on the serving path.** This is a core promise — keep it. The sole sanctioned network code is the `fetch-model` CLI subcommand (pinned-hash model download, exits before serving); `no-network.test.ts` is the guard, and it must keep passing with semantic search enabled.
 
 ## Commit & PR
 

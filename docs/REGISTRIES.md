@@ -12,7 +12,7 @@ Seekstone is published as [`seekstone`](https://www.npmjs.com/package/seekstone)
 
 - **Name:** Seekstone
 - **Tagline:** An Obsidian MCP server — filesystem-direct, low context-tax.
-- **Description:** Seekstone reads your Obsidian vault directly from disk instead of routing through the Local REST API plugin, so Claude can search and edit notes without burning its context window on a single tool call (up to ~47,000× smaller payloads in reproducible multi-vault benchmarks). 19 tools over stdio; no Obsidian app or plugin required; macOS/Linux/Windows; no network, no telemetry.
+- **Description:** Seekstone reads your Obsidian vault directly from disk instead of routing through the Local REST API plugin, so Claude can search and edit notes without burning its context window on a single tool call (up to ~47,000× smaller payloads in reproducible multi-vault benchmarks). 19 tools over stdio, including opt-in fully-local semantic search; no Obsidian app or plugin required; macOS/Linux/Windows; no network at runtime, no telemetry.
 - **Install:** `npx -y seekstone`; env `SEEKSTONE_VAULT=/path/to/vault`
 - **Repo:** https://github.com/shaqmughal/seekstone
 - **npm:** https://www.npmjs.com/package/seekstone

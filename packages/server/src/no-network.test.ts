@@ -105,4 +105,36 @@ describe('the server makes no outbound network calls', () => {
       expect(text).not.toContain(NET_ERROR);
     }
   });
+
+  it('semantic search — build, cache persistence, and queries touch no network', async () => {
+    // The one sanctioned network path in the package is the `fetch-model` CLI
+    // subcommand, which exits before serving. With the model already on disk
+    // (stubbed here), the semantic subsystem itself must stay offline.
+    const { Semantic } = await import('./semantic/state.js');
+    const cacheDir = await mkdtemp(join(tmpdir(), 'seekstone-nonet-cache-'));
+    const embedder = {
+      id: 'stub-model',
+      dim: 2,
+      embed: (text: string) =>
+        /hello/.test(text.toLowerCase()) ? new Float32Array([1, 0]) : new Float32Array([0, 1]),
+    };
+    const semantic = await Semantic.start(
+      ctx,
+      { modelDir: '/stubbed', cacheDir },
+      { loadModel: async () => embedder, debounceMs: 5, saveDebounceMs: 5 },
+    );
+    try {
+      await semantic.ready(); // background embed + cache write under socket stubs
+      const withSemantic: ServerContext = { ...ctx, semantic };
+      for (const mode of ['semantic', 'hybrid'] as const) {
+        const res = await dispatch(withSemantic, 'search', { query: 'hello world', mode }, log);
+        const text = res.content.map((c) => c.text).join('\n');
+        expect(text).not.toContain(NET_ERROR);
+        expect(res.isError).toBeUndefined();
+      }
+    } finally {
+      semantic.stop();
+      await rm(cacheDir, { recursive: true, force: true });
+    }
+  });
 });

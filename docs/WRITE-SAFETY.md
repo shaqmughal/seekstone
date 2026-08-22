@@ -20,21 +20,34 @@ CI regenerates the fs-reference run on every commit and fails on any drift
 
 ### 1. Zero network, zero telemetry
 
-Seekstone makes **no outbound network connection of any kind, ever** — no
-telemetry, no update checks, no cloud calls. Nothing leaves your machine.
+The **running server makes no outbound network connection of any kind, ever**
+— no telemetry, no update checks, no cloud calls. Nothing leaves your machine.
+The one piece of networking code in the package is the explicit
+`seekstone fetch-model` CLI subcommand (the opt-in semantic-search model
+download — SHA-256-pinned files, and it exits before any MCP serving starts);
+it never runs during a session, and it uploads nothing.
 
-- Enforced by: there is simply no networking code; the only runtime deps are
-  the MCP SDK, chokidar, fast-glob, minisearch, yaml, zod, picomatch.
+- Enforced by: the serving path has no networking code; the only runtime deps
+  are the MCP SDK, chokidar, fast-glob, minisearch, yaml, zod, picomatch, and
+  the only `fetch()` in the package lives in the pre-serving `fetch-model`
+  subcommand.
 - Proven by: [`no-network.test.ts`](../packages/server/src/no-network.test.ts)
   replaces Node's socket/http/https primitives with throwing stubs, then runs
-  the real index build **and all 19 tools** through the real dispatcher. Any
-  connection attempt fails the suite.
+  the real index build **and all 19 tools** through the real dispatcher —
+  including semantic/hybrid search with the semantic index enabled, built,
+  and persisting its cache under the stubs. Any connection attempt fails the
+  suite.
 
 ### 2. Vault sandbox
 
-No tool can read or write outside `SEEKSTONE_VAULT`. Every tool resolves its
-path and refuses anything that escapes the vault root; traversal attempts
-(`../…`) are errors.
+No tool can read or write **vault files** outside `SEEKSTONE_VAULT`. Every
+tool resolves its path and refuses anything that escapes the vault root;
+traversal attempts (`../…`) are errors. (With semantic search enabled, the
+server also reads the local embedding model and maintains a per-vault
+embedding cache under `SEEKSTONE_CACHE_DIR`, default `~/.cache/seekstone` —
+derived vectors of your notes, on your machine, documented in the README's
+configuration table. No note content is written there in plain text, and no
+tool can be pointed at those paths.)
 
 - Enforced by: the path-containment guard in every tool handler.
 - Proven by: per-tool traversal tests (e.g.
