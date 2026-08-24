@@ -1,5 +1,13 @@
 # seekstone
 
+## 0.15.1
+
+### Patch Changes
+
+- dd883a9: Fix the .mcpb extension crashing at startup (`ERR_MODULE_NOT_FOUND: chunk-*.js`). tsup's ESM code splitting (default-on) emitted separate chunk files for the dynamic `import()` introduced with semantic search in 0.15.0, and the mcpb pipeline only ships the sharded `index.js` — the chunks were silently dropped, so the installed extension died on launch. Both builds now set `splitting: false`, and `build-mcpb.mjs` fails loudly if the build ever emits more than one file.
+- ea89043: The npm package description now owns both search latencies precisely: single-digit-ms keyword search and ~14 ms local semantic search (previously the unqualified "single-digit-ms search", which was no longer accurate for semantic mode).
+- 2a8adfd: The `search` tool's advertised schema now matches its behavior: the long-documented `excerptLength` option (20–2000 characters, default 120) is exposed in the MCP input schema so clients can actually discover and use it, and the tool description's excerpt-size figure is corrected from ~200 to ~120 characters. Search's `mode` now also appears in info-level logs' safe metadata. The `no-network` guarantee test additionally proves the semantic subsystem — index build, cache persistence, and semantic/hybrid queries — runs fully offline.
+
 ## 0.15.0
 
 ### Minor Changes
