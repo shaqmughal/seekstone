@@ -20,8 +20,7 @@ export function routeToLexical(query: string, topPaths: readonly string[], topN 
   const words = new Set(queryWords(query));
   if (words.size === 0) return false;
   return topPaths.slice(0, topN).some((path) => {
-    // Index ids carry the platform separator — split on both.
-    const base = (path.split(/[\\/]/).pop() ?? '').replace(/\.md$/, '').toLowerCase();
+    const base = (path.split('/').pop() ?? '').replace(/\.md$/, '').toLowerCase();
     const parts = new Set(base.split(/\W+/).filter(Boolean));
     return parts.size === words.size && [...parts].every((p) => words.has(p));
   });
