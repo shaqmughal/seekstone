@@ -2,8 +2,8 @@ import { mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 
-/** Index doc ids carry the platform separator (walkVault uses path.relative). */
-const id = (name: string) => join('Notes', name);
+/** Index doc ids are forward-slash vault-relative paths on every platform. */
+const id = (name: string) => `Notes/${name}`;
 
 import type { Embedder } from '@seekstone/core/embed';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';

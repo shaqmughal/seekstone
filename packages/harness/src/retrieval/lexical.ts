@@ -31,10 +31,8 @@ export function rankLexicalScored(
   query: string,
   limit = 50,
 ): Array<{ path: string; score: number }> {
-  // Index doc ids carry the platform separator (walkVault uses path.relative);
-  // golden-set paths are forward-slash canonical, so normalize here.
   return searchTool(ctx, { query, limit }).map((h) => ({
-    path: h.path.replace(/\\/g, '/'),
+    path: h.path,
     score: h.score,
   }));
 }

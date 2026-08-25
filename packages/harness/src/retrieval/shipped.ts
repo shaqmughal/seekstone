@@ -27,8 +27,7 @@ export async function buildShipped(
   await semantic.ready();
   ctx.semantic = semantic;
   return {
-    rank: (mode) => (query) =>
-      searchTool(ctx, { query, mode, limit: 50 }).map((h) => h.path.replace(/\\/g, '/')),
+    rank: (mode) => (query) => searchTool(ctx, { query, mode, limit: 50 }).map((h) => h.path),
     buildMs: performance.now() - t0,
     stop: () => semantic.stop(),
   };

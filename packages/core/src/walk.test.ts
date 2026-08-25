@@ -47,7 +47,18 @@ describe('walkVault', () => {
 
     expect(byRel['note.md']?.kind).toBe('note');
     expect(byRel['image.png']?.kind).toBe('image');
-    expect(byRel[join('sub', 'nested.md')]?.kind).toBe('note');
+    expect(byRel['sub/nested.md']?.kind).toBe('note');
+  });
+
+  it('returns forward-slash relPaths on every platform (SHA-319)', async () => {
+    // Windows CI is the run that makes this meaningful: path.relative()
+    // emits `sub\nested.md` there, and backslash keys break wikilink
+    // resolution and every notes.get(path) lookup downstream.
+    const entries = await walkVault(tmpDir);
+    for (const e of entries) {
+      expect(e.relPath).not.toContain('\\');
+      expect(e.topDir).not.toContain('\\');
+    }
   });
 
   it('reports sizeBytes > 0 for each entry', async () => {

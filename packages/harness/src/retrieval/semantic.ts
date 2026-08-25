@@ -37,9 +37,7 @@ export async function buildSemanticIndex(
   // main thread either way, so it happens inline per note.
   await mapLimit(notes, 32, async (entry) => {
     const raw = await readFile(join(vaultRoot, entry.relPath), 'utf8');
-    // walkVault relPaths carry the platform separator; golden-set paths are
-    // forward-slash canonical, so normalize at the eval boundary.
-    const relPath = entry.relPath.replace(/\\/g, '/');
+    const relPath = entry.relPath;
     const fm = parseFrontmatter(raw);
     const fmTitle = fm.data?.title;
     const title =
