@@ -37,6 +37,13 @@ export interface WatcherOptions {
    */
   usePolling?: boolean;
   /**
+   * Stat-poll interval in ms; only meaningful with usePolling. Overrides
+   * SEEKSTONE_WATCH_POLL_INTERVAL and the default. Tests pass a small value
+   * here so the suite stays fast without dragging production polling down
+   * with it.
+   */
+  pollInterval?: number;
+  /**
    * Diagnostic hook fired for every raw chokidar event, before .md filtering
    * and before the index is updated. Receives the chokidar event name, the
    * absolute path as chokidar reported it, and the vault-relative key as
@@ -46,12 +53,49 @@ export interface WatcherOptions {
   onRawEvent?: (event: 'add' | 'change' | 'unlink', absPath: string, relPath: string) => void;
 }
 
+/**
+ * Default stat-poll interval (ms) under SEEKSTONE_WATCH_POLL=1. Deliberately
+ * slow: poll cost scales with vault size ÷ interval, and on the network/9p
+ * mounts where polling is needed at all, a 50ms sweep pinned ~25% of a CPU
+ * core per instance (GH #280). Only pickup of *external* edits waits on this —
+ * seekstone's own writes update the index in-process.
+ */
+export const DEFAULT_POLL_INTERVAL_MS = 10_000;
+
+/**
+ * Resolve the stat-poll interval: explicit option → SEEKSTONE_WATCH_POLL_INTERVAL
+ * (positive integer, ms) → default. A malformed env value warns and falls back
+ * rather than throwing — a bad tuning knob shouldn't keep the server down.
+ */
+export function resolvePollInterval(
+  optValue: number | undefined,
+  envValue: string | undefined,
+  log?: Logger,
+): number {
+  if (optValue !== undefined) return optValue;
+  if (envValue === undefined || envValue === '') return DEFAULT_POLL_INTERVAL_MS;
+  const parsed = Number(envValue);
+  if (!Number.isInteger(parsed) || parsed <= 0) {
+    log?.warn('invalid SEEKSTONE_WATCH_POLL_INTERVAL, using default', {
+      value: envValue,
+      defaultMs: DEFAULT_POLL_INTERVAL_MS,
+    });
+    return DEFAULT_POLL_INTERVAL_MS;
+  }
+  return parsed;
+}
+
 export function startWatcher(
   ctx: ServerContext,
   log?: Logger,
   opts?: WatcherOptions,
 ): WatcherHandle {
   const usePolling = opts?.usePolling ?? process.env.SEEKSTONE_WATCH_POLL === '1';
+  const pollInterval = resolvePollInterval(
+    opts?.pollInterval,
+    process.env.SEEKSTONE_WATCH_POLL_INTERVAL,
+    log,
+  );
 
   // chokidar's followSymlinks=true (the default) calls fs.realpath() on the
   // watched path, so events arrive with the real (resolved) path. On Windows,
@@ -105,8 +149,8 @@ export function startWatcher(
     // The startup index build already covers existing files.
     ignoreInitial: true,
     usePolling,
-    interval: 50,
-    binaryInterval: 100,
+    interval: pollInterval,
+    binaryInterval: pollInterval * 2,
     // Skip dot-dirs (.obsidian, .git, .trash, …) regardless of where the vault
     // lives — matched on the path relative to the vault root.
     ignored: (p: string) => {
