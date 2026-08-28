@@ -147,6 +147,7 @@ Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_
 | `SEEKSTONE_LOG_LEVEL` | no | `error` \| `warn` \| `info` (default) \| `debug`. |
 | `SEEKSTONE_LOG_FILE` | no | Absolute path; when set, JSON-line logs are appended here (size-rotated). |
 | `SEEKSTONE_WATCH_POLL` | no | Set to `1` to stat-poll for changes instead of native OS events — reliable on network drives, WSL, containers. |
+| `SEEKSTONE_WATCH_POLL_INTERVAL` | no | Stat-poll interval in ms (default `10000`). Only used with `SEEKSTONE_WATCH_POLL=1`. Lower = faster pickup of external edits, higher CPU. |
 | `SEEKSTONE_LOG_MAX_SIZE` | no | Log-rotation threshold for `SEEKSTONE_LOG_FILE` (e.g. `10mb`; default 5 MB). |
 | `SEEKSTONE_READ_ONLY` | no | Set to `1` to run read-only: the 9 write tools are unregistered entirely (and rejected if called anyway), so the session provably cannot modify your vault. |
 | `SEEKSTONE_WRITE_PATHS` | no | Comma-separated vault-relative globs (e.g. `journal/**,inbox/*.md`). Writes are permitted only under matching paths; the rest of the vault stays read-only. |

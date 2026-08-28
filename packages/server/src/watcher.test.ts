@@ -6,7 +6,7 @@ import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import type { ServerContext } from './context.js';
 import type { IndexedNote } from './index/types.js';
 import { PERMISSIVE_POLICY } from './policy.js';
-import { startWatcher } from './watcher.js';
+import { DEFAULT_POLL_INTERVAL_MS, resolvePollInterval, startWatcher } from './watcher.js';
 
 // Each test gets its own vault dir. We await the watcher's `ready` promise
 // before mutating files, so events are deterministic (no retries needed).
@@ -82,6 +82,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     const rawEvents: string[] = [];
     const { stop, ready } = startWatcher(ctx, undefined, {
       usePolling: true,
+      pollInterval: 50,
       onRawEvent: (event, abs, rel) => rawEvents.push(`${event} abs=${abs} rel=${rel}`),
     });
     try {
@@ -106,7 +107,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
   it('updates the index when a file is modified', async () => {
     const ctx = freshCtx(tmpDir);
     await writeFile(join(tmpDir, 'watch-mod.md'), 'old content', 'utf8');
-    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true });
+    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
     try {
       await ready;
       await writeFile(join(tmpDir, 'watch-mod.md'), 'new_unique_modified_xyz', 'utf8');
@@ -136,7 +137,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     ctx.notes.set('watch-del.md', doc);
     ctx.index.add(doc);
 
-    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true });
+    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
     try {
       await ready;
       await rm(join(tmpDir, 'watch-del.md'));
@@ -156,6 +157,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     const rawEvents: string[] = [];
     const { stop, ready } = startWatcher(ctx, undefined, {
       usePolling: true,
+      pollInterval: 50,
       onRawEvent: (event, abs, rel) => rawEvents.push(`${event} abs=${abs} rel=${rel}`),
     });
     try {
@@ -184,6 +186,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     const rawEvents: string[] = [];
     const { stop, ready } = startWatcher(ctx, undefined, {
       usePolling: true,
+      pollInterval: 50,
       onRawEvent: (event, abs, rel) => rawEvents.push(`${event} abs=${abs} rel=${rel}`),
     });
     try {
@@ -220,6 +223,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
     const rawEvents: string[] = [];
     const { stop, ready } = startWatcher(ctx, log, {
       usePolling: true,
+      pollInterval: 50,
       onRawEvent: (event, abs, rel) => rawEvents.push(`${event} abs=${abs} rel=${rel}`),
     });
     try {
@@ -247,7 +251,7 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
 
   it('ignores non-.md files', async () => {
     const ctx = freshCtx(tmpDir);
-    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true });
+    const { stop, ready } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
     try {
       await ready;
       await writeFile(join(tmpDir, 'image.png'), 'binary', 'utf8');
@@ -260,7 +264,45 @@ describe.skipIf(process.env.SEEKSTONE_COVERAGE === '1')('startWatcher', () => {
 
   it('returns a stop function whose promise resolves once the watcher closes', async () => {
     const ctx = freshCtx(tmpDir);
-    const { stop } = startWatcher(ctx, undefined, { usePolling: true });
+    const { stop } = startWatcher(ctx, undefined, { usePolling: true, pollInterval: 50 });
     await expect(stop()).resolves.toBeUndefined();
+  });
+});
+
+// Pure interval resolution — no watcher spun up, so no coverage-gate skip.
+describe('resolvePollInterval', () => {
+  const warns: { msg: string; fields?: Record<string, unknown> }[] = [];
+  const noop = () => {};
+  const log = {
+    level: 'warn' as const,
+    error: noop,
+    warn: (msg: string, fields?: Record<string, unknown>) => warns.push({ msg, fields }),
+    info: noop,
+    debug: noop,
+  };
+
+  beforeEach(() => {
+    warns.length = 0;
+  });
+
+  it('defaults with neither option nor env set', () => {
+    expect(resolvePollInterval(undefined, undefined)).toBe(DEFAULT_POLL_INTERVAL_MS);
+    expect(resolvePollInterval(undefined, '')).toBe(DEFAULT_POLL_INTERVAL_MS);
+  });
+
+  it('reads the env value as milliseconds', () => {
+    expect(resolvePollInterval(undefined, '2000')).toBe(2000);
+  });
+
+  it('prefers the explicit option over the env value', () => {
+    expect(resolvePollInterval(50, '2000')).toBe(50);
+  });
+
+  it('warns and falls back on a malformed env value', () => {
+    for (const bad of ['abc', '0', '-5', '1.5']) {
+      expect(resolvePollInterval(undefined, bad, log)).toBe(DEFAULT_POLL_INTERVAL_MS);
+    }
+    expect(warns).toHaveLength(4);
+    expect(warns[0]?.msg).toContain('SEEKSTONE_WATCH_POLL_INTERVAL');
   });
 });

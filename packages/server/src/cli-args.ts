@@ -54,6 +54,7 @@ Optional environment:
   SEEKSTONE_LOG_LEVEL  error | warn | info (default) | debug
   SEEKSTONE_LOG_FILE   Absolute path; append JSON-line logs here
   SEEKSTONE_WATCH_POLL Set to 1 to poll for changes (network drives, WSL)
+  SEEKSTONE_WATCH_POLL_INTERVAL  Poll interval in ms (default 10000)
   SEEKSTONE_SEMANTIC   Set to 1 to enable semantic search (needs fetch-model first)
   SEEKSTONE_MODEL_PATH Override the embedding-model directory
   SEEKSTONE_CACHE_DIR  Override the cache root (default ~/.cache/seekstone)
