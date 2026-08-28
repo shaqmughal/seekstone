@@ -82,7 +82,7 @@ flowchart TD
 
     ctx["③ ServerContext (context.ts)<br/>vaultRoot · index (MiniSearch)<br/>notes Map · backlinks Map · policy · semantic?"]
 
-    watch["④ Watcher — watcher.ts<br/>chokidar → incremental re-index<br/>(SEEKSTONE_WATCH_POLL=1 to stat-poll)"]
+    watch["④ Watcher — watcher.ts<br/>chokidar → incremental re-index<br/>(SEEKSTONE_WATCH_POLL=1 to stat-poll,<br/>SEEKSTONE_WATCH_POLL_INTERVAL ms, default 10s)"]
 
     sem["④b Semantic index — semantic/ (opt-in, SEEKSTONE_SEMANTIC=1)<br/>state.ts lifecycle (background build · debounced re-embeds)<br/>store.ts per-note chunk vectors · route.ts hybrid routing<br/>config.ts (SEEKSTONE_MODEL_PATH · SEEKSTONE_CACHE_DIR) · excerpt.ts"]
     embcache[("Embedding cache<br/>~/.cache/seekstone (or SEEKSTONE_CACHE_DIR)<br/>vectors + chunk spans, keyed by (path, contentHash)")]
