@@ -53,7 +53,11 @@ if (intent === 'init') {
 if (intent === 'fetch-model') {
   const { runFetchModel } = await import('./semantic/fetch-model.js');
   const { homedir } = await import('node:os');
-  const result = await runFetchModel({ env: process.env, homedir: homedir() });
+  const result = await runFetchModel({
+    env: process.env,
+    homedir: homedir(),
+    argv: process.argv.slice(3),
+  });
   process.stdout.write(`${result.output.join('\n')}\n`);
   process.exit(result.exitCode);
 }

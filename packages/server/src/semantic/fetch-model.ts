@@ -2,8 +2,8 @@ import { createHash } from 'node:crypto';
 import { existsSync } from 'node:fs';
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
-import { defaultCacheDir } from './config.js';
-import { DEFAULT_MODEL, type ModelManifest } from './model-manifest.js';
+import { DEFAULT_MODEL_ID, defaultCacheDir, resolveModelId } from './config.js';
+import { findModel, MODEL_IDS, type ModelManifest } from './model-manifest.js';
 
 /**
  * `seekstone fetch-model` — the explicit, out-of-band download of the
@@ -21,17 +21,53 @@ export interface FetchModelResult {
 export interface FetchModelDeps {
   env: NodeJS.ProcessEnv;
   homedir: string;
+  /** Arguments after the `fetch-model` subcommand (`--model <id>`). */
+  argv?: readonly string[];
+  /** Test seam: bypass model selection entirely. */
   manifest?: ModelManifest;
   fetchFn?: typeof fetch;
 }
 
+/**
+ * Pick the manifest: `--model <id>` wins, then `SEEKSTONE_SEMANTIC_MODEL`, then
+ * the default — so `fetch-model` with no flags installs whatever the server
+ * would try to load.
+ */
+export function selectManifest(argv: readonly string[], env: NodeJS.ProcessEnv): ModelManifest {
+  let requested: string | undefined;
+  for (let i = 0; i < argv.length; i++) {
+    const arg = argv[i];
+    if (arg === '--model') {
+      requested = argv[i + 1];
+      if (!requested || requested.startsWith('--')) {
+        throw new Error(`--model needs a value: one of ${MODEL_IDS.join(', ')}`);
+      }
+      i++;
+    } else if (arg?.startsWith('--model=')) {
+      requested = arg.slice('--model='.length);
+    } else {
+      throw new Error(`fetch-model: unknown argument "${arg}" (usage: fetch-model [--model <id>])`);
+    }
+  }
+  const id = resolveModelId(requested ?? env.SEEKSTONE_SEMANTIC_MODEL);
+  const manifest = findModel(id);
+  if (!manifest) throw new Error(`unknown model "${id}"`); // unreachable: resolveModelId validated
+  return manifest;
+}
+
 export async function runFetchModel(deps: FetchModelDeps): Promise<FetchModelResult> {
-  const manifest = deps.manifest ?? DEFAULT_MODEL;
+  const output: string[] = [];
+  let manifest: ModelManifest;
+  try {
+    manifest = deps.manifest ?? selectManifest(deps.argv ?? [], deps.env);
+  } catch (err) {
+    output.push(`✗ ${err instanceof Error ? err.message : String(err)}`);
+    return { output, exitCode: 1 };
+  }
   const fetchFn = deps.fetchFn ?? fetch;
   const destDir =
     deps.env.SEEKSTONE_MODEL_PATH ||
     join(defaultCacheDir(deps.env, deps.homedir), 'models', manifest.id);
-  const output: string[] = [];
   output.push(`fetch-model: ${manifest.id} → ${destDir}`);
   try {
     await mkdir(destDir, { recursive: true });
@@ -56,7 +92,9 @@ export async function runFetchModel(deps: FetchModelDeps): Promise<FetchModelRes
     }
     output.push(`✓ ${manifest.id}: ${fetched} fetched, ${skipped} already present (verified).`);
     output.push(
-      'Enable semantic search with SEEKSTONE_SEMANTIC=1 in your MCP server config, then restart the session.',
+      manifest.id === DEFAULT_MODEL_ID
+        ? 'Enable semantic search with SEEKSTONE_SEMANTIC=1 in your MCP server config, then restart the session.'
+        : `Enable it with SEEKSTONE_SEMANTIC=1 and SEEKSTONE_SEMANTIC_MODEL=${manifest.id} in your MCP server config, then restart the session.`,
     );
     return { output, exitCode: 0 };
   } catch (err) {

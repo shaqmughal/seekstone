@@ -60,7 +60,7 @@ describe('Semantic', () => {
     await rm(cacheDir, { recursive: true, force: true });
   });
 
-  const cfg = () => ({ modelDir: '/unused-stubbed', cacheDir });
+  const cfg = () => ({ modelId: 'stub', modelDir: '/unused-stubbed', cacheDir });
 
   it('builds the index in the background and reports progress → ready', async () => {
     const ctx = makeCtx('/vault/build');
@@ -97,6 +97,51 @@ describe('Semantic', () => {
       'Notes/Cheese.md',
     );
     second.stop();
+  });
+
+  it('keys the cache on model id + dim: switching models re-embeds, switching back reuses', async () => {
+    const ctx = makeCtx('/vault/model-switch');
+    const small = () => ({ ...stubEmbedder, embed: vi.fn(stubEmbedder.embed.bind(stubEmbedder)) });
+    // A wider "model": same routing, double the dimensions, different id.
+    const big = () => ({
+      id: 'stub-big',
+      dim: stubEmbedder.dim * 2,
+      embed: vi.fn((text: string) => {
+        const v = stubEmbedder.embed(text);
+        const out = new Float32Array(v.length * 2);
+        out.set(v);
+        out.set(v, v.length);
+        return out;
+      }),
+    });
+    const cfgFor = (id: string) => ({ modelId: id, modelDir: `/unused/${id}`, cacheDir });
+    const startWith = async (embedder: Embedder) => {
+      const s = await Semantic.start(ctx, cfgFor(embedder.id), {
+        ...deps(),
+        loadModel: async () => embedder,
+      });
+      await s.ready();
+      s.stop();
+      return s;
+    };
+
+    const s1 = small();
+    await startWith(s1);
+    expect(s1.embed).toHaveBeenCalled(); // cold: nothing cached yet
+
+    const b1 = big();
+    const sb = await startWith(b1);
+    expect(b1.embed).toHaveBeenCalled(); // the 8M-style cache must NOT be served to a 2×-dim model
+    expect(sb.embedder.dim).toBe(stubEmbedder.dim * 2);
+    expect(sb.store.noteCount).toBe(3);
+
+    const s2 = small();
+    await startWith(s2);
+    expect(s2.embed).not.toHaveBeenCalled(); // switching back: the original cache is intact
+
+    const b2 = big();
+    await startWith(b2);
+    expect(b2.embed).not.toHaveBeenCalled(); // and so is the big one — both coexist
   });
 
   it('re-embeds a changed note after the debounce window', async () => {
@@ -138,14 +183,14 @@ describe('Semantic', () => {
     await expect(
       Semantic.start(
         makeCtx('/vault/nomodel'),
-        { modelDir: '/nope/model', cacheDir },
+        { modelId: 'potion-base-8M', modelDir: '/nope/model', cacheDir },
         {
           loadModel: async () => {
             throw new Error('ENOENT');
           },
         },
       ),
-    ).rejects.toThrow(/fetch-model/);
+    ).rejects.toThrow(/npx -y seekstone fetch-model` to download/);
   });
 
   it('persists the cache after a watcher-driven re-embed', async () => {
@@ -193,8 +238,12 @@ describe('Semantic', () => {
     // No loadModel seam at all — the real loadModel2Vec path runs and fails
     // actionably on a missing model dir.
     await expect(
-      Semantic.start(makeCtx('/vault/realloader'), { modelDir: '/definitely/missing', cacheDir }),
-    ).rejects.toThrow(/fetch-model/);
+      Semantic.start(makeCtx('/vault/realloader'), {
+        modelId: 'potion-retrieval-32M',
+        modelDir: '/definitely/missing',
+        cacheDir,
+      }),
+    ).rejects.toThrow(/fetch-model --model potion-retrieval-32M/);
   });
 
   it('survives a failing cache save with a warning, and a failing build with an error log', async () => {
@@ -212,7 +261,7 @@ describe('Semantic', () => {
     await wf(notADir, 'occupied');
     const s = await Semantic.start(
       makeCtx('/vault/badsave'),
-      { modelDir: '/x', cacheDir: notADir },
+      { modelId: 'stub', modelDir: '/x', cacheDir: notADir },
       {
         ...deps(),
         log,

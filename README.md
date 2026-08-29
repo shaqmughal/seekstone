@@ -341,7 +341,8 @@ Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_
 | `SEEKSTONE_READ_ONLY` | No | Set to `1` to run read-only: the 9 write tools are unregistered from the tool list entirely (and rejected if called anyway), so the session provably cannot modify your vault. |
 | `SEEKSTONE_WRITE_PATHS` | No | Comma-separated vault-relative globs (e.g. `journal/**,inbox/*.md`). Writes are permitted only under matching paths; the rest of the vault stays read-only. |
 | `SEEKSTONE_SEMANTIC` | No | Set to `1` to enable semantic search (`search` gains `mode: "semantic"` and `"hybrid"`). Requires the local embedding model — download it once with `npx -y seekstone fetch-model`; the running server never touches the network. |
-| `SEEKSTONE_MODEL_PATH` | No | Directory holding the Model2Vec embedding model (default: where `fetch-model` puts it, under the cache dir). |
+| `SEEKSTONE_SEMANTIC_MODEL` | No | Which local model to load: `potion-base-8M` (default, ~30 MB, 256-dim) or `potion-retrieval-32M` (~129 MB, 512-dim — more accurate on description-style queries at roughly 2× the query latency). Fetch it first with `npx -y seekstone fetch-model --model potion-retrieval-32M`. |
+| `SEEKSTONE_MODEL_PATH` | No | Directory holding the Model2Vec embedding model (default: where `fetch-model` puts the selected model, under the cache dir). |
 | `SEEKSTONE_CACHE_DIR` | No | Cache root for the downloaded model and per-vault embedding caches (default `~/.cache/seekstone`). |
 
 ---

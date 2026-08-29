@@ -5,6 +5,7 @@
  * and the real per-vault embedding cache (so repeated eval runs also
  * exercise the warm-cache load path).
  */
+import { basename } from 'node:path';
 import type { Embedder } from '@seekstone/core/embed';
 import type { ServerContext } from '../../../server/src/context.js';
 import { Semantic } from '../../../server/src/semantic/state.js';
@@ -23,7 +24,11 @@ export async function buildShipped(
   loadModel?: (modelDir: string) => Promise<Embedder>,
 ): Promise<ShippedHandle> {
   const t0 = performance.now();
-  const semantic = await Semantic.start(ctx, { modelDir, cacheDir }, { loadModel });
+  const semantic = await Semantic.start(
+    ctx,
+    { modelId: basename(modelDir), modelDir, cacheDir },
+    { loadModel },
+  );
   await semantic.ready();
   ctx.semantic = semantic;
   return {

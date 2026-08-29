@@ -51,7 +51,7 @@ describe('search modes', () => {
     ctx = { vaultRoot: vault, index, notes, backlinks, policy: PERMISSIVE_POLICY };
     semantic = await Semantic.start(
       ctx,
-      { modelDir: '/stubbed', cacheDir },
+      { modelId: 'stub-model', modelDir: '/stubbed', cacheDir },
       {
         loadModel: async () => stubEmbedder,
         debounceMs: 5,

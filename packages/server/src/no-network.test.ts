@@ -120,7 +120,7 @@ describe('the server makes no outbound network calls', () => {
     };
     const semantic = await Semantic.start(
       ctx,
-      { modelDir: '/stubbed', cacheDir },
+      { modelId: 'stub-model', modelDir: '/stubbed', cacheDir },
       { loadModel: async () => embedder, debounceMs: 5, saveDebounceMs: 5 },
     );
     try {
