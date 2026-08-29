@@ -81,7 +81,7 @@ npm run harness -- gen-vault --count 10000   # deterministic; same corpus+count+
 If you regenerate with a different `--count`/`--seed`, the vault changes — re-measure the
 query terms in [`queries/default.json`](./queries/default.json), update the profile
 snapshot (`npx vitest -u`), fix [`queries/golden.json`](./queries/golden.json) (its
-50 retrieval queries name concrete vault paths; `src/retrieval/golden.test.ts` hard-fails
+150 retrieval queries name concrete vault paths; `src/retrieval/golden.test.ts` hard-fails
 on any that vanish — by design), and regenerate the baseline reports.
 
 ### Drift guard
