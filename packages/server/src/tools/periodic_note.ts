@@ -6,6 +6,7 @@ import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
+import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
 
@@ -193,6 +194,7 @@ export async function getPeriodicNote(
   }
 
   await mkdir(dirname(abs), { recursive: true });
+  await journalWrite(ctx, 'get_periodic_note', path, null, body);
   await atomicWrite(abs, body);
   upsertDoc(ctx, buildDoc(path, body));
 
@@ -259,6 +261,7 @@ export async function appendPeriodicNote(
     }
     if (!input.createIfMissing) throw new Error(`Periodic note not found: ${path}`);
     await mkdir(dirname(abs), { recursive: true });
+    await journalWrite(ctx, 'append_periodic_note', path, null, input.content);
     await atomicWrite(abs, input.content);
     upsertDoc(ctx, buildDoc(path, input.content));
     return {
@@ -276,6 +279,7 @@ export async function appendPeriodicNote(
   const header = original.slice(0, fm.bodyStart);
   const newRaw = `${header}${newBody}`;
 
+  await journalWrite(ctx, 'append_periodic_note', path, original, newRaw);
   await atomicWrite(abs, newRaw);
 
   const cached = ctx.notes.get(path);

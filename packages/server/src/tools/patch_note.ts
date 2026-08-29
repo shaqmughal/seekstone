@@ -5,6 +5,7 @@ import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
+import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
 
@@ -85,6 +86,7 @@ export async function patchNote(
         const sep = raw.endsWith('\n\n') ? '' : raw.endsWith('\n') ? '\n' : '\n\n';
         const contentNl = input.content.endsWith('\n') ? '' : '\n';
         const newContent = `${raw}${sep}## ${targetText}\n\n${input.content}${contentNl}`;
+        await journalWrite(ctx, 'patch_note', input.path, raw, newContent);
         await atomicWrite(absPath, newContent);
         await verifyFrontmatter(absPath, originalFmRegion);
         updateCache(ctx, input.path, newContent, fm.bodyStart);
@@ -159,6 +161,7 @@ export async function patchNote(
       throw new Error(`Unknown operation: ${String(input.operation)}`);
   }
 
+  await journalWrite(ctx, 'patch_note', input.path, raw, newContent);
   await atomicWrite(absPath, newContent);
   await verifyFrontmatter(absPath, originalFmRegion);
   updateCache(ctx, input.path, newContent, fm.bodyStart);

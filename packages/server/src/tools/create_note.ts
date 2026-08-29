@@ -6,6 +6,7 @@ import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { buildDoc, upsertDoc } from '../index/doc.js';
+import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
 
@@ -55,6 +56,9 @@ export async function createNote(
   const absPath = resolveVaultPath(ctx.vaultRoot, input.path);
   assertWritable(ctx.policy, input.path);
 
+  // Pre-image for the journal: the note being overwritten, or null for a
+  // fresh create (undo then removes the file).
+  let existing: string | null = null;
   if (!input.overwrite) {
     try {
       await access(absPath);
@@ -62,24 +66,28 @@ export async function createNote(
     } catch (err) {
       if ((err as NodeJS.ErrnoException).code !== 'ENOENT') throw err;
     }
-  } else if (input.prevHash !== undefined) {
-    // CAS on the note being replaced; a missing file is a conflict too (the
-    // version the caller read no longer exists).
-    let existing: string;
+  } else {
     try {
       existing = await readFile(absPath, 'utf8');
-    } catch {
-      throw new Error(
-        JSON.stringify({
-          error: 'hash_conflict',
-          path: input.path,
-          expected: input.prevHash,
-          actual: null,
-          hint: 'The note no longer exists on disk. Re-check before overwriting.',
-        }),
-      );
+    } catch (err) {
+      if ((err as NodeJS.ErrnoException).code !== 'ENOENT') throw err;
+      if (input.prevHash !== undefined) {
+        // CAS on the note being replaced; a missing file is a conflict too
+        // (the version the caller read no longer exists).
+        throw new Error(
+          JSON.stringify({
+            error: 'hash_conflict',
+            path: input.path,
+            expected: input.prevHash,
+            actual: null,
+            hint: 'The note no longer exists on disk. Re-check before overwriting.',
+          }),
+        );
+      }
     }
-    assertHashMatch(existing, input.prevHash, input.path);
+    if (existing !== null && input.prevHash !== undefined) {
+      assertHashMatch(existing, input.prevHash, input.path);
+    }
   }
 
   let raw = '';
@@ -89,6 +97,7 @@ export async function createNote(
   raw += input.content ?? '';
 
   await mkdir(dirname(absPath), { recursive: true });
+  await journalWrite(ctx, 'create_note', input.path, existing, raw);
   await atomicWrite(absPath, raw);
 
   // Sync in-memory index so the new note is immediately searchable.

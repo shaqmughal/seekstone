@@ -149,30 +149,17 @@ export async function renameHeading(
   );
   newRaw = newRaw.slice(0, fm.bodyStart) + selfRewrite.content;
 
-  const originalFmRegion = raw.slice(0, fm.bodyStart);
-  await atomicWrite(absPath, newRaw);
-  const written = await readFile(absPath, 'utf8');
-  if (written.slice(0, originalFmRegion.length) !== originalFmRegion) {
-    throw new Error('Write-safety violation: frontmatter region changed unexpectedly');
-  }
-
-  // Refresh the renamed note's index entry. removeNoteBacklinks reads the old
-  // raw out of ctx.notes, so it must run before upsertDoc replaces the entry.
-  removeNoteBacklinks(ctx, input.path);
-  upsertDoc(ctx, buildDoc(input.path, newRaw));
-  addNoteBacklinks(ctx, input.path, newRaw);
-
-  let notesRewritten = selfRewrite.count > 0 ? 1 : 0;
-  let linksRewritten = selfRewrite.count;
-  const skipped: string[] = [];
-
   // Referencing notes come straight off the warm backlink index — no scan.
   // Heading links are wikilinks/embeds, which the index fully covers
   // (markdown anchors like [t](note.md#h) are out of scope, as documented).
+  // Rewrites are computed before any disk write so the whole rename is
+  // journaled under one seq (undo restores every touched file or none).
   const candidates = new Set<string>();
   for (const ref of ctx.backlinks.get(input.path) ?? []) candidates.add(ref.path);
   candidates.delete(input.path);
 
+  const rewrites: { path: string; pre: string; content: string; count: number }[] = [];
+  const skipped: string[] = [];
   for (const path of [...candidates].sort()) {
     const doc = ctx.notes.get(path);
     if (doc === undefined) continue;
@@ -189,6 +176,33 @@ export async function renameHeading(
       skipped.push(path);
       continue;
     }
+    rewrites.push({ path, pre: doc.raw, content, count });
+  }
+
+  if (ctx.journal) {
+    const txn = ctx.journal.begin('rename_heading');
+    await txn.add(input.path, raw, newRaw);
+    for (const r of rewrites) await txn.add(r.path, r.pre, r.content);
+    await txn.commit();
+  }
+
+  const originalFmRegion = raw.slice(0, fm.bodyStart);
+  await atomicWrite(absPath, newRaw);
+  const written = await readFile(absPath, 'utf8');
+  if (written.slice(0, originalFmRegion.length) !== originalFmRegion) {
+    throw new Error('Write-safety violation: frontmatter region changed unexpectedly');
+  }
+
+  // Refresh the renamed note's index entry. removeNoteBacklinks reads the old
+  // raw out of ctx.notes, so it must run before upsertDoc replaces the entry.
+  removeNoteBacklinks(ctx, input.path);
+  upsertDoc(ctx, buildDoc(input.path, newRaw));
+  addNoteBacklinks(ctx, input.path, newRaw);
+
+  let notesRewritten = selfRewrite.count > 0 ? 1 : 0;
+  let linksRewritten = selfRewrite.count;
+
+  for (const { path, content, count } of rewrites) {
     await atomicWrite(join(ctx.vaultRoot, path), content);
     // Fragment rewrites change neither link resolution nor line numbers, so
     // the backlink index needs no refresh — only the notes/search entries.

@@ -1,10 +1,10 @@
 {
-  "snapshotDate": "2026-08-22T15:01:10.318Z",
+  "snapshotDate": "2026-08-29T21:38:06.513Z",
   "backend": {
     "name": "seekstone",
     "description": "Seekstone server (in-process function calls, no IPC)"
   },
-  "vaultCopyRoot": "<tmpdir>/seekstone-safety-tode6t",
+  "vaultCopyRoot": "<tmpdir>/seekstone-safety-qmVgB8",
   "originalVaultRoot": "packages/harness/fixtures/vault",
   "sampleSize": 25,
   "passByOp": {
@@ -44,6 +44,11 @@
       "skipped": 0
     },
     "cas-conflict": {
+      "pass": 25,
+      "fail": 0,
+      "skipped": 0
+    },
+    "undo-roundtrip": {
       "pass": 25,
       "fail": 0,
       "skipped": 0
@@ -100,6 +105,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -153,6 +164,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -206,6 +223,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -258,6 +281,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -310,6 +339,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -363,6 +398,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -415,6 +456,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -470,6 +517,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -523,6 +576,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -576,6 +635,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -629,6 +694,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -681,6 +752,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -733,6 +810,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -786,6 +869,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -839,6 +928,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -893,6 +988,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -945,6 +1046,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -998,6 +1105,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -1053,6 +1166,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -1106,6 +1225,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -1159,6 +1284,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -1212,6 +1343,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -1265,6 +1402,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -1318,6 +1461,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     },
@@ -1372,6 +1521,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "pass",
+          "reason": "undone: write, delete",
+          "change": "replace then delete via server tools; undo each; expect original bytes"
         }
       ]
     }

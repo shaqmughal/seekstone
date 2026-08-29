@@ -8,6 +8,7 @@ import { GetBacklinksInput, getBacklinks } from './tools/get_backlinks.js';
 import { GetLinksInput, getLinks } from './tools/get_links.js';
 import { ListNotesInput, listNotes } from './tools/list_notes.js';
 import { ListTagsInput, listTags } from './tools/list_tags.js';
+import { ListWritesInput, listWrites } from './tools/list_writes.js';
 import { MoveNoteInput, moveNote } from './tools/move_note.js';
 import { OutlineNoteInput, outlineNote } from './tools/outline_note.js';
 import { PatchFrontmatterInput, patchFrontmatter } from './tools/patch_frontmatter.js';
@@ -23,6 +24,7 @@ import { ReadNoteInput, readNote } from './tools/read_note.js';
 import { RenameHeadingInput, renameHeading } from './tools/rename_heading.js';
 import { ReplaceInNoteInput, replaceInNote } from './tools/replace_in_note.js';
 import { SearchInput, search } from './tools/search.js';
+import { UndoWriteInput, undoWrite } from './tools/undo_write.js';
 
 export type ToolResult = {
   content: { type: 'text'; text: string }[];
@@ -50,6 +52,8 @@ export const HANDLED_TOOLS = [
   'replace_in_note',
   'get_periodic_note',
   'append_periodic_note',
+  'list_writes',
+  'undo_write',
 ] as const;
 
 /**
@@ -67,6 +71,7 @@ export const WRITE_TOOLS: ReadonlySet<string> = new Set([
   'patch_note',
   'replace_in_note',
   'append_periodic_note',
+  'undo_write',
 ]);
 
 // Metadata-safe keys: logged at info. Note content (`content`, `frontmatter`,
@@ -95,6 +100,8 @@ const META_KEYS = [
   'permanent',
   'prevHash',
   'budgetBytes',
+  'seq',
+  'force',
 ] as const;
 
 function safeMeta(args: unknown): Record<string, unknown> {
@@ -302,6 +309,16 @@ async function run(ctx: ServerContext, name: string, args: unknown): Promise<Too
           },
         ],
       };
+    }
+    case 'list_writes': {
+      const input = ListWritesInput.parse(args);
+      const result = listWrites(ctx, input);
+      return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
+    }
+    case 'undo_write': {
+      const input = UndoWriteInput.parse(args);
+      const result = await undoWrite(ctx, input);
+      return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
     }
     default:
       throw new Error(`Unknown tool: ${name}`);

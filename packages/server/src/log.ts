@@ -48,10 +48,11 @@ function parseLevel(raw: string | undefined, onBad: (m: string) => void): LogLev
   return 'info';
 }
 
-function parseSize(raw: string | undefined): number {
-  if (raw === undefined) return DEFAULT_MAX_SIZE;
+/** Parse a human size (`10mb`, `512kb`, `1.5gb`, bare bytes); falls back to `fallback`. */
+export function parseSize(raw: string | undefined, fallback = DEFAULT_MAX_SIZE): number {
+  if (raw === undefined) return fallback;
   const m = /^(\d+(?:\.\d+)?)(b|kb|mb|gb)?$/i.exec(raw.trim());
-  if (m === null) return DEFAULT_MAX_SIZE;
+  if (m === null) return fallback;
   const num = Number(m[1]);
   const unit = (m[2] ?? 'b').toLowerCase();
   const mult = unit === 'gb' ? 1e9 : unit === 'mb' ? 1e6 : unit === 'kb' ? 1e3 : 1;

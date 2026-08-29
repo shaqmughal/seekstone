@@ -1,4 +1,4 @@
-import { access, mkdir, readFile, rename } from 'node:fs/promises';
+import { mkdir, readFile, rename } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
@@ -69,15 +69,15 @@ export async function moveNote(
   }
   if (input.prevHash !== undefined) assertHashMatch(raw, input.prevHash, input.from);
 
-  if (!input.overwrite) {
-    try {
-      await access(absTo);
-      throw new Error(
-        `Destination already exists: ${input.to}. Pass overwrite: true to replace it.`,
-      );
-    } catch (err) {
-      if ((err as NodeJS.ErrnoException).code !== 'ENOENT') throw err;
-    }
+  // Pre-image of the destination (only ever non-null with overwrite: true).
+  let existingAtTo: string | null = null;
+  try {
+    existingAtTo = await readFile(absTo, 'utf8');
+  } catch (err) {
+    if ((err as NodeJS.ErrnoException).code !== 'ENOENT') throw err;
+  }
+  if (existingAtTo !== null && !input.overwrite) {
+    throw new Error(`Destination already exists: ${input.to}. Pass overwrite: true to replace it.`);
   }
 
   // Snapshot pre-move state: link resolution before/after the move differs,
@@ -99,6 +99,43 @@ export async function moveNote(
     candidates.delete(input.from);
   }
 
+  // Compute every link rewrite against the post-move resolution view BEFORE
+  // touching disk, so the whole operation can be journaled under one seq
+  // (undo restores all touched files or none) before the first byte changes.
+  const postNotes = new Map(preNotes);
+  postNotes.delete(input.from);
+  postNotes.set(input.to, buildDoc(input.to, raw));
+
+  const rewrites: { path: string; pre: string; content: string; count: number }[] = [];
+  const skipped: string[] = [];
+  for (const path of [...candidates].sort()) {
+    const doc = preNotes.get(path);
+    if (doc === undefined) continue;
+    if (!isWritable(ctx.policy, path)) {
+      // Out of write scope: leave the note untouched but report it, so the
+      // caller knows which references were NOT updated.
+      skipped.push(path);
+      continue;
+    }
+    const { content, count } = rewriteNoteLinks(
+      doc.raw,
+      path,
+      input.from,
+      input.to,
+      preNotes,
+      postNotes,
+    );
+    rewrites.push({ path, pre: doc.raw, content, count });
+  }
+
+  if (ctx.journal) {
+    const txn = ctx.journal.begin('move_note');
+    await txn.add(input.from, raw, null);
+    await txn.add(input.to, existingAtTo, raw);
+    for (const r of rewrites) if (r.count > 0) await txn.add(r.path, r.pre, r.content);
+    await txn.commit();
+  }
+
   await mkdir(dirname(absTo), { recursive: true });
   await rename(absFrom, absTo);
 
@@ -116,25 +153,10 @@ export async function moveNote(
 
   let notesRewritten = 0;
   let linksRewritten = 0;
-  const skipped: string[] = [];
 
-  for (const path of [...candidates].sort()) {
+  for (const { path, content, count } of rewrites) {
     const doc = ctx.notes.get(path);
     if (doc === undefined) continue;
-    if (!isWritable(ctx.policy, path)) {
-      // Out of write scope: leave the note untouched but report it, so the
-      // caller knows which references were NOT updated.
-      skipped.push(path);
-      continue;
-    }
-    const { content, count } = rewriteNoteLinks(
-      doc.raw,
-      path,
-      input.from,
-      input.to,
-      preNotes,
-      ctx.notes,
-    );
     // Re-register this note's backlinks against post-move resolution even
     // when nothing was rewritten (basename links now resolve to the new
     // path); remove reads the old raw, so call it before updating the entry.

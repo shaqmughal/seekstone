@@ -567,6 +567,46 @@ export const ALL_TOOLS = [
       required: ['content'],
     },
   },
+  {
+    name: 'list_writes',
+    annotations: READ_ONLY_ANNOTATIONS,
+    description:
+      'List recent writes from the journal — every write tool records the pre-image of each file it touches, so any of them can be reverted with undo_write. Returns compact metadata rows (seq, timestamp, tool, paths, undoable), never note content.',
+    inputSchema: {
+      type: 'object',
+      properties: {
+        limit: {
+          type: 'number',
+          description: 'Max entries to return, newest first (1–200, default 20).',
+        },
+        path: {
+          type: 'string',
+          description: 'Only entries that touched this vault-relative path.',
+        },
+      },
+    },
+  },
+  {
+    name: 'undo_write',
+    annotations: DESTRUCTIVE_WRITE_ANNOTATIONS,
+    description:
+      'Revert a journaled write: restores every file it touched to its byte-identical pre-write state (a multi-file move or heading rename is restored whole; a delete is restored even if it was permanent). Defaults to the most recent undoable write. Refuses with undo_conflict if a file changed since that write, unless force: true. The undo is itself journaled — undo it to redo.',
+    inputSchema: {
+      type: 'object',
+      properties: {
+        seq: {
+          type: 'number',
+          description:
+            'Journal entry to revert (from list_writes). Defaults to the most recent undoable write.',
+        },
+        force: {
+          type: 'boolean',
+          description:
+            'Restore even if a file changed after the journaled write; the clobbered state is journaled first so nothing is lost. Defaults to false.',
+        },
+      },
+    },
+  },
 ];
 
 /**

@@ -3,8 +3,14 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import { FsAdapter } from '../bench/adapters/fs.js';
+import { SeekstoneAdapter } from '../bench/adapters/seekstone.js';
 import type { Backend } from '../bench/backend.js';
-import { casConflictOp, createNoClobberOp, recoverableDeleteOp } from './behavioral-ops.js';
+import {
+  casConflictOp,
+  createNoClobberOp,
+  recoverableDeleteOp,
+  undoRoundtripOp,
+} from './behavioral-ops.js';
 
 let vaultDir: string;
 let backend: FsAdapter;
@@ -220,3 +226,46 @@ function backendShim(): Backend {
     list: unused,
   };
 }
+
+describe('undoRoundtripOp', () => {
+  it('passes against the shipped server: write and delete both undo byte-identically', async () => {
+    const { rel, abs, raw } = await seed('undo.md');
+    const server = await SeekstoneAdapter.build({ vaultRoot: vaultDir });
+    const r = await undoRoundtripOp(server, rel, abs);
+    expect(r.status).toBe('pass');
+    expect(r.reason).toBe('undone: write, delete');
+    expect(await readFile(abs, 'utf8')).toBe(raw);
+  });
+
+  it('fails when undo does not restore the original bytes, and restores them itself', async () => {
+    const { rel, abs, raw } = await seed('undo-broken.md');
+    const broken: Backend = {
+      ...backendShim(),
+      readWithHash: backend.readWithHash.bind(backend),
+      casWrite: backend.casWrite.bind(backend),
+      undoLastWrite: async () => {
+        await writeFile(join(vaultDir, rel), 'not the original\n', 'utf8');
+      },
+    };
+    const r = await undoRoundtripOp(broken, rel, abs);
+    expect(r.status).toBe('fail');
+    expect(r.reason).toContain('did not restore');
+    expect(await readFile(abs, 'utf8')).toBe(raw);
+  });
+
+  it('fails when the undo call itself errors', async () => {
+    const { rel, abs, raw } = await seed('undo-err.md');
+    const erroring: Backend = {
+      ...backendShim(),
+      readWithHash: backend.readWithHash.bind(backend),
+      casWrite: backend.casWrite.bind(backend),
+      undoLastWrite: async () => {
+        throw new Error('no journal');
+      },
+    };
+    const r = await undoRoundtripOp(erroring, rel, abs);
+    expect(r.status).toBe('fail');
+    expect(r.reason).toContain('undo after write errored');
+    expect(await readFile(abs, 'utf8')).toBe(raw);
+  });
+});

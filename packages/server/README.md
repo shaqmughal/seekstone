@@ -104,7 +104,7 @@ Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their o
 
 ## Tools
 
-19 tools: 10 read, 9 write.
+21 tools: 11 read, 10 write.
 
 ### Read
 
@@ -120,13 +120,14 @@ Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their o
 | `get_backlinks` | Find all notes that link to a given note. |
 | `get_links` | List all outgoing wikilinks and markdown links from a note. |
 | `get_periodic_note` | Read a daily/weekly/monthly/quarterly/yearly note — path resolved from your vault config, no Obsidian required. |
+| `list_writes` | Recent writes from the journal — seq, timestamp, tool, touched paths, and whether each is still undoable. Metadata only, never note content. |
 
 ### Write
 
 | Tool | Description |
 |---|---|
 | `create_note` | Create a note (optional frontmatter + body); parent dirs created automatically. Never clobbers an existing note unless you pass `overwrite: true`. |
-| `delete_note` | Move a note to the vault's `.trash/` folder (Obsidian-compatible, restorable). Pass `permanent: true` for an unrecoverable delete. |
+| `delete_note` | Move a note to the vault's `.trash/` folder (Obsidian-compatible, restorable). Pass `permanent: true` to skip the trash — the write journal still lets `undo_write` restore it. |
 | `move_note` | Move/rename a note — wikilinks and markdown links in other notes that point at it are rewritten so nothing breaks; destination dirs created automatically. |
 | `rename_heading` | Rename a heading in a note — every `[[note#heading]]` wikilink and embed across the vault is rewritten so references keep working (aliases preserved, fenced code blocks left alone). |
 | `append_note` | Append to a note body without touching frontmatter. |
@@ -134,6 +135,7 @@ Other MCP clients (Windsurf, Cline, …) take the Option 3 JSON block in their o
 | `patch_note` | Append, prepend, or replace text at a heading or block reference (`createIfMissing` to add the section) — frontmatter untouched. |
 | `replace_in_note` | Find and replace text in the note body — literal or regex, whole-word, case sensitivity, optional `limit` (replaces **all** occurrences by default), dry-run preview. |
 | `append_periodic_note` | Append to today's periodic note, creating it from a template if it doesn't yet exist. |
+| `undo_write` | Revert a journaled write: every file it touched goes back to its byte-identical pre-write state (a multi-file move or heading rename is restored whole; a delete is restored even if it was `permanent`). Defaults to the most recent write; refuses with `undo_conflict` if a file changed since, unless `force: true`. The undo is itself journaled — `undo_write({ seq })` on the undo entry redoes it. |
 
 Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `rename_heading`, `move_note`, `delete_note`, `append_periodic_note`, and `create_note` with `overwrite: true`) supports optional **compare-and-swap**: pass the `contentHash` you got from `read_note` as `prevHash` and the call fails cleanly if the note changed underneath you — no silently discarded concurrent edit, no moving or deleting content you haven't seen. Every mutating result returns the new `contentHash`, so chained edits need no re-reads.
 
@@ -149,8 +151,11 @@ Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_
 | `SEEKSTONE_WATCH_POLL` | no | Set to `1` to stat-poll for changes instead of native OS events — reliable on network drives, WSL, containers. |
 | `SEEKSTONE_WATCH_POLL_INTERVAL` | no | Stat-poll interval in ms (default `10000`). Only used with `SEEKSTONE_WATCH_POLL=1`. Lower = faster pickup of external edits, higher CPU. |
 | `SEEKSTONE_LOG_MAX_SIZE` | no | Log-rotation threshold for `SEEKSTONE_LOG_FILE` (e.g. `10mb`; default 5 MB). |
-| `SEEKSTONE_READ_ONLY` | no | Set to `1` to run read-only: the 9 write tools are unregistered entirely (and rejected if called anyway), so the session provably cannot modify your vault. |
+| `SEEKSTONE_READ_ONLY` | no | Set to `1` to run read-only: the 10 write tools are unregistered entirely (and rejected if called anyway), so the session provably cannot modify your vault. |
 | `SEEKSTONE_WRITE_PATHS` | no | Comma-separated vault-relative globs (e.g. `journal/**,inbox/*.md`). Writes are permitted only under matching paths; the rest of the vault stays read-only. |
+| `SEEKSTONE_HISTORY` | no | Set to `0` to disable the write journal (default on). With it on, every write tool stores the pre-image of each file it touches under `<vault>/.seekstone/history/` so `undo_write` can restore it byte-for-byte. |
+| `SEEKSTONE_HISTORY_MAX_SIZE` | no | Cap on stored pre-images (e.g. `100mb`; default 50 MB). Oldest entries are evicted first and then show `undoable: false` in `list_writes` — never silently. |
+| `SEEKSTONE_HISTORY_MAX_ENTRIES` | no | Cap on journal entries (default `1000`); the oldest are dropped past it. |
 | `SEEKSTONE_SEMANTIC` | no | Set to `1` to enable semantic search (`search` gains `mode: "semantic"` and `"hybrid"`). Download the local model once with `npx -y seekstone fetch-model`; the running server never touches the network. |
 | `SEEKSTONE_MODEL_PATH` | no | Directory holding the Model2Vec embedding model (default: where `fetch-model` puts it). |
 | `SEEKSTONE_CACHE_DIR` | no | Cache root for the model and per-vault embedding caches (default `~/.cache/seekstone`). |
@@ -159,7 +164,9 @@ Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_
 
 ## Write safety
 
-Giving an AI write access to your notes deserves more than "trust us." Seekstone ships the [Write-Safety Contract](https://github.com/shaqmughal/seekstone/blob/main/docs/WRITE-SAFETY.md): **eight named guarantees, each linked to the code that enforces it and the test that proves it**, verified byte-by-byte in CI on every commit and release — zero network, vault sandbox, byte-identical frontmatter on body edits, atomic writes, no-clobber creates, recoverable deletes, optional compare-and-swap, and write scoping / read-only mode.
+Giving an AI write access to your notes deserves more than "trust us." Seekstone ships the [Write-Safety Contract](https://github.com/shaqmughal/seekstone/blob/main/docs/WRITE-SAFETY.md): **nine named guarantees, each linked to the code that enforces it and the test that proves it**, verified byte-by-byte in CI on every commit and release — zero network, vault sandbox, byte-identical frontmatter on body edits, atomic writes, no-clobber creates, recoverable deletes, optional compare-and-swap, write scoping / read-only mode, and a write journal that makes every write reversible.
+
+**Every write is reversible.** Before any write tool changes a byte, it journals the pre-image of every file it is about to touch under `<vault>/.seekstone/history/` — content-addressed (identical states are stored once) and fsync'd before the vault write commits. `list_writes` shows the journal; `undo_write` restores byte-identically: a multi-file `move_note` or `rename_heading` is restored whole (the note *and* every link rewrite), and a `delete_note` comes back even if it was `permanent`. An undo after an external edit is refused with a structured `undo_conflict` unless you pass `force: true` — and even then the clobbered state is journaled first, so nothing is ever lost. Undo is itself journaled: repeated default undos walk backwards through the history, and `undo_write({ seq })` on an undo entry redoes it. `.seekstone/` is excluded from indexing and search like `.trash/`; add it to your vault's `.gitignore`. This complements git and Obsidian's File Recovery rather than replacing them — it is the recovery path the *agent* can drive.
 
 ---
 

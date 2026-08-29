@@ -4,6 +4,7 @@ import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
+import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
 
@@ -60,6 +61,7 @@ export async function appendNote(
   const header = original.slice(0, fm.bodyStart);
   const newContent = `${header}${newBody}`;
 
+  await journalWrite(ctx, 'append_note', input.path, original, newContent);
   await atomicWrite(absPath, newContent);
 
   // Update the in-memory index entry so subsequent searches reflect the change.

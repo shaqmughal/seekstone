@@ -4,6 +4,7 @@ import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
+import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
 
@@ -124,6 +125,7 @@ export async function replaceInNote(
   newBody += body.slice(lastIndex);
 
   const newContent = `${originalFmRegion}${newBody}`;
+  await journalWrite(ctx, 'replace_in_note', input.path, raw, newContent);
   await atomicWrite(absPath, newContent);
 
   const written = await readFile(absPath, 'utf8');
