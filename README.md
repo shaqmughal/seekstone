@@ -337,6 +337,7 @@ Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_
 | `SEEKSTONE_LOG_FILE` | No | Absolute path; when set, JSON-line logs are appended here (size-rotated). |
 | `SEEKSTONE_LOG_MAX_SIZE` | No | Log-rotation threshold for `SEEKSTONE_LOG_FILE` (e.g. `10mb`; default 5 MB). |
 | `SEEKSTONE_WATCH_POLL` | No | Set to `1` to stat-poll for changes instead of native OS events — slower but reliable on network drives, WSL, and some containers. |
+| `SEEKSTONE_WATCH_POLL_INTERVAL` | No | Stat-poll interval in ms (default `10000`). Only used with `SEEKSTONE_WATCH_POLL=1`. Lower = faster pickup of external edits, higher CPU; raise it on slow network/9p mounts. |
 | `SEEKSTONE_READ_ONLY` | No | Set to `1` to run read-only: the 9 write tools are unregistered from the tool list entirely (and rejected if called anyway), so the session provably cannot modify your vault. |
 | `SEEKSTONE_WRITE_PATHS` | No | Comma-separated vault-relative globs (e.g. `journal/**,inbox/*.md`). Writes are permitted only under matching paths; the rest of the vault stays read-only. |
 | `SEEKSTONE_SEMANTIC` | No | Set to `1` to enable semantic search (`search` gains `mode: "semantic"` and `"hybrid"`). Requires the local embedding model — download it once with `npx -y seekstone fetch-model`; the running server never touches the network. |

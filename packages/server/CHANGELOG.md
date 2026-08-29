@@ -1,5 +1,25 @@
 # seekstone
 
+## 0.16.0
+
+### Minor Changes
+
+- 4f9bdfc: `SEEKSTONE_WATCH_POLL=1` no longer stat-polls every file in the vault every 50ms — that hardcoded interval could pin ~20–25% of a CPU core per running instance on the network/WSL/9p mounts polling exists for ([#280](https://github.com/shaqmughal/seekstone/issues/280), reported by @phizz82). The default poll interval is now 10s (binary files 20s), and a new `SEEKSTONE_WATCH_POLL_INTERVAL` env var (milliseconds) tunes it. Note this only affects how quickly *external* edits are picked up under polling mode — seekstone's own writes still update the index immediately, and native (non-polling) watching is unchanged.
+
+## 0.15.2
+
+### Patch Changes
+
+- f5d6925: Fix Windows breaking basename wikilink resolution, backlinks, and path lookups for notes in subdirectories (#268). The vault scan stored platform-native `path.relative()` output as the index key, so on Windows a nested note was keyed `Projects\Core.md` while wikilink resolution, the file watcher, and MCP client paths all assume forward slashes — `[[Core]]` never resolved, `get_backlinks` returned zero, and every path-keyed tool lookup missed. Index keys are now forward-slash vault-relative paths on every platform.
+
+## 0.15.1
+
+### Patch Changes
+
+- dd883a9: Fix the .mcpb extension crashing at startup (`ERR_MODULE_NOT_FOUND: chunk-*.js`). tsup's ESM code splitting (default-on) emitted separate chunk files for the dynamic `import()` introduced with semantic search in 0.15.0, and the mcpb pipeline only ships the sharded `index.js` — the chunks were silently dropped, so the installed extension died on launch. Both builds now set `splitting: false`, and `build-mcpb.mjs` fails loudly if the build ever emits more than one file.
+- ea89043: The npm package description now owns both search latencies precisely: single-digit-ms keyword search and ~14 ms local semantic search (previously the unqualified "single-digit-ms search", which was no longer accurate for semantic mode).
+- 2a8adfd: The `search` tool's advertised schema now matches its behavior: the long-documented `excerptLength` option (20–2000 characters, default 120) is exposed in the MCP input schema so clients can actually discover and use it, and the tool description's excerpt-size figure is corrected from ~200 to ~120 characters. Search's `mode` now also appears in info-level logs' safe metadata. The `no-network` guarantee test additionally proves the semantic subsystem — index build, cache persistence, and semantic/hybrid queries — runs fully offline.
+
 ## 0.15.0
 
 ### Minor Changes

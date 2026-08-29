@@ -77,8 +77,10 @@ export async function walkVault(vaultRoot: string): Promise<FileEntry[]> {
     const absPath = typeof m === 'string' ? m : m.path;
     const stats = typeof m === 'string' ? await stat(absPath) : m.stats;
     if (!stats) continue;
-    const relPath = relative(vaultRoot, absPath);
-    const topDir = relPath.split(sep)[0] ?? '';
+    // Index keys are forward-slash vault-relative paths on every platform —
+    // the watcher, wikilink resolution, and MCP tool inputs all assume `/`.
+    const relPath = relative(vaultRoot, absPath).split(sep).join('/');
+    const topDir = relPath.split('/')[0] ?? '';
     entries.push({
       absPath,
       relPath,

@@ -14,6 +14,9 @@ export default defineConfig({
   target: 'node22',
   outDir: 'dist',
   bundle: true,
+  // tsup defaults splitting to true for ESM; a dynamic import() then emits
+  // chunk-*.js files and the output stops being a single-file bundle.
+  splitting: false,
   // Force the otherwise-default-external workspace package to be inlined.
   noExternal: [/^@seekstone\//],
   // Inline the package version so `seekstone --version` works in the bundle.

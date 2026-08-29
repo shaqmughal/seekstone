@@ -24,6 +24,10 @@ export default defineConfig({
   target: 'node22',
   outDir: 'dist',
   bundle: true,
+  // tsup defaults splitting to true for ESM; a dynamic import() then emits
+  // chunk-*.js files that the shard/loader pipeline would drop, breaking the
+  // installed extension at startup. The output must stay a single file.
+  splitting: false,
   noExternal: [/.*/],
   banner: {
     js: `import { createRequire } from 'module'; var require = createRequire(import.meta.url);`,

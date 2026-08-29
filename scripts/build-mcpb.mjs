@@ -49,6 +49,18 @@ console.log(`Stamped manifest.json with version ${version}`);
 console.log('Building server (mcpb — all deps bundled)...');
 execSync('npx tsup --config tsup.mcpb.config.ts', { stdio: 'inherit', cwd: serverDir });
 
+// Guard: the build must emit exactly one file. Only dist/index.js is sharded
+// and staged, so a chunk-*.js (from tsup's ESM code splitting, triggered by any
+// dynamic import()) would be silently dropped and the installed extension would
+// die at startup with ERR_MODULE_NOT_FOUND.
+const emitted = readdirSync(join(serverDir, 'dist')).filter((f) => f !== 'index.js');
+if (emitted.length > 0) {
+  throw new Error(
+    `mcpb: build emitted extra files next to dist/index.js (${emitted.join(', ')}). ` +
+      'The bundle must be a single file — check `splitting: false` in tsup.mcpb.config.ts.',
+  );
+}
+
 // 4. Stage metadata + the sharded bundle.
 console.log('Staging + sharding...');
 rmSync(stage, { recursive: true, force: true });

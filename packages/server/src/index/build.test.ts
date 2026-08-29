@@ -1,4 +1,4 @@
-import { chmod, mkdtemp, rm, writeFile } from 'node:fs/promises';
+import { chmod, mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
@@ -130,6 +130,29 @@ describe('buildIndex', () => {
     const note = notes.get('with-fm.md');
     expect(note?.tags).toContain('alpha');
     expect(note?.tags).toContain('beta');
+  });
+
+  it('nested-folder notes: forward-slash keys, basename + path wikilinks resolve (SHA-319)', async () => {
+    // On Windows, path.relative() emits `Projects\Core.md`; before the walk
+    // normalization that key broke resolveLink's basename split('/') and every
+    // notes.get() with a client-supplied `/`-style path. GH #268.
+    const nestedVault = await mkdtemp(join(tmpdir(), 'seekstone-nested-'));
+    try {
+      await mkdir(join(nestedVault, 'Projects'));
+      await writeFile(join(nestedVault, 'Projects', 'Core.md'), '# Core\n', 'utf8');
+      await writeFile(join(nestedVault, 'Home.md'), 'See [[Core]].\n', 'utf8');
+      await writeFile(join(nestedVault, 'ByPath.md'), 'See [[Projects/Core]].\n', 'utf8');
+
+      const { notes, backlinks } = await buildIndex(nestedVault);
+
+      expect(notes.has('Projects/Core.md')).toBe(true);
+      expect(backlinks.get('Projects/Core.md')).toEqual([
+        { path: 'ByPath.md', line: 1, linkType: 'wikilink' },
+        { path: 'Home.md', line: 1, linkType: 'wikilink' },
+      ]);
+    } finally {
+      await rm(nestedVault, { recursive: true, force: true });
+    }
   });
 
   it('backlinks index picks up frontmatter wikilinks split across lines by folding', async () => {
