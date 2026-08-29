@@ -2,8 +2,8 @@ import { createHash } from 'node:crypto';
 import { existsSync } from 'node:fs';
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
-import { DEFAULT_MODEL_ID, defaultCacheDir, resolveModelId } from './config.js';
-import { findModel, MODEL_IDS, type ModelManifest } from './model-manifest.js';
+import { DEFAULT_MODEL_ID, defaultCacheDir, resolveModel } from './config.js';
+import { MODEL_IDS, type ModelManifest } from './model-manifest.js';
 
 /**
  * `seekstone fetch-model` — the explicit, out-of-band download of the
@@ -49,10 +49,7 @@ export function selectManifest(argv: readonly string[], env: NodeJS.ProcessEnv):
       throw new Error(`fetch-model: unknown argument "${arg}" (usage: fetch-model [--model <id>])`);
     }
   }
-  const id = resolveModelId(requested ?? env.SEEKSTONE_SEMANTIC_MODEL);
-  const manifest = findModel(id);
-  if (!manifest) throw new Error(`unknown model "${id}"`); // unreachable: resolveModelId validated
-  return manifest;
+  return resolveModel(requested ?? env.SEEKSTONE_SEMANTIC_MODEL);
 }
 
 export async function runFetchModel(deps: FetchModelDeps): Promise<FetchModelResult> {

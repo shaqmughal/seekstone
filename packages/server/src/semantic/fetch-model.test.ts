@@ -173,6 +173,20 @@ describe('runFetchModel', () => {
     }
   });
 
+  it('tells default-model users only to set SEEKSTONE_SEMANTIC=1 after a fetch', async () => {
+    const tiny: ModelManifest = { ...DEFAULT_MODEL, files: manifest.files.slice(0, 1) };
+    const result = await runFetchModel({
+      env: { SEEKSTONE_MODEL_PATH: join(home, 'tiny-8m') },
+      homedir: home,
+      manifest: tiny,
+      fetchFn: okFetch as typeof fetch,
+    });
+    expect(result.exitCode).toBe(0);
+    const text = result.output.join('\n');
+    expect(text).toContain('SEEKSTONE_SEMANTIC=1');
+    expect(text).not.toContain('SEEKSTONE_SEMANTIC_MODEL');
+  });
+
   it('tells 32M users which env vars to set after a successful fetch', async () => {
     const tiny: ModelManifest = { ...RETRIEVAL_32M_MODEL, files: manifest.files.slice(0, 1) };
     const result = await runFetchModel({

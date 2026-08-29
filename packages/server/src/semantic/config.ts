@@ -1,5 +1,5 @@
 import { join } from 'node:path';
-import { DEFAULT_MODEL, findModel, MODEL_IDS } from './model-manifest.js';
+import { DEFAULT_MODEL, findModel, MODEL_IDS, type ModelManifest } from './model-manifest.js';
 
 /**
  * Semantic-search configuration, resolved from env at boot.
@@ -36,15 +36,20 @@ export function defaultCacheDir(env: NodeJS.ProcessEnv, homedir: string): string
  * pinned manifests. Throws a config error naming the accepted values so a
  * typo fails loudly at boot / fetch time instead of silently loading 8M.
  */
-export function resolveModelId(raw: string | undefined): string {
+export function resolveModel(raw: string | undefined): ModelManifest {
   const id = raw?.trim();
-  if (!id) return DEFAULT_MODEL_ID;
-  if (!findModel(id)) {
+  if (!id) return DEFAULT_MODEL;
+  const manifest = findModel(id);
+  if (!manifest) {
     throw new Error(
       `SEEKSTONE_SEMANTIC_MODEL: unknown model "${id}" — expected one of ${MODEL_IDS.join(', ')}`,
     );
   }
-  return id;
+  return manifest;
+}
+
+export function resolveModelId(raw: string | undefined): string {
+  return resolveModel(raw).id;
 }
 
 /** The `fetch-model` command that installs the given model. */
