@@ -94,6 +94,12 @@ describe('renderRetrievalMarkdown', () => {
     expect(md).not.toContain('Competitor setup cost');
   });
 
+  it('omits the split section and summary line for a pre-split summary', () => {
+    expect(md).not.toContain('Retrieval quality by split');
+    expect(md).not.toContain('**Splits:**');
+    expect(md).not.toContain('split only]');
+  });
+
   it('labels in-process conditions in the payload column', () => {
     expect(md).toContain('| lexical | 2.00 ms | 3.00 ms | 3.00 ms | 3.00 ms | in-process |');
   });
@@ -159,5 +165,51 @@ describe('renderRetrievalMarkdown with competitors (SHA-308)', () => {
   it('formats payload means in KB above 1 KiB and bytes below', () => {
     expect(md).toContain('15.4 KB |');
     expect(md).toContain('850 B |');
+  });
+});
+
+describe('renderRetrievalMarkdown with splits (SHA-312)', () => {
+  const devMetrics = { hit5: 90, mrr10: 0.8, n: 6 };
+  const holdMetrics = { hit5: 75, mrr10: 0.6, n: 4 };
+  const subset = (m: typeof metrics) => ({ overall: m, semantic: m, lexical: m, topical: m });
+  const splitSummary: RetrievalSummary = {
+    ...summary,
+    querySet: {
+      total: 10,
+      semantic: 6,
+      lexical: 2,
+      topical: 2,
+      split: 'all',
+      splits: {
+        dev: { total: 6, semantic: 4, lexical: 1, topical: 1 },
+        holdout: { total: 4, semantic: 2, lexical: 1, topical: 1 },
+      },
+    },
+    conditions: summary.conditions.map((c) => ({
+      ...c,
+      splits: { dev: subset(devMetrics), holdout: subset(holdMetrics) },
+    })),
+  };
+
+  it('summarizes the split counts in the header', () => {
+    const md = renderRetrievalMarkdown(splitSummary);
+    expect(md).toContain(
+      '- **Splits:** dev 6 (4/1/1), holdout 4 (2/1/1) — tuning reads dev only; gate v2 reports on holdout',
+    );
+  });
+
+  it('renders the per-split quality table', () => {
+    const md = renderRetrievalMarkdown(splitSummary);
+    expect(md).toContain('## Retrieval quality by split (SHA-312)');
+    expect(md).toContain('| lexical | dev | overall | 90.0% | 0.800 | 6 |');
+    expect(md).toContain('| hybrid-rrf:potion-base-8M | holdout | topical | 75.0% | 0.600 | 4 |');
+  });
+
+  it('marks a split-restricted run in the query-set line', () => {
+    const md = renderRetrievalMarkdown({
+      ...splitSummary,
+      querySet: { ...splitSummary.querySet, split: 'holdout' },
+    });
+    expect(md).toContain('[holdout split only]');
   });
 });

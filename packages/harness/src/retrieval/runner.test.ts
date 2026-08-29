@@ -315,6 +315,126 @@ describe('runRetrievalEval --competitors', () => {
   });
 });
 
+describe('runRetrievalEval splits (SHA-312)', () => {
+  let vault: string;
+  const goldenSet: GoldenSet = {
+    queries: [
+      {
+        id: 'sem-windmill',
+        kind: 'semantic',
+        query: 'machine driven by moving air',
+        expected: ['Notes/Windmill.md'],
+        split: 'dev',
+      },
+      {
+        id: 'lex-cheese',
+        kind: 'lexical',
+        query: 'cheese',
+        expected: ['Notes/Cheese.md'],
+        split: 'holdout',
+      },
+      {
+        id: 'top-dairy',
+        kind: 'topical',
+        query: 'dairy products from milk',
+        expected: ['Notes/Cheese.md', 'Notes/Butter.md'],
+        split: 'holdout',
+      },
+    ],
+  };
+
+  beforeAll(async () => {
+    vault = await mkdtemp(join(tmpdir(), 'seekstone-retrieval-split-'));
+    await mkdir(join(vault, 'Notes'), { recursive: true });
+    await writeFile(
+      join(vault, 'Notes', 'Windmill.md'),
+      '# Windmill\n\nA mill worked by the wind, its sails turning in the breeze.\n',
+    );
+    await writeFile(
+      join(vault, 'Notes', 'Cheese.md'),
+      '# Cheese\n\nCheese is a preparation of milk curd, a staple dairy food.\n',
+    );
+    await writeFile(
+      join(vault, 'Notes', 'Butter.md'),
+      '# Butter\n\nButter is the fatty portion of milk, a dairy product.\n',
+    );
+  });
+  afterAll(async () => {
+    await rm(vault, { recursive: true, force: true });
+  });
+
+  const run = (split?: 'dev' | 'holdout' | 'all') =>
+    runRetrievalEval({
+      vaultRoot: vault,
+      goldenSet,
+      modelsDir: '/nonexistent',
+      modelIds: ['stub-small'],
+      runs: 2,
+      split,
+      loadEmbedder: async (dir) => stubEmbedder(basename(dir)),
+    });
+
+  it("defaults to 'all' and reports per-split metrics alongside the overall ones", async () => {
+    const summary = await run();
+    expect(summary.querySet.split).toBe('all');
+    expect(summary.querySet.total).toBe(3);
+    expect(summary.querySet.splits?.dev).toEqual({ total: 1, semantic: 1, lexical: 0, topical: 0 });
+    expect(summary.querySet.splits?.holdout).toEqual({
+      total: 2,
+      semantic: 0,
+      lexical: 1,
+      topical: 1,
+    });
+    expect(summary.perQuery.map((p) => p.split)).toEqual(['dev', 'holdout', 'holdout']);
+    const lexical = summary.conditions.find((c) => c.condition === 'lexical');
+    expect(lexical?.splits?.dev.overall.n).toBe(1);
+    expect(lexical?.splits?.holdout.overall.n).toBe(2);
+    expect(lexical?.splits?.holdout.lexical.hit5).toBe(100);
+  });
+
+  it('evaluates only the requested split', async () => {
+    const summary = await run('holdout');
+    expect(summary.querySet.split).toBe('holdout');
+    expect(summary.querySet.total).toBe(2);
+    expect(summary.perQuery.map((p) => p.id)).toEqual(['lex-cheese', 'top-dairy']);
+    expect(summary.querySet.splits?.holdout.total).toBe(2);
+    expect(summary.querySet.splits?.dev.total).toBe(0);
+  });
+
+  it('throws when the requested split filters away every query', async () => {
+    const oneSided: GoldenSet = {
+      queries: [goldenSet.queries[0] as GoldenSet['queries'][number]],
+    };
+    await expect(
+      runRetrievalEval({
+        vaultRoot: vault,
+        goldenSet: oneSided,
+        modelsDir: '/nonexistent',
+        modelIds: ['stub-small'],
+        runs: 2,
+        split: 'holdout',
+        loadEmbedder: async (dir) => stubEmbedder(basename(dir)),
+      }),
+    ).rejects.toThrow(/no queries in split/);
+  });
+
+  it('omits split fields entirely for a pre-split golden set', async () => {
+    const summary = await runRetrievalEval({
+      vaultRoot: vault,
+      goldenSet: {
+        queries: goldenSet.queries.map(({ split: _split, ...rest }) => rest),
+      },
+      modelsDir: '/nonexistent',
+      modelIds: ['stub-small'],
+      runs: 2,
+      loadEmbedder: async (dir) => stubEmbedder(basename(dir)),
+    });
+    expect(summary.querySet.splits).toBeUndefined();
+    expect(summary.conditions.every((c) => c.splits === undefined)).toBe(true);
+    expect(summary.perQuery.every((p) => p.split === undefined)).toBe(true);
+  });
+});
+
 describe('computeGate', () => {
   const metrics = (hit5: number) => ({ hit5, mrr10: 0.5, n: 10 });
   const dist = (p95: number) => ({
