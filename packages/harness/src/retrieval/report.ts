@@ -17,9 +17,18 @@ export function renderRetrievalMarkdown(s: RetrievalSummary): string {
     `- **Machine:** ${s.machine.platform}/${s.machine.arch}, node ${s.machine.node}, ${s.machine.cpus} cpus`,
   );
   lines.push(`- **Vault:** ${s.vaultRoot} (${s.noteCount} notes)`);
+  const splitSuffix =
+    s.querySet.split && s.querySet.split !== 'all' ? ` [${s.querySet.split} split only]` : '';
   lines.push(
-    `- **Query set:** ${s.querySet.total} queries (${s.querySet.semantic} semantic, ${s.querySet.lexical} lexical, ${s.querySet.topical} topical), ${s.runs} latency runs/query`,
+    `- **Query set:** ${s.querySet.total} queries (${s.querySet.semantic} semantic, ${s.querySet.lexical} lexical, ${s.querySet.topical} topical)${splitSuffix}, ${s.runs} latency runs/query`,
   );
+  if (s.querySet.splits) {
+    const d = s.querySet.splits.dev;
+    const h = s.querySet.splits.holdout;
+    lines.push(
+      `- **Splits:** dev ${d.total} (${d.semantic}/${d.lexical}/${d.topical}), holdout ${h.total} (${h.semantic}/${h.lexical}/${h.topical}) — tuning reads dev only; gate v2 reports on holdout`,
+    );
+  }
   lines.push(`- **Lexical index build:** ${ms(s.lexicalBuildMs)}`);
   for (const m of s.models) {
     lines.push(
@@ -41,6 +50,27 @@ export function renderRetrievalMarkdown(s: RetrievalSummary): string {
     }
   }
   lines.push('');
+
+  if (s.conditions.some((c) => c.splits)) {
+    lines.push('## Retrieval quality by split (SHA-312)');
+    lines.push('');
+    lines.push('Dev is the tuning split; holdout is the reporting split for gate v2.');
+    lines.push('');
+    lines.push('| Condition | Split | Subset | hit@5 | MRR@10 | n |');
+    lines.push('| --- | --- | --- | ---: | ---: | ---: |');
+    for (const c of s.conditions) {
+      if (!c.splits) continue;
+      for (const split of ['dev', 'holdout'] as const) {
+        for (const subset of ['overall', 'semantic', 'lexical', 'topical'] as const) {
+          const m = c.splits[split][subset];
+          lines.push(
+            `| ${c.condition} | ${split} | ${subset} | ${pct(m.hit5)} | ${m.mrr10.toFixed(3)} | ${m.n} |`,
+          );
+        }
+      }
+    }
+    lines.push('');
+  }
 
   lines.push('## Query latency (warm) & payload');
   lines.push('');

@@ -325,8 +325,15 @@ cli
     '--competitors',
     'Also evaluate competitor semantic search (needs local Ollama + nomic-embed-text).',
   )
+  .option('--split <split>', 'Golden-set split to evaluate: dev, holdout, or all (SHA-312).', {
+    default: 'all',
+  })
   .option('--out <dir>', 'Output directory.', { default: 'reports' })
   .action(async (opts) => {
+    const split = String(opts.split);
+    if (!['dev', 'holdout', 'all'].includes(split)) {
+      throw new Error(`--split must be dev, holdout, or all (got "${split}")`);
+    }
     const outDir = resolve(opts.out);
     await mkdir(outDir, { recursive: true });
     const goldenSet = await loadGoldenSet(resolve(opts.queries));
@@ -342,6 +349,7 @@ cli
       experiments: Boolean(opts.experiments),
       shipped: Boolean(opts.shipped),
       competitors: Boolean(opts.competitors),
+      split: split as 'dev' | 'holdout' | 'all',
       log: (m) => console.log(`retrieval: ${m}`),
     });
     const report = { ...summary, vaultRoot: normalizeReportPath(summary.vaultRoot) };

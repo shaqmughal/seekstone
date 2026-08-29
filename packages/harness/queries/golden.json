@@ -1,11 +1,12 @@
 {
-  "comment": "Hand-authored retrieval-quality golden set for fixtures/vault (10k notes, seed 42). Expected paths are vault-relative. Queries were written by reading each target article's prose; tags and See-also links in the fixture are randomly drawn and MUST NOT be used as relevance signals. kinds: 'semantic' = description-style, the headword never appears in the query; 'lexical' = exact/rare-term controls where keyword search should win; 'topical' = multi-note subjects, hit@5 counts any expected path.",
+  "comment": "Hand-authored retrieval-quality golden set for fixtures/vault (10k notes, seed 42). Expected paths are vault-relative. Queries were written by reading each target article's prose; tags and See-also links in the fixture are randomly drawn and MUST NOT be used as relevance signals. kinds: 'semantic' = description-style, the headword never appears in the query; 'lexical' = exact/rare-term controls where keyword search should win; 'topical' = multi-note subjects, hit@5 counts any expected path. SHA-312: every query carries a 'split' (dev|holdout) assigned at authoring time and immutable thereafter — tuning reads dev only, gate v2 reports on holdout only. The original 50 queries (pre-SHA-312, content verbatim) are pinned to dev: they were already used as tuning targets by the SHA-307 fusion selection. New queries were stratified ~60/40 per subset by a fixed interleaving pattern (positions 1 and 4 of each successive block of 5 authored queries go to dev), fixed before any retrieval system was run against them.",
   "queries": [
     {
       "id": "sem-anemometer",
       "kind": "semantic",
       "query": "instrument that measures the speed and pressure of wind",
       "expected": ["Notes/Anemometer.md"],
+      "split": "dev",
       "notes": "Headword absent; article opens 'an instrument for measuring either the velocity or the pressure of the wind'."
     },
     {
@@ -13,6 +14,7 @@
       "kind": "semantic",
       "query": "mineral composed of lead sulphate",
       "expected": ["Encyclopedia/A/Anglesite.md"],
+      "split": "dev",
       "notes": "Article: 'a mineral consisting of lead sulphate, PbSO4'."
     },
     {
@@ -20,6 +22,7 @@
       "kind": "semantic",
       "query": "riddle whose answer is hidden behind metaphors",
       "expected": ["Reference/Enigma.md"],
+      "split": "dev",
       "notes": "Article: 'a riddle or puzzle... answer is concealed by means of metaphors'."
     },
     {
@@ -27,6 +30,7 @@
       "kind": "semantic",
       "query": "largest wild cat found on the American continent",
       "expected": ["Encyclopedia/J/Jaguar.md"],
+      "split": "dev",
       "notes": "Article: 'the largest species of the Felidae found on the American continent'."
     },
     {
@@ -34,6 +38,7 @@
       "kind": "semantic",
       "query": "optical toy using inclined mirrors to create symmetrical patterns",
       "expected": ["Encyclopedia/K/Kaleidoscope.md"],
+      "split": "dev",
       "notes": "Article describes symmetrical images formed by two inclined mirrors."
     },
     {
@@ -41,6 +46,7 @@
       "kind": "semantic",
       "query": "Mexican garden flower named after a pupil of Linnaeus",
       "expected": ["Sources/Dahlia.md"],
+      "split": "dev",
       "notes": "Article: 'so called after Dr Dahl, a pupil of Linnaeus... indigenous in the high sandy plains of Mexico'."
     },
     {
@@ -48,6 +54,7 @@
       "kind": "semantic",
       "query": "generator that turns motion into electricity",
       "expected": ["Sources/Dynamo.md"],
+      "split": "dev",
       "notes": "Paraphrases 'a machine for converting mechanical into electrical energy' without sharing its wording."
     },
     {
@@ -55,6 +62,7 @@
       "kind": "semantic",
       "query": "natural hot spring that periodically erupts a column of boiling water and steam",
       "expected": ["Sources/Geyser.md"],
+      "split": "dev",
       "notes": "Article: 'discharges into the air, at more or less regular intervals... heated water and steam'."
     },
     {
@@ -62,6 +70,7 @@
       "kind": "semantic",
       "query": "the tallest living mammal, an African ruminant with a long neck",
       "expected": ["Encyclopedia/G/Giraffe.md"],
+      "split": "dev",
       "notes": "Article: 'the tallest of all mammals'."
     },
     {
@@ -69,6 +78,7 @@
       "kind": "semantic",
       "query": "beheading machine of the French Revolution",
       "expected": ["Sources/Guillotine.md"],
+      "split": "dev",
       "notes": "Article: 'instrument for inflicting capital punishment by decapitation, introduced into France at the period of the Revolution'."
     },
     {
@@ -76,6 +86,7 @@
       "kind": "semantic",
       "query": "violent tropical wind storm of the West Indies",
       "expected": ["Reference/Hurricane.md"],
+      "split": "dev",
       "notes": "Article: 'a wind-storm of great force and violence, originally as experienced in the West Indies'."
     },
     {
@@ -83,6 +94,7 @@
       "kind": "semantic",
       "query": "carving material obtained from elephant tusks",
       "expected": ["Encyclopedia/I/Ivory.md"],
+      "split": "dev",
       "notes": "Article: 'the material represented by the tusk of the elephant'."
     },
     {
@@ -90,6 +102,7 @@
       "kind": "semantic",
       "query": "green ornamental stone comprising nephrite and jadeite",
       "expected": ["Notes/Jade.md"],
+      "split": "dev",
       "notes": "Article names both nephrite and jadeite as the two species."
     },
     {
@@ -97,6 +110,7 @@
       "kind": "semantic",
       "query": "primates of Madagascar that are neither monkeys nor apes",
       "expected": ["Encyclopedia/L/Lemur.md"],
+      "split": "dev",
       "notes": "Article: 'peculiar Malagasy representatives of the order PRIMATES... neither monkeys nor apes'."
     },
     {
@@ -104,6 +118,7 @@
       "kind": "semantic",
       "query": "cylinder of wax around a wick burnt to give light",
       "expected": ["Encyclopedia/C/Candle.md"],
+      "split": "dev",
       "notes": "Article: 'a cylindrical rod of solid fatty or waxy matter, enclosing a central fibrous wick... burnt for giving light'."
     },
     {
@@ -111,6 +126,7 @@
       "kind": "semantic",
       "query": "the most important vegetable fibre, hairs attached to plant seeds",
       "expected": ["Sources/Cotton.md"],
+      "split": "dev",
       "notes": "Article: 'the most important of the vegetable fibres... hairs which occur attached to the seeds'."
     },
     {
@@ -118,6 +134,7 @@
       "kind": "semantic",
       "query": "bird of prey once the most familiar in Great Britain, now among its rarest",
       "expected": ["Encyclopedia/K/Kite.md"],
+      "split": "dev",
       "notes": "The EB1911 Kite article is the bird (Milvus), not the toy — a deliberate sense test."
     },
     {
@@ -125,6 +142,7 @@
       "kind": "semantic",
       "query": "dietary substance from tree seeds that is the basis of chocolate",
       "expected": ["Encyclopedia/C/Cocoa.md"],
+      "split": "dev",
       "notes": "Avoids 'Theobroma', which would hand lexical search a rare-term win."
     },
     {
@@ -132,6 +150,7 @@
       "kind": "semantic",
       "query": "nebulous celestial body travelling a highly eccentric orbit around the sun",
       "expected": ["Reference/Comet.md"],
+      "split": "dev",
       "notes": "Article: 'seemingly nebulous bodies... in very eccentric orbits'."
     },
     {
@@ -139,6 +158,7 @@
       "kind": "semantic",
       "query": "limestone skeletons built by marine polyps into reefs",
       "expected": ["Reference/Coral.md"],
+      "split": "dev",
       "notes": "Article: 'hard skeletons of various marine organisms... deposited in the tissues of Anthozoan polyps'."
     },
     {
@@ -146,6 +166,7 @@
       "kind": "semantic",
       "query": "prearranged single combat fought under conventional rules of honour",
       "expected": ["Encyclopedia/D/Duel.md"],
+      "split": "dev",
       "notes": "Article: 'a prearranged encounter between two persons, with deadly weapons, in accordance with conventional rules'."
     },
     {
@@ -153,6 +174,7 @@
       "kind": "semantic",
       "query": "suspended particles near the ground that make surrounding objects invisible",
       "expected": ["Reference/Fog.md"],
+      "split": "dev",
       "notes": "Article: 'distribution of solid or liquid particles in the surface layers of the atmosphere'."
     },
     {
@@ -160,6 +182,7 @@
       "kind": "semantic",
       "query": "domesticated South American pack animal of the camel family",
       "expected": ["Notes/Llama.md"],
+      "split": "dev",
       "notes": "Article: 'the larger of the two domesticated members of the camel-tribe indigenous to South America'."
     },
     {
@@ -167,6 +190,7 @@
       "kind": "semantic",
       "query": "eighteenth century British statesman and orator, son of Lord Holland",
       "expected": ["Encyclopedia/F/Fox.md"],
+      "split": "dev",
       "notes": "The EB1911 Fox article is Charles James Fox, not the animal — a sense test the title alone cannot answer."
     },
     {
@@ -174,6 +198,7 @@
       "kind": "semantic",
       "query": "Victorian naturalist who developed the theory of evolution by natural selection",
       "expected": ["Sources/Darwin.md"],
+      "split": "dev",
       "notes": "Avoids 'origin of species', which appears verbatim in the article."
     },
     {
@@ -181,6 +206,7 @@
       "kind": "semantic",
       "query": "English scientist famous for discoveries in electromagnetism and electrochemistry",
       "expected": ["Reference/Faraday.md"],
+      "split": "dev",
       "notes": "Article: 'English chemist and physicist'."
     },
     {
@@ -188,6 +214,7 @@
       "kind": "semantic",
       "query": "German philosopher who examined the limits of pure reason",
       "expected": ["Encyclopedia/K/Kant.md"],
+      "split": "dev",
       "notes": "Description-style; headword absent."
     },
     {
@@ -195,6 +222,7 @@
       "kind": "semantic",
       "query": "island nation of east Asia that rose to great power status",
       "expected": ["Notes/Japan.md"],
+      "split": "dev",
       "notes": "Targets the vault's largest note (832 KB) — exercises the chunking path."
     },
     {
@@ -202,6 +230,7 @@
       "kind": "semantic",
       "query": "Florentine political theorist whose name became a byword for cunning statecraft",
       "expected": ["Encyclopedia/M/Machiavelli.md"],
+      "split": "dev",
       "notes": "Article: 'Italian statesman and writer... born at Florence'."
     },
     {
@@ -209,6 +238,7 @@
       "kind": "semantic",
       "query": "Scottish missionary who explored Africa",
       "expected": ["Encyclopedia/L/Livingstone.md"],
+      "split": "dev",
       "notes": "Article: 'Scottish missionary and explorer in Africa'."
     },
     {
@@ -216,6 +246,7 @@
       "kind": "lexical",
       "query": "phlogiston",
       "expected": ["Sources/Combustion.md", "Sources/Lavoisier.md", "Encyclopedia/C/Chemistry.md"],
+      "split": "dev",
       "notes": "Rare term (9 notes contain it, verified by grep); these three treat the theory centrally. Mirrors default.json's rare tier."
     },
     {
@@ -223,6 +254,7 @@
       "kind": "lexical",
       "query": "Chateaubriant",
       "expected": ["Encyclopedia/C/Chateaubriant.md"],
+      "split": "dev",
       "notes": "Exact title match; the title boost should make this trivial for lexical search."
     },
     {
@@ -230,6 +262,7 @@
       "kind": "lexical",
       "query": "Asolo",
       "expected": ["Encyclopedia/A/Asolo.md"],
+      "split": "dev",
       "notes": "Exact title match, rare term."
     },
     {
@@ -237,6 +270,7 @@
       "kind": "lexical",
       "query": "Handel",
       "expected": ["Encyclopedia/H/Handel.md"],
+      "split": "dev",
       "notes": "Exact title match."
     },
     {
@@ -244,6 +278,7 @@
       "kind": "lexical",
       "query": "Cromwell",
       "expected": ["Encyclopedia/C/Cromwell.md"],
+      "split": "dev",
       "notes": "Exact title match."
     },
     {
@@ -251,6 +286,7 @@
       "kind": "lexical",
       "query": "Dante",
       "expected": ["Encyclopedia/D/Dante.md"],
+      "split": "dev",
       "notes": "Exact title match."
     },
     {
@@ -258,6 +294,7 @@
       "kind": "lexical",
       "query": "emerald beryl",
       "expected": ["Encyclopedia/E/Emerald.md"],
+      "split": "dev",
       "notes": "Two-term query; both words in the article's opening sentence."
     },
     {
@@ -265,6 +302,7 @@
       "kind": "lexical",
       "query": "hydrodynamics",
       "expected": ["Encyclopedia/H/Hydrodynamics.md"],
+      "split": "dev",
       "notes": "Exact title match, technical term."
     },
     {
@@ -272,6 +310,7 @@
       "kind": "lexical",
       "query": "argon",
       "expected": ["Encyclopedia/A/Argon.md"],
+      "split": "dev",
       "notes": "Exact title match, rare term."
     },
     {
@@ -279,6 +318,7 @@
       "kind": "lexical",
       "query": "Lavoisier",
       "expected": ["Sources/Lavoisier.md"],
+      "split": "dev",
       "notes": "Exact title match."
     },
     {
@@ -286,6 +326,7 @@
       "kind": "topical",
       "query": "birds of prey",
       "expected": ["Reference/Eagle.md", "Encyclopedia/H/Hawk.md", "Encyclopedia/K/Kite.md"],
+      "split": "dev",
       "notes": "Any raptor article counts; hit@5 = any expected path."
     },
     {
@@ -293,6 +334,7 @@
       "kind": "topical",
       "query": "large wild cats",
       "expected": ["Encyclopedia/J/Jaguar.md", "Encyclopedia/L/Leopard.md", "Reference/Lynx.md"],
+      "split": "dev",
       "notes": "All three are Felidae articles."
     },
     {
@@ -300,6 +342,7 @@
       "kind": "topical",
       "query": "green gemstones",
       "expected": ["Encyclopedia/E/Emerald.md", "Notes/Jade.md"],
+      "split": "dev",
       "notes": "Both articles open on green ornamental stones."
     },
     {
@@ -307,6 +350,7 @@
       "kind": "topical",
       "query": "fermented alcoholic beverages",
       "expected": ["Encyclopedia/B/Beer.md", "Encyclopedia/C/Cider.md"],
+      "split": "dev",
       "notes": "Beer (barley) and cider (apples) both open as fermented drinks."
     },
     {
@@ -314,6 +358,7 @@
       "kind": "topical",
       "query": "medieval hand weapons",
       "expected": ["Encyclopedia/D/Dagger.md", "Encyclopedia/M/Mace.md"],
+      "split": "dev",
       "notes": "Both open as hand weapons; Mace's EB1911 primary sense is the weapon, not the spice."
     },
     {
@@ -321,6 +366,7 @@
       "kind": "topical",
       "query": "violent weather phenomena",
       "expected": ["Reference/Hurricane.md", "Encyclopedia/H/Hail.md", "Reference/Fog.md"],
+      "split": "dev",
       "notes": "Meteorological articles."
     },
     {
@@ -328,6 +374,7 @@
       "kind": "topical",
       "query": "textile fibres and fabrics",
       "expected": ["Sources/Cotton.md", "Sources/Lace.md", "Reference/Carpet.md"],
+      "split": "dev",
       "notes": "Fibre and fabric articles."
     },
     {
@@ -335,6 +382,7 @@
       "kind": "topical",
       "query": "musical instruments",
       "expected": ["Reference/Flute.md", "Sources/Drum.md"],
+      "split": "dev",
       "notes": "Wind and percussion."
     },
     {
@@ -342,6 +390,7 @@
       "kind": "topical",
       "query": "great German composers",
       "expected": ["Sources/Beethoven.md", "Encyclopedia/H/Handel.md"],
+      "split": "dev",
       "notes": "Both articles open 'German musical composer' (Handel: 'German by origin')."
     },
     {
@@ -349,7 +398,846 @@
       "kind": "topical",
       "query": "foods made from milk",
       "expected": ["Encyclopedia/C/Cheese.md", "Encyclopedia/B/Butter.md"],
+      "split": "dev",
       "notes": "Both open as milk-derived foods."
+    },
+    {
+      "id": "sem-astrolabe",
+      "kind": "semantic",
+      "query": "ancient instrument for taking the altitude of stars, sun and moon",
+      "expected": ["Encyclopedia/A/Astrolabe.md"],
+      "split": "dev",
+      "notes": "Article: 'an instrument used not only for stellar, but for solar and lunar altitude-taking'."
+    },
+    {
+      "id": "sem-astrology",
+      "kind": "semantic",
+      "query": "art of divining human fate from the positions of the heavenly bodies",
+      "expected": ["Encyclopedia/A/Astrology.md"],
+      "split": "holdout",
+      "notes": "Article: 'the ancient art or science of divining the fate and future of human beings from indications given by the positions of the stars'."
+    },
+    {
+      "id": "sem-avalanche",
+      "kind": "semantic",
+      "query": "mass of snow and ice rushing down a mountainside carrying everything before it",
+      "expected": ["Encyclopedia/A/Avalanche.md"],
+      "split": "holdout",
+      "notes": "Article: 'a mass of snow and ice mingled with earth and stones, which rushes down a mountain side, carrying everything before it'."
+    },
+    {
+      "id": "sem-brick",
+      "kind": "semantic",
+      "query": "artificial stone of burnt clay used as a building material",
+      "expected": ["Encyclopedia/B/Brick.md"],
+      "split": "dev",
+      "notes": "Article: 'a kind of artificial stone generally made of burnt clay, and largely used as a building material'."
+    },
+    {
+      "id": "sem-buffalo-city",
+      "kind": "semantic",
+      "query": "port of entry at the eastern end of Lake Erie, second city of New York state",
+      "expected": ["Notes/Buffalo.md"],
+      "split": "holdout",
+      "notes": "The EB1911 Buffalo article is the New York city, not the animal — a sense test the title alone cannot answer."
+    },
+    {
+      "id": "sem-mars",
+      "kind": "semantic",
+      "query": "the reddish fourth planet in order of distance from the sun",
+      "expected": ["Reference/Mars.md"],
+      "split": "dev",
+      "notes": "The EB1911 Mars article is the planet, not the god: 'the fourth planet in the order of distance from the sun... a decidedly reddish or lurid tint'."
+    },
+    {
+      "id": "sem-canoe",
+      "kind": "semantic",
+      "query": "boat sharp at both ends propelled by paddles",
+      "expected": ["Encyclopedia/C/Canoe.md"],
+      "split": "holdout",
+      "notes": "Article: 'a boat sharp at both ends, originally designed for propulsion by one or more paddles'."
+    },
+    {
+      "id": "sem-caravan",
+      "kind": "semantic",
+      "query": "body of traders travelling together for security against robbers",
+      "expected": ["Reference/Caravan.md"],
+      "split": "holdout",
+      "notes": "Article: 'a body of traders travelling together for greater security against robbers'."
+    },
+    {
+      "id": "sem-carnival",
+      "kind": "semantic",
+      "query": "days of feasting and merrymaking before Lent",
+      "expected": ["Notes/Carnival.md"],
+      "split": "dev",
+      "notes": "Article: 'the last three days preceding Lent, which in Roman Catholic countries are given up to feasting and merry-making'."
+    },
+    {
+      "id": "sem-cavalry",
+      "kind": "semantic",
+      "query": "mounted soldiers employed for combatant purposes",
+      "expected": ["Notes/Cavalry.md"],
+      "split": "holdout",
+      "notes": "Article: 'mounted men of all kinds employed for combatant purposes'."
+    },
+    {
+      "id": "sem-clover",
+      "kind": "semantic",
+      "query": "plant of the pea family named for its three leaflets",
+      "expected": ["Sources/Clover.md"],
+      "split": "dev",
+      "notes": "Article: 'member of the family Leguminosae... characteristic form of the leaf, which has three leaflets'."
+    },
+    {
+      "id": "sem-condor",
+      "kind": "semantic",
+      "query": "American vulture, almost the largest of existing birds of flight",
+      "expected": ["Notes/Condor.md"],
+      "split": "holdout",
+      "notes": "Article: 'an American vulture, and almost the largest of existing birds of flight'."
+    },
+    {
+      "id": "sem-cormorant",
+      "kind": "semantic",
+      "query": "large sea fowl named from the Latin for sea raven",
+      "expected": ["Encyclopedia/C/Cormorant.md"],
+      "split": "holdout",
+      "notes": "Article: 'from the Lat. corvus marinus... a large sea-fowl'."
+    },
+    {
+      "id": "sem-crab",
+      "kind": "semantic",
+      "query": "crustacean carrying its small abdomen folded under its body",
+      "expected": ["Sources/Crab.md"],
+      "split": "dev",
+      "notes": "Article: 'the abdomen or tail is of small size and is carried folded up under the [body]' — distinguishes true crabs from lobsters."
+    },
+    {
+      "id": "sem-cremation",
+      "kind": "semantic",
+      "query": "disposal of the dead by burning, the general practice of the ancient world",
+      "expected": ["Sources/Cremation.md"],
+      "split": "holdout",
+      "notes": "Article: 'the burning of human corpses... the general practice of the ancient world'."
+    },
+    {
+      "id": "sem-crown-coin",
+      "kind": "semantic",
+      "query": "English silver coin of the value of five shillings",
+      "expected": ["Reference/Crown.md"],
+      "split": "dev",
+      "notes": "The EB1911 Crown article is the coin, not the royal headdress — a sense test; opening sentence quoted nearly verbatim in paraphrase."
+    },
+    {
+      "id": "sem-desert",
+      "kind": "semantic",
+      "query": "land too barren of vegetation to support a human population",
+      "expected": ["Encyclopedia/D/Desert.md"],
+      "split": "holdout",
+      "notes": "Article: 'parts of the land surface of the earth which do not produce sufficient vegetation to support a human population'."
+    },
+    {
+      "id": "sem-dolphin",
+      "kind": "semantic",
+      "query": "small cetacean whose narrow beak is armed with sharp teeth",
+      "expected": ["Encyclopedia/D/Dolphin.md"],
+      "split": "holdout",
+      "notes": "Article: 'the common cetacean mammal... long narrow beaks, armed with numerous sharp-pointed teeth'."
+    },
+    {
+      "id": "sem-equator",
+      "kind": "semantic",
+      "query": "great circle equidistant from the two poles dividing the hemispheres",
+      "expected": ["Encyclopedia/E/Equator.md"],
+      "split": "dev",
+      "notes": "Article: 'that great circle of the earth, equidistant from the two poles, which divides the northern from the southern hemisphere'."
+    },
+    {
+      "id": "sem-feather",
+      "kind": "semantic",
+      "query": "horny outgrowth of the skin that distinguishes birds from all other animals",
+      "expected": ["Encyclopedia/F/Feather.md"],
+      "split": "holdout",
+      "notes": "Article: 'a horny outgrowth of the skin of birds... by this character alone birds may be distinguished from all other animals'."
+    },
+    {
+      "id": "sem-flag",
+      "kind": "semantic",
+      "query": "piece of bunting waved from a staff as a standard, ensign or signal",
+      "expected": ["Encyclopedia/F/Flag.md"],
+      "split": "dev",
+      "notes": "Article: 'a piece of bunting... waved in the wind from a staff or cord for use in display as a standard, ensign or signal'."
+    },
+    {
+      "id": "sem-flood-statesman",
+      "kind": "semantic",
+      "query": "Irish statesman, son of a chief justice of the king's bench in Ireland",
+      "expected": ["Notes/Flood.md"],
+      "split": "holdout",
+      "notes": "The EB1911 Flood article is Henry Flood the statesman, not the water sense — a sense test the title alone cannot answer."
+    },
+    {
+      "id": "sem-fountain",
+      "kind": "semantic",
+      "query": "artificial outlet where spring water emerges through contrivances of human art",
+      "expected": ["Encyclopedia/F/Fountain.md"],
+      "split": "holdout",
+      "notes": "Article: 'outlets of water as... have contrivances of human art at a point where the water emerges'."
+    },
+    {
+      "id": "sem-garlic",
+      "kind": "semantic",
+      "query": "bulbous perennial plant of the lily order whose bulb is the only part eaten",
+      "expected": ["Encyclopedia/G/Garlic.md"],
+      "split": "dev",
+      "notes": "Article: 'a bulbous perennial plant of the natural order Liliaceae... The bulb, which is the only part eaten'."
+    },
+    {
+      "id": "sem-gong",
+      "kind": "semantic",
+      "query": "broad thin bronze disk with a deep rim struck as an instrument of Chinese origin",
+      "expected": ["Encyclopedia/G/Gong.md"],
+      "split": "holdout",
+      "notes": "Article: 'a sonorous or musical instrument of Chinese origin... a broad thin disk with a deep rim... made of bronze'."
+    },
+    {
+      "id": "sem-grasshopper",
+      "kind": "semantic",
+      "query": "leaping insect with powerful hind legs that stridulates",
+      "expected": ["Encyclopedia/G/Grasshopper.md"],
+      "split": "dev",
+      "notes": "Article: 'remarkable for their saltatory powers, due to the great development of the hind legs... and also for their stridulation'."
+    },
+    {
+      "id": "sem-gravitation",
+      "kind": "semantic",
+      "query": "mutual attraction between masses varying inversely as the square of their distance",
+      "expected": ["Encyclopedia/G/Gravitation.md"],
+      "split": "holdout",
+      "notes": "Article: 'that mutual action between masses of matter... varying directly as the product of the masses and inversely as the square of their distances'."
+    },
+    {
+      "id": "sem-gypsum",
+      "kind": "semantic",
+      "query": "common mineral of hydrous calcium sulphate calcined into plaster",
+      "expected": ["Notes/Gypsum.md"],
+      "split": "holdout",
+      "notes": "Article: 'a common mineral consisting of hydrous calcium sulphate... the product of its calcination... employed... as a plaster'."
+    },
+    {
+      "id": "sem-hashish",
+      "kind": "semantic",
+      "query": "narcotic preparation of Indian hemp smoked or chewed in the East",
+      "expected": ["Notes/Hashish.md"],
+      "split": "dev",
+      "notes": "Article: 'preparations of the Indian hemp plant... used as a narcotic or intoxicant in the East, and either smoked, chewed or drunk'."
+    },
+    {
+      "id": "sem-hibernation",
+      "kind": "semantic",
+      "query": "dormant state in which animals pass the winter",
+      "expected": ["Encyclopedia/H/Hibernation.md"],
+      "split": "holdout",
+      "notes": "Article: 'the dormant condition in which certain animals pass the winter in cold latitudes'."
+    },
+    {
+      "id": "sem-hypnotism",
+      "kind": "semantic",
+      "query": "induced sleep-like state of increased suggestibility",
+      "expected": ["Reference/Hypnotism.md"],
+      "split": "dev",
+      "notes": "Article: 'a condition, allied to normal sleep... most characteristic and constant symptom is the increased suggestibility of the subject'."
+    },
+    {
+      "id": "sem-ice",
+      "kind": "semantic",
+      "query": "solid crystalline form that water assumes at low temperature",
+      "expected": ["0 Inbox/Ice.md"],
+      "split": "holdout",
+      "notes": "Article: 'the solid crystalline form which water assumes when exposed to a sufficiently low temperature'."
+    },
+    {
+      "id": "sem-jury",
+      "kind": "semantic",
+      "query": "body of laymen sworn to ascertain the truth of facts under the guidance of a judge",
+      "expected": ["Reference/Jury.md"],
+      "split": "holdout",
+      "notes": "Article: 'a body of laymen summoned and sworn... to ascertain, under the guidance of a judge, the truth as to questions of fact'."
+    },
+    {
+      "id": "sem-labyrinth",
+      "kind": "semantic",
+      "query": "building of chambers and intricate passages that make egress puzzling",
+      "expected": ["Reference/Labyrinth.md"],
+      "split": "dev",
+      "notes": "Article: 'buildings... containing a number of chambers and intricate passages, which rendered egress puzzling and difficult'."
+    },
+    {
+      "id": "sem-lagoon",
+      "kind": "semantic",
+      "query": "sheet of shallow water near the sea or enclosed by an atoll",
+      "expected": ["Reference/Lagoon.md"],
+      "split": "holdout",
+      "notes": "Article: 'a sheet of salt or brackish water near the sea... the expanse of smooth water enclosed by an atoll'."
+    },
+    {
+      "id": "sem-lantern",
+      "kind": "semantic",
+      "query": "case of transparent material protecting a light from rain and wind",
+      "expected": ["Reference/Lantern.md"],
+      "split": "dev",
+      "notes": "Article: 'a metal case filled in with some transparent material, and used for holding a light and protecting it from rain or wind'."
+    },
+    {
+      "id": "sem-lithography",
+      "kind": "semantic",
+      "query": "printing from a design drawn on stone, relying on the antagonism of grease and water",
+      "expected": ["Reference/Lithography.md"],
+      "split": "holdout",
+      "notes": "Article: 'drawing or laying down a design... on a specially prepared stone... based on the antagonism of grease and water'."
+    },
+    {
+      "id": "sem-map",
+      "kind": "semantic",
+      "query": "representation of part of the earth's surface on a plane at a reduced scale",
+      "expected": ["Sources/Map.md"],
+      "split": "holdout",
+      "notes": "Article: 'a representation, on a plane and a reduced scale, of part or the whole of the earth's surface'."
+    },
+    {
+      "id": "sem-marble",
+      "kind": "semantic",
+      "query": "limestone close enough in texture to admit of being polished",
+      "expected": ["Notes/Marble.md"],
+      "split": "dev",
+      "notes": "Article: 'any limestone or dolomite which is sufficiently close in texture to admit of being polished'."
+    },
+    {
+      "id": "sem-brandy",
+      "kind": "semantic",
+      "query": "potable spirit obtained by the distillation of grape wine",
+      "expected": ["Encyclopedia/B/Brandy.md"],
+      "split": "holdout",
+      "notes": "Article: 'an alcoholic, potable spirit, obtained by the distillation of grape wine'."
+    },
+    {
+      "id": "sem-gin",
+      "kind": "semantic",
+      "query": "compounded spirit whose characteristic flavour comes from the juniper berry",
+      "expected": ["Notes/Gin.md"],
+      "split": "dev",
+      "notes": "Article: 'an aromatized or compounded potable spirit, the characteristic flavour of which is derived from the juniper berry'."
+    },
+    {
+      "id": "sem-mead-physician",
+      "kind": "semantic",
+      "query": "English physician, eleventh child of an Independent divine, who graduated at Padua",
+      "expected": ["Reference/Mead.md"],
+      "split": "holdout",
+      "notes": "The EB1911 Mead article is Richard Mead the physician, not the drink — a sense test the title alone cannot answer."
+    },
+    {
+      "id": "sem-helium",
+      "kind": "semantic",
+      "query": "gaseous element named after the sun, discovered soon after argon",
+      "expected": ["Encyclopedia/H/Helium.md"],
+      "split": "holdout",
+      "notes": "Article: 'from Gr. helios, the sun... a gaseous chemical element, the modern discovery of which followed closely on that of argon'."
+    },
+    {
+      "id": "sem-chlorine",
+      "kind": "semantic",
+      "query": "greenish-yellow gaseous element of the halogen group",
+      "expected": ["Encyclopedia/C/Chlorine.md"],
+      "split": "dev",
+      "notes": "Article: 'a gaseous chemical element of the halogen group, taking its name from the colour, greenish-yellow'."
+    },
+    {
+      "id": "sem-eclipse",
+      "kind": "semantic",
+      "query": "obscuration of one heavenly body by the shadow of another",
+      "expected": ["Reference/Eclipse.md"],
+      "split": "holdout",
+      "notes": "Article: 'the complete or partial obscuration of one heavenly body by the shadow of another'."
+    },
+    {
+      "id": "sem-hare",
+      "kind": "semantic",
+      "query": "well-known English rodent allied to the rabbit, with an Alpine mountain relative",
+      "expected": ["Notes/Hare.md"],
+      "split": "dev",
+      "notes": "Article: 'the well-known English rodent... allied species which do not come under the designation of rabbits... closely allied Alpine, or mountain [form]'."
+    },
+    {
+      "id": "sem-lamprey",
+      "kind": "semantic",
+      "query": "jawless stone-sucking fish with a cartilaginous skeleton",
+      "expected": ["Sources/Lamprey.md"],
+      "split": "holdout",
+      "notes": "Article: 'literally, stone-suckers... skeleton, which is cartilaginous... without real jaws'."
+    },
+    {
+      "id": "sem-croquet",
+      "kind": "semantic",
+      "query": "lawn game played with balls, mallets, hoops and pegs",
+      "expected": ["Encyclopedia/C/Croquet.md"],
+      "split": "holdout",
+      "notes": "Article: 'a lawn game played with balls, mallets, hoops and two pegs'."
+    },
+    {
+      "id": "sem-lacrosse",
+      "kind": "semantic",
+      "query": "national ball game of Canada played with a curved netted stick",
+      "expected": ["0 Inbox/Lacrosse.md"],
+      "split": "dev",
+      "notes": "Article: 'the national ball game of Canada... the curved netted stick'."
+    },
+    {
+      "id": "sem-draughts",
+      "kind": "semantic",
+      "query": "game of men moved on a board of alternate-coloured squares, called checkers in America",
+      "expected": ["Encyclopedia/D/Draughts.md"],
+      "split": "holdout",
+      "notes": "Article: 'a game played with pieces (or \"men\")... on a board marked in squares of two alternate colours. The game is called Checkers in America'."
+    },
+    {
+      "id": "sem-haydn",
+      "kind": "semantic",
+      "query": "Austrian composer of Croatian stock born at Rohrau",
+      "expected": ["Notes/Haydn.md"],
+      "split": "dev",
+      "notes": "Article: 'Austrian composer, was born... at Rohrau... his family was of Croatian stock'."
+    },
+    {
+      "id": "sem-cook-captain",
+      "kind": "semantic",
+      "query": "English naval captain and explorer once apprenticed to Whitby shipowners",
+      "expected": ["Encyclopedia/C/Cook.md"],
+      "split": "holdout",
+      "notes": "The EB1911 Cook article is Captain James Cook: 'English naval captain and explorer... apprenticed... to Messrs Walker, shipowners, of Whitby'."
+    },
+    {
+      "id": "sem-gray-poet",
+      "kind": "semantic",
+      "query": "English poet whose mother kept a millinery shop in Cornhill",
+      "expected": ["0 Inbox/Gray.md"],
+      "split": "holdout",
+      "notes": "The EB1911 Gray article is Thomas Gray the poet, not the colour — a sense test; 'in partnership with her sister Mary she kept a millinery shop in Cornhill'."
+    },
+    {
+      "id": "sem-edison",
+      "kind": "semantic",
+      "query": "American inventor who began as a railway news-boy experimenting in chemistry",
+      "expected": ["Encyclopedia/E/Edison.md"],
+      "split": "dev",
+      "notes": "Article: 'American inventor... At the age of twelve he became a train news-boy... gratify his youthful interest in chemistry by performing experiments while travelling'."
+    },
+    {
+      "id": "sem-matterhorn",
+      "kind": "semantic",
+      "query": "famous Alpine peak above Zermatt on the frontier of Switzerland and Italy",
+      "expected": ["Encyclopedia/M/Matterhorn.md"],
+      "split": "holdout",
+      "notes": "Article: 'one of the best known mountains... in the Alps. It rises S.W. of the village of Zermatt, and on the frontier between Switzerland... and Italy'."
+    },
+    {
+      "id": "sem-diabetes",
+      "kind": "semantic",
+      "query": "constitutional disease marked by habitually excessive discharge of urine",
+      "expected": ["Encyclopedia/D/Diabetes.md"],
+      "split": "dev",
+      "notes": "Article: 'a constitutional disease characterized by a habitually excessive discharge of urine'."
+    },
+    {
+      "id": "sem-insomnia",
+      "kind": "semantic",
+      "query": "troublesome deprivation of sleep accompanying illnesses acute and chronic",
+      "expected": ["Notes/Insomnia.md"],
+      "split": "holdout",
+      "notes": "Article: 'deprivation of sleep... a common and troublesome feature of most illnesses, both acute and chronic'."
+    },
+    {
+      "id": "sem-lemming",
+      "kind": "semantic",
+      "query": "small Scandinavian rodent of the mouse tribe related to the voles",
+      "expected": ["Encyclopedia/L/Lemming.md"],
+      "split": "holdout",
+      "notes": "Article: 'a small Scandinavian rodent mammal... belonging to the mouse tribe... nearly related... to the voles'."
+    },
+    {
+      "id": "sem-anvil",
+      "kind": "semantic",
+      "query": "mass of iron on which material is supported while shaped under the hammer",
+      "expected": ["Reference/Anvil.md"],
+      "split": "dev",
+      "notes": "Article: 'a mass of iron on which material is supported while being shaped under the hammer'."
+    },
+    {
+      "id": "sem-catapult",
+      "kind": "semantic",
+      "query": "warlike engine of the cross-bow type used by the ancients",
+      "expected": ["0 Inbox/Catapult.md"],
+      "split": "holdout",
+      "notes": "Article: 'a generic name for warlike engines of the cross-bow type used by the ancients'."
+    },
+    {
+      "id": "lex-benzophenone",
+      "kind": "lexical",
+      "query": "benzophenone",
+      "expected": ["Reference/Benzophenone.md"],
+      "split": "dev",
+      "notes": "Exact title match, rare term (2 notes contain it, verified by grep)."
+    },
+    {
+      "id": "lex-cerussite",
+      "kind": "lexical",
+      "query": "cerussite",
+      "expected": ["Encyclopedia/C/Cerussite.md"],
+      "split": "holdout",
+      "notes": "Exact title match, rare term (6 notes, grep-verified); the article treats the mineral centrally."
+    },
+    {
+      "id": "lex-descloizite",
+      "kind": "lexical",
+      "query": "descloizite",
+      "expected": ["Encyclopedia/D/Descloizite.md"],
+      "split": "holdout",
+      "notes": "Exact title match, rare term (2 notes, grep-verified)."
+    },
+    {
+      "id": "lex-ijolite",
+      "kind": "lexical",
+      "query": "ijolite",
+      "expected": ["Encyclopedia/I/Ijolite.md"],
+      "split": "dev",
+      "notes": "Exact title match, rare term (2 notes, grep-verified)."
+    },
+    {
+      "id": "lex-laccolite",
+      "kind": "lexical",
+      "query": "laccolite",
+      "expected": ["Encyclopedia/L/Laccolite.md"],
+      "split": "holdout",
+      "notes": "Exact title match, rare term (6 notes, grep-verified)."
+    },
+    {
+      "id": "lex-demantoid",
+      "kind": "lexical",
+      "query": "demantoid",
+      "expected": ["Encyclopedia/D/Demantoid.md"],
+      "split": "dev",
+      "notes": "Exact title match, rare term (2 notes, grep-verified)."
+    },
+    {
+      "id": "lex-gilsonite",
+      "kind": "lexical",
+      "query": "gilsonite",
+      "expected": ["Sources/Gilsonite.md"],
+      "split": "holdout",
+      "notes": "Exact title match, rare term (1 note, grep-verified)."
+    },
+    {
+      "id": "lex-calomel",
+      "kind": "lexical",
+      "query": "calomel",
+      "expected": ["Sources/Calomel.md"],
+      "split": "holdout",
+      "notes": "Exact title match, rare term (9 notes, grep-verified); the article treats the drug centrally."
+    },
+    {
+      "id": "lex-colchicum",
+      "kind": "lexical",
+      "query": "colchicum",
+      "expected": ["Encyclopedia/C/Colchicum.md"],
+      "split": "dev",
+      "notes": "Exact title match, rare term (2 notes, grep-verified)."
+    },
+    {
+      "id": "lex-hydrastine",
+      "kind": "lexical",
+      "query": "hydrastine",
+      "expected": ["Sources/Hydrastine.md"],
+      "split": "holdout",
+      "notes": "Exact title match, rare term (1 note, grep-verified)."
+    },
+    {
+      "id": "lex-antipyrine",
+      "kind": "lexical",
+      "query": "antipyrine",
+      "expected": ["Encyclopedia/A/Antipyrine.md"],
+      "split": "dev",
+      "notes": "Exact title match, rare term (4 notes, grep-verified)."
+    },
+    {
+      "id": "lex-landsknecht",
+      "kind": "lexical",
+      "query": "landsknecht",
+      "expected": ["Encyclopedia/L/Landsknecht.md"],
+      "split": "holdout",
+      "notes": "Exact title match, rare term (5 notes, grep-verified)."
+    },
+    {
+      "id": "lex-logothete",
+      "kind": "lexical",
+      "query": "logothete",
+      "expected": ["Sources/Logothete.md"],
+      "split": "holdout",
+      "notes": "Exact title match, rare term (4 notes, grep-verified)."
+    },
+    {
+      "id": "lex-crannog",
+      "kind": "lexical",
+      "query": "crannog",
+      "expected": ["0 Inbox/Crannog.md"],
+      "split": "dev",
+      "notes": "Exact title match, rare term (6 notes, grep-verified); tests an expected path outside the Encyclopedia tree."
+    },
+    {
+      "id": "lex-epithalamium",
+      "kind": "lexical",
+      "query": "epithalamium",
+      "expected": ["Reference/Epithalamium.md"],
+      "split": "holdout",
+      "notes": "Exact title match, rare term (6 notes, grep-verified)."
+    },
+    {
+      "id": "lex-cairngorm",
+      "kind": "lexical",
+      "query": "cairngorm",
+      "expected": ["Encyclopedia/C/Cairngorm.md"],
+      "split": "dev",
+      "notes": "Exact title match, rare term (4 notes, grep-verified)."
+    },
+    {
+      "id": "lex-kosciuszko",
+      "kind": "lexical",
+      "query": "Kosciuszko",
+      "expected": ["Encyclopedia/K/Kosciuszko.md"],
+      "split": "holdout",
+      "notes": "Exact title match (7 notes contain the name, grep-verified)."
+    },
+    {
+      "id": "lex-kenilworth",
+      "kind": "lexical",
+      "query": "Kenilworth",
+      "expected": ["Notes/Kenilworth.md"],
+      "split": "holdout",
+      "notes": "Exact title match (8 notes, grep-verified)."
+    },
+    {
+      "id": "lex-bayreuth",
+      "kind": "lexical",
+      "query": "Bayreuth",
+      "expected": ["Reference/Bayreuth.md"],
+      "split": "dev",
+      "notes": "Exact title match; the name appears in 21 notes (grep-verified) — the title boost must beat body mentions."
+    },
+    {
+      "id": "lex-fabriano",
+      "kind": "lexical",
+      "query": "Fabriano",
+      "expected": ["Encyclopedia/F/Fabriano.md"],
+      "split": "holdout",
+      "notes": "Exact title match (9 notes, grep-verified)."
+    },
+    {
+      "id": "top-orchard-fruits",
+      "kind": "topical",
+      "query": "fruits grown in gardens and orchards",
+      "expected": ["Reference/Apple.md", "Sources/Gooseberry.md", "Sources/Lemon.md"],
+      "split": "dev",
+      "notes": "Apple ('most widely cultivated... of fruits'), Gooseberry ('well-known fruit-bush'), Lemon ('the fruit of Citrus Limonum') all open as fruit articles."
+    },
+    {
+      "id": "top-gaseous-elements",
+      "kind": "topical",
+      "query": "gaseous chemical elements",
+      "expected": [
+        "Encyclopedia/C/Chlorine.md",
+        "Encyclopedia/H/Helium.md",
+        "Encyclopedia/A/Argon.md"
+      ],
+      "split": "holdout",
+      "notes": "Chlorine and Helium open as 'gaseous chemical element'; Argon opens as 'a gaseous constituent of atmospheric air'."
+    },
+    {
+      "id": "top-distilled-spirits",
+      "kind": "topical",
+      "query": "distilled potable spirits",
+      "expected": ["Encyclopedia/B/Brandy.md", "Notes/Gin.md"],
+      "split": "holdout",
+      "notes": "Brandy ('potable spirit, obtained by the distillation of grape wine') and Gin ('compounded potable spirit')."
+    },
+    {
+      "id": "top-english-poets",
+      "kind": "topical",
+      "query": "lives of the English poets",
+      "expected": [
+        "Encyclopedia/B/Byron.md",
+        "Notes/Chaucer.md",
+        "Encyclopedia/D/Dryden.md",
+        "0 Inbox/Gray.md",
+        "Notes/Cowper.md"
+      ],
+      "split": "dev",
+      "notes": "All five articles open '[name] ... English poet'."
+    },
+    {
+      "id": "top-greek-philosophers",
+      "kind": "topical",
+      "query": "philosophers of ancient Greece",
+      "expected": ["Sources/Aristotle.md", "Encyclopedia/E/Epicurus.md"],
+      "split": "holdout",
+      "notes": "Aristotle ('the great Greek philosopher') and Epicurus ('Greek philosopher')."
+    },
+    {
+      "id": "top-british-philosophers",
+      "kind": "topical",
+      "query": "British philosophers of the seventeenth and eighteenth centuries",
+      "expected": ["Encyclopedia/L/Locke.md", "Reference/Berkeley.md"],
+      "split": "dev",
+      "notes": "Locke (1632-1704, 'English philosopher') and Berkeley (1685-1753, 'Irish bishop and philosopher')."
+    },
+    {
+      "id": "top-classical-deities",
+      "kind": "topical",
+      "query": "gods and goddesses of Greek and Roman mythology",
+      "expected": [
+        "Sources/Apollo.md",
+        "Sources/Hermes.md",
+        "Notes/Dionysus.md",
+        "Reference/Hera.md",
+        "Encyclopedia/J/Juno.md"
+      ],
+      "split": "holdout",
+      "notes": "All five open as Greek or Roman divinities (Apollo 'Olympian divinities', Hermes 'a Greek god', Dionysus 'Greek mythology... god of wine', Hera 'queen of the Olympian gods', Juno 'the chief Roman and Latin goddess')."
+    },
+    {
+      "id": "top-trees",
+      "kind": "topical",
+      "query": "broad-leaved and evergreen trees",
+      "expected": [
+        "Sources/Beech.md",
+        "Encyclopedia/B/Birch.md",
+        "Encyclopedia/E/Elm.md",
+        "Encyclopedia/M/Maple.md",
+        "Encyclopedia/C/Cypress.md",
+        "Encyclopedia/H/Holly.md"
+      ],
+      "split": "holdout",
+      "notes": "All six open as tree/shrub genus articles (Beech 'well-known tree', Birch 'mostly trees', Elm 'trees and shrubs', Maple 'trees for the most part', Cypress 'evergreen aromatic trees', Holly 'large genus of trees and shrubs')."
+    },
+    {
+      "id": "top-great-rivers",
+      "kind": "topical",
+      "query": "great rivers of the world",
+      "expected": [
+        "Encyclopedia/E/Euphrates.md",
+        "Encyclopedia/G/Ganges.md",
+        "Encyclopedia/E/Elbe.md"
+      ],
+      "split": "dev",
+      "notes": "Euphrates ('the largest river of western Asia'), Ganges ('a great river of northern India'), Elbe ('a river of Germany')."
+    },
+    {
+      "id": "top-outdoor-ball-games",
+      "kind": "topical",
+      "query": "outdoor games played with a ball",
+      "expected": ["Encyclopedia/G/Golf.md", "Encyclopedia/C/Croquet.md", "0 Inbox/Lacrosse.md"],
+      "split": "holdout",
+      "notes": "Golf, Croquet ('a lawn game played with balls'), Lacrosse ('national ball game of Canada')."
+    },
+    {
+      "id": "top-indoor-games",
+      "kind": "topical",
+      "query": "indoor games of skill played on a table or board",
+      "expected": ["Encyclopedia/B/Billiards.md", "Encyclopedia/D/Draughts.md"],
+      "split": "dev",
+      "notes": "Billiards ('an indoor game of skill, played on a rectangular table') and Draughts ('a game played with pieces... on a board')."
+    },
+    {
+      "id": "top-wind-instruments",
+      "kind": "topical",
+      "query": "wind instruments of music",
+      "expected": ["Encyclopedia/C/Clarinet.md", "Encyclopedia/H/Horn.md", "Reference/Flute.md"],
+      "split": "holdout",
+      "notes": "Clarinet ('a wood-wind instrument'), Horn ('a class of wind instruments'), Flute (the EB1911 flute article, a wind instrument)."
+    },
+    {
+      "id": "top-british-birds",
+      "kind": "topical",
+      "query": "familiar birds of the British countryside",
+      "expected": ["Reference/Cuckoo.md", "Encyclopedia/M/Magpie.md", "Encyclopedia/L/Lark.md"],
+      "split": "holdout",
+      "notes": "Cuckoo ('well-known and often-heard bird' in the United Kingdom), Magpie ('a bird once common throughout Great Britain'), Lark (skylark et al.)."
+    },
+    {
+      "id": "top-sea-fishes",
+      "kind": "topical",
+      "query": "fishes of the open sea",
+      "expected": ["Encyclopedia/C/Cod.md", "Notes/Mackerel.md"],
+      "split": "dev",
+      "notes": "Cod ('the typical fish of the family Gadidae') and Mackerel ('pelagic fishes... peopling by countless schools the oceans')."
+    },
+    {
+      "id": "top-metals",
+      "kind": "topical",
+      "query": "metals and their alloys",
+      "expected": [
+        "Notes/Copper.md",
+        "Reference/Brass.md",
+        "Encyclopedia/B/Bismuth.md",
+        "Encyclopedia/C/Cobalt.md"
+      ],
+      "split": "holdout",
+      "notes": "Copper ('a metal... known... from the most remote periods'), Brass ('an alloy... of copper and zinc'), Bismuth and Cobalt ('metallic chemical element')."
+    },
+    {
+      "id": "top-diseases",
+      "kind": "topical",
+      "query": "infectious and constitutional diseases",
+      "expected": [
+        "Sources/Influenza.md",
+        "Encyclopedia/D/Diabetes.md",
+        "Encyclopedia/M/Measles.md",
+        "Reference/Leprosy.md",
+        "Reference/Epilepsy.md"
+      ],
+      "split": "dev",
+      "notes": "Influenza ('infectious febrile disorder'), Diabetes ('constitutional disease'), Measles ('acute infectious...'), Leprosy ('the greatest disease of medieval Christendom'), Epilepsy ('a nervous disorder')."
+    },
+    {
+      "id": "top-building-stones",
+      "kind": "topical",
+      "query": "stones and materials used in building",
+      "expected": ["Encyclopedia/B/Brick.md", "Notes/Marble.md", "Encyclopedia/L/Limestone.md"],
+      "split": "holdout",
+      "notes": "Brick ('artificial stone... used as a building material'), Marble ('limestone... polished'), Limestone ('a rock consisting essentially of carbonate of lime')."
+    },
+    {
+      "id": "top-funerary-customs",
+      "kind": "topical",
+      "query": "burial customs and monuments to the dead",
+      "expected": ["Sources/Cremation.md", "Sources/Mausoleum.md"],
+      "split": "holdout",
+      "notes": "Cremation ('the burning of human corpses... disposal of the dead') and Mausoleum ('monument erected to receive the remains of a deceased person')."
+    },
+    {
+      "id": "top-light-sources",
+      "kind": "topical",
+      "query": "devices for holding and carrying a light",
+      "expected": ["Encyclopedia/L/Lamp.md", "Reference/Lantern.md"],
+      "split": "dev",
+      "notes": "Lamp ('apparatus in which some combustible substance... for illuminating purposes, is held') and Lantern ('case... used for holding a light')."
+    },
+    {
+      "id": "top-lead-ores",
+      "kind": "topical",
+      "query": "minerals that are ores of lead",
+      "expected": ["Encyclopedia/C/Cerussite.md", "Encyclopedia/A/Anglesite.md"],
+      "split": "holdout",
+      "notes": "Cerussite ('lead carbonate... an important ore of lead') and Anglesite ('mineral consisting of lead sulphate... mined as an ore of lead')."
     }
   ]
 }

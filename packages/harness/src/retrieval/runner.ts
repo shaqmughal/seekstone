@@ -15,7 +15,14 @@ import { join } from 'node:path';
 import { type Embedder, loadModel2Vec } from '@seekstone/core/embed';
 import { type Distribution, summarise } from '@seekstone/core/percentiles';
 import { routeToLexical, type ScoredHit, wsumFuse } from './fusion.js';
-import type { GoldenKind, GoldenQuery, GoldenSet } from './golden.js';
+import {
+  filterSplit,
+  type GoldenKind,
+  type GoldenQuery,
+  type GoldenSet,
+  type GoldenSplit,
+  type SplitFilter,
+} from './golden.js';
 import { buildLexicalContext, rankLexicalScored } from './lexical.js';
 import { hitAtK, mrrAtK } from './metrics.js';
 import { rrfFuse } from './rrf.js';
@@ -40,14 +47,22 @@ export interface ConditionMetrics {
   n: number;
 }
 
+export interface SubsetMetrics {
+  overall: ConditionMetrics;
+  semantic: ConditionMetrics;
+  lexical: ConditionMetrics;
+  topical: ConditionMetrics;
+}
+
 export interface ConditionResult {
   condition: string;
-  metrics: {
-    overall: ConditionMetrics;
-    semantic: ConditionMetrics;
-    lexical: ConditionMetrics;
-    topical: ConditionMetrics;
-  };
+  metrics: SubsetMetrics;
+  /**
+   * Per-split breakdown (SHA-312), present when the evaluated queries carry
+   * split assignments — gives gate v2 its holdout denominators without a
+   * separate run.
+   */
+  splits?: Record<GoldenSplit, SubsetMetrics>;
   latency: { warm: Distribution };
   /** Mean raw response bytes per query (external-server conditions only). */
   payloadBytesMean?: number;
@@ -62,6 +77,7 @@ export interface PerQueryCondition {
 export interface PerQueryResult {
   id: string;
   kind: GoldenKind;
+  split?: GoldenSplit;
   query: string;
   expected: string[];
   conditions: Record<string, PerQueryCondition>;
@@ -93,12 +109,24 @@ export interface ModelInfo {
   loadMs: number;
 }
 
+export interface QuerySetCounts {
+  total: number;
+  semantic: number;
+  lexical: number;
+  topical: number;
+}
+
 export interface RetrievalSummary {
   snapshotDate: string;
   machine: { platform: string; arch: string; node: string; cpus: number };
   vaultRoot: string;
   noteCount: number;
-  querySet: { total: number; semantic: number; lexical: number; topical: number };
+  querySet: QuerySetCounts & {
+    /** Which split this run evaluated ('all' when unrestricted). */
+    split?: SplitFilter;
+    /** Per-split counts, present when the evaluated queries carry splits. */
+    splits?: Record<GoldenSplit, QuerySetCounts>;
+  };
   runs: number;
   lexicalBuildMs: number;
   models: ModelInfo[];
@@ -154,6 +182,12 @@ export interface RetrievalEvalOptions {
    * embeddings to it. SHA-308.
    */
   competitors?: boolean;
+  /**
+   * Restrict the eval to one split of the golden set (SHA-312). Default
+   * 'all' keeps pre-split reports comparable; tuning runs use 'dev', gate
+   * v2 reports on 'holdout'.
+   */
+  split?: SplitFilter;
 }
 
 interface RankedResult {
@@ -180,7 +214,9 @@ async function resolveRank(
 
 export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<RetrievalSummary> {
   const log = opts.log ?? (() => {});
-  const queries = opts.goldenSet.queries;
+  const split = opts.split ?? 'all';
+  const queries = filterSplit(opts.goldenSet, split).queries;
+  if (queries.length === 0) throw new Error(`golden set has no queries in split "${split}"`);
   const loadEmbedder = opts.loadEmbedder ?? loadModel2Vec;
 
   const lexical = await buildLexicalContext(opts.vaultRoot);
@@ -293,10 +329,12 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
   const perQuery: PerQueryResult[] = queries.map((q) => ({
     id: q.id,
     kind: q.kind,
+    ...(q.split ? { split: q.split } : {}),
     query: q.query,
     expected: q.expected,
     conditions: {},
   }));
+  const hasSplits = queries.every((q) => q.split !== undefined);
 
   const conditionResults: ConditionResult[] = [];
   for (const { condition, rank, timedRank } of conditions) {
@@ -324,12 +362,15 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     }
     conditionResults.push({
       condition,
-      metrics: {
-        overall: aggregate(perQuery, condition, null),
-        semantic: aggregate(perQuery, condition, 'semantic'),
-        lexical: aggregate(perQuery, condition, 'lexical'),
-        topical: aggregate(perQuery, condition, 'topical'),
-      },
+      metrics: subsetMetrics(perQuery, condition),
+      ...(hasSplits
+        ? {
+            splits: {
+              dev: subsetMetrics(perQuery, condition, 'dev'),
+              holdout: subsetMetrics(perQuery, condition, 'holdout'),
+            },
+          }
+        : {}),
       latency: { warm: summarise(warm) },
       ...(payloads.length > 0
         ? { payloadBytesMean: payloads.reduce((a, b) => a + b, 0) / payloads.length }
@@ -351,10 +392,16 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     vaultRoot: opts.vaultRoot,
     noteCount: lexical.noteCount,
     querySet: {
-      total: queries.length,
-      semantic: queries.filter((q) => q.kind === 'semantic').length,
-      lexical: queries.filter((q) => q.kind === 'lexical').length,
-      topical: queries.filter((q) => q.kind === 'topical').length,
+      ...countKinds(queries),
+      split,
+      ...(hasSplits
+        ? {
+            splits: {
+              dev: countKinds(queries.filter((q) => q.split === 'dev')),
+              holdout: countKinds(queries.filter((q) => q.split === 'holdout')),
+            },
+          }
+        : {}),
     },
     runs: opts.runs,
     lexicalBuildMs: lexical.buildMs,
@@ -363,6 +410,29 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     conditions: conditionResults,
     perQuery,
     gate: computeGate(opts.modelIds, conditionResults),
+  };
+}
+
+function countKinds(queries: GoldenQuery[]): QuerySetCounts {
+  return {
+    total: queries.length,
+    semantic: queries.filter((q) => q.kind === 'semantic').length,
+    lexical: queries.filter((q) => q.kind === 'lexical').length,
+    topical: queries.filter((q) => q.kind === 'topical').length,
+  };
+}
+
+function subsetMetrics(
+  perQuery: PerQueryResult[],
+  condition: string,
+  split?: GoldenSplit,
+): SubsetMetrics {
+  const rows = split === undefined ? perQuery : perQuery.filter((p) => p.split === split);
+  return {
+    overall: aggregate(rows, condition, null),
+    semantic: aggregate(rows, condition, 'semantic'),
+    lexical: aggregate(rows, condition, 'lexical'),
+    topical: aggregate(rows, condition, 'topical'),
   };
 }
 
