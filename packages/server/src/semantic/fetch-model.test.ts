@@ -4,14 +4,20 @@ import { mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterAll, beforeAll, describe, expect, it, vi } from 'vitest';
-import { runFetchModel } from './fetch-model.js';
-import type { ModelManifest } from './model-manifest.js';
+import { runFetchModel, selectManifest } from './fetch-model.js';
+import {
+  DEFAULT_MODEL,
+  MODELS,
+  type ModelManifest,
+  RETRIEVAL_32M_MODEL,
+} from './model-manifest.js';
 
 const sha = (s: string) => createHash('sha256').update(s).digest('hex');
 
 const manifest: ModelManifest = {
   id: 'stub-model',
   license: 'MIT',
+  dim: 2,
   files: [
     {
       name: 'config.json',
@@ -117,5 +123,79 @@ describe('runFetchModel', () => {
     });
     expect(notFound.exitCode).toBe(1);
     expect(notFound.output.join('\n')).toContain('failed: 404');
+  });
+
+  it('selects the model from --model, then SEEKSTONE_SEMANTIC_MODEL, then the default', () => {
+    expect(selectManifest([], {}).id).toBe(DEFAULT_MODEL.id);
+    expect(selectManifest([], { SEEKSTONE_SEMANTIC_MODEL: 'potion-retrieval-32M' }).id).toBe(
+      'potion-retrieval-32M',
+    );
+    expect(
+      selectManifest(['--model', 'potion-base-8M'], {
+        SEEKSTONE_SEMANTIC_MODEL: 'potion-retrieval-32M',
+      }).id,
+    ).toBe('potion-base-8M');
+    expect(selectManifest(['--model=potion-retrieval-32M'], {}).id).toBe('potion-retrieval-32M');
+  });
+
+  it('rejects unknown models, a missing --model value, and stray arguments (exit 1)', async () => {
+    expect(() => selectManifest(['--model', 'nope'], {})).toThrow(/unknown model "nope"/);
+    expect(() => selectManifest(['--model'], {})).toThrow(/--model needs a value/);
+    expect(() => selectManifest(['--model', '--force'], {})).toThrow(/--model needs a value/);
+    expect(() => selectManifest(['--yolo'], {})).toThrow(/unknown argument "--yolo"/);
+    const spy = vi.fn(async () => new Response('never'));
+    const result = await runFetchModel({
+      env: {},
+      homedir: home,
+      argv: ['--model', 'nope'],
+      fetchFn: spy as unknown as typeof fetch,
+    });
+    expect(result.exitCode).toBe(1);
+    expect(result.output.join('\n')).toContain('unknown model "nope"');
+    expect(spy).not.toHaveBeenCalled();
+  });
+
+  it('pins every supported model: three HF files each, real sha256 + byte counts', () => {
+    expect(MODELS.map((m) => m.id)).toEqual(['potion-base-8M', 'potion-retrieval-32M']);
+    expect(RETRIEVAL_32M_MODEL.dim).toBe(512);
+    expect(DEFAULT_MODEL.dim).toBe(256);
+    for (const m of MODELS) {
+      expect(m.files.map((f) => f.name)).toEqual([
+        'model.safetensors',
+        'tokenizer.json',
+        'config.json',
+      ]);
+      for (const f of m.files) {
+        expect(f.url).toBe(`https://huggingface.co/minishlab/${m.id}/resolve/main/${f.name}`);
+        expect(f.sha256).toMatch(/^[0-9a-f]{64}$/);
+        expect(f.bytes).toBeGreaterThan(0);
+      }
+    }
+  });
+
+  it('tells default-model users only to set SEEKSTONE_SEMANTIC=1 after a fetch', async () => {
+    const tiny: ModelManifest = { ...DEFAULT_MODEL, files: manifest.files.slice(0, 1) };
+    const result = await runFetchModel({
+      env: { SEEKSTONE_MODEL_PATH: join(home, 'tiny-8m') },
+      homedir: home,
+      manifest: tiny,
+      fetchFn: okFetch as typeof fetch,
+    });
+    expect(result.exitCode).toBe(0);
+    const text = result.output.join('\n');
+    expect(text).toContain('SEEKSTONE_SEMANTIC=1');
+    expect(text).not.toContain('SEEKSTONE_SEMANTIC_MODEL');
+  });
+
+  it('tells 32M users which env vars to set after a successful fetch', async () => {
+    const tiny: ModelManifest = { ...RETRIEVAL_32M_MODEL, files: manifest.files.slice(0, 1) };
+    const result = await runFetchModel({
+      env: { SEEKSTONE_MODEL_PATH: join(home, 'tiny-32m') },
+      homedir: home,
+      manifest: tiny,
+      fetchFn: okFetch as typeof fetch,
+    });
+    expect(result.exitCode).toBe(0);
+    expect(result.output.join('\n')).toContain('SEEKSTONE_SEMANTIC_MODEL=potion-retrieval-32M');
   });
 });

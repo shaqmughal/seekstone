@@ -3,7 +3,7 @@ import { contentHash } from '../content-hash.js';
 import type { IndexedNote } from '../index/types.js';
 import type { Logger } from '../log.js';
 import { type CachePaths, cachePathsFor, loadCache, saveCache } from './cache.js';
-import type { SemanticConfig } from './config.js';
+import { fetchCommandFor, type SemanticConfig } from './config.js';
 import { SemanticStore } from './store.js';
 
 export type SemanticProgress =
@@ -85,8 +85,8 @@ export class Semantic {
     } catch (err) {
       const reason = err instanceof Error ? err.message : String(err);
       throw new Error(
-        `semantic search: could not load the embedding model from ${cfg.modelDir} — ` +
-          `run \`npx -y seekstone fetch-model\` to download it, or point SEEKSTONE_MODEL_PATH at a Model2Vec model directory (${reason})`,
+        `semantic search: could not load the embedding model ${cfg.modelId} from ${cfg.modelDir} — ` +
+          `run \`${fetchCommandFor(cfg.modelId)}\` to download it, or point SEEKSTONE_MODEL_PATH at a Model2Vec model directory (${reason})`,
       );
     }
     const semantic = new Semantic(embedder, ctx, cfg, deps);

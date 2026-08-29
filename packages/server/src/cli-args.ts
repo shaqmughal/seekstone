@@ -41,6 +41,7 @@ Usage:
   seekstone              Start the MCP server (reads from stdin/stdout)
   seekstone init         Validate a vault and print/patch the client MCP config
   seekstone fetch-model  Download the local embedding model for semantic search
+                         (--model potion-base-8M | potion-retrieval-32M)
   seekstone --version    Print the version and exit
   seekstone --help       Print this help and exit
 
@@ -56,6 +57,7 @@ Optional environment:
   SEEKSTONE_WATCH_POLL Set to 1 to poll for changes (network drives, WSL)
   SEEKSTONE_WATCH_POLL_INTERVAL  Poll interval in ms (default 10000)
   SEEKSTONE_SEMANTIC   Set to 1 to enable semantic search (needs fetch-model first)
+  SEEKSTONE_SEMANTIC_MODEL  potion-base-8M (default) | potion-retrieval-32M (bigger, more accurate)
   SEEKSTONE_MODEL_PATH Override the embedding-model directory
   SEEKSTONE_CACHE_DIR  Override the cache root (default ~/.cache/seekstone)
 

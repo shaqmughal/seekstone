@@ -86,8 +86,8 @@ flowchart TD
 
     watch["④ Watcher — watcher.ts<br/>chokidar → incremental re-index<br/>(SEEKSTONE_WATCH_POLL=1 to stat-poll,<br/>SEEKSTONE_WATCH_POLL_INTERVAL ms, default 10s)"]
 
-    sem["④b Semantic index — semantic/ (opt-in, SEEKSTONE_SEMANTIC=1)<br/>state.ts lifecycle (background build · debounced re-embeds)<br/>store.ts per-note chunk vectors · route.ts hybrid routing<br/>config.ts (SEEKSTONE_MODEL_PATH · SEEKSTONE_CACHE_DIR) · excerpt.ts"]
-    embcache[("Embedding cache<br/>~/.cache/seekstone (or SEEKSTONE_CACHE_DIR)<br/>vectors + chunk spans, keyed by (path, contentHash)")]
+    sem["④b Semantic index — semantic/ (opt-in, SEEKSTONE_SEMANTIC=1)<br/>state.ts lifecycle (background build · debounced re-embeds)<br/>store.ts per-note chunk vectors · route.ts hybrid routing<br/>config.ts (SEEKSTONE_SEMANTIC_MODEL · SEEKSTONE_MODEL_PATH · SEEKSTONE_CACHE_DIR) · excerpt.ts"]
+    embcache[("Embedding cache<br/>~/.cache/seekstone (or SEEKSTONE_CACHE_DIR)<br/>vectors + chunk spans, keyed by (path, contentHash)<br/>one cache file per model id + dim")]
 
     subgraph disp["⑤ Dispatch — dispatch.ts"]
         dispatcher["dispatch(): timing · logging · errors<br/>read-only / write-policy gate (WRITE_TOOLS)<br/>HANDLED_TOOLS (21) → run() switch"]
@@ -160,8 +160,10 @@ flowchart TD
    semantic index's debounced re-embed queue.
    4b. **Semantic index (`semantic/`, opt-in)** — a local Model2Vec embedder
    (`@seekstone/core/embed`; model fetched out-of-band by `seekstone
-   fetch-model` into `<cache>/models/potion-base-8M`, overridable via
-   `SEEKSTONE_MODEL_PATH` — never fetched by the running server) plus a
+   fetch-model` into `<cache>/models/<model id>` — `potion-base-8M` by
+   default, or the opt-in `potion-retrieval-32M` via `fetch-model --model` +
+   `SEEKSTONE_SEMANTIC_MODEL`; overridable via `SEEKSTONE_MODEL_PATH` — never
+   fetched by the running server) plus a
    per-note chunk-vector store. Built in the background at boot (queries
    meanwhile get a structured `semantic_building` progress error); persisted
    to a per-vault `(path, contentHash)`-keyed cache of vectors + chunk spans
