@@ -432,3 +432,80 @@ describe('dispatch integration', () => {
     expect(listed.isError).toBeUndefined();
   });
 });
+
+describe('coverage of edge branches', () => {
+  it('list_writes filters by path', async () => {
+    await appendNote(ctx, { path: 'Alpha.md', content: 'a' });
+    await appendNote(ctx, { path: 'Beta.md', content: 'b' });
+    expect(listWrites(ctx, { path: 'Beta.md' }).writes.map((w) => w.seq)).toEqual([2]);
+  });
+
+  it('create_note overwrite with prevHash on a vanished note is a hash_conflict', async () => {
+    await expect(
+      createNote(ctx, { path: 'Nope.md', content: 'x', overwrite: true, prevHash: 'abc' }),
+    ).rejects.toThrow(/hash_conflict/);
+    expect(await disk('Nope.md')).toBeNull();
+  });
+
+  it('move_note surfaces a non-ENOENT destination error (directory)', async () => {
+    await mkdir(join(vault, 'dir.md'));
+    await expect(
+      moveNote(ctx, { from: 'Alpha.md', to: 'dir.md', overwrite: true }),
+    ).rejects.toThrow();
+    expect(await disk('Alpha.md')).toBe(A);
+  });
+
+  it('move_note skips out-of-scope referrers and journals only the rewritten ones', async () => {
+    ctx.policy = { readOnly: false, writeGlobs: ['Alpha.md', 'Moved.md', 'Beta.md'] };
+    const mv = await moveNote(ctx, { from: 'Alpha.md', to: 'Moved.md' });
+    expect(mv.skipped).toEqual(['Gamma.md']);
+    const paths = listWrites(ctx, {}).writes[0]?.paths ?? [];
+    expect(paths).not.toContain('Gamma.md');
+    ctx.policy = PERMISSIVE_POLICY;
+    await undoWrite(ctx, {});
+    expect(await disk('Alpha.md')).toBe(A);
+    expect(await disk('Beta.md')).toBe(B);
+  });
+
+  it('conflict on a deleted post-state reports null expected bytes', async () => {
+    await deleteNote(ctx, { path: 'Alpha.md' });
+    await writeFile(join(vault, 'Alpha.md'), 'back\n', 'utf8');
+    let msg = '';
+    try {
+      await undoWrite(ctx, {});
+    } catch (err) {
+      msg = (err as Error).message;
+    }
+    const c = JSON.parse(msg).conflicts[0];
+    expect(c.expectedHash).toBeNull();
+    expect(c.expectedBytes).toBeNull();
+  });
+
+  it('conflict on a modified post-state reports expected bytes when the journal holds them', async () => {
+    await appendNote(ctx, { path: 'Alpha.md', content: 'one' }); // seq 1: A -> A1
+    const a1 = await disk('Alpha.md');
+    await appendNote(ctx, { path: 'Alpha.md', content: 'two' }); // seq 2: pre = A1 (blob stored)
+    await writeFile(join(vault, 'Alpha.md'), 'external\n', 'utf8');
+    let msg = '';
+    try {
+      await undoWrite(ctx, { seq: 1 });
+    } catch (err) {
+      msg = (err as Error).message;
+    }
+    const c = JSON.parse(msg).conflicts[0];
+    expect(c.expectedBytes).toBe(Buffer.byteLength(a1 ?? ''));
+  });
+
+  it('undo of a create whose file was never indexed still cleans up', async () => {
+    await createNote(ctx, { path: 'notes.txt', content: 'plain' });
+    ctx.index.discard('notes.txt');
+    ctx.notes.delete('notes.txt');
+    await undoWrite(ctx, {});
+    expect(await disk('notes.txt')).toBeNull();
+    // Restoring a non-.md path skips the index entirely.
+    await createNote(ctx, { path: 'notes.txt', content: 'v1' });
+    await createNote(ctx, { path: 'notes.txt', content: 'v2', overwrite: true });
+    await undoWrite(ctx, {});
+    expect(await disk('notes.txt')).toBe('v1');
+  });
+});

@@ -1,3 +1,4 @@
+import { timingSafeEqual } from 'node:crypto';
 import { mkdir, open, readdir, readFile, rename, rm, stat } from 'node:fs/promises';
 import { join } from 'node:path';
 import { contentHash } from './content-hash.js';
@@ -281,7 +282,11 @@ export class Journal {
   /** Read a stored pre-image by hash. Throws if evicted. */
   async preimage(hash: string): Promise<string> {
     const raw = await readFile(join(this.blobDir, hash), 'utf8');
-    if (contentHash(raw) !== hash) {
+    // Integrity check on the stored blob (not a secret comparison); the
+    // constant-time compare is free and keeps static analysis quiet.
+    const actual = Buffer.from(contentHash(raw), 'hex');
+    const expected = Buffer.from(hash, 'hex');
+    if (actual.length !== expected.length || !timingSafeEqual(actual, expected)) {
       throw new Error(`journal: blob ${hash} is corrupt (hash mismatch)`);
     }
     return raw;

@@ -178,3 +178,25 @@ describe('Journal', () => {
     await expect(journalWrite({}, 't', 'a.md', 'v1', 'v2')).resolves.toBeUndefined();
   });
 });
+
+describe('Journal.open validation', () => {
+  it('skips a well-formed but invalid entry and a non-monotonic seq', async () => {
+    const j1 = await Journal.open(vault, BIG);
+    await journalWrite({ journal: j1 }, 't', 'a.md', 'v1', 'v2');
+    await journalWrite({ journal: j1 }, 't', 'a.md', 'v2', 'v3');
+    const manifest = join(vault, HISTORY_DIR, 'manifest.jsonl');
+    await appendFile(manifest, '{"seq":9,"ts":"x","tool":"t","files":[{"path":1}]}\n', 'utf8');
+    await appendFile(manifest, '{"seq":1,"ts":"x","tool":"t","files":[]}\n', 'utf8');
+    const warnings: string[] = [];
+    const log = {
+      level: 'debug' as const,
+      error: () => {},
+      warn: (m: string) => void warnings.push(m),
+      info: () => {},
+      debug: () => {},
+    };
+    const j2 = await Journal.open(vault, BIG, { log });
+    expect(j2.list().total).toBe(2);
+    expect(warnings.filter((w) => w.includes('invalid'))).toHaveLength(2);
+  });
+});

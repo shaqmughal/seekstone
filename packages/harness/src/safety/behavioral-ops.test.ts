@@ -269,3 +269,43 @@ describe('undoRoundtripOp', () => {
     expect(await readFile(abs, 'utf8')).toBe(raw);
   });
 });
+
+describe('undoRoundtripOp edge cases', () => {
+  it('covers write only when the backend has no deleteNote', async () => {
+    const { rel, abs, raw } = await seed('undo-nodelete.md');
+    const server = await SeekstoneAdapter.build({ vaultRoot: vaultDir });
+    const noDelete: Backend = {
+      ...backendShim(),
+      readWithHash: server.readWithHash.bind(server),
+      casWrite: server.casWrite.bind(server),
+      undoLastWrite: server.undoLastWrite.bind(server),
+    };
+    const r = await undoRoundtripOp(noDelete, rel, abs);
+    expect(r.status).toBe('pass');
+    expect(r.reason).toBe('undone: write');
+    expect(await readFile(abs, 'utf8')).toBe(raw);
+  });
+
+  it('fails when the write call errors or leaves the note unchanged', async () => {
+    const { rel, abs, raw } = await seed('undo-noop.md');
+    const noop: Backend = {
+      ...backendShim(),
+      readWithHash: backend.readWithHash.bind(backend),
+      casWrite: async () => {},
+      undoLastWrite: async () => {},
+    };
+    const r1 = await undoRoundtripOp(noop, rel, abs);
+    expect(r1.status).toBe('fail');
+    expect(r1.reason).toContain('did not change the note');
+    const erroring: Backend = {
+      ...noop,
+      casWrite: async () => {
+        throw new Error('refused');
+      },
+    };
+    const r2 = await undoRoundtripOp(erroring, rel, abs);
+    expect(r2.status).toBe('fail');
+    expect(r2.reason).toContain('write call errored');
+    expect(await readFile(abs, 'utf8')).toBe(raw);
+  });
+});
