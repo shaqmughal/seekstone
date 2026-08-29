@@ -8,7 +8,8 @@ export type OpKind =
   | 'replace-in-note'
   | 'recoverable-delete'
   | 'create-no-clobber'
-  | 'cas-conflict';
+  | 'cas-conflict'
+  | 'undo-roundtrip';
 
 export interface OpResult {
   /** The bytes to write back via the adapter. */

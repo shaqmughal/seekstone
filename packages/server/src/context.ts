@@ -1,6 +1,7 @@
 import type { LinkType } from '@seekstone/core/extract';
 import type MiniSearch from 'minisearch';
 import type { IndexedNote } from './index/types.js';
+import type { Journal } from './journal.js';
 import type { WritePolicy } from './policy.js';
 import type { Semantic } from './semantic/state.js';
 
@@ -29,4 +30,10 @@ export interface ServerContext {
    * search's semantic/hybrid modes.
    */
   semantic?: Semantic;
+  /**
+   * Write journal (pre-image store behind list_writes / undo_write). Absent
+   * when SEEKSTONE_HISTORY=0 or in contexts built without one; write tools
+   * journal through `journalWrite` / `journal.begin` and skip when absent.
+   */
+  journal?: Journal;
 }

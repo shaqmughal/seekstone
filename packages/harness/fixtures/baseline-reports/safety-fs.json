@@ -1,10 +1,10 @@
 {
-  "snapshotDate": "2026-08-19T22:26:58.433Z",
+  "snapshotDate": "2026-08-29T21:37:17.805Z",
   "backend": {
     "name": "fs",
     "description": "Filesystem-direct (MiniSearch in-process, no HTTP round-trip)"
   },
-  "vaultCopyRoot": "<tmpdir>/seekstone-safety-CgrJVD",
+  "vaultCopyRoot": "<tmpdir>/seekstone-safety-Bhpdmh",
   "originalVaultRoot": "packages/harness/fixtures/vault",
   "sampleSize": 25,
   "passByOp": {
@@ -47,6 +47,11 @@
       "pass": 25,
       "fail": 0,
       "skipped": 0
+    },
+    "undo-roundtrip": {
+      "pass": 0,
+      "fail": 0,
+      "skipped": 25
     }
   },
   "notes": [
@@ -100,6 +105,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -153,6 +164,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -206,6 +223,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -258,6 +281,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -310,6 +339,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -363,6 +398,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -415,6 +456,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -470,6 +517,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -523,6 +576,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -576,6 +635,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -629,6 +694,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -681,6 +752,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -733,6 +810,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -786,6 +869,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -839,6 +928,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -893,6 +988,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -945,6 +1046,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -998,6 +1105,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -1053,6 +1166,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -1106,6 +1225,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -1159,6 +1284,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -1212,6 +1343,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -1265,6 +1402,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -1318,6 +1461,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -1372,6 +1521,12 @@
           "status": "pass",
           "reason": "guards refused: write, move, delete",
           "change": "stale-hash guarded write/move/delete after out-of-band edit; expect conflict"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     }

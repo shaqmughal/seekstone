@@ -38,6 +38,7 @@ const AUDIO_EXTS = new Set(['.mp3', '.m4a', '.wav', '.flac', '.ogg']);
 const IGNORE_GLOBS = [
   '**/.obsidian/**',
   '**/.trash/**',
+  '**/.seekstone/**',
   '**/.git/**',
   '**/.DS_Store',
   '**/node_modules/**',

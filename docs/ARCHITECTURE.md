@@ -72,6 +72,7 @@ flowchart TD
         guards["process-guards.ts"]
         log["log.ts<br/>structured logger<br/>SEEKSTONE_LOG_LEVEL · SEEKSTONE_LOG_FILE<br/>SEEKSTONE_LOG_MAX_SIZE"]
         pol["policy.ts<br/>parseWritePolicy: SEEKSTONE_READ_ONLY<br/>SEEKSTONE_WRITE_PATHS globs"]
+        jrn["journal.ts<br/>Journal.open: pre-image blobs + JSONL manifest<br/>under .seekstone/history · SEEKSTONE_HISTORY<br/>SEEKSTONE_HISTORY_MAX_SIZE · SEEKSTONE_HISTORY_MAX_ENTRIES"]
         tl["tool-list.ts<br/>ALL_TOOLS schemas · visibleTools(policy)"]
     end
 
@@ -80,7 +81,7 @@ flowchart TD
         doc["doc.ts · excerpt.ts · resolve.ts<br/>backlinks.ts · types.ts"]
     end
 
-    ctx["③ ServerContext (context.ts)<br/>vaultRoot · index (MiniSearch)<br/>notes Map · backlinks Map · policy · semantic?"]
+    ctx["③ ServerContext (context.ts)<br/>vaultRoot · index (MiniSearch)<br/>notes Map · backlinks Map · policy · journal? · semantic?"]
 
     watch["④ Watcher — watcher.ts<br/>chokidar → incremental re-index<br/>(SEEKSTONE_WATCH_POLL=1 to stat-poll,<br/>SEEKSTONE_WATCH_POLL_INTERVAL ms, default 10s)"]
 
@@ -88,15 +89,15 @@ flowchart TD
     embcache[("Embedding cache<br/>~/.cache/seekstone (or SEEKSTONE_CACHE_DIR)<br/>vectors + chunk spans, keyed by (path, contentHash)<br/>one cache file per model id + dim")]
 
     subgraph disp["⑤ Dispatch — dispatch.ts"]
-        dispatcher["dispatch(): timing · logging · errors<br/>read-only / write-policy gate (WRITE_TOOLS)<br/>HANDLED_TOOLS (19) → run() switch"]
+        dispatcher["dispatch(): timing · logging · errors<br/>read-only / write-policy gate (WRITE_TOOLS)<br/>HANDLED_TOOLS (21) → run() switch"]
     end
 
-    subgraph tools["Tools layer — tools/ (19)"]
-        reads["READ-ONLY<br/>search · query_notes · context_pack<br/>read_note · list_notes · list_tags<br/>outline_note · get_backlinks · get_links<br/>get_periodic_note"]
-        writes["WRITES (filesystem-direct)<br/>create_note · delete_note · move_note<br/>rename_heading · append_note · patch_note<br/>patch_frontmatter · replace_in_note<br/>append_periodic_note"]
+    subgraph tools["Tools layer — tools/ (21)"]
+        reads["READ-ONLY<br/>search · query_notes · context_pack<br/>read_note · list_notes · list_tags<br/>outline_note · get_backlinks · get_links<br/>get_periodic_note · list_writes"]
+        writes["WRITES (filesystem-direct)<br/>create_note · delete_note · move_note<br/>rename_heading · append_note · patch_note<br/>patch_frontmatter · replace_in_note<br/>append_periodic_note · undo_write"]
     end
 
-    prims["Write primitives (shared by every write tool)<br/>vault-path.ts resolveVaultPath · policy.ts assertWritable<br/>atomic-write.ts (temp-file+rename) · content-hash.ts (CAS)<br/>tools/rewrite_links.ts (link-aware moves)"]
+    prims["Write primitives (shared by every write tool)<br/>vault-path.ts resolveVaultPath · policy.ts assertWritable<br/>atomic-write.ts (temp-file+rename) · content-hash.ts (CAS)<br/>journal.ts journalWrite / begin() (pre-images before the first byte changes)<br/>tools/rewrite_links.ts (link-aware moves)"]
 
     vault[("Obsidian vault<br/>(filesystem)")]
     core2["@seekstone/core<br/>frontmatter · extract · outline · walk · embed"]
@@ -132,13 +133,17 @@ flowchart TD
    unhandled rejection must not kill a long-lived stdio session), requires
    `SEEKSTONE_VAULT`, parses the write policy (`policy.ts` —
    `SEEKSTONE_READ_ONLY`, `SEEKSTONE_WRITE_PATHS`), builds the index,
-   constructs the `ServerContext`, optionally starts the semantic index
+   constructs the `ServerContext`, opens the write journal (`journal.ts` —
+   `SEEKSTONE_HISTORY`, `SEEKSTONE_HISTORY_MAX_SIZE`,
+   `SEEKSTONE_HISTORY_MAX_ENTRIES`; skipped in read-only mode or when
+   disabled), optionally starts the semantic index
    (`SEEKSTONE_SEMANTIC=1` — a missing/broken model is a **hard boot failure**
    with an actionable message, since the user opted in explicitly), starts the
    watcher, and wires the `@modelcontextprotocol/sdk` `Server` to a
    `StdioServerTransport` with `ListTools` + `CallTool` handlers. `ListTools`
    answers from `tool-list.ts` (`visibleTools(policy)` — in read-only mode the
-   9 write tools are unregistered entirely, not just rejected).
+   10 write tools are unregistered entirely, not just rejected; `list_writes`
+   is a read tool and stays).
 2. **Index layer (`index/`)** — `buildIndex(vaultRoot)` walks the vault, parses
    each note, and returns a `MiniSearch` full-text index, a `notes` map
    (path → `IndexedNote`), and a `backlinks` reverse-link map. This is the
@@ -173,9 +178,9 @@ flowchart TD
    failures by throwing JSON envelopes (`hash_conflict`,
    `semantic_unavailable`, `semantic_building` with progress) that dispatch
    passes through as the error text. It is also the write
-   **policy enforcement seam**: calls to any of the 9 `WRITE_TOOLS` are rejected
+   **policy enforcement seam**: calls to any of the 10 `WRITE_TOOLS` are rejected
    in read-only mode, and `get_periodic_note`'s `createIfMissing` side effect is
-   neutralized there too. `HANDLED_TOOLS` is the 19-name source of truth, kept
+   neutralized there too. `HANDLED_TOOLS` is the 21-name source of truth, kept
    in sync with the `ListTools` schemas in `tool-list.ts`.
 
 The **tools** themselves are thin: read tools answer from `ServerContext`
@@ -185,9 +190,13 @@ filesystem through a shared set of write primitives — path containment
 (`vault-path.ts`), a second per-handler `assertWritable` policy check
 (`policy.ts`), optional compare-and-swap via `prevHash` on **every** write
 tool including moves and deletes, with every mutating result returning a
-`contentHash` (`content-hash.ts`), and a crash-safe temp-file+rename write
-(`atomic-write.ts`) — using
-`@seekstone/core` to preserve frontmatter byte-for-byte. `delete_note` moves
+`contentHash` (`content-hash.ts`), a crash-safe temp-file+rename write
+(`atomic-write.ts`), and the write journal (`journal.ts`): before the first
+vault byte changes, every write tool stores the pre-image of each file it will
+touch (`journalWrite` for single-file tools; `ctx.journal.begin()` for
+multi-file ones, which compute every rewrite first and journal them under one
+`seq`), so `undo_write` can restore the whole operation byte-for-byte —
+using `@seekstone/core` to preserve frontmatter byte-for-byte. `delete_note` moves
 notes to the vault's `.trash/` folder rather than unlinking (unless
 `permanent: true`), and `move_note` and `rename_heading` rewrite inbound
 references via `tools/rewrite_links.ts` (link targets on moves, `#heading`
@@ -233,10 +242,11 @@ sequenceDiagram
 ```
 
 `ListToolsRequest` is answered from `tool-list.ts` (`visibleTools(ctx.policy)`)
-— all 19 tools normally, only the 10 read tools in read-only mode. On error,
+— all 21 tools normally, only the 11 read tools in read-only mode. On error,
 `dispatch()` catches and returns `{ isError: true, content: [...] }` rather
 than throwing — the session stays alive. Typed failures arrive as JSON in the
-error text: `hash_conflict` (stale `prevHash`), `semantic_unavailable`
+error text: `hash_conflict` (stale `prevHash`), `undo_conflict` (file changed
+since the journaled write), `entry_evicted`, `semantic_unavailable`
 (semantic mode requested but not enabled), `semantic_building`
 (index still embedding; includes done/total progress).
 
@@ -393,7 +403,7 @@ are the receipts.
 
 ---
 
-## The 19 tools
+## The 21 tools
 
 | Tool | Kind | Purpose |
 | --- | --- | --- |
@@ -407,8 +417,9 @@ are the receipts.
 | `get_backlinks` | read | Reverse-link lookup for a note |
 | `get_links` | read | Outgoing wikilinks/embeds of a note |
 | `get_periodic_note` | read | Resolve today's / a given date's periodic note |
+| `list_writes` | read | Recent journal entries (seq, tool, paths, undoable) — metadata only |
 | `create_note` | write | Create a new note |
-| `delete_note` | write | Move a note to `.trash/` (recoverable); `permanent: true` unlinks; optional `prevHash` CAS guard |
+| `delete_note` | write | Move a note to `.trash/` (recoverable); `permanent: true` unlinks (still undoable via the journal); optional `prevHash` CAS guard |
 | `move_note` | write | Move/rename a note, rewriting inbound links in other notes; optional `prevHash` CAS guard |
 | `rename_heading` | write | Rename a heading, rewriting `[[note#heading]]` links and embeds vault-wide |
 | `append_note` | write | Append to a note body |
@@ -416,6 +427,7 @@ are the receipts.
 | `patch_frontmatter` | write | Edit frontmatter, preserving key order/comments |
 | `replace_in_note` | write | Find/replace within a note |
 | `append_periodic_note` | write | Append to today's / a given date's periodic note |
+| `undo_write` | write | Restore every file a journaled write touched to its pre-image (all-or-nothing, CAS against the journal, `force` to override); self-journaling so undo of an undo redoes |
 
 The list is mirrored in `dispatch.ts` (`HANDLED_TOOLS`) and the `ListTools`
 schemas in `tool-list.ts`; `docs/REGISTRIES.md` carries the same count and CI

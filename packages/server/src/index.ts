@@ -13,6 +13,7 @@ import type { ServerContext } from './context.js';
 import { dispatch } from './dispatch.js';
 import { buildIndex } from './index/build.js';
 import { parseInitArgs, runInit } from './init.js';
+import { Journal, resolveJournalConfig } from './journal.js';
 import { createLogger } from './log.js';
 import { parseWritePolicy } from './policy.js';
 import { installProcessGuards } from './process-guards.js';
@@ -87,6 +88,27 @@ const { index, notes, backlinks, buildMs } = await buildIndex(vaultRoot);
 log.info('index ready', { notes: notes.size, buildMs });
 
 const ctx: ServerContext = { vaultRoot, index, notes, backlinks, policy };
+
+// Write journal: pre-images under <vault>/.seekstone/history so every write
+// is reversible via undo_write. Read-only mode never writes, so it never
+// journals either — the journal is only opened when writes are possible.
+const journalCfg = resolveJournalConfig(process.env);
+if (journalCfg && !policy.readOnly) {
+  try {
+    ctx.journal = await Journal.open(vaultRoot, journalCfg, { log });
+    log.info('write journal ready', {
+      entries: ctx.journal.list({ limit: 1 }).total,
+      maxBytes: journalCfg.maxBytes,
+    });
+  } catch (err) {
+    // A journal that cannot be opened means writes cannot be made reversible;
+    // fail loudly rather than silently run without undo.
+    log.error(`write journal failed to open: ${err instanceof Error ? err.message : String(err)}`);
+    process.exit(1);
+  }
+} else if (!journalCfg) {
+  log.info('write journal disabled', { env: 'SEEKSTONE_HISTORY' });
+}
 
 const semanticCfg = resolveSemanticConfig(process.env, homedir());
 if (semanticCfg) {

@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"><strong>The Obsidian MCP server that needs no plugin, no running Obsidian app — and doesn't blow your context window.</strong></p>
-<p align="center"><em>Filesystem-direct · single-digit-ms keyword search · ~14 ms semantic · ~2 KB payloads · 19 tools · macOS · Linux · Windows</em></p>
+<p align="center"><em>Filesystem-direct · single-digit-ms keyword search · ~14 ms semantic · ~2 KB payloads · 21 tools · macOS · Linux · Windows</em></p>
 
 <p align="center"><a href="https://seekstone.dev"><strong>seekstone.dev →</strong></a></p>
 
@@ -258,7 +258,7 @@ Seekstone is a standard MCP stdio server — any MCP client can run it. Use the 
 
 ---
 
-After installing, restart the client. On startup Seekstone walks the vault, builds an in-memory full-text index (a few seconds for thousands of notes), and keeps it live as you edit. The 19 tools below are then available to Claude.
+After installing, restart the client. On startup Seekstone walks the vault, builds an in-memory full-text index (a few seconds for thousands of notes), and keeps it live as you edit. The 21 tools below are then available to Claude.
 
 Requires [Node.js](https://nodejs.org) ≥ 22 for the CLI options. The one-click `.mcpb` bundle has no external requirements.
 
@@ -301,13 +301,14 @@ Claude never sees your full vault at once — it searches and reads selectively,
 | `get_backlinks` | Find all notes that link to a given note. |
 | `get_links` | List all outgoing wikilinks and markdown links from a note. |
 | `get_periodic_note` | Read today's (or any date's) daily, weekly, monthly, quarterly, or yearly note — path resolved from your vault config, no Obsidian required. |
+| `list_writes` | Recent writes from the journal — seq, timestamp, tool, touched paths, and whether each is still undoable. Metadata only, never note content. |
 
 ### Write
 
 | Tool | Description |
 |---|---|
 | `create_note` | Create a note (optional frontmatter + body); parent directories are created automatically. |
-| `delete_note` | Move a note to the vault's `.trash/` folder (Obsidian-compatible, restorable). Pass `permanent: true` for an unrecoverable delete. |
+| `delete_note` | Move a note to the vault's `.trash/` folder (Obsidian-compatible, restorable). Pass `permanent: true` to skip the trash — the write journal still lets `undo_write` restore it. |
 | `move_note` | Move or rename a note — wikilinks and markdown links in other notes that point at it are rewritten so nothing breaks (`rewriteLinks: false` to opt out); destination directories are created automatically. |
 | `rename_heading` | Rename a heading in a note — every `[[note#heading]]` wikilink and embed across the vault is rewritten so references keep working (aliases preserved, fenced code blocks left alone). |
 | `append_note` | Append text to a note body without touching frontmatter. |
@@ -315,8 +316,11 @@ Claude never sees your full vault at once — it searches and reads selectively,
 | `patch_note` | Append, prepend, or replace text at a heading or block reference (`createIfMissing` to add the section) — frontmatter untouched. |
 | `replace_in_note` | Find and replace text in the note body — literal or regex, case sensitivity, whole-word matching, optional `limit` (replaces **all** occurrences by default), and a dry-run preview. |
 | `append_periodic_note` | Append to today's periodic note, creating it from a template if it doesn't yet exist. |
+| `undo_write` | Revert a journaled write: every file it touched goes back to its byte-identical pre-write state (a multi-file move or heading rename is restored whole; a delete is restored even if it was `permanent`). Defaults to the most recent write; refuses with `undo_conflict` if a file changed since, unless `force: true`. The undo is itself journaled — `undo_write({ seq })` on the undo entry redoes it. |
 
 Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `rename_heading`, `move_note`, `delete_note`, `append_periodic_note`, and `create_note` with `overwrite: true`) supports optional **compare-and-swap**: pass the `contentHash` you got from `read_note` as `prevHash` and the call fails cleanly if the note changed underneath you — no silently discarded concurrent edit, no moving or deleting content you haven't seen. Every mutating result returns the new `contentHash`, so chained edits need no re-reads.
+
+**Every write is reversible.** Before any write tool changes a byte, it journals the pre-image of every file it is about to touch under `<vault>/.seekstone/history/` — content-addressed (identical states are stored once) and fsync'd before the vault write commits. `list_writes` shows the journal; `undo_write` restores byte-identically: a multi-file `move_note` or `rename_heading` is restored whole (the note *and* every link rewrite), and a `delete_note` comes back even if it was `permanent`. An undo after an external edit is refused with a structured `undo_conflict` unless you pass `force: true` — and even then the clobbered state is journaled first, so nothing is ever lost. Undo is itself journaled: repeated default undos walk backwards through the history, and `undo_write({ seq })` on an undo entry redoes it. `.seekstone/` is excluded from indexing and search like `.trash/`; add it to your vault's `.gitignore`. This complements git and Obsidian's File Recovery rather than replacing them — it is the recovery path the *agent* can drive.
 
 **Fast *and* complete.** Seekstone is the only Obsidian MCP server in our benchmark set to expose `list_tags`, `outline_note`, `get_backlinks`, and `get_links` as first-class tools. Four more capabilities set it apart:
 
@@ -338,8 +342,11 @@ Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_
 | `SEEKSTONE_LOG_MAX_SIZE` | No | Log-rotation threshold for `SEEKSTONE_LOG_FILE` (e.g. `10mb`; default 5 MB). |
 | `SEEKSTONE_WATCH_POLL` | No | Set to `1` to stat-poll for changes instead of native OS events — slower but reliable on network drives, WSL, and some containers. |
 | `SEEKSTONE_WATCH_POLL_INTERVAL` | No | Stat-poll interval in ms (default `10000`). Only used with `SEEKSTONE_WATCH_POLL=1`. Lower = faster pickup of external edits, higher CPU; raise it on slow network/9p mounts. |
-| `SEEKSTONE_READ_ONLY` | No | Set to `1` to run read-only: the 9 write tools are unregistered from the tool list entirely (and rejected if called anyway), so the session provably cannot modify your vault. |
+| `SEEKSTONE_READ_ONLY` | No | Set to `1` to run read-only: the 10 write tools are unregistered from the tool list entirely (and rejected if called anyway), so the session provably cannot modify your vault. |
 | `SEEKSTONE_WRITE_PATHS` | No | Comma-separated vault-relative globs (e.g. `journal/**,inbox/*.md`). Writes are permitted only under matching paths; the rest of the vault stays read-only. |
+| `SEEKSTONE_HISTORY` | No | Set to `0` to disable the write journal (default on). With it on, every write tool stores the pre-image of each file it touches under `<vault>/.seekstone/history/` so `undo_write` can restore it byte-for-byte. |
+| `SEEKSTONE_HISTORY_MAX_SIZE` | No | Cap on stored pre-images (e.g. `100mb`; default 50 MB). Oldest entries are evicted first and then show `undoable: false` in `list_writes` — never silently. |
+| `SEEKSTONE_HISTORY_MAX_ENTRIES` | No | Cap on journal entries (default `1000`); the oldest are dropped past it. |
 | `SEEKSTONE_SEMANTIC` | No | Set to `1` to enable semantic search (`search` gains `mode: "semantic"` and `"hybrid"`). Requires the local embedding model — download it once with `npx -y seekstone fetch-model`; the running server never touches the network. |
 | `SEEKSTONE_SEMANTIC_MODEL` | No | Which local model to load: `potion-base-8M` (default, ~30 MB, 256-dim) or `potion-retrieval-32M` (~129 MB, 512-dim — more accurate on description-style queries at roughly 2× the query latency). Fetch it first with `npx -y seekstone fetch-model --model potion-retrieval-32M`. |
 | `SEEKSTONE_MODEL_PATH` | No | Directory holding the Model2Vec embedding model (default: where `fetch-model` puts the selected model, under the cache dir). |
@@ -365,7 +372,7 @@ Seekstone reads — and, via the write tools, modifies — files under `SEEKSTON
 
 ### The Write-Safety Contract
 
-Giving an AI write access to your notes deserves more than "trust us." Seekstone ships a named, tested contract — [`docs/WRITE-SAFETY.md`](docs/WRITE-SAFETY.md) — of **eight guarantees, each linked to the code that enforces it and the test that proves it**, verified byte-by-byte by the harness safety suite in CI on every commit and release: zero network, vault sandbox, byte-identical frontmatter on body edits, atomic writes (no torn files), creates never clobber, recoverable deletes (`.trash/`), optional compare-and-swap on every write tool, and configurable write scoping / read-only mode. The same suite runs headlessly against other FS-direct servers — the comparison table is in the contract.
+Giving an AI write access to your notes deserves more than "trust us." Seekstone ships a named, tested contract — [`docs/WRITE-SAFETY.md`](docs/WRITE-SAFETY.md) — of **nine guarantees, each linked to the code that enforces it and the test that proves it**, verified byte-by-byte by the harness safety suite in CI on every commit and release: zero network, vault sandbox, byte-identical frontmatter on body edits, atomic writes (no torn files), creates never clobber, recoverable deletes (`.trash/`), optional compare-and-swap on every write tool, configurable write scoping / read-only mode, and a write journal that makes every write reversible (`undo_write`). The same suite runs headlessly against other FS-direct servers — the comparison table is in the contract.
 
 ---
 
@@ -381,7 +388,7 @@ No. Seekstone bypasses it entirely — that's the source of the up-to-47,000× p
 Any client that supports the [Model Context Protocol](https://modelcontextprotocol.io) (MCP) over stdio — Claude Desktop, Claude Code, Cursor, Windsurf, Continue, and others.
 
 **Is it safe to use on my vault?**
-Seekstone never modifies files except when you explicitly invoke one of its write tools (the nine in the table above — `create_note`, `append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `move_note`, `rename_heading`, `delete_note`, `append_periodic_note`). The running server makes no network requests (semantic search's model is fetched once, out-of-band, by the explicit `fetch-model` subcommand). The vault path is sandboxed — no tool can read or write outside it. And you can tighten it further: `SEEKSTONE_READ_ONLY=1` removes the write tools from the session entirely, and `SEEKSTONE_WRITE_PATHS` restricts writes to the folders you allow (say, only `journal/**`). Both are enforced at the dispatch layer, not per-tool, so no tool can forget the check.
+Seekstone never modifies files except when you explicitly invoke one of its write tools (the ten in the table above — `create_note`, `append_note`, `patch_note`, `patch_frontmatter`, `replace_in_note`, `move_note`, `rename_heading`, `delete_note`, `append_periodic_note`, `undo_write`). Every one of them journals the pre-image of each file it touches first, so `undo_write` can put it back byte-for-byte — see the write-journal note above. The running server makes no network requests (semantic search's model is fetched once, out-of-band, by the explicit `fetch-model` subcommand). The vault path is sandboxed — no tool can read or write outside it. And you can tighten it further: `SEEKSTONE_READ_ONLY=1` removes the write tools from the session entirely, and `SEEKSTONE_WRITE_PATHS` restricts writes to the folders you allow (say, only `journal/**`). Both are enforced at the dispatch layer, not per-tool, so no tool can forget the check.
 
 **Does it work on Windows?**
 Yes. Seekstone is tested on macOS, Linux, and Windows in CI on every commit.
@@ -417,7 +424,7 @@ npx tsc -p packages/server/tsconfig.json --noEmit        # typecheck
 
 | Package | Purpose |
 |---|---|
-| `packages/server` | The published `seekstone` MCP server (19 tools, stdio, MiniSearch index, chokidar watcher). |
+| `packages/server` | The published `seekstone` MCP server (21 tools, stdio, MiniSearch index, chokidar watcher). |
 | `packages/core` | Shared vault primitives — walk, frontmatter parser, link/tag extractor, outline, percentiles, pmap, and the Model2Vec embedder. Bundled into the server build. |
 | `packages/harness` | Profiler + benchmark + write-safety harness (REST vs filesystem) that produced the payload numbers above. Dev-only; not published. |
 

@@ -191,3 +191,65 @@ export async function casConflictOp(
   if (failReason !== undefined) return { status: 'fail', reason: failReason, change };
   return { status: 'pass', reason: `guards refused: ${covered.join(', ')}`, change };
 }
+
+/**
+ * undo-roundtrip: prove "every write is reversible". Two journaled writes
+ * through the server's own tools — a guarded whole-file replace (casWrite)
+ * and a delete (deleteNote, when declared) — each followed by
+ * undoLastWrite. Pass = after every undo the note is byte-identical to the
+ * original. The op restores the original afterwards regardless, so a failing
+ * undo never cascades into later ops.
+ */
+export async function undoRoundtripOp(
+  backend: Backend,
+  relPath: string,
+  absPath: string,
+): Promise<BehavioralOpOutcome> {
+  const change = 'replace then delete via server tools; undo each; expect original bytes';
+  if (!backend.undoLastWrite || !backend.readWithHash || !backend.casWrite) {
+    throw new Error('caller must check backend.undoLastWrite/readWithHash/casWrite');
+  }
+  const undo = backend.undoLastWrite.bind(backend);
+  const original = await readFile(absPath);
+  const covered: string[] = [];
+
+  const roundtrip = async (
+    kind: string,
+    mutate: () => Promise<void>,
+  ): Promise<string | undefined> => {
+    try {
+      await mutate();
+    } catch (err) {
+      return `${kind} call errored: ${(err as Error).message}`;
+    }
+    const mid = await readFile(absPath).catch(() => Buffer.alloc(0));
+    if (mid.equals(original)) return `${kind} did not change the note, nothing to undo`;
+    try {
+      await undo();
+    } catch (err) {
+      return `undo after ${kind} errored: ${(err as Error).message}`;
+    }
+    const post = await readFile(absPath).catch(() => Buffer.alloc(0));
+    if (!post.equals(original)) return `undo after ${kind} did not restore the original bytes`;
+    covered.push(kind);
+    return undefined;
+  };
+
+  let failReason = await roundtrip('write', async () => {
+    const { hash } = await (backend.readWithHash as NonNullable<Backend['readWithHash']>)(relPath);
+    await (backend.casWrite as NonNullable<Backend['casWrite']>)(
+      relPath,
+      '<!-- seekstone-harness undo target -->\n',
+      hash,
+    );
+  });
+  if (failReason === undefined && backend.deleteNote) {
+    failReason = await roundtrip('delete', () =>
+      (backend.deleteNote as NonNullable<Backend['deleteNote']>)(relPath),
+    );
+  }
+
+  await writeFile(absPath, original);
+  if (failReason !== undefined) return { status: 'fail', reason: failReason, change };
+  return { status: 'pass', reason: `undone: ${covered.join(', ')}`, change };
+}

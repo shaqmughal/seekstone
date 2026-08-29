@@ -33,7 +33,7 @@ it never runs during a session, and it uploads nothing.
   subcommand.
 - Proven by: [`no-network.test.ts`](../packages/server/src/no-network.test.ts)
   replaces Node's socket/http/https primitives with throwing stubs, then runs
-  the real index build **and all 19 tools** through the real dispatcher —
+  the real index build **and all 21 tools** through the real dispatcher —
   including semantic/hybrid search with the semantic index enabled, built,
   and persisting its cache under the stubs. Any connection attempt fails the
   suite.
@@ -110,8 +110,8 @@ reports where it went. `permanent: true` is the explicit opt-out.
 
 ### 7. Optional compare-and-swap on every write
 
-`read_note` returns a `contentHash` (sha-256 of the note's disk bytes). All
-nine write tools accept `prevHash` and refuse to act — with a structured
+`read_note` returns a `contentHash` (sha-256 of the note's disk bytes). Every
+content-editing tool — the nine original write tools — accepts `prevHash` and refuse to act — with a structured
 `hash_conflict` error carrying the current hash — when the note changed since
 it was read, so a concurrent edit is never silently discarded, moved, or
 deleted. Every mutating result returns a `contentHash`, so chained edits need
@@ -129,9 +129,10 @@ locking.
 
 ### 8. Write scoping and read-only mode
 
-`SEEKSTONE_READ_ONLY=1` removes the 9 write tools from `tools/list` entirely
-(and rejects them at dispatch if a client calls anyway — including
-`get_periodic_note`'s create flag). `SEEKSTONE_WRITE_PATHS` restricts writes to
+`SEEKSTONE_READ_ONLY=1` removes the 10 write tools (`undo_write` included)
+from `tools/list` entirely (and rejects them at dispatch if a client calls
+anyway — including `get_periodic_note`'s create flag); `list_writes` is a read
+tool and stays visible. `SEEKSTONE_WRITE_PATHS` restricts writes to
 an explicit glob allowlist. Both are enforced at the dispatch layer plus a
 shared `assertWritable` in every write handler, so a new tool cannot forget
 the check.
@@ -142,6 +143,46 @@ the check.
 - Proven by: [`policy.test.ts`](../packages/server/src/policy.test.ts),
   [`tool-list.test.ts`](../packages/server/src/tool-list.test.ts), and the
   read-only dispatch tests.
+
+### 9. Every write is reversible
+
+Before any write tool changes a byte, it journals the **pre-image of every
+file it is about to touch** under `<vault>/.seekstone/history/` —
+content-addressed blobs (identical states are stored once) plus a JSONL
+manifest row `{ seq, ts, tool, files: [{ path, preHash, postHash }] }`.
+`list_writes` lists the journal; `undo_write` restores byte-identically. A
+multi-file `move_note` or `rename_heading` is journaled under one `seq` and
+restored whole (the note *and* every link rewrite) or not at all; a
+`delete_note` is restored even when it was `permanent: true`. Undo is CAS
+against the journal: if a file changed after the journaled write, the undo is
+refused with a structured `undo_conflict` (expected/actual hashes and byte
+counts) unless `force: true` — and even then the clobbered state is journaled
+first. The undo is itself journaled, so `undo_write({ seq })` on an undo entry
+redoes it; the default target skips undo entries, so repeated undos walk
+backwards through history.
+
+Crash window: the blob **and** the manifest row are fsync'd before the vault
+write starts. A crash after the journal commit but before the vault write
+leaves an entry whose `postHash` does not match disk — `undo_write` reports
+that as a conflict rather than restoring blindly. A journal write failure
+aborts the vault write: while the journal is enabled, an unjournalable write
+does not proceed. Retention is capped (`SEEKSTONE_HISTORY_MAX_SIZE`, default
+50 MB; `SEEKSTONE_HISTORY_MAX_ENTRIES`, default 1000); evicted entries stay
+listed with `undoable: false`, never silently dropped. `SEEKSTONE_HISTORY=0`
+disables the journal. `.seekstone/` is excluded from indexing and search like
+`.trash/`. This complements git and Obsidian's File Recovery — it is the
+recovery path the agent itself can drive.
+
+- Enforced by: [`journal.ts`](../packages/server/src/journal.ts) (blob store,
+  manifest, retention) called from every write tool before its first disk
+  write, and [`undo_write.ts`](../packages/server/src/tools/undo_write.ts)
+  (conflict check, all-or-nothing restore, self-journaling).
+- Proven by: [`journal.test.ts`](../packages/server/src/journal.test.ts),
+  [`undo_write.test.ts`](../packages/server/src/tools/undo_write.test.ts)
+  (write → undo → byte-identical for every write tool, multi-file
+  all-or-nothing, conflict/force/redo, eviction, journal-failure abort), and
+  the harness `undo-roundtrip` op — a write through the server, then
+  `undo_write`, must leave the note byte-identical to its original.
 
 ## How other servers compare
 
@@ -161,6 +202,7 @@ Full per-server reports live in
 | recoverable-delete | ✅ 25/25 | ✅ 25/25 | ✅ 25/25 | — n/a | — n/a |
 | create-no-clobber | ✅ 25/25 | ✅ 25/25 | ✅ 25/25 | — n/a | ✅ 25/25 |
 | cas-conflict | ✅ 25/25 | ✅ 25/25 | — n/a | — n/a | — n/a |
+| undo-roundtrip | ✅ 25/25 | — n/a | — n/a | — n/a | — n/a |
 
 <sup>The cas-conflict op was extended on 2026-08-19 to also exercise stale-hash
 **move** and **delete** guards (seekstone and the fs reference declare and pass
