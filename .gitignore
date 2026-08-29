@@ -69,3 +69,6 @@ packages/harness/fixtures/*/.obsidian/**
 # Stray notes Obsidian creates in a fixture vault during manual captures.
 packages/harness/fixtures/**/Untitled*
 packages/harness/fixtures/**/*.base
+
+# claude code worktrees (parallel sessions)
+.claude/worktrees/
