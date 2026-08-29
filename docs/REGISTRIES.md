@@ -12,11 +12,11 @@ Seekstone is published as [`seekstone`](https://www.npmjs.com/package/seekstone)
 
 - **Name:** Seekstone
 - **Tagline:** An Obsidian MCP server — filesystem-direct, low context-tax.
-- **Description:** Seekstone reads your Obsidian vault directly from disk instead of routing through the Local REST API plugin, so Claude can search and edit notes without burning its context window on a single tool call (up to ~47,000× smaller payloads in reproducible multi-vault benchmarks). 19 tools over stdio, including opt-in fully-local semantic search; no Obsidian app or plugin required; macOS/Linux/Windows; no network at runtime, no telemetry.
+- **Description:** Seekstone reads your Obsidian vault directly from disk instead of routing through the Local REST API plugin, so Claude can search and edit notes without burning its context window on a single tool call (up to ~47,000× smaller payloads in reproducible multi-vault benchmarks). 21 tools over stdio, including opt-in fully-local semantic search; no Obsidian app or plugin required; macOS/Linux/Windows; no network at runtime, no telemetry.
 - **Install:** `npx -y seekstone`; env `SEEKSTONE_VAULT=/path/to/vault`
 - **Repo:** https://github.com/shaqmughal/seekstone
 - **npm:** https://www.npmjs.com/package/seekstone
-- **Tools (19):** _Read_ — search, query_notes, context_pack, read_note, list_notes, list_tags, outline_note, get_backlinks, get_links, get_periodic_note · _Write_ — create_note, delete_note, move_note, rename_heading, append_note, patch_frontmatter, patch_note, replace_in_note, append_periodic_note
+- **Tools (21):** _Read_ — search, query_notes, context_pack, read_note, list_notes, list_tags, outline_note, get_backlinks, get_links, get_periodic_note, list_writes · _Write_ — create_note, delete_note, move_note, rename_heading, append_note, patch_frontmatter, patch_note, replace_in_note, append_periodic_note, undo_write
 - **Categories/tags:** obsidian, notes, knowledge-base, markdown, search, obsidian-mcp
 
 <!-- Note: the official registry caps server.json `description` at 100 characters. -->

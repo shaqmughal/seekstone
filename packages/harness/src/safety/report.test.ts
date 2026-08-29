@@ -19,6 +19,7 @@ const allPassSummary: SafetySummary = {
     'recoverable-delete': { pass: 2, fail: 0, skipped: 0 },
     'create-no-clobber': { pass: 2, fail: 0, skipped: 0 },
     'cas-conflict': { ...zero, skipped: 2 },
+    'undo-roundtrip': { ...zero, skipped: 2 },
   },
   notes: [
     {
@@ -63,6 +64,7 @@ const bodyAppendFailSummary: SafetySummary = {
     'recoverable-delete': { ...zero, skipped: 1 },
     'create-no-clobber': { ...zero, skipped: 1 },
     'cas-conflict': { ...zero, skipped: 1 },
+    'undo-roundtrip': { ...zero, skipped: 1 },
   },
   notes: [
     {

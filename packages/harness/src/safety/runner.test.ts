@@ -184,6 +184,9 @@ describe('runSafety — behavioral ops and skip semantics', () => {
     expect(summary.passByOp['recoverable-delete'].pass).toBe(3);
     expect(summary.passByOp['create-no-clobber'].pass).toBe(3);
     expect(summary.passByOp['cas-conflict'].pass).toBe(3);
+    // The fs reference has no journal — undo is a server capability, so the
+    // op is skipped (a capability-matrix cell), never failed.
+    expect(summary.passByOp['undo-roundtrip'].skipped).toBe(3);
   });
 
   it('records skipped (not failed) for a write-only backend without the optional methods', async () => {
@@ -203,7 +206,12 @@ describe('runSafety — behavioral ops and skip semantics', () => {
       vaultCopyRoot: copyDir,
       sampleSize: 25,
     });
-    for (const op of ['recoverable-delete', 'create-no-clobber', 'cas-conflict'] as const) {
+    for (const op of [
+      'recoverable-delete',
+      'create-no-clobber',
+      'cas-conflict',
+      'undo-roundtrip',
+    ] as const) {
       expect(summary.passByOp[op].skipped).toBe(3);
       expect(summary.passByOp[op].fail).toBe(0);
     }

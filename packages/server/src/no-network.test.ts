@@ -8,6 +8,7 @@ import { afterAll, afterEach, beforeAll, beforeEach, describe, expect, it, vi } 
 import type { ServerContext } from './context.js';
 import { dispatch, HANDLED_TOOLS } from './dispatch.js';
 import { buildIndex } from './index/build.js';
+import { Journal } from './journal.js';
 import { createLogger } from './log.js';
 import { PERMISSIVE_POLICY } from './policy.js';
 
@@ -39,6 +40,8 @@ beforeAll(async () => {
     notes: built.notes,
     backlinks: built.backlinks,
     policy: PERMISSIVE_POLICY,
+    // Journal on, so undo_write's blob + manifest I/O is inside the sweep too.
+    journal: await Journal.open(vaultRoot, { maxBytes: 1e6, maxEntries: 100 }),
   };
 });
 
@@ -74,7 +77,7 @@ describe('the server makes no outbound network calls', () => {
   });
 
   it('every tool runs without opening a connection', async () => {
-    // Covers ALL 19 HANDLED_TOOLS — cited by docs/WRITE-SAFETY.md guarantee 1.
+    // Covers ALL 21 HANDLED_TOOLS — cited by docs/WRITE-SAFETY.md guarantee 1.
     const calls: Array<[string, unknown]> = [
       ['search', { query: 'hello' }],
       ['query_notes', { where: [{ key: 'title', op: 'ne', value: 'x' }] }],
@@ -95,6 +98,8 @@ describe('the server makes no outbound network calls', () => {
       ['rename_heading', { path: 'a.md', oldHeading: 'A', newHeading: 'B' }],
       ['move_note', { from: 'new.md', to: 'moved.md' }],
       ['delete_note', { path: 'moved.md' }],
+      ['list_writes', {}],
+      ['undo_write', {}],
     ];
     const covered = new Set(calls.map(([name]) => name));
     for (const tool of HANDLED_TOOLS) expect(covered.has(tool)).toBe(true);

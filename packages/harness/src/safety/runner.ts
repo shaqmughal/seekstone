@@ -1,7 +1,12 @@
 import { readFile } from 'node:fs/promises';
 import { join, resolve } from 'node:path';
 import type { Backend } from '../bench/backend.js';
-import { casConflictOp, createNoClobberOp, recoverableDeleteOp } from './behavioral-ops.js';
+import {
+  casConflictOp,
+  createNoClobberOp,
+  recoverableDeleteOp,
+  undoRoundtripOp,
+} from './behavioral-ops.js';
 import { copyVault } from './copy.js';
 import {
   bodyAppendOp,
@@ -56,7 +61,12 @@ export interface SafetyRunnerOptions {
 /** The byte-transform ops (need only backend.write). */
 const BYTE_OPS: OpKind[] = ['identity', 'body-append', 'fm-edit', 'patch-note', 'replace-in-note'];
 /** The behavioral ops (need optional Backend methods; skipped when absent). */
-const BEHAVIORAL_OPS: OpKind[] = ['recoverable-delete', 'create-no-clobber', 'cas-conflict'];
+const BEHAVIORAL_OPS: OpKind[] = [
+  'recoverable-delete',
+  'create-no-clobber',
+  'cas-conflict',
+  'undo-roundtrip',
+];
 
 /**
  * Top-level write-safety test.
@@ -154,12 +164,19 @@ export async function runSafety(opts: SafetyRunnerOptions): Promise<SafetySummar
         }
         const r = await createNoClobberOp(opts.backend, c.relPath, c.absPath);
         record(noteResults, { op: opKind, ...r });
-      } else {
+      } else if (opKind === 'cas-conflict') {
         if (!opts.backend.readWithHash || !opts.backend.casWrite) {
           skip('readWithHash/casWrite');
           continue;
         }
         const r = await casConflictOp(opts.backend, c.relPath, c.absPath);
+        record(noteResults, { op: opKind, ...r });
+      } else {
+        if (!opts.backend.undoLastWrite || !opts.backend.readWithHash || !opts.backend.casWrite) {
+          skip('undoLastWrite');
+          continue;
+        }
+        const r = await undoRoundtripOp(opts.backend, c.relPath, c.absPath);
         record(noteResults, { op: opKind, ...r });
       }
     }

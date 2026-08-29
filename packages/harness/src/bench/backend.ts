@@ -97,6 +97,13 @@ export interface Backend {
   casMove?(from: string, to: string, prevHash: string): Promise<void>;
   /** Delete guarded by a version token; expected to fail when the note changed. */
   casDelete?(path: string, prevHash: string): Promise<void>;
+  /**
+   * Revert the most recent write made through this backend's server tools.
+   * Declaring it claims "every write is reversible" — the undo-roundtrip op
+   * writes (via casWrite) and deletes (via deleteNote) a note, undoes each,
+   * and fails the backend unless the bytes come back identical.
+   */
+  undoLastWrite?(): Promise<void>;
 
   /** Optional cleanup (close keep-alive connections, etc). */
   close?(): Promise<void>;

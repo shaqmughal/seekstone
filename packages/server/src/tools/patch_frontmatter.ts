@@ -5,6 +5,7 @@ import { z } from 'zod';
 import { atomicWrite } from '../atomic-write.js';
 import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
+import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
 
@@ -102,6 +103,7 @@ export async function patchFrontmatter(
     newContent = `${head}${doc.toString({ lineWidth: 0 })}${tail}${fm.body}`;
   }
 
+  await journalWrite(ctx, 'patch_frontmatter', input.path, original, newContent);
   await atomicWrite(absPath, newContent);
 
   // Update in-memory cache.

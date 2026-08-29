@@ -4,6 +4,7 @@ import { z } from 'zod';
 import { assertHashMatch, contentHash } from '../content-hash.js';
 import type { ServerContext } from '../context.js';
 import { removeNoteBacklinks } from '../index/backlinks.js';
+import { journalWrite } from '../journal.js';
 import { assertWritable } from '../policy.js';
 import { resolveVaultPath } from '../vault-path.js';
 
@@ -64,6 +65,10 @@ export async function deleteNote(
   // what was deleted (byte-identical to the .trash/ copy when recoverable).
   const raw = await readFile(absPath, 'utf8');
   if (input.prevHash !== undefined) assertHashMatch(raw, input.prevHash, input.path);
+
+  // Journaled whether or not the delete is permanent: undo_write restores
+  // the bytes from the journal, so even permanent: true is reversible.
+  await journalWrite(ctx, 'delete_note', input.path, raw, null);
 
   let trashedTo: string | undefined;
   if (input.permanent) {

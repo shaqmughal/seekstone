@@ -2,6 +2,7 @@ import { writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import type { ServerContext } from '../../../../server/src/context.js';
 import { buildIndex } from '../../../../server/src/index/build.js';
+import { Journal, resolveJournalConfig } from '../../../../server/src/journal.js';
 import { PERMISSIVE_POLICY } from '../../../../server/src/policy.js';
 import { contextPack as contextPackTool } from '../../../../server/src/tools/context_pack.js';
 import { createNote as createNoteTool } from '../../../../server/src/tools/create_note.js';
@@ -14,6 +15,7 @@ import { moveNote as moveNoteTool } from '../../../../server/src/tools/move_note
 import { outlineNote } from '../../../../server/src/tools/outline_note.js';
 import { readNote } from '../../../../server/src/tools/read_note.js';
 import { search as searchTool } from '../../../../server/src/tools/search.js';
+import { undoWrite as undoWriteTool } from '../../../../server/src/tools/undo_write.js';
 import type { Backend, BackendResponse, ListEntry, SearchHit } from '../backend.js';
 
 export interface SeekstoneAdapterOptions {
@@ -151,11 +153,24 @@ export class SeekstoneAdapter implements Backend {
   // This is the run that PROVES the guarantees in docs/WRITE-SAFETY.md — the
   // same code paths an MCP client exercises, minus the transport.
 
+  /**
+   * The write journal is opened lazily by the first safety-method call, so
+   * a bench run (reads + raw `write`) never creates `.seekstone/` inside the
+   * committed fixture vault — only the safety runner's scratch copy gets one.
+   */
+  private async ensureJournal(): Promise<void> {
+    if (this.ctx.journal) return;
+    const cfg = resolveJournalConfig({}) as NonNullable<ReturnType<typeof resolveJournalConfig>>;
+    this.ctx.journal = await Journal.open(this.ctx.vaultRoot, cfg);
+  }
+
   async deleteNote(path: string): Promise<void> {
+    await this.ensureJournal();
     await deleteNoteTool(this.ctx, { path });
   }
 
   async createNote(path: string, content: string): Promise<void> {
+    await this.ensureJournal();
     await createNoteTool(this.ctx, { path, content });
   }
 
@@ -167,14 +182,22 @@ export class SeekstoneAdapter implements Backend {
   async casWrite(path: string, content: string, prevHash: string): Promise<void> {
     // create_note with overwrite + prevHash is the server's whole-file
     // guarded replace.
+    await this.ensureJournal();
     await createNoteTool(this.ctx, { path, content, overwrite: true, prevHash });
   }
 
   async casMove(from: string, to: string, prevHash: string): Promise<void> {
+    await this.ensureJournal();
     await moveNoteTool(this.ctx, { from, to, prevHash });
   }
 
   async casDelete(path: string, prevHash: string): Promise<void> {
+    await this.ensureJournal();
     await deleteNoteTool(this.ctx, { path, prevHash });
+  }
+
+  async undoLastWrite(): Promise<void> {
+    await this.ensureJournal();
+    await undoWriteTool(this.ctx, {});
   }
 }
