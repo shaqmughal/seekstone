@@ -274,7 +274,7 @@ flowchart TD
     end
 
     fixtures["fixtures/<br/>EB1911 corpus → 10k-note synthetic vault<br/>generate · prng · tags · parse-volume · corpus<br/>models.ts → pinned Model2Vec downloads (gitignored)"]
-    queries["queries/ — committed methodology artifacts<br/>default · tasks · vault-1k/5k · golden.json (50 queries)"]
+    queries["queries/ — committed methodology artifacts<br/>default · tasks · vault-1k/5k · golden.json (150 queries, dev/holdout split)"]
     reports["reports & committed baselines<br/>*.json + *.md"]
 
     cli --> profiler
