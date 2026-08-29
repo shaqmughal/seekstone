@@ -57,7 +57,9 @@ describe('Semantic', () => {
     cacheDir = await mkdtemp(join(tmpdir(), 'seekstone-semstate-'));
   });
   afterAll(async () => {
-    await rm(cacheDir, { recursive: true, force: true });
+    // A cache save that was mid-rename when stop() ran can still be landing;
+    // Windows reports that as ENOTEMPTY on the rmdir, so let rm retry.
+    await rm(cacheDir, { recursive: true, force: true, maxRetries: 10, retryDelay: 100 });
   });
 
   const cfg = () => ({ modelId: 'stub', modelDir: '/unused-stubbed', cacheDir });
