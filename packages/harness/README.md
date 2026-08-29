@@ -44,7 +44,8 @@ npm run harness -- safety  --backend fs --vault "$V" --sample 25 --out "$OUT"
 
 # retrieval quality (needs the models once: npm run harness -- fetch-models).
 # This exact invocation produced the committed retrieval-eval.{json,md} baseline:
-npm run harness -- retrieval --model potion-base-8M --shipped --out "$OUT"
+npm run harness -- retrieval --model potion-retrieval-32M,potion-base-8M --shipped --split all --out "$OUT"
+# (32M first so the shipped-search conditions exercise the opt-in model; both models still score in-harness)
 
 # competitor semantic comparison (SHA-308) — produced retrieval-eval-competitors.{json,md}.
 # Needs a local Ollama serving nomic-embed-text (both competitors delegate embeddings to it):
