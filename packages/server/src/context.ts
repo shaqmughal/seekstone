@@ -1,5 +1,6 @@
 import type { LinkType } from '@seekstone/core/extract';
 import type MiniSearch from 'minisearch';
+import type { AuditLog } from './audit.js';
 import type { IndexedNote } from './index/types.js';
 import type { Journal } from './journal.js';
 import type { WritePolicy } from './policy.js';
@@ -36,4 +37,9 @@ export interface ServerContext {
    * journal through `journalWrite` / `journal.begin` and skip when absent.
    */
   journal?: Journal;
+  /**
+   * Structured audit log (SEEKSTONE_AUDIT_FILE). Dispatch appends one record
+   * per write-tool call — ok or refused — after the call completes.
+   */
+  audit?: AuditLog;
 }
