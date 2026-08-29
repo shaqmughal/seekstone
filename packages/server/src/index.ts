@@ -8,6 +8,7 @@ import {
   type CallToolResult,
   ListToolsRequestSchema,
 } from '@modelcontextprotocol/sdk/types.js';
+import { AuditLog, resolveAuditConfig } from './audit.js';
 import { helpText, initHelpText, parseCliIntent } from './cli-args.js';
 import type { ServerContext } from './context.js';
 import { dispatch } from './dispatch.js';
@@ -108,6 +109,21 @@ if (journalCfg && !policy.readOnly) {
   }
 } else if (!journalCfg) {
   log.info('write journal disabled', { env: 'SEEKSTONE_HISTORY' });
+}
+
+// Audit log: one JSONL record per write-tool call. Opt-in; an unwritable
+// path fails boot because an unauditable write must never pass silently.
+const auditCfg = resolveAuditConfig(process.env);
+if (auditCfg) {
+  try {
+    ctx.audit = AuditLog.open(auditCfg);
+    log.info('audit log ready', { file: auditCfg.path, maxBytes: auditCfg.maxBytes });
+  } catch (err) {
+    log.error(
+      `audit log ${auditCfg.path} is not writable: ${err instanceof Error ? err.message : String(err)}`,
+    );
+    process.exit(1);
+  }
 }
 
 const semanticCfg = resolveSemanticConfig(process.env, homedir());

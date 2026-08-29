@@ -156,6 +156,8 @@ Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_
 | `SEEKSTONE_HISTORY` | no | Set to `0` to disable the write journal (default on). With it on, every write tool stores the pre-image of each file it touches under `<vault>/.seekstone/history/` so `undo_write` can restore it byte-for-byte. |
 | `SEEKSTONE_HISTORY_MAX_SIZE` | no | Cap on stored pre-images (e.g. `100mb`; default 50 MB). Oldest entries are evicted first and then show `undoable: false` in `list_writes` — never silently. |
 | `SEEKSTONE_HISTORY_MAX_ENTRIES` | no | Cap on journal entries (default `1000`); the oldest are dropped past it. |
+| `SEEKSTONE_AUDIT_FILE` | no | Absolute path; off unless set. Appends one JSON-line audit record per write-tool call — ok or refused — with the tool, paths, sha-256 before/after, outcome, and op metadata. Never note content. |
+| `SEEKSTONE_AUDIT_MAX_SIZE` | no | Rotate the audit file to `<file>.1` past this size (e.g. `10mb`; default 10 MB). |
 | `SEEKSTONE_SEMANTIC` | no | Set to `1` to enable semantic search (`search` gains `mode: "semantic"` and `"hybrid"`). Download the local model once with `npx -y seekstone fetch-model`; the running server never touches the network. |
 | `SEEKSTONE_SEMANTIC_MODEL` | no | `potion-base-8M` (default, ~30 MB) or `potion-retrieval-32M` (~129 MB, more accurate, ~2× query latency). Fetch it first: `npx -y seekstone fetch-model --model potion-retrieval-32M`. |
 | `SEEKSTONE_MODEL_PATH` | no | Directory holding the Model2Vec embedding model (default: where `fetch-model` puts the selected model). |
@@ -165,9 +167,23 @@ Every write tool (`append_note`, `patch_note`, `patch_frontmatter`, `replace_in_
 
 ## Write safety
 
-Giving an AI write access to your notes deserves more than "trust us." Seekstone ships the [Write-Safety Contract](https://github.com/shaqmughal/seekstone/blob/main/docs/WRITE-SAFETY.md): **nine named guarantees, each linked to the code that enforces it and the test that proves it**, verified byte-by-byte in CI on every commit and release — zero network, vault sandbox, byte-identical frontmatter on body edits, atomic writes, no-clobber creates, recoverable deletes, optional compare-and-swap, write scoping / read-only mode, and a write journal that makes every write reversible.
+Giving an AI write access to your notes deserves more than "trust us." Seekstone ships the [Write-Safety Contract](https://github.com/shaqmughal/seekstone/blob/main/docs/WRITE-SAFETY.md): **ten named guarantees, each linked to the code that enforces it and the test that proves it**, verified byte-by-byte in CI on every commit and release — zero network, vault sandbox, byte-identical frontmatter on body edits, atomic writes, no-clobber creates, recoverable deletes, optional compare-and-swap, write scoping / read-only mode, a write journal that makes every write reversible, and an opt-in audit log that gives every write a hash-verifiable receipt.
 
 **Every write is reversible.** Before any write tool changes a byte, it journals the pre-image of every file it is about to touch under `<vault>/.seekstone/history/` — content-addressed (identical states are stored once) and fsync'd before the vault write commits. `list_writes` shows the journal; `undo_write` restores byte-identically: a multi-file `move_note` or `rename_heading` is restored whole (the note *and* every link rewrite), and a `delete_note` comes back even if it was `permanent`. An undo after an external edit is refused with a structured `undo_conflict` unless you pass `force: true` — and even then the clobbered state is journaled first, so nothing is ever lost. Undo is itself journaled: repeated default undos walk backwards through the history, and `undo_write({ seq })` on an undo entry redoes it. `.seekstone/` is excluded from indexing and search like `.trash/`; add it to your vault's `.gitignore`. This complements git and Obsidian's File Recovery rather than replacing them — it is the recovery path the *agent* can drive.
+
+**Every write leaves a receipt.** Set `SEEKSTONE_AUDIT_FILE` and every write-tool call — successful *or refused* — appends one JSON line: tool, vault-relative paths, sha-256 before/after, outcome (`ok`, `hash_conflict`, `undo_conflict`, `policy_denied`, `error`), and op metadata such as replacement counts or the `.trash/` destination — never note content, frontmatter values, or search queries, so the file is safe to attach to a bug report.
+
+```jsonl
+{"v":1,"ts":"2026-08-29T21:02:11.042Z","tool":"replace_in_note","outcome":"ok","durationMs":1.8,"seq":42,"files":[{"path":"notes/a.md","hashBefore":"3f9c…","hashAfter":"b71e…"}],"path":"notes/a.md","replacements":3}
+```
+
+The hashes are the same `contentHash` values `read_note` returns, so any record can be checked against the vault; `seq` is the journal entry the call committed, so a row indexes straight into `list_writes` / `undo_write`. Records are appended and fsync'd after the vault write commits, the file rotates to `<file>.1` past `SEEKSTONE_AUDIT_MAX_SIZE`, an unwritable audit path fails boot, and a failed append reports the call as a structured `audit_failed` error rather than a clean success. A few `jq` recipes:
+
+```bash
+jq -r '[.tool, .outcome] | @tsv' audit.jsonl | sort | uniq -c            # session summary by tool + outcome
+jq -c 'select(.files[]?.path == "notes/a.md")' audit.jsonl              # history of one note
+jq -c 'select(.ts > "2026-08-29T21:00:00Z" and .outcome == "ok")' audit.jsonl   # what changed since a timestamp
+```
 
 ---
 
