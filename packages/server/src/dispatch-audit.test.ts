@@ -71,7 +71,7 @@ async function records(): Promise<AuditRecord[]> {
 
 beforeEach(async () => {
   vault = await mkdtemp(join(tmpdir(), 'seekstone-audit-dispatch-'));
-  auditPath = join(vault, '..', `${vault.split('/').pop()}-audit.jsonl`);
+  auditPath = `${vault}-audit.jsonl`; // sibling of the vault dir (portable: no separator games)
   await writeFile(join(vault, 'Alpha.md'), NOTE_A, 'utf8');
   await writeFile(join(vault, 'Beta.md'), NOTE_B, 'utf8');
   ctx = await freshCtx();
