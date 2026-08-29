@@ -250,6 +250,16 @@ export class Journal {
     return { writes, total: filtered.length };
   }
 
+  /** Seq of the newest entry (0 when empty). */
+  get lastSeq(): number {
+    return this.nextSeq - 1;
+  }
+
+  /** Entries committed after `seq`, oldest first. */
+  since(seq: number): JournalEntry[] {
+    return this.entries.filter((e) => e.seq > seq);
+  }
+
   get(seq: number): JournalEntry | undefined {
     return this.entries.find((e) => e.seq === seq);
   }

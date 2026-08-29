@@ -1,14 +1,14 @@
 # The Seekstone Write-Safety Contract
 
 Seekstone is the filesystem-direct Obsidian MCP server you can safely give write
-access. That claim is not marketing copy — it is a set of **eight named
+access. That claim is not marketing copy — it is a set of **ten named
 guarantees**, each enforced by specific code and proven by a specific test that
 runs in CI on every commit and every release. Claims → proof, in one page.
 
 The end-to-end proof is the harness **write-safety suite**
 ([`packages/harness/src/safety/`](../packages/harness/src/safety/)): it copies a
 vault to a scratch directory (never touching the original — the copy step
-refuses same-path or nested destinations), runs eight operations against every
+refuses same-path or nested destinations), runs nine operations against every
 sampled note through the server's own tool handlers, and verifies the outcome
 **byte-by-byte on disk**. The committed baseline for the 10,000-note fixture
 vault is
@@ -183,6 +183,50 @@ recovery path the agent itself can drive.
   all-or-nothing, conflict/force/redo, eviction, journal-failure abort), and
   the harness `undo-roundtrip` op — a write through the server, then
   `undo_write`, must leave the note byte-identical to its original.
+
+### 10. Every write leaves a receipt
+
+With `SEEKSTONE_AUDIT_FILE` set, the dispatcher appends one JSONL record for
+**every write-tool call** — successful or refused — after the call completes:
+`{ v: 1, ts, tool, outcome, durationMs, seq?, files: [{ path, hashBefore,
+hashAfter }], ...opDetail, error? }`. `outcome` is one of `ok`,
+`hash_conflict`, `undo_conflict`, `policy_denied`, or `error`, so the trail
+shows *attempts*, not just changes — a policy-denied write is exactly what a
+user auditing an agent wants to see. The hashes are the same sha-256 values
+`read_note` returns as `contentHash`, and `seq` is the journal entry the call
+committed, so every record is user-verifiable against the vault and indexes
+straight into `list_writes` / `undo_write`. The record shape is versioned
+(`v: 1`).
+
+Privacy: records carry paths, hashes, byte counts, replacement/link counts,
+and — for `patch_frontmatter` — key **names** only; `error` is a short code
+(`heading_not_found`, `not_found`, `invalid_input`, …), never the tool's
+message, because messages can quote headings or patterns. Note content,
+frontmatter values, and search queries never appear; the file is safe to attach to a bug
+report.
+
+Durability: each record is appended and fsync'd **after** the vault write
+commits, so a crash loses at most the in-flight record and never touches
+earlier ones; a torn trailing line is skipped by `jq -R 'fromjson?'`. The file
+rotates to `<file>.1` when the next record would exceed
+`SEEKSTONE_AUDIT_MAX_SIZE` (default 10 MB). An unwritable audit path fails
+boot, and a failed append turns the (already completed) call into a structured
+`audit_failed` error — an unauditable write is never reported as a clean
+success.
+
+Non-goals: reads and searches are not audited; there is no tamper-evident hash
+chaining yet (a v2 candidate); the sink is a local file only — no network, no
+syslog.
+
+- Enforced by: [`audit.ts`](../packages/server/src/audit.ts) (record shape,
+  durable append, rotation) and [`dispatch.ts`](../packages/server/src/dispatch.ts)
+  — the single choke point every write tool passes through, which emits the
+  record and strips each tool's `audit` detail from the MCP result.
+- Proven by: [`audit.test.ts`](../packages/server/src/audit.test.ts) and
+  [`dispatch-audit.test.ts`](../packages/server/src/dispatch-audit.test.ts)
+  (one record per write tool including refused outcomes, read tools emit
+  nothing, hashes equal `read_note`'s `contentHash`, sentinel content never
+  appears, rotation preserves records, `audit_failed` on an unwritable file).
 
 ## How other servers compare
 
