@@ -7,10 +7,16 @@
  * entries of overhead on top of the identical multiply count.
  *
  * Vectors are L2-normalized, so dot product == cosine similarity. A note's
- * score is its best chunk (max pooling — the recipe the SHA-307 eval chose),
- * and the winning chunk's span is returned so the excerpt can be sliced from
- * the matching passage without re-chunking the note.
+ * score is its pooled chunk score (see @seekstone/core pooling.ts — the
+ * server's default is the recipe the SHA-313 dev-split eval chose), and the
+ * best-scoring chunk's span is returned so the excerpt can be sliced from the
+ * matching passage without re-chunking the note.
  */
+
+import { assertValidPooling, type ChunkPooling, PoolAccumulator } from '@seekstone/core/embed';
+
+/** The shipped pooling; overridable per store for evals and tests. */
+export const DEFAULT_POOLING: ChunkPooling = 'max';
 
 export interface NoteVectors {
   /** chunkCount × dim floats, row-major. */
@@ -31,14 +37,17 @@ export interface SemanticHit {
 
 export class SemanticStore {
   readonly dim: number;
+  readonly pooling: ChunkPooling;
   private readonly notes = new Map<string, NoteVectors>();
   private chunks = 0;
 
-  constructor(dim: number) {
+  constructor(dim: number, pooling: ChunkPooling = DEFAULT_POOLING) {
     if (!Number.isInteger(dim) || dim <= 0) {
       throw new Error(`semantic store: invalid dim ${dim}`);
     }
+    assertValidPooling(pooling);
     this.dim = dim;
+    this.pooling = pooling;
   }
 
   /** Total chunk vectors across all notes. */
@@ -85,16 +94,20 @@ export class SemanticStore {
     return this.notes.entries();
   }
 
-  /** Top `k` notes by max-pooled chunk cosine, ties broken path-ascending. */
+  /**
+   * Top `k` notes by pooled chunk cosine, ties broken path-ascending. The
+   * returned chunk/span is always the note's single best chunk, whatever
+   * pooling ranked the note.
+   */
   topNotes(query: Float32Array, k: number): SemanticHit[] {
     if (query.length !== this.dim) {
       throw new Error(`semantic store: query dim ${query.length} does not match ${this.dim}`);
     }
     const dim = this.dim;
+    const pooling = this.pooling;
     const hits: SemanticHit[] = [];
     for (const [path, { packed, spans }] of this.notes) {
-      let best = Number.NEGATIVE_INFINITY;
-      let bestChunk = 0;
+      const acc = new PoolAccumulator(pooling);
       const n = packed.length / dim;
       for (let c = 0; c < n; c++) {
         const base = c * dim;
@@ -102,14 +115,12 @@ export class SemanticStore {
         for (let j = 0; j < dim; j++) {
           score += (packed[base + j] as number) * (query[j] as number);
         }
-        if (score > best) {
-          best = score;
-          bestChunk = c;
-        }
+        acc.add(score, c);
       }
+      const bestChunk = acc.bestChunk;
       hits.push({
         path,
-        score: best,
+        score: acc.pool(pooling),
         chunkIndex: bestChunk,
         start: spans[bestChunk * 2] as number,
         end: spans[bestChunk * 2 + 1] as number,

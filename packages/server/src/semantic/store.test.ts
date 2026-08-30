@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { SemanticStore } from './store.js';
+import { DEFAULT_POOLING, SemanticStore } from './store.js';
 
 const vec = (...xs: number[]) => new Float32Array(xs);
 /** Default spans: chunk i covers [i*100, i*100+50). */
@@ -62,5 +62,32 @@ describe('SemanticStore', () => {
     );
     expect(() => store.setNote('a.md', vec(1, 2, 3), spansFor(2))).toThrow(/spans length/);
     expect(() => store.topNotes(vec(1, 2), 5)).toThrow(/query dim/);
+  });
+
+  it('pools with the configured strategy but always returns the best chunk span', () => {
+    const hub = new SemanticStore(2, { kind: 'softmax', temperature: 0.1 });
+    // hub: chunk 1 is the lucky perfect match, the other 20 are off-topic.
+    const n = 21;
+    const packed = new Float32Array(n * 2);
+    const spans = new Uint32Array(n * 2);
+    for (let c = 0; c < n; c++) {
+      packed.set(c === 1 ? [1, 0] : [0.6, 0.8], c * 2);
+      spans.set([c * 100, c * 100 + 90], c * 2);
+    }
+    hub.setNote('hub.md', packed, spans);
+    hub.setNote('exact.md', new Float32Array([0.95, 0.312]), new Uint32Array([0, 50]));
+    const hits = hub.topNotes(new Float32Array([1, 0]), 2);
+    expect(hits.map((h) => h.path)).toEqual(['exact.md', 'hub.md']);
+    const hubHit = hits[1];
+    expect(hubHit?.chunkIndex).toBe(1); // excerpt still slices the matching passage
+    expect(hubHit?.start).toBe(100);
+    expect(hubHit?.end).toBe(190);
+    expect(hubHit?.score).toBeLessThan(1); // pooled below the lucky chunk's raw cosine
+
+    const plain = new SemanticStore(2); // DEFAULT_POOLING
+    plain.setNote('hub.md', packed, spans);
+    plain.setNote('exact.md', new Float32Array([0.95, 0.312]), new Uint32Array([0, 50]));
+    expect(plain.pooling).toBe(DEFAULT_POOLING);
+    expect(() => new SemanticStore(2, { kind: 'softmax', temperature: 0 })).toThrow(/temperature/);
   });
 });

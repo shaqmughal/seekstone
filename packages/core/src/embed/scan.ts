@@ -7,6 +7,10 @@
  * expected to be L2-normalized, so dot product == cosine similarity.
  */
 
+import { assertValidPooling, type ChunkPooling, PoolAccumulator } from './pooling.js';
+
+export type { ChunkPooling } from './pooling.js';
+
 export interface VectorSet {
   readonly dim: number;
   /** Number of chunk vectors stored. */
@@ -49,17 +53,10 @@ export function createVectorSet(dim: number): VectorSet {
 }
 
 /**
- * Score every chunk against `query`, pool per note path, and return the
- * top `k` notes by score (ties broken by path ascending, deterministically).
- *
- * Pooling: `max` scores a note by its single best chunk — simple, but a note
- * with hundreds of chunks gets hundreds of lottery tickets, so very large hub
- * notes crowd out precise small ones. `top2mean` averages the two best chunk
- * scores (a single-chunk note keeps its full score), demanding sustained
- * relevance from large notes.
+ * Score every chunk against `query`, pool per note path (see pooling.ts),
+ * and return the top `k` notes by score (ties broken by path ascending,
+ * deterministically).
  */
-export type ChunkPooling = 'max' | 'top2mean';
-
 export function scanTopNotes(
   query: Float32Array,
   set: VectorSet,
@@ -72,10 +69,9 @@ export function scanTopNotes(
   if (query.length !== set.dim) {
     throw new Error(`vector set: query dim ${query.length} does not match set dim ${set.dim}`);
   }
+  assertValidPooling(pooling);
   const { dim, paths, data } = set;
-  // Track the best and second-best chunk score per note; both poolings
-  // derive from those two numbers.
-  const best = new Map<string, { top: number; second: number }>();
+  const acc = new Map<string, PoolAccumulator>();
   for (let c = 0; c < paths.length; c++) {
     const base = c * dim;
     let score = 0;
@@ -83,21 +79,16 @@ export function scanTopNotes(
       score += (data[base + j] as number) * (query[j] as number);
     }
     const path = paths[c] as string;
-    const prev = best.get(path);
-    if (prev === undefined) {
-      best.set(path, { top: score, second: Number.NEGATIVE_INFINITY });
-    } else if (score > prev.top) {
-      prev.second = prev.top;
-      prev.top = score;
-    } else if (score > prev.second) {
-      prev.second = score;
+    let a = acc.get(path);
+    if (a === undefined) {
+      a = new PoolAccumulator(pooling);
+      acc.set(path, a);
     }
+    a.add(score, c);
   }
-  const pooled: Array<[string, number]> = [...best.entries()].map(([path, s]) => [
+  const pooled: Array<[string, number]> = [...acc.entries()].map(([path, a]) => [
     path,
-    pooling === 'top2mean' && s.second !== Number.NEGATIVE_INFINITY
-      ? (s.top + s.second) / 2
-      : s.top,
+    a.pool(pooling),
   ]);
   return pooled
     .sort((a, b) => b[1] - a[1] || (a[0] < b[0] ? -1 : a[0] > b[0] ? 1 : 0))
