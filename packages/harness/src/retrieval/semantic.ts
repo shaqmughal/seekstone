@@ -23,15 +23,19 @@ export interface SemanticIndex {
   noteCount: number;
   chunkCount: number;
   buildMs: number;
+  /** Chunk embedding-input texts in set add order (SHA-314 MaxSim rerank); only when retained. */
+  texts?: string[];
 }
 
 export async function buildSemanticIndex(
   vaultRoot: string,
   embedder: Embedder,
+  opts: { retainTexts?: boolean } = {},
 ): Promise<SemanticIndex> {
   const t0 = performance.now();
   const notes = (await walkVault(vaultRoot)).filter((f) => f.kind === 'note');
   const set = createVectorSet(embedder.dim);
+  const texts: string[] | undefined = opts.retainTexts ? [] : undefined;
   let chunkCount = 0;
   // Reads are concurrency-bounded; embedding is synchronous CPU work on the
   // main thread either way, so it happens inline per note.
@@ -46,10 +50,11 @@ export async function buildSemanticIndex(
         : (relPath.split('/').pop() ?? relPath).replace(/\.md$/, '');
     for (const chunk of chunkNote(title, fm.body)) {
       set.add(relPath, embedder.embed(chunk.text));
+      texts?.push(chunk.text);
       chunkCount++;
     }
   });
-  return { set, noteCount: notes.length, chunkCount, buildMs: performance.now() - t0 };
+  return { set, noteCount: notes.length, chunkCount, buildMs: performance.now() - t0, texts };
 }
 
 /** Top-`k` notes by pooled chunk cosine similarity, with scores. */
@@ -59,6 +64,6 @@ export function rankSemanticScored(
   query: string,
   k = 50,
   pooling: ChunkPooling = 'max',
-): Array<{ path: string; score: number }> {
+): Array<{ path: string; score: number; chunk: number }> {
   return scanTopNotes(embedder.embed(query), index.set, k, pooling);
 }

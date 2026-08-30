@@ -12,7 +12,13 @@
  */
 import { cpus } from 'node:os';
 import { join } from 'node:path';
-import { type ChunkPooling, type Embedder, loadModel2Vec, poolingId } from '@seekstone/core/embed';
+import {
+  type ChunkPooling,
+  type Embedder,
+  isTokenEmbedder,
+  loadModel2Vec,
+  poolingId,
+} from '@seekstone/core/embed';
 import { type Distribution, summarise } from '@seekstone/core/percentiles';
 import { routeToLexical, type ScoredHit, wsumFuse } from './fusion.js';
 import {
@@ -24,6 +30,7 @@ import {
   type SplitFilter,
 } from './golden.js';
 import { buildLexicalContext, rankLexicalScored } from './lexical.js';
+import { type MaxsimRerankOptions, maxsimRerank } from './maxsim.js';
 import { hitAtK, mrrAtK } from './metrics.js';
 import { rrfFuse } from './rrf.js';
 import { buildSemanticIndex, rankSemanticScored, type SemanticIndex } from './semantic.js';
@@ -239,7 +246,10 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     const t0 = performance.now();
     const embedder = await loadEmbedder(join(opts.modelsDir, modelId));
     const loadMs = performance.now() - t0;
-    const index = await buildSemanticIndex(opts.vaultRoot, embedder);
+    const index = await buildSemanticIndex(opts.vaultRoot, embedder, {
+      // SHA-314: the MaxSim rerank conditions re-tokenize candidate chunks.
+      retainTexts: Boolean(opts.experiments) && modelId === opts.modelIds[0],
+    });
     log(
       `${modelId}: dim ${embedder.dim}, ${index.chunkCount} chunks over ${index.noteCount} notes in ${Math.round(index.buildMs)} ms`,
     );
@@ -308,6 +318,30 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
           rank: fn,
           timedRank: fn,
         });
+      }
+      // SHA-314 MaxSim late-interaction rerank over the stage-1 top-50,
+      // through the shipped hybrid routing like the pooling grid above.
+      // Aggregation × IDF × fusion-weight grid; dev split picks the winner.
+      if (index.texts !== undefined && isTokenEmbedder(embedder)) {
+        const texts = index.texts;
+        const tokenEmbedder = embedder;
+        const rerank = (o: MaxsimRerankOptions) => (q: GoldenQuery) =>
+          routeToLexical(q.query, lexicalScored.get(q.id) as ScoredHit[])
+            ? lexPaths(q)
+            : maxsimRerank(tokenEmbedder, q.query, semScored(q), texts, o);
+        const MAXSIM_GRID: ReadonlyArray<[string, MaxsimRerankOptions]> = [
+          ['maxsim-sum', { aggregate: 'sum', beta: 1 }],
+          ['maxsim-mean', { aggregate: 'mean', beta: 1 }],
+          ['maxsim-idf', { aggregate: 'mean', idf: true, beta: 1 }],
+          ['maxsim-mean-b50', { aggregate: 'mean', beta: 0.5 }],
+          ['maxsim-mean-b70', { aggregate: 'mean', beta: 0.7 }],
+          ['maxsim-idf-b50', { aggregate: 'mean', idf: true, beta: 0.5 }],
+          ['maxsim-idf-b70', { aggregate: 'mean', idf: true, beta: 0.7 }],
+        ];
+        for (const [suffix, o] of MAXSIM_GRID) {
+          const fn = rerank(o);
+          conditions.push({ condition: `hybrid-route-${suffix}:${id}`, rank: fn, timedRank: fn });
+        }
       }
     }
   }
