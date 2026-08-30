@@ -119,7 +119,9 @@ walk(serverSrc);
 for (const file of [
   'README.md',
   'packages/server/README.md',
-  'CLAUDE.md',
+  // CLAUDE.md deliberately points at the README's Configuration table instead of
+  // duplicating the env-var list (trimmed in SHA-321); counts + retired-claims
+  // checks above still cover it.
   'docs/ARCHITECTURE.md',
 ]) {
   const text = read(file);
