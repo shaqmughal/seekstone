@@ -12,7 +12,7 @@
  */
 import { cpus } from 'node:os';
 import { join } from 'node:path';
-import { type Embedder, loadModel2Vec } from '@seekstone/core/embed';
+import { type ChunkPooling, type Embedder, loadModel2Vec, poolingId } from '@seekstone/core/embed';
 import { type Distribution, summarise } from '@seekstone/core/percentiles';
 import { routeToLexical, type ScoredHit, wsumFuse } from './fusion.js';
 import {
@@ -27,6 +27,17 @@ import { buildLexicalContext, rankLexicalScored } from './lexical.js';
 import { hitAtK, mrrAtK } from './metrics.js';
 import { rrfFuse } from './rrf.js';
 import { buildSemanticIndex, rankSemanticScored, type SemanticIndex } from './semantic.js';
+
+/** SHA-313 pooling candidates (R1); `max` and `top2mean` are covered by the routes above. */
+export const POOLING_GRID: readonly ChunkPooling[] = [
+  { kind: 'logdiscount', lambda: 0.01 },
+  { kind: 'logdiscount', lambda: 0.02 },
+  { kind: 'logdiscount', lambda: 0.04 },
+  { kind: 'softmax', temperature: 0.02 },
+  { kind: 'softmax', temperature: 0.05 },
+  { kind: 'softmax', temperature: 0.1 },
+  { kind: 'softmax', temperature: 0.2 },
+];
 
 export const RETRIEVAL_DEPTH = 50;
 export const HIT_K = 5;
@@ -257,7 +268,7 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     },
   ];
   for (const [modelIdx, { id, embedder, index }] of embedders.entries()) {
-    const semScored = (q: GoldenQuery, pooling: 'max' | 'top2mean' = 'max') =>
+    const semScored = (q: GoldenQuery, pooling: ChunkPooling = 'max') =>
       rankSemanticScored(embedder, index, q.query, RETRIEVAL_DEPTH, pooling);
     const semantic = (q: GoldenQuery) => semScored(q).map((h) => h.path);
     conditions.push({ condition: `semantic:${id}`, rank: semantic, timedRank: semantic });
@@ -272,7 +283,7 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     });
     if (opts.experiments && modelIdx === 0) {
       const semanticTop2 = (q: GoldenQuery) => semScored(q, 'top2mean').map((h) => h.path);
-      const route = (pooling: 'max' | 'top2mean') => (q: GoldenQuery) =>
+      const route = (pooling: ChunkPooling) => (q: GoldenQuery) =>
         routeToLexical(q.query, lexicalScored.get(q.id) as ScoredHit[])
           ? lexPaths(q)
           : semScored(q, pooling).map((h) => h.path);
@@ -286,6 +297,17 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
         [`hybrid-wsum85:${id}`, wsum(0.85)],
       ] as const) {
         conditions.push({ condition: name, rank: fn, timedRank: fn });
+      }
+      // SHA-313 hub-demotion pooling grid: every variant through the shipped
+      // hybrid routing (the number that matters) — same dot products, so the
+      // latency table doubles as the R4 "no latency cost" proof.
+      for (const pooling of POOLING_GRID) {
+        const fn = route(pooling);
+        conditions.push({
+          condition: `hybrid-route-${poolingId(pooling)}:${id}`,
+          rank: fn,
+          timedRank: fn,
+        });
       }
     }
   }

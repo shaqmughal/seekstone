@@ -1,12 +1,13 @@
 import { mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { basename, join } from 'node:path';
-import type { Embedder } from '@seekstone/core/embed';
+import { type Embedder, poolingId } from '@seekstone/core/embed';
 import { afterAll, beforeAll, describe, expect, it, vi } from 'vitest';
 import type { GoldenSet } from './golden.js';
 import {
   type ConditionResult,
   computeGate,
+  POOLING_GRID,
   type RetrievalSummary,
   runRetrievalEval,
 } from './runner.js';
@@ -190,6 +191,8 @@ describe('runRetrievalEval --experiments --shipped', () => {
       'hybrid-route-top2:stub-small',
       'hybrid-wsum70:stub-small',
       'hybrid-wsum85:stub-small',
+      // SHA-313 pooling grid, every candidate through the shipped routing.
+      ...POOLING_GRID.map((p) => `hybrid-route-${poolingId(p)}:stub-small`),
       'shipped-semantic:stub-small',
       'shipped-hybrid:stub-small',
     ]);
