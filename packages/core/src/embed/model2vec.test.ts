@@ -224,3 +224,27 @@ describe('tokenEmbed', () => {
     expect([...m.tokenEmbed('hello').vectors]).toEqual([0, 0, 0]);
   });
 });
+
+describe('tokenIds / tokenVector', () => {
+  let root: string;
+  beforeAll(async () => {
+    root = await mkdtemp(join(tmpdir(), 'seekstone-tokvec-'));
+  });
+  afterAll(async () => {
+    await rm(root, { recursive: true, force: true });
+  });
+
+  it('tokenIds matches tokenEmbed ids and tokenVector matches its rows', async () => {
+    const dir = join(root, 'ids');
+    await mkdir(dir, { recursive: true });
+    await writeModelDir(dir);
+    const m = await loadModel2Vec(dir);
+    expect(m.tokenIds('hello world.')).toEqual([4, 5, 8]);
+    const t = m.tokenEmbed('hello world.');
+    for (const [i, id] of t.ids.entries()) {
+      const row = m.tokenVector(id);
+      for (let j = 0; j < 3; j++) expect(row[j]).toBeCloseTo(t.vectors[i * 3 + j] as number, 7);
+    }
+    expect(() => m.tokenVector(99)).toThrow(/outside vocab/);
+  });
+});

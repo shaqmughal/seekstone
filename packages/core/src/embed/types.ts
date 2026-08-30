@@ -38,6 +38,13 @@ export interface TokenEmbedding {
  */
 export interface TokenEmbedder extends Embedder {
   tokenEmbed(text: string): TokenEmbedding;
+  /** The token ids `tokenEmbed` would embed — tokenization only, no gather. */
+  tokenIds(text: string): number[];
+  /**
+   * One token's L2-normalized matrix row (a fresh array per call — callers
+   * that loop should memoize by id; equal ids always yield equal rows).
+   */
+  tokenVector(id: number): Float32Array;
 }
 
 /** Narrow an Embedder to TokenEmbedder when the runtime provides token vectors. */

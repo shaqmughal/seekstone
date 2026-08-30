@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { maxsimScore, maxsimScoreAll } from './maxsim.js';
+import { maxsimScore, maxsimScoreAll, maxsimScoreTokens } from './maxsim.js';
 import type { TokenEmbedding } from './types.js';
 
 /**
@@ -131,6 +131,58 @@ describe('maxsimScoreAll', () => {
   it('rejects a doc with a mismatched dim', () => {
     expect(() => maxsimScoreAll(query, [te(3, [[1, 0, 0]])])).toThrow(
       /query dim 2 does not match doc dim 3/,
+    );
+  });
+});
+
+describe('maxsimScoreTokens', () => {
+  const query = te(2, [
+    [1, 0],
+    [0, 1],
+  ]);
+  const ROWS = new Map<number, number[]>([
+    [10, [1, 0]],
+    [11, [0.6, 0.8]],
+    [50, [0, 1]],
+  ]);
+  const tokenVector = (id: number) => {
+    const r = ROWS.get(id);
+    if (!r) throw new Error(`no row for ${id}`);
+    return Float32Array.from(r);
+  };
+
+  it('matches maxsimScoreAll over tokenEmbed-shaped docs exactly', () => {
+    const docsIds = [[10, 11], [50], []];
+    const docsTe = docsIds.map(
+      (ids): TokenEmbedding => ({
+        ids,
+        dim: 2,
+        vectors: Float32Array.from(ids.flatMap((id) => [...tokenVector(id)])),
+      }),
+    );
+    for (const aggregate of ['sum', 'mean'] as const) {
+      const viaIds = maxsimScoreTokens(query, docsIds, tokenVector, {
+        aggregate,
+        weights: [2, 1],
+      });
+      const viaVecs = maxsimScoreAll(query, docsTe, { aggregate, weights: [2, 1] });
+      for (const [i, s] of viaIds.entries()) expect(s).toBeCloseTo(viaVecs[i] as number, 10);
+    }
+  });
+
+  it('gathers each unique id once across all docs', () => {
+    const calls: number[] = [];
+    const counting = (id: number) => {
+      calls.push(id);
+      return tokenVector(id);
+    };
+    maxsimScoreTokens(query, [[10, 11, 10], [11, 50], [10]], counting);
+    expect(calls.sort()).toEqual([10, 11, 50]);
+  });
+
+  it('rejects a token vector with the wrong dim', () => {
+    expect(() => maxsimScoreTokens(query, [[7]], () => new Float32Array(3))).toThrow(
+      /token vector dim 3 does not match query dim 2/,
     );
   });
 });

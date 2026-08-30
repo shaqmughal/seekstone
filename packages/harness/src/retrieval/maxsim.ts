@@ -18,7 +18,7 @@
 import {
   type Embedder,
   isTokenEmbedder,
-  maxsimScoreAll,
+  maxsimScoreTokens,
   type TokenEmbedding,
 } from '@seekstone/core/embed';
 import { type ScoredHit, wsumFuse } from './fusion.js';
@@ -51,15 +51,18 @@ export function maxsimRerank(
   if (qTok.ids.length === 0 || candidates.length === 0) {
     return candidates.map((c) => c.path);
   }
-  const docToks = candidates.map((c) => {
+  const docIds = candidates.map((c) => {
     const text = chunkTexts[c.chunk];
     if (text === undefined) {
       throw new Error(`maxsim rerank: no retained text for chunk index ${c.chunk}`);
     }
-    return embedder.tokenEmbed(text);
+    return embedder.tokenIds(text);
   });
-  const weights = opts.idf ? candidateSetIdf(qTok, docToks) : undefined;
-  const scores = maxsimScoreAll(qTok, docToks, { aggregate: opts.aggregate, weights });
+  const weights = opts.idf ? candidateSetIdf(qTok, docIds) : undefined;
+  const scores = maxsimScoreTokens(qTok, docIds, (id) => embedder.tokenVector(id), {
+    aggregate: opts.aggregate,
+    weights,
+  });
   const maxsimHits: ScoredHit[] = candidates.map((c, i) => ({
     path: c.path,
     score: scores[i] as number,
@@ -72,9 +75,9 @@ export function maxsimRerank(
  * sets: `ln(1 + (N − df + 0.5) / (df + 0.5))`. A token in every candidate
  * gets a near-zero weight; a token in one candidate dominates.
  */
-function candidateSetIdf(qTok: TokenEmbedding, docToks: ReadonlyArray<TokenEmbedding>): number[] {
-  const n = docToks.length;
-  const docSets = docToks.map((d) => new Set(d.ids));
+function candidateSetIdf(qTok: TokenEmbedding, docIds: ReadonlyArray<readonly number[]>): number[] {
+  const n = docIds.length;
+  const docSets = docIds.map((d) => new Set(d));
   return qTok.ids.map((id) => {
     let df = 0;
     for (const set of docSets) {

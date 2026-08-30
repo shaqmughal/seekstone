@@ -4,6 +4,7 @@ export {
   type MaxSimOptions,
   maxsimScore,
   maxsimScoreAll,
+  maxsimScoreTokens,
 } from './maxsim.js';
 export { loadModel2Vec } from './model2vec.js';
 export {

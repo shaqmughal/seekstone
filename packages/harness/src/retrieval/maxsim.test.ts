@@ -13,19 +13,29 @@ const VOCAB = new Map<string, { id: number; vec: [number, number] }>([
   ['rock', { id: 12, vec: [0.6, 0.8] }],
 ]);
 
+const BY_ID = new Map([...VOCAB.values()].map((v) => [v.id, v.vec]));
+
 const fake: TokenEmbedder = {
   id: 'fake-2d',
   dim: 2,
   embed: () => new Float32Array(2),
   tokenEmbed(text: string): TokenEmbedding {
-    const hits = text
+    const ids = this.tokenIds(text);
+    const vectors = new Float32Array(ids.length * 2);
+    for (const [i, id] of ids.entries()) vectors.set(BY_ID.get(id) as [number, number], i * 2);
+    return { ids, dim: 2, vectors };
+  },
+  tokenIds(text: string): number[] {
+    return text
       .toLowerCase()
       .split(/\W+/)
-      .map((w) => VOCAB.get(w))
-      .filter((v) => v !== undefined);
-    const vectors = new Float32Array(hits.length * 2);
-    for (const [i, h] of hits.entries()) vectors.set(h.vec, i * 2);
-    return { ids: hits.map((h) => h.id), dim: 2, vectors };
+      .map((w) => VOCAB.get(w)?.id)
+      .filter((id) => id !== undefined);
+  },
+  tokenVector(id: number): Float32Array {
+    const vec = BY_ID.get(id);
+    if (!vec) throw new Error(`fake embedder: unknown token id ${id}`);
+    return Float32Array.from(vec);
   },
 };
 

@@ -145,3 +145,70 @@ export function maxsimScoreAll(
   }
   return out;
 }
+
+/**
+ * MaxSim over token-ID docs with lazy vector gather: `tokenVector(id)` is
+ * called once per unique id across ALL docs, and the (query token × vocab
+ * token) similarities are memoized alongside. This skips materializing the
+ * ~450 per-token vectors of every candidate chunk — the depth-50 rerank
+ * gathers only the candidate set's few thousand unique tokens per query.
+ * Scores are bit-identical to `maxsimScoreAll` over `tokenEmbed`ed docs.
+ */
+export function maxsimScoreTokens(
+  query: TokenEmbedding,
+  docs: ReadonlyArray<ArrayLike<number>>,
+  tokenVector: (id: number) => Float32Array,
+  opts: MaxSimOptions = {},
+): number[] {
+  const n = query.ids.length;
+  const weights = opts.weights;
+  if (weights !== undefined && weights.length !== n) {
+    throw new Error(`maxsim: ${weights.length} weights for ${n} query tokens`);
+  }
+  const mean = (opts.aggregate ?? 'sum') === 'mean';
+  const out = new Array<number>(docs.length).fill(0);
+  if (n === 0) return out;
+  const { dim } = query;
+  const q = query.vectors;
+  const simCache = new Map<number, Float64Array>();
+  const best = new Float64Array(n);
+  for (let d = 0; d < docs.length; d++) {
+    const ids = docs[d] as ArrayLike<number>;
+    const m = ids.length;
+    if (m === 0) continue;
+    best.fill(Number.NEGATIVE_INFINITY);
+    for (let t = 0; t < m; t++) {
+      const id = ids[t] as number;
+      let sims = simCache.get(id);
+      if (sims === undefined) {
+        sims = new Float64Array(n);
+        const vec = tokenVector(id);
+        if (vec.length !== dim) {
+          throw new Error(`maxsim: token vector dim ${vec.length} does not match query dim ${dim}`);
+        }
+        for (let i = 0; i < n; i++) {
+          const qBase = i * dim;
+          let dot = 0;
+          for (let j = 0; j < dim; j++) {
+            dot += (q[qBase + j] as number) * (vec[j] as number);
+          }
+          sims[i] = dot;
+        }
+        simCache.set(id, sims);
+      }
+      for (let i = 0; i < n; i++) {
+        const s = sims[i] as number;
+        if (s > (best[i] as number)) best[i] = s;
+      }
+    }
+    let sum = 0;
+    let weightSum = 0;
+    for (let i = 0; i < n; i++) {
+      const w = weights === undefined ? 1 : (weights[i] as number);
+      sum += w * (best[i] as number);
+      weightSum += w;
+    }
+    out[d] = mean ? (weightSum > 0 ? sum / weightSum : 0) : sum;
+  }
+  return out;
+}

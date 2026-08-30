@@ -101,22 +101,35 @@ export async function loadModel2Vec(modelDir: string): Promise<TokenEmbedder> {
       const ids = pooledIds(text);
       const vectors = new Float32Array(ids.length * dim);
       for (let t = 0; t < ids.length; t++) {
-        const base = (ids[t] as number) * dim;
-        const row = t * dim;
-        let sumSquares = 0;
-        for (let j = 0; j < dim; j++) {
-          const x = table[base + j] as number;
-          vectors[row + j] = x;
-          sumSquares += x * x;
-        }
-        const norm = Math.sqrt(sumSquares);
-        if (norm > 0) {
-          for (let j = 0; j < dim; j++) {
-            vectors[row + j] = (vectors[row + j] as number) / norm;
-          }
-        }
+        writeNormalizedRow(ids[t] as number, vectors, t * dim);
       }
       return { ids, dim, vectors };
     },
+    tokenIds: pooledIds,
+    tokenVector(id: number): Float32Array {
+      if (!Number.isInteger(id) || id < 0 || id >= tokenizer.vocabSize) {
+        throw new Error(`model2vec: token id ${id} outside vocab [0, ${tokenizer.vocabSize})`);
+      }
+      const out = new Float32Array(dim);
+      writeNormalizedRow(id, out, 0);
+      return out;
+    },
   };
+
+  /** Copy row `id` of the table into `out` at `offset`, L2-normalized (zero rows stay zero). */
+  function writeNormalizedRow(id: number, out: Float32Array, offset: number): void {
+    const base = id * dim;
+    let sumSquares = 0;
+    for (let j = 0; j < dim; j++) {
+      const x = table[base + j] as number;
+      out[offset + j] = x;
+      sumSquares += x * x;
+    }
+    const norm = Math.sqrt(sumSquares);
+    if (norm > 0) {
+      for (let j = 0; j < dim; j++) {
+        out[offset + j] = (out[offset + j] as number) / norm;
+      }
+    }
+  }
 }
