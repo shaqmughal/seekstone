@@ -95,6 +95,8 @@ export function assertValidPooling(p: ChunkPooling): void {
       throw new Error(`pooling: softmax temperature must be > 0 (got ${p.temperature})`);
     }
   } else {
-    throw new Error(`pooling: unknown kind "${(p as { kind: string }).kind}"`);
+    // `p` is `never` here for well-typed callers; JS callers can still pass junk.
+    const kind: unknown = (p as { kind?: unknown }).kind;
+    throw new Error(`pooling: unknown kind "${String(kind)}"`);
   }
 }
