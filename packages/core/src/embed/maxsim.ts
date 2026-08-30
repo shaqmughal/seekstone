@@ -212,3 +212,33 @@ export function maxsimScoreTokens(
   }
   return out;
 }
+
+/**
+ * BM25-form IDF of each query token over the candidate docs' token-id sets:
+ * `ln(1 + (N − df + 0.5) / (df + 0.5))`. Computed over the CANDIDATE SET at
+ * query time — no corpus-wide statistics, no index/cache change. A token in
+ * every candidate gets a near-zero weight; a token in one candidate
+ * dominates (SHA-314 R3).
+ */
+export function candidateSetIdf(
+  queryIds: ArrayLike<number>,
+  docs: ReadonlyArray<ArrayLike<number>>,
+): number[] {
+  const n = docs.length;
+  const docSets: Array<Set<number>> = [];
+  for (const doc of docs) {
+    const set = new Set<number>();
+    for (let t = 0; t < doc.length; t++) set.add(doc[t] as number);
+    docSets.push(set);
+  }
+  const out = new Array<number>(queryIds.length);
+  for (let i = 0; i < queryIds.length; i++) {
+    const id = queryIds[i] as number;
+    let df = 0;
+    for (const set of docSets) {
+      if (set.has(id)) df++;
+    }
+    out[i] = Math.log(1 + (n - df + 0.5) / (df + 0.5));
+  }
+  return out;
+}

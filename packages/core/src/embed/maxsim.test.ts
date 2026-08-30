@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { maxsimScore, maxsimScoreAll, maxsimScoreTokens } from './maxsim.js';
+import { candidateSetIdf, maxsimScore, maxsimScoreAll, maxsimScoreTokens } from './maxsim.js';
 import type { TokenEmbedding } from './types.js';
 
 /**
@@ -184,5 +184,26 @@ describe('maxsimScoreTokens', () => {
     expect(() => maxsimScoreTokens(query, [[7]], () => new Float32Array(3))).toThrow(
       /token vector dim 3 does not match query dim 2/,
     );
+  });
+});
+
+describe('candidateSetIdf', () => {
+  it('weights rare query tokens above ubiquitous ones (BM25 form)', () => {
+    const docs = [
+      [11, 12],
+      [10, 11],
+      [11, 11],
+    ];
+    const [wRare, wCommon, wAbsent] = candidateSetIdf([10, 11, 99], docs);
+    // df(10)=1 → ln(1+2.5/1.5); df(11)=3 → ln(1+0.5/3.5); df(99)=0 → ln(1+3.5/0.5).
+    expect(wRare).toBeCloseTo(Math.log(1 + 2.5 / 1.5), 10);
+    expect(wCommon).toBeCloseTo(Math.log(1 + 0.5 / 3.5), 10);
+    expect(wAbsent).toBeCloseTo(Math.log(1 + 3.5 / 0.5), 10);
+    expect(wRare as number).toBeGreaterThan(wCommon as number);
+  });
+
+  it('handles empty docs and empty query', () => {
+    expect(candidateSetIdf([], [[1]])).toEqual([]);
+    expect(candidateSetIdf([1], [])).toEqual([Math.log(1 + 0.5 / 0.5)]);
   });
 });

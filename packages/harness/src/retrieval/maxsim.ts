@@ -16,10 +16,10 @@
  * change, and no MiniSearch coupling.
  */
 import {
+  candidateSetIdf,
   type Embedder,
   isTokenEmbedder,
   maxsimScoreTokens,
-  type TokenEmbedding,
 } from '@seekstone/core/embed';
 import { type ScoredHit, wsumFuse } from './fusion.js';
 
@@ -60,7 +60,7 @@ export function maxsimRerank(
     }
     return ids;
   });
-  const weights = opts.idf ? candidateSetIdf(qTok, docIds) : undefined;
+  const weights = opts.idf ? candidateSetIdf(qTok.ids, docIds) : undefined;
   const scores = maxsimScoreTokens(qTok, docIds, (id) => embedder.tokenVector(id), {
     aggregate: opts.aggregate,
     weights,
@@ -70,21 +70,4 @@ export function maxsimRerank(
     score: scores[i] as number,
   }));
   return wsumFuse(candidates, maxsimHits, opts.beta ?? 1);
-}
-
-/**
- * BM25-form IDF of each query token over the candidate chunks' token-id
- * sets: `ln(1 + (N − df + 0.5) / (df + 0.5))`. A token in every candidate
- * gets a near-zero weight; a token in one candidate dominates.
- */
-function candidateSetIdf(qTok: TokenEmbedding, docIds: ReadonlyArray<readonly number[]>): number[] {
-  const n = docIds.length;
-  const docSets = docIds.map((d) => new Set(d));
-  return qTok.ids.map((id) => {
-    let df = 0;
-    for (const set of docSets) {
-      if (set.has(id)) df++;
-    }
-    return Math.log(1 + (n - df + 0.5) / (df + 0.5));
-  });
 }

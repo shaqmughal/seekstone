@@ -1,5 +1,6 @@
 export { type Chunk, chunkNote } from './chunk.js';
 export {
+  candidateSetIdf,
   type MaxSimAggregate,
   type MaxSimOptions,
   maxsimScore,
