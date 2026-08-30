@@ -133,6 +133,12 @@ describe('maxsimScoreAll', () => {
       /query dim 2 does not match doc dim 3/,
     );
   });
+
+  it('rejects a weights array whose length disagrees with the query', () => {
+    expect(() => maxsimScoreAll(query, [], { weights: [1] })).toThrow(
+      /1 weights for 2 query tokens/,
+    );
+  });
 });
 
 describe('maxsimScoreTokens', () => {
@@ -183,6 +189,12 @@ describe('maxsimScoreTokens', () => {
   it('rejects a token vector with the wrong dim', () => {
     expect(() => maxsimScoreTokens(query, [[7]], () => new Float32Array(3))).toThrow(
       /token vector dim 3 does not match query dim 2/,
+    );
+  });
+
+  it('rejects a weights array whose length disagrees with the query', () => {
+    expect(() => maxsimScoreTokens(query, [], tokenVector, { weights: [1, 2, 3] })).toThrow(
+      /3 weights for 2 query tokens/,
     );
   });
 });
