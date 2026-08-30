@@ -18,7 +18,7 @@
 import {
   type Embedder,
   isTokenEmbedder,
-  maxsimScore,
+  maxsimScoreAll,
   type TokenEmbedding,
 } from '@seekstone/core/embed';
 import { type ScoredHit, wsumFuse } from './fusion.js';
@@ -59,12 +59,10 @@ export function maxsimRerank(
     return embedder.tokenEmbed(text);
   });
   const weights = opts.idf ? candidateSetIdf(qTok, docToks) : undefined;
+  const scores = maxsimScoreAll(qTok, docToks, { aggregate: opts.aggregate, weights });
   const maxsimHits: ScoredHit[] = candidates.map((c, i) => ({
     path: c.path,
-    score: maxsimScore(qTok, docToks[i] as TokenEmbedding, {
-      aggregate: opts.aggregate,
-      weights,
-    }),
+    score: scores[i] as number,
   }));
   return wsumFuse(candidates, maxsimHits, opts.beta ?? 1);
 }

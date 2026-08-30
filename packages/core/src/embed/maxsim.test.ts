@@ -1,12 +1,16 @@
 import { describe, expect, it } from 'vitest';
-import { maxsimScore } from './maxsim.js';
+import { maxsimScore, maxsimScoreAll } from './maxsim.js';
 import type { TokenEmbedding } from './types.js';
 
-/** Pack unit-ish rows into a TokenEmbedding (ids are arbitrary vocab ids). */
-function te(dim: number, rows: number[][]): TokenEmbedding {
+/**
+ * Pack unit-ish rows into a TokenEmbedding. `idBase` keeps vocab ids unique
+ * across fixtures — maxsimScoreAll's memo assumes equal ids carry identical
+ * vectors, so distinct vectors must get distinct ids.
+ */
+function te(dim: number, rows: number[][], idBase = 10): TokenEmbedding {
   const vectors = new Float32Array(rows.length * dim);
   for (const [i, r] of rows.entries()) vectors.set(r, i * dim);
-  return { ids: rows.map((_, i) => i + 10), dim, vectors };
+  return { ids: rows.map((_, i) => i + idBase), dim, vectors };
 }
 
 describe('maxsimScore', () => {
@@ -80,5 +84,53 @@ describe('maxsimScore', () => {
 
   it('rejects a weights array whose length disagrees with the query', () => {
     expect(() => maxsimScore(query, doc, { weights: [1] })).toThrow(/1 weights for 2 query tokens/);
+  });
+});
+
+describe('maxsimScoreAll', () => {
+  const query = te(2, [
+    [1, 0],
+    [0, 1],
+  ]);
+
+  it('matches per-doc maxsimScore exactly (memo is a pure optimization)', () => {
+    const docs = [
+      te(2, [
+        [1, 0],
+        [0.6, 0.8],
+      ]),
+      te(2, [[0, 1]], 50),
+      te(2, []),
+    ];
+    for (const aggregate of ['sum', 'mean'] as const) {
+      const all = maxsimScoreAll(query, docs, { aggregate, weights: [2, 1] });
+      docs.forEach((d, i) => {
+        expect(all[i]).toBeCloseTo(maxsimScore(query, d, { aggregate, weights: [2, 1] }), 10);
+      });
+    }
+  });
+
+  it('reuses cached similarities for repeated token ids across docs', () => {
+    // Same id (10) in both docs — second doc scores via the memo, and a
+    // duplicated id inside one doc changes nothing (max over equals).
+    const a: TokenEmbedding = { ids: [10], dim: 2, vectors: new Float32Array([0.6, 0.8]) };
+    const b: TokenEmbedding = {
+      ids: [10, 10],
+      dim: 2,
+      vectors: new Float32Array([0.6, 0.8, 0.6, 0.8]),
+    };
+    const [sa, sb] = maxsimScoreAll(query, [a, b], { aggregate: 'mean' });
+    expect(sa).toBeCloseTo(0.7, 6); // (0.6 + 0.8) / 2
+    expect(sb).toBeCloseTo(sa as number, 10);
+  });
+
+  it('returns 0 for an empty query without touching docs', () => {
+    expect(maxsimScoreAll(te(2, []), [te(2, [[1, 0]])])).toEqual([0]);
+  });
+
+  it('rejects a doc with a mismatched dim', () => {
+    expect(() => maxsimScoreAll(query, [te(3, [[1, 0, 0]])])).toThrow(
+      /query dim 2 does not match doc dim 3/,
+    );
   });
 });

@@ -75,3 +75,73 @@ export function maxsimScore(
   }
   return sum;
 }
+
+/**
+ * MaxSim of MANY docs against one query — same math as calling
+ * `maxsimScore` per doc, but each (query token × vocab token) similarity is
+ * computed once and memoized by vocab id across all docs. Candidate chunks
+ * share most of their vocabulary, so this collapses the O(q·d·dim) dot work
+ * to O(q·unique(d)·dim) per query — the difference between ~115 ms and a
+ * single-digit rerank at depth 50 (SHA-314 latency budget).
+ *
+ * Assumes equal token ids carry identical vectors in every doc — true for
+ * any table-gather embedder (tokenEmbed reads the same matrix row).
+ */
+export function maxsimScoreAll(
+  query: TokenEmbedding,
+  docs: ReadonlyArray<TokenEmbedding>,
+  opts: MaxSimOptions = {},
+): number[] {
+  const n = query.ids.length;
+  const weights = opts.weights;
+  if (weights !== undefined && weights.length !== n) {
+    throw new Error(`maxsim: ${weights.length} weights for ${n} query tokens`);
+  }
+  const mean = (opts.aggregate ?? 'sum') === 'mean';
+  const out = new Array<number>(docs.length).fill(0);
+  if (n === 0) return out;
+  const { dim } = query;
+  const q = query.vectors;
+  /** vocab id → similarity against each query token, computed on first sight. */
+  const simCache = new Map<number, Float64Array>();
+  const best = new Float64Array(n);
+  for (let d = 0; d < docs.length; d++) {
+    const doc = docs[d] as TokenEmbedding;
+    if (doc.dim !== dim) {
+      throw new Error(`maxsim: query dim ${dim} does not match doc dim ${doc.dim}`);
+    }
+    const m = doc.ids.length;
+    if (m === 0) continue;
+    best.fill(Number.NEGATIVE_INFINITY);
+    for (let t = 0; t < m; t++) {
+      const id = doc.ids[t] as number;
+      let sims = simCache.get(id);
+      if (sims === undefined) {
+        sims = new Float64Array(n);
+        const dBase = t * dim;
+        for (let i = 0; i < n; i++) {
+          const qBase = i * dim;
+          let dot = 0;
+          for (let j = 0; j < dim; j++) {
+            dot += (q[qBase + j] as number) * (doc.vectors[dBase + j] as number);
+          }
+          sims[i] = dot;
+        }
+        simCache.set(id, sims);
+      }
+      for (let i = 0; i < n; i++) {
+        const s = sims[i] as number;
+        if (s > (best[i] as number)) best[i] = s;
+      }
+    }
+    let sum = 0;
+    let weightSum = 0;
+    for (let i = 0; i < n; i++) {
+      const w = weights === undefined ? 1 : (weights[i] as number);
+      sum += w * (best[i] as number);
+      weightSum += w;
+    }
+    out[d] = mean ? (weightSum > 0 ? sum / weightSum : 0) : sum;
+  }
+  return out;
+}

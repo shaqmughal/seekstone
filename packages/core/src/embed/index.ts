@@ -1,5 +1,10 @@
 export { type Chunk, chunkNote } from './chunk.js';
-export { type MaxSimAggregate, type MaxSimOptions, maxsimScore } from './maxsim.js';
+export {
+  type MaxSimAggregate,
+  type MaxSimOptions,
+  maxsimScore,
+  maxsimScoreAll,
+} from './maxsim.js';
 export { loadModel2Vec } from './model2vec.js';
 export {
   assertValidPooling,
