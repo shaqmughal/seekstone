@@ -83,8 +83,11 @@ export class PoolAccumulator {
 }
 
 export function assertValidPooling(p: ChunkPooling): void {
+  // Captured before narrowing: in the unknown-kind branches `p` is `never`
+  // for well-typed callers, but JS callers can still pass junk.
+  const raw: unknown = p;
   if (typeof p === 'string') {
-    if (p !== 'max' && p !== 'top2mean') throw new Error(`pooling: unknown kind "${p}"`);
+    if (p !== 'max' && p !== 'top2mean') throw new Error(`pooling: unknown kind "${String(raw)}"`);
     return;
   }
   if (p.kind === 'logdiscount') {
@@ -95,8 +98,7 @@ export function assertValidPooling(p: ChunkPooling): void {
       throw new Error(`pooling: softmax temperature must be > 0 (got ${p.temperature})`);
     }
   } else {
-    // `p` is `never` here for well-typed callers; JS callers can still pass junk.
-    const kind: unknown = (p as { kind?: unknown }).kind;
+    const kind = typeof raw === 'object' && raw !== null ? (raw as { kind?: unknown }).kind : raw;
     throw new Error(`pooling: unknown kind "${String(kind)}"`);
   }
 }
