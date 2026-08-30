@@ -44,6 +44,7 @@ const texts = [
   'lead mineral', // chunk 1
   'mineral', // chunk 2
 ];
+const chunkIds = texts.map((t) => fake.tokenIds(t));
 const candidates = [
   { path: 'a.md', score: 0.9, chunk: 0 },
   { path: 'b.md', score: 0.8, chunk: 1 },
@@ -54,7 +55,7 @@ describe('maxsimRerank', () => {
   it('pure rerank (beta 1) promotes the chunk holding the discriminating token', () => {
     // Query "lead mineral": b's chunk maxes both tokens (mean 1.0);
     // a maxes lead at 0.6 via rock (mean 0.8); c maxes lead at 0 (mean 0.5).
-    const order = maxsimRerank(fake, 'lead mineral', candidates, texts, {
+    const order = maxsimRerank(fake, 'lead mineral', candidates, chunkIds, {
       aggregate: 'mean',
       beta: 1,
     });
@@ -62,7 +63,7 @@ describe('maxsimRerank', () => {
   });
 
   it('beta 0 reproduces stage-1 order', () => {
-    const order = maxsimRerank(fake, 'lead mineral', candidates, texts, {
+    const order = maxsimRerank(fake, 'lead mineral', candidates, chunkIds, {
       aggregate: 'mean',
       beta: 0,
     });
@@ -73,7 +74,7 @@ describe('maxsimRerank', () => {
     // "mineral" is in all three chunks (df 3 → weight ≈ 0.16); "lead" only
     // in b (df 1 → weight ≈ 1.6). Weighted mean makes b the clear winner
     // and ranks a (lead≈0.6 via rock) above c (lead 0).
-    const order = maxsimRerank(fake, 'lead mineral', candidates, texts, {
+    const order = maxsimRerank(fake, 'lead mineral', candidates, chunkIds, {
       aggregate: 'mean',
       idf: true,
       beta: 1,
@@ -82,7 +83,7 @@ describe('maxsimRerank', () => {
   });
 
   it('falls back to stage-1 order when the query has no known tokens', () => {
-    const order = maxsimRerank(fake, 'zzz qqq', candidates, texts, {
+    const order = maxsimRerank(fake, 'zzz qqq', candidates, chunkIds, {
       aggregate: 'mean',
       beta: 1,
     });
@@ -90,21 +91,21 @@ describe('maxsimRerank', () => {
   });
 
   it('handles an empty candidate list', () => {
-    expect(maxsimRerank(fake, 'lead', [], texts, { aggregate: 'sum' })).toEqual([]);
+    expect(maxsimRerank(fake, 'lead', [], chunkIds, { aggregate: 'sum' })).toEqual([]);
   });
 
   it('rejects an embedder without token vectors', () => {
     const plain: Embedder = { id: 'plain', dim: 2, embed: () => new Float32Array(2) };
-    expect(() => maxsimRerank(plain, 'lead', candidates, texts, { aggregate: 'sum' })).toThrow(
+    expect(() => maxsimRerank(plain, 'lead', candidates, chunkIds, { aggregate: 'sum' })).toThrow(
       /exposes no token vectors/,
     );
   });
 
   it('rejects a candidate whose chunk index has no retained text', () => {
     expect(() =>
-      maxsimRerank(fake, 'lead', [{ path: 'x.md', score: 1, chunk: 99 }], texts, {
+      maxsimRerank(fake, 'lead', [{ path: 'x.md', score: 1, chunk: 99 }], chunkIds, {
         aggregate: 'sum',
       }),
-    ).toThrow(/no retained text for chunk index 99/);
+    ).toThrow(/no retained token ids for chunk index 99/);
   });
 });

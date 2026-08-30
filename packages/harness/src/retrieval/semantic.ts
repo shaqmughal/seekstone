@@ -11,6 +11,7 @@ import {
   chunkNote,
   createVectorSet,
   type Embedder,
+  isTokenEmbedder,
   scanTopNotes,
   type VectorSet,
 } from '@seekstone/core/embed';
@@ -23,19 +24,23 @@ export interface SemanticIndex {
   noteCount: number;
   chunkCount: number;
   buildMs: number;
-  /** Chunk embedding-input texts in set add order (SHA-314 MaxSim rerank); only when retained. */
-  texts?: string[];
+  /** Chunk token ids in set add order (SHA-314 MaxSim rerank); only when retained. */
+  tokenIds?: number[][];
 }
 
 export async function buildSemanticIndex(
   vaultRoot: string,
   embedder: Embedder,
-  opts: { retainTexts?: boolean } = {},
+  opts: { retainTokenIds?: boolean } = {},
 ): Promise<SemanticIndex> {
   const t0 = performance.now();
   const notes = (await walkVault(vaultRoot)).filter((f) => f.kind === 'note');
   const set = createVectorSet(embedder.dim);
-  const texts: string[] | undefined = opts.retainTexts ? [] : undefined;
+  // Retention needs token ids; a plain Embedder (test stubs, alternative
+  // runtimes) just gets no retained ids and the runner skips the rerank
+  // conditions — never an error.
+  const tokenize = opts.retainTokenIds && isTokenEmbedder(embedder) ? embedder : undefined;
+  const tokenIds: number[][] | undefined = tokenize ? [] : undefined;
   let chunkCount = 0;
   // Reads are concurrency-bounded; embedding is synchronous CPU work on the
   // main thread either way, so it happens inline per note.
@@ -50,11 +55,11 @@ export async function buildSemanticIndex(
         : (relPath.split('/').pop() ?? relPath).replace(/\.md$/, '');
     for (const chunk of chunkNote(title, fm.body)) {
       set.add(relPath, embedder.embed(chunk.text));
-      texts?.push(chunk.text);
+      if (tokenize) tokenIds?.push(tokenize.tokenIds(chunk.text));
       chunkCount++;
     }
   });
-  return { set, noteCount: notes.length, chunkCount, buildMs: performance.now() - t0, texts };
+  return { set, noteCount: notes.length, chunkCount, buildMs: performance.now() - t0, tokenIds };
 }
 
 /** Top-`k` notes by pooled chunk cosine similarity, with scores. */

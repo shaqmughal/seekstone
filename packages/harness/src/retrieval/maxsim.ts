@@ -34,14 +34,16 @@ export interface MaxsimRerankOptions {
 
 /**
  * Re-rank `candidates` (stage-1 order, each with its best chunk's index into
- * `chunkTexts`) and return note paths, best first. Falls back to stage-1
- * order when the query produces no tokens.
+ * `chunkTokenIds`, pre-tokenized at index build — tokenization is
+ * query-independent and dominates rerank latency otherwise) and return note
+ * paths, best first. Falls back to stage-1 order when the query produces no
+ * tokens.
  */
 export function maxsimRerank(
   embedder: Embedder,
   query: string,
   candidates: ReadonlyArray<{ path: string; score: number; chunk: number }>,
-  chunkTexts: readonly string[],
+  chunkTokenIds: ReadonlyArray<readonly number[]>,
   opts: MaxsimRerankOptions,
 ): string[] {
   if (!isTokenEmbedder(embedder)) {
@@ -52,11 +54,11 @@ export function maxsimRerank(
     return candidates.map((c) => c.path);
   }
   const docIds = candidates.map((c) => {
-    const text = chunkTexts[c.chunk];
-    if (text === undefined) {
-      throw new Error(`maxsim rerank: no retained text for chunk index ${c.chunk}`);
+    const ids = chunkTokenIds[c.chunk];
+    if (ids === undefined) {
+      throw new Error(`maxsim rerank: no retained token ids for chunk index ${c.chunk}`);
     }
-    return embedder.tokenIds(text);
+    return ids;
   });
   const weights = opts.idf ? candidateSetIdf(qTok, docIds) : undefined;
   const scores = maxsimScoreTokens(qTok, docIds, (id) => embedder.tokenVector(id), {

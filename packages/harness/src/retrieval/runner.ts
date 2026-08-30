@@ -247,8 +247,8 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     const embedder = await loadEmbedder(join(opts.modelsDir, modelId));
     const loadMs = performance.now() - t0;
     const index = await buildSemanticIndex(opts.vaultRoot, embedder, {
-      // SHA-314: the MaxSim rerank conditions re-tokenize candidate chunks.
-      retainTexts: Boolean(opts.experiments) && modelId === opts.modelIds[0],
+      // SHA-314: the MaxSim rerank conditions score pre-tokenized chunks.
+      retainTokenIds: Boolean(opts.experiments) && modelId === opts.modelIds[0],
     });
     log(
       `${modelId}: dim ${embedder.dim}, ${index.chunkCount} chunks over ${index.noteCount} notes in ${Math.round(index.buildMs)} ms`,
@@ -322,13 +322,13 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
       // SHA-314 MaxSim late-interaction rerank over the stage-1 top-50,
       // through the shipped hybrid routing like the pooling grid above.
       // Aggregation × IDF × fusion-weight grid; dev split picks the winner.
-      if (index.texts !== undefined && isTokenEmbedder(embedder)) {
-        const texts = index.texts;
+      if (index.tokenIds !== undefined && isTokenEmbedder(embedder)) {
+        const tokenIds = index.tokenIds;
         const tokenEmbedder = embedder;
         const rerank = (o: MaxsimRerankOptions) => (q: GoldenQuery) =>
           routeToLexical(q.query, lexicalScored.get(q.id) as ScoredHit[])
             ? lexPaths(q)
-            : maxsimRerank(tokenEmbedder, q.query, semScored(q), texts, o);
+            : maxsimRerank(tokenEmbedder, q.query, semScored(q), tokenIds, o);
         const MAXSIM_GRID: ReadonlyArray<[string, MaxsimRerankOptions]> = [
           ['maxsim-sum', { aggregate: 'sum', beta: 1 }],
           ['maxsim-mean', { aggregate: 'mean', beta: 1 }],
