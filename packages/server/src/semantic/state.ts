@@ -1,10 +1,17 @@
-import { chunkNote, type Embedder, loadModel2Vec } from '@seekstone/core/embed';
+import {
+  chunkNote,
+  type Embedder,
+  isTokenEmbedder,
+  loadModel2Vec,
+  type TokenEmbedder,
+} from '@seekstone/core/embed';
 import { contentHash } from '../content-hash.js';
 import type { IndexedNote } from '../index/types.js';
 import type { Logger } from '../log.js';
 import { type CachePaths, cachePathsFor, loadCache, saveCache } from './cache.js';
 import { fetchCommandFor, type SemanticConfig } from './config.js';
-import { SemanticStore } from './store.js';
+import { maxsimRerankHits } from './rerank.js';
+import { type SemanticHit, SemanticStore } from './store.js';
 
 export type SemanticProgress =
   | { state: 'building'; done: number; total: number }
@@ -48,6 +55,15 @@ export class Semantic {
   private readonly saveDebounceMs: number;
   private readonly yieldEvery: number;
   private readonly hashes = new Map<string, string>();
+  /**
+   * Lazy per-note chunk token ids for the MaxSim rerank (SHA-314): filled on
+   * first rerank touch, dropped whenever the note changes or is removed.
+   * Only queried candidates are ever tokenized, so the memo stays a small
+   * fraction of the vault; it lives in memory only — the cache file format
+   * is untouched.
+   */
+  private readonly tokenIdCache = new Map<string, Uint32Array[]>();
+  private readonly tokenEmbedder: TokenEmbedder | undefined;
   private readonly pending = new Map<string, NodeJS.Timeout>();
   private saveTimer: NodeJS.Timeout | undefined;
   private stopped = false;
@@ -59,6 +75,7 @@ export class Semantic {
     deps: SemanticDeps,
   ) {
     this.embedder = embedder;
+    this.tokenEmbedder = isTokenEmbedder(embedder) ? embedder : undefined;
     this.store = new SemanticStore(embedder.dim);
     this.ctx = ctx;
     this.paths = cachePathsFor(cfg.cacheDir, ctx.vaultRoot, embedder.id);
@@ -174,9 +191,39 @@ export class Semantic {
     return this.embedder.embed(query);
   }
 
+  /**
+   * MaxSim-rerank stage-1 candidates (SHA-314). Pass-through when the
+   * embedder exposes no token vectors (alternative runtimes) — semantic
+   * search then ships stage-1 order unchanged.
+   */
+  rerank(query: string, hits: ReadonlyArray<SemanticHit>): SemanticHit[] {
+    const embedder = this.tokenEmbedder;
+    if (!embedder) return [...hits];
+    return maxsimRerankHits(embedder, query, hits, (hit) => {
+      const ids = this.chunkTokenIds(hit.path);
+      return ids?.[hit.chunkIndex];
+    });
+  }
+
+  private chunkTokenIds(path: string): Uint32Array[] | undefined {
+    const cached = this.tokenIdCache.get(path);
+    if (cached) return cached;
+    const embedder = this.tokenEmbedder;
+    const note = this.ctx.notes.get(path);
+    if (!embedder || !note) return undefined;
+    const ids = chunkNote(note.title, note.body).map((chunk) =>
+      Uint32Array.from(embedder.tokenIds(chunk.text)),
+    );
+    this.tokenIdCache.set(path, ids);
+    return ids;
+  }
+
   /** Watcher hook: a note was added or changed (ctx.notes is already fresh). */
   noteChanged(path: string): void {
     if (this.stopped) return;
+    // ctx.notes already holds the new body — memoized token ids are stale now,
+    // not just after the debounced re-embed.
+    this.tokenIdCache.delete(path);
     const existing = this.pending.get(path);
     if (existing) clearTimeout(existing);
     const timer = setTimeout(() => {
@@ -194,6 +241,7 @@ export class Semantic {
       clearTimeout(existing);
       this.pending.delete(path);
     }
+    this.tokenIdCache.delete(path);
     if (this.hashes.has(path) || this.store.getNote(path)) {
       this.store.removeNote(path);
       this.hashes.delete(path);

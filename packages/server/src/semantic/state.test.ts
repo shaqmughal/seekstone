@@ -1,7 +1,7 @@
 import { mkdtemp, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
-import type { Embedder } from '@seekstone/core/embed';
+import type { Embedder, TokenEmbedder, TokenEmbedding } from '@seekstone/core/embed';
 import { afterAll, beforeAll, describe, expect, it, vi } from 'vitest';
 import type { IndexedNote } from '../index/types.js';
 import { Semantic, type SemanticCtx } from './state.js';
@@ -303,5 +303,74 @@ describe('Semantic', () => {
     const top = s.store.topNotes(s.embedQuery('dairy'), 3);
     expect(top[0]?.path).toBe('Notes/Cheese.md'); // Other.md was never re-embedded
     expect(top[0]?.score ?? 0).toBeGreaterThan(top[1]?.score ?? 0);
+  });
+});
+
+/**
+ * SHA-314: the lazy chunk-token-id memo must be dropped the moment a note
+ * changes — ctx.notes already holds the new body, so a stale memo would
+ * rerank against text that no longer exists.
+ */
+describe('Semantic rerank token-id memo', () => {
+  const VOCAB = new Map<string, { id: number; vec: [number, number, number] }>([
+    ['mineral', { id: 11, vec: [0, 1, 0] }],
+    ['lead', { id: 10, vec: [1, 0, 0] }],
+    ['rock', { id: 12, vec: [0.6, 0.8, 0] }],
+  ]);
+  const BY_ID = new Map([...VOCAB.values()].map((v) => [v.id, v.vec]));
+  const tokenStub: TokenEmbedder = {
+    id: 'token-stub',
+    dim: 3,
+    embed: () => new Float32Array([0, 1, 0]),
+    tokenIds(text: string): number[] {
+      return text
+        .toLowerCase()
+        .split(/\W+/)
+        .map((w) => VOCAB.get(w)?.id)
+        .filter((v) => v !== undefined);
+    },
+    tokenEmbed(text: string): TokenEmbedding {
+      const ids = this.tokenIds(text);
+      const vectors = new Float32Array(ids.length * 3);
+      for (const [i, tid] of ids.entries()) {
+        vectors.set(BY_ID.get(tid) as [number, number, number], i * 3);
+      }
+      return { ids, dim: 3, vectors };
+    },
+    tokenVector(tid: number): Float32Array {
+      return Float32Array.from(BY_ID.get(tid) as [number, number, number]);
+    },
+  };
+
+  it('invalidates memoized token ids on noteChanged', async () => {
+    const cacheDir = await mkdtemp(join(tmpdir(), 'seekstone-rerankmemo-'));
+    const ctx: SemanticCtx = {
+      vaultRoot: '/vault/rerank-memo',
+      notes: new Map<string, IndexedNote>([
+        ['Notes/A.md', note('Notes/A.md', 'A mineral of rock.')],
+        ['Notes/B.md', note('Notes/B.md', 'A mineral of unremarkable stone.')],
+      ]),
+    };
+    const s = await Semantic.start(
+      ctx,
+      { modelId: 'token-stub', modelDir: '/unused', cacheDir },
+      { loadModel: async () => tokenStub, debounceMs: 5, saveDebounceMs: 5 },
+    );
+    await s.ready();
+    try {
+      const query = 'mineral bearing lead';
+      const first = s.rerank(query, s.store.topNotes(s.embedQuery(query), 2));
+      // "rock" (0.6 to "lead") beats B's no-match — memo now holds both notes.
+      expect(first[0]?.path).toBe('Notes/A.md');
+      // B's body gains the literal discriminator; ctx.notes updates first,
+      // exactly as the watcher does, then noteChanged fires.
+      ctx.notes.set('Notes/B.md', note('Notes/B.md', 'A mineral of lead.'));
+      s.noteChanged('Notes/B.md');
+      const second = s.rerank(query, s.store.topNotes(s.embedQuery(query), 2));
+      expect(second[0]?.path).toBe('Notes/B.md');
+    } finally {
+      s.stop();
+      await rm(cacheDir, { recursive: true, force: true, maxRetries: 10, retryDelay: 100 });
+    }
   });
 });
