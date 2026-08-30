@@ -167,3 +167,60 @@ describe.skipIf(!existsSync(join(REAL_MODEL_DIR, 'model.safetensors')))(
     });
   },
 );
+
+describe('tokenEmbed', () => {
+  let root: string;
+  beforeAll(async () => {
+    root = await mkdtemp(join(tmpdir(), 'seekstone-tokembed-'));
+  });
+  afterAll(async () => {
+    await rm(root, { recursive: true, force: true });
+  });
+
+  async function load(name: string, opts: Parameters<typeof writeModelDir>[1] = {}) {
+    const dir = join(root, name);
+    await mkdir(dir, { recursive: true });
+    await writeModelDir(dir, opts);
+    return loadModel2Vec(dir);
+  }
+
+  it('returns one L2-normalized row per kept token, in input order', async () => {
+    const m = await load('rows');
+    const t = m.tokenEmbed('hello world');
+    expect(t.ids).toEqual([4, 5]);
+    expect(t.dim).toBe(3);
+    // hello [1,2,2] norm 3; world [3,2,0] norm √13.
+    const s13 = Math.sqrt(13);
+    expect(t.vectors[0]).toBeCloseTo(1 / 3, 6);
+    expect(t.vectors[1]).toBeCloseTo(2 / 3, 6);
+    expect(t.vectors[2]).toBeCloseTo(2 / 3, 6);
+    expect(t.vectors[3]).toBeCloseTo(3 / s13, 6);
+    expect(t.vectors[4]).toBeCloseTo(2 / s13, 6);
+    expect(t.vectors[5]).toBeCloseTo(0, 6);
+  });
+
+  it('keeps the [UNK] row for out-of-vocab words, like embed()', async () => {
+    const m = await load('unk');
+    const t = m.tokenEmbed('zebra');
+    expect(t.ids).toEqual([1]);
+    expect([...t.vectors]).toEqual([0, 0, 1]);
+  });
+
+  it('includes punctuation tokens (not special) alongside words', async () => {
+    const m = await load('punct');
+    expect(m.tokenEmbed('hello.').ids).toEqual([4, 8]);
+  });
+
+  it('returns an empty embedding for empty or whitespace-only text', async () => {
+    const m = await load('empty');
+    const t = m.tokenEmbed(' \n\t ');
+    expect(t.ids).toEqual([]);
+    expect(t.vectors).toHaveLength(0);
+  });
+
+  it('leaves an all-zero matrix row as a zero vector', async () => {
+    const rows = ROWS.map((r, i) => (i === 4 ? [0, 0, 0] : r)); // zero out "hello"
+    const m = await load('zero-row', { rows });
+    expect([...m.tokenEmbed('hello').vectors]).toEqual([0, 0, 0]);
+  });
+});
