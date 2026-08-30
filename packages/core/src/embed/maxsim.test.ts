@@ -1,6 +1,11 @@
 import { describe, expect, it } from 'vitest';
 import { candidateSetIdf, maxsimScore, maxsimScoreAll, maxsimScoreTokens } from './maxsim.js';
-import type { TokenEmbedding } from './types.js';
+import {
+  type Embedder,
+  isTokenEmbedder,
+  type TokenEmbedder,
+  type TokenEmbedding,
+} from './types.js';
 
 /**
  * Pack unit-ish rows into a TokenEmbedding. `idBase` keeps vocab ids unique
@@ -217,5 +222,20 @@ describe('candidateSetIdf', () => {
   it('handles empty docs and empty query', () => {
     expect(candidateSetIdf([], [[1]])).toEqual([]);
     expect(candidateSetIdf([1], [])).toEqual([Math.log(1 + 0.5 / 0.5)]);
+  });
+});
+
+describe('isTokenEmbedder', () => {
+  const plain: Embedder = { id: 'plain', dim: 2, embed: () => new Float32Array(2) };
+
+  it('narrows only embedders that expose tokenEmbed', () => {
+    expect(isTokenEmbedder(plain)).toBe(false);
+    const token: TokenEmbedder = {
+      ...plain,
+      tokenEmbed: () => ({ ids: [], dim: 2, vectors: new Float32Array(0) }),
+      tokenIds: () => [],
+      tokenVector: () => new Float32Array(2),
+    };
+    expect(isTokenEmbedder(token)).toBe(true);
   });
 });
