@@ -1,7 +1,7 @@
 import { mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { basename, join } from 'node:path';
-import { type Embedder, poolingId } from '@seekstone/core/embed';
+import { poolingId, type TokenEmbedder, type TokenEmbedding } from '@seekstone/core/embed';
 import { afterAll, beforeAll, describe, expect, it, vi } from 'vitest';
 import type { GoldenSet } from './golden.js';
 import {
@@ -14,18 +14,32 @@ import {
 
 /**
  * Deterministic keyword embedder: axis 0 = wind, axis 1 = dairy, axis 2 =
- * everything else. Good enough to make semantic ranking predictable.
+ * everything else. Good enough to make semantic ranking predictable. Also a
+ * TokenEmbedder (one token id per axis) so the SHA-314 MaxSim experiment
+ * grid registers and runs under --experiments.
  */
-function stubEmbedder(id: string): Embedder {
+function stubEmbedder(id: string): TokenEmbedder {
+  const axis = (text: string): number => {
+    const t = text.toLowerCase();
+    if (/\b(wind|air|breeze|mill)\b/.test(t)) return 0;
+    if (/\b(milk|dairy|cheese|curd)\b/.test(t)) return 1;
+    return 2;
+  };
+  const vec = (a: number): Float32Array => {
+    const out = new Float32Array(3);
+    out[a] = 1;
+    return out;
+  };
   return {
     id,
     dim: 3,
-    embed(text: string): Float32Array {
-      const t = text.toLowerCase();
-      if (/\b(wind|air|breeze|mill)\b/.test(t)) return new Float32Array([1, 0, 0]);
-      if (/\b(milk|dairy|cheese|curd)\b/.test(t)) return new Float32Array([0, 1, 0]);
-      return new Float32Array([0, 0, 1]);
+    embed: (text) => vec(axis(text)),
+    tokenIds: (text) => [axis(text) + 1],
+    tokenEmbed(text): TokenEmbedding {
+      const a = axis(text);
+      return { ids: [a + 1], dim: 3, vectors: vec(a) };
     },
+    tokenVector: (tid) => vec(tid - 1),
   };
 }
 
@@ -193,6 +207,14 @@ describe('runRetrievalEval --experiments --shipped', () => {
       'hybrid-wsum85:stub-small',
       // SHA-313 pooling grid, every candidate through the shipped routing.
       ...POOLING_GRID.map((p) => `hybrid-route-${poolingId(p)}:stub-small`),
+      // SHA-314 MaxSim rerank grid (the stub is a TokenEmbedder).
+      'hybrid-route-maxsim-sum:stub-small',
+      'hybrid-route-maxsim-mean:stub-small',
+      'hybrid-route-maxsim-idf:stub-small',
+      'hybrid-route-maxsim-mean-b50:stub-small',
+      'hybrid-route-maxsim-mean-b70:stub-small',
+      'hybrid-route-maxsim-idf-b50:stub-small',
+      'hybrid-route-maxsim-idf-b70:stub-small',
       'shipped-semantic:stub-small',
       'shipped-hybrid:stub-small',
     ]);
@@ -213,6 +235,11 @@ describe('runRetrievalEval --experiments --shipped', () => {
     expect(sem?.conditions['hybrid-route:stub-small']?.hit5).toBe(true);
     expect(sem?.conditions['hybrid-wsum70:stub-small']?.hit5).toBe(true);
     expect(sem?.conditions['semantic-top2:stub-small']?.hit5).toBe(true);
+    // The shipped MaxSim config reranks the semantic fallback and keeps the hit.
+    expect(sem?.conditions['hybrid-route-maxsim-idf-b50:stub-small']?.hit5).toBe(true);
+    expect(q?.conditions['hybrid-route-maxsim-idf-b50:stub-small']?.top10).toEqual(
+      q?.conditions.lexical?.top10,
+    );
   });
 });
 

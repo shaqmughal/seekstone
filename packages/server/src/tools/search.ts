@@ -132,7 +132,11 @@ function lexicalSearch(ctx: ServerContext, input: SearchInput): SearchHit[] {
 
 function semanticSearch(ctx: ServerContext, semantic: Semantic, input: SearchInput): SearchHit[] {
   const queryVec = semantic.embedQuery(input.query);
-  const candidates = semantic.store.topNotes(queryVec, SEMANTIC_CANDIDATES);
+  // Stage 1: pooled cosine top-50; stage 2: MaxSim rerank (SHA-314).
+  const candidates = semantic.rerank(
+    input.query,
+    semantic.store.topNotes(queryVec, SEMANTIC_CANDIDATES),
+  );
   const terms = searchTerms(input.query);
 
   const hits: SearchHit[] = [];

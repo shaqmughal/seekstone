@@ -55,14 +55,16 @@ export function createVectorSet(dim: number): VectorSet {
 /**
  * Score every chunk against `query`, pool per note path (see pooling.ts),
  * and return the top `k` notes by score (ties broken by path ascending,
- * deterministically).
+ * deterministically). `chunk` is the max-scoring chunk's index in the set's
+ * add order, whatever pooling ranked the note — the passage that matched
+ * best (SHA-314 rerank consumes it).
  */
 export function scanTopNotes(
   query: Float32Array,
   set: VectorSet,
   k: number,
   pooling: ChunkPooling = 'max',
-): Array<{ path: string; score: number }> {
+): Array<{ path: string; score: number; chunk: number }> {
   if (!(set instanceof PackedVectorSet)) {
     throw new Error('vector set: expected a set from createVectorSet()');
   }
@@ -86,12 +88,13 @@ export function scanTopNotes(
     }
     a.add(score, c);
   }
-  const pooled: Array<[string, number]> = [...acc.entries()].map(([path, a]) => [
+  const pooled: Array<[string, number, number]> = [...acc.entries()].map(([path, a]) => [
     path,
     a.pool(pooling),
+    a.bestChunk,
   ]);
   return pooled
     .sort((a, b) => b[1] - a[1] || (a[0] < b[0] ? -1 : a[0] > b[0] ? 1 : 0))
     .slice(0, Math.max(0, k))
-    .map(([path, score]) => ({ path, score }));
+    .map(([path, score, chunk]) => ({ path, score, chunk }));
 }
