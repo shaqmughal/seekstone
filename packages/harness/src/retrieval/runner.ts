@@ -20,6 +20,7 @@ import {
   poolingId,
 } from '@seekstone/core/embed';
 import { type Distribution, summarise } from '@seekstone/core/percentiles';
+import { buildExpandRanker, type ExpandOptions } from './expand.js';
 import { routeToLexical, type ScoredHit, wsumFuse } from './fusion.js';
 import {
   filterSplit,
@@ -341,6 +342,33 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
         for (const [suffix, o] of MAXSIM_GRID) {
           const fn = rerank(o);
           conditions.push({ condition: `hybrid-route-${suffix}:${id}`, rank: fn, timedRank: fn });
+        }
+        // SHA-315 graph-expansion grid: the server's own 1-hop expansion over
+        // SHA-314-winner seeds, through the shipped hybrid routing. Sweeps
+        // fusion × hopDecay × per-seed cap × min gate; g0 rows are the
+        // gate-disabled control that must prove the gate earns its place.
+        const expander = buildExpandRanker(tokenEmbedder, index, lexical.ctx, RETRIEVAL_DEPTH);
+        const expand = (o: ExpandOptions) => (q: GoldenQuery) =>
+          routeToLexical(q.query, lexicalScored.get(q.id) as ScoredHit[])
+            ? lexPaths(q)
+            : expander.rank(q.query, o);
+        for (const fusion of ['boost', 'rrf'] as const) {
+          for (const hopDecay of [0.4, 0.7]) {
+            for (const capPerSeed of [3, 5]) {
+              for (const minGate of [0.25, 0.35, 0]) {
+                if (minGate === 0 && (fusion !== 'boost' || hopDecay !== 0.7 || capPerSeed !== 3)) {
+                  continue; // one control row, not a gate-less grid arm
+                }
+                const suffix = `xp-${fusion}-d${hopDecay * 100}c${capPerSeed}g${minGate * 100}`;
+                const fn = expand({ fusion, hopDecay, capPerSeed, minGate });
+                conditions.push({
+                  condition: `hybrid-route-${suffix}:${id}`,
+                  rank: fn,
+                  timedRank: fn,
+                });
+              }
+            }
+          }
         }
       }
     }

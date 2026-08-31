@@ -53,6 +53,16 @@ describe('SemanticStore', () => {
     expect(hits[0]?.path).toBe('a.md');
   });
 
+  it('scores a single note with the same pooling and span as topNotes', () => {
+    const store = new SemanticStore(2);
+    store.setNote('a.md', vec(1, 0, 0, 1), spansFor(2));
+    const hit = store.scoreNote('a.md', vec(0, 1));
+    expect(hit).toEqual(store.topNotes(vec(0, 1), 1)[0]);
+    expect(hit?.chunkIndex).toBe(1);
+    expect(store.scoreNote('ghost.md', vec(0, 1))).toBeUndefined();
+    expect(() => store.scoreNote('a.md', vec(1))).toThrow(/query dim/);
+  });
+
   it('rejects invalid dims, misshapen vectors, and mismatched spans', () => {
     expect(() => new SemanticStore(0)).toThrow(/invalid dim/);
     const store = new SemanticStore(3);

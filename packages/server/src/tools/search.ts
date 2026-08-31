@@ -133,6 +133,9 @@ function lexicalSearch(ctx: ServerContext, input: SearchInput): SearchHit[] {
 function semanticSearch(ctx: ServerContext, semantic: Semantic, input: SearchInput): SearchHit[] {
   const queryVec = semantic.embedQuery(input.query);
   // Stage 1: pooled cosine top-50; stage 2: MaxSim rerank (SHA-314).
+  // 1-hop graph expansion (semantic/expand.ts) is deliberately NOT wired in:
+  // the SHA-315 dev-split eval could not measure a gain on the committed
+  // fixture (its links are random by design) — see EXPANSION-SHA-315.md.
   const candidates = semantic.rerank(
     input.query,
     semantic.store.topNotes(queryVec, SEMANTIC_CANDIDATES),

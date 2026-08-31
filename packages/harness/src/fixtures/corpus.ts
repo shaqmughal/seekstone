@@ -1,6 +1,9 @@
 import { createHash } from 'node:crypto';
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
+// Explicit undici fetch — see models.ts: importing the npm `undici` package
+// anywhere in the process breaks Node 26's global-fetch redirect following.
+import { fetch } from 'undici';
 import { type Article, parseVolume } from './parse-volume.js';
 
 export interface CorpusManifestEntry {

@@ -1,6 +1,18 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
+// Explicit undici fetch: once anything imports the npm `undici` package (the
+// REST adapter does, transitively via the CLI), Node 26's GLOBAL fetch stops
+// following redirects and Hugging Face's CDN 302 surfaces as a failure.
+// undici's own fetch follows regardless of import order.
+import { fetch as undiciFetch } from 'undici';
 import { sha256 } from './corpus.js';
+
+/** The slice of fetch the downloaders need; injectable so tests stay offline. */
+export type FetchLike = (
+  url: string,
+) => Promise<{ ok: boolean; status: number; arrayBuffer(): Promise<ArrayBuffer> }>;
+
+export const defaultFetch: FetchLike = (url) => undiciFetch(url);
 
 export interface ModelManifestEntry {
   /** Model directory name, e.g. "potion-base-8M". */
@@ -37,6 +49,7 @@ export async function fetchModels(
   manifestPath: string,
   destDir: string,
   log: (msg: string) => void = () => {},
+  fetchImpl: FetchLike = defaultFetch,
 ): Promise<{ fetched: number; skipped: number }> {
   const manifest = JSON.parse(readFileSync(manifestPath, 'utf8')) as ModelManifest;
   let fetched = 0;
@@ -51,7 +64,7 @@ export async function fetchModels(
       continue;
     }
     log(`fetching ${e.model}/${e.file} (${e.bytes} bytes)…`);
-    const res = await fetch(e.url);
+    const res = await fetchImpl(e.url);
     if (!res.ok) throw new Error(`fetch ${e.url} failed: ${res.status}`);
     const buf = Buffer.from(await res.arrayBuffer());
     const got = sha256(buf);
