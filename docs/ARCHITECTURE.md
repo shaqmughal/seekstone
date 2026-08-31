@@ -86,7 +86,7 @@ flowchart TD
 
     watch["④ Watcher — watcher.ts<br/>chokidar → incremental re-index<br/>(SEEKSTONE_WATCH_POLL=1 to stat-poll,<br/>SEEKSTONE_WATCH_POLL_INTERVAL ms, default 10s)"]
 
-    sem["④b Semantic index — semantic/ (opt-in, SEEKSTONE_SEMANTIC=1)<br/>state.ts lifecycle (background build · debounced re-embeds)<br/>store.ts per-note chunk vectors · route.ts hybrid routing<br/>config.ts (SEEKSTONE_SEMANTIC_MODEL · SEEKSTONE_MODEL_PATH · SEEKSTONE_CACHE_DIR) · excerpt.ts"]
+    sem["④b Semantic index — semantic/ (opt-in, SEEKSTONE_SEMANTIC=1)<br/>state.ts lifecycle (background build · debounced re-embeds)<br/>store.ts per-note chunk vectors · route.ts hybrid routing<br/>rerank.ts MaxSim rerank<br/>config.ts (SEEKSTONE_SEMANTIC_MODEL · SEEKSTONE_MODEL_PATH · SEEKSTONE_CACHE_DIR) · excerpt.ts"]
     embcache[("Embedding cache<br/>~/.cache/seekstone (or SEEKSTONE_CACHE_DIR)<br/>vectors + chunk spans, keyed by (path, contentHash)<br/>one cache file per model id + dim")]
 
     subgraph disp["⑤ Dispatch — dispatch.ts"]
@@ -168,12 +168,19 @@ flowchart TD
    meanwhile get a structured `semantic_building` progress error); persisted
    to a per-vault `(path, contentHash)`-keyed cache of vectors + chunk spans
    under `SEEKSTONE_CACHE_DIR` (default `~/.cache/seekstone`) so restarts
-   reload in milliseconds instead of re-embedding. Retrieval is a deliberate
-   **brute-force cosine scan** (no ANN index — exhaustive over every chunk,
-   ~14 ms warm at 10k notes) with max-pooling per note; the winning chunk's
-   recorded span makes the excerpt a direct slice of the matching passage.
-   `search`'s `mode: semantic` scans it; `mode: hybrid` routes exact-title
-   lookups to lexical and everything else here.
+   reload in milliseconds instead of re-embedding. Retrieval is a two-stage
+   pipeline: a deliberate **brute-force cosine scan** (no ANN index —
+   exhaustive over every chunk, ~14 ms warm at 10k notes) with max-pooling
+   per note picks the top-50; then a **MaxSim late-interaction rerank**
+   (`rerank.ts`, SHA-314) re-scores each candidate's winning chunk with
+   token-level max-cosines. (A 1-hop graph-expansion stage, `expand.ts`,
+   exists but is deliberately not wired in — the SHA-315 eval could not
+   measure a gain on the committed fixture, whose links are random by
+   design; see `packages/harness/fixtures/baseline-reports/EXPANSION-SHA-315.md`.)
+   The winning chunk's recorded span makes the excerpt a direct slice of
+   the matching passage. `search`'s `mode: semantic` runs this pipeline;
+   `mode: hybrid` routes exact-title lookups to lexical and everything
+   else here.
 5. **Dispatch (`dispatch.ts`)** — the routing seam. `dispatch()` wraps the
    per-tool `run()` switch with `performance.now()` timing, structured logging
    (content/query args are debug-only — never logged at info), payload-byte

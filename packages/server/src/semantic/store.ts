@@ -103,31 +103,52 @@ export class SemanticStore {
     if (query.length !== this.dim) {
       throw new Error(`semantic store: query dim ${query.length} does not match ${this.dim}`);
     }
-    const dim = this.dim;
-    const pooling = this.pooling;
     const hits: SemanticHit[] = [];
-    for (const [path, { packed, spans }] of this.notes) {
-      const acc = new PoolAccumulator(pooling);
-      const n = packed.length / dim;
-      for (let c = 0; c < n; c++) {
-        const base = c * dim;
-        let score = 0;
-        for (let j = 0; j < dim; j++) {
-          score += (packed[base + j] as number) * (query[j] as number);
-        }
-        acc.add(score, c);
-      }
-      const bestChunk = acc.bestChunk;
-      hits.push({
-        path,
-        score: acc.pool(pooling),
-        chunkIndex: bestChunk,
-        start: spans[bestChunk * 2] as number,
-        end: spans[bestChunk * 2 + 1] as number,
-      });
+    for (const [path, vectors] of this.notes) {
+      hits.push(this.scoreVectors(path, vectors, query));
     }
     return hits
       .sort((a, b) => b.score - a.score || (a.path < b.path ? -1 : a.path > b.path ? 1 : 0))
       .slice(0, Math.max(0, k));
+  }
+
+  /**
+   * Score a single note's cached chunk vectors against the query (SHA-315
+   * graph expansion gates candidates on this). Same pooling and best-chunk
+   * span as topNotes; undefined when the note has no vectors.
+   */
+  scoreNote(path: string, query: Float32Array): SemanticHit | undefined {
+    if (query.length !== this.dim) {
+      throw new Error(`semantic store: query dim ${query.length} does not match ${this.dim}`);
+    }
+    const vectors = this.notes.get(path);
+    return vectors === undefined ? undefined : this.scoreVectors(path, vectors, query);
+  }
+
+  private scoreVectors(
+    path: string,
+    { packed, spans }: NoteVectors,
+    query: Float32Array,
+  ): SemanticHit {
+    const dim = this.dim;
+    const pooling = this.pooling;
+    const acc = new PoolAccumulator(pooling);
+    const n = packed.length / dim;
+    for (let c = 0; c < n; c++) {
+      const base = c * dim;
+      let score = 0;
+      for (let j = 0; j < dim; j++) {
+        score += (packed[base + j] as number) * (query[j] as number);
+      }
+      acc.add(score, c);
+    }
+    const bestChunk = acc.bestChunk;
+    return {
+      path,
+      score: acc.pool(pooling),
+      chunkIndex: bestChunk,
+      start: spans[bestChunk * 2] as number,
+      end: spans[bestChunk * 2 + 1] as number,
+    };
   }
 }

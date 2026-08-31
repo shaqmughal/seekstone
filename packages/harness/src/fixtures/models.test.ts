@@ -3,7 +3,7 @@ import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from 'no
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { afterAll, afterEach, beforeAll, describe, expect, it, vi } from 'vitest';
+import { afterAll, beforeAll, describe, expect, it, vi } from 'vitest';
 import { fetchModels, type ModelManifest } from './models.js';
 
 const COMMITTED_MANIFEST = fileURLToPath(
@@ -50,9 +50,6 @@ describe('fetchModels', () => {
   afterAll(() => {
     rmSync(dir, { recursive: true, force: true });
   });
-  afterEach(() => {
-    vi.unstubAllGlobals();
-  });
 
   const sha = (s: string) => createHash('sha256').update(s).digest('hex');
 
@@ -63,15 +60,10 @@ describe('fetchModels', () => {
     return path;
   }
 
-  function stubFetch(body: string): void {
-    vi.stubGlobal(
-      'fetch',
-      vi.fn(async () => new Response(body)),
-    );
-  }
+  const stubFetch = (body: string) => vi.fn(async () => new Response(body));
 
   it('downloads, verifies, and writes a pinned file', async () => {
-    stubFetch('model-bytes');
+    const fetchImpl = stubFetch('model-bytes');
     const manifest = writeManifest('ok.json', [
       {
         model: 'm',
@@ -82,14 +74,13 @@ describe('fetchModels', () => {
       },
     ]);
     const dest = join(dir, 'ok-dest');
-    const r = await fetchModels(manifest, dest);
+    const r = await fetchModels(manifest, dest, undefined, fetchImpl);
     expect(r).toEqual({ fetched: 1, skipped: 0 });
     expect(readFileSync(join(dest, 'm', 'config.json'), 'utf8')).toBe('model-bytes');
   });
 
   it('skips an already-present checksum-matching file without fetching', async () => {
     const fetchSpy = vi.fn();
-    vi.stubGlobal('fetch', fetchSpy);
     const manifest = writeManifest('skip.json', [
       {
         model: 'm',
@@ -103,13 +94,13 @@ describe('fetchModels', () => {
     const { mkdirSync } = await import('node:fs');
     mkdirSync(join(dest, 'm'), { recursive: true });
     writeFileSync(join(dest, 'm', 'config.json'), 'cached');
-    const r = await fetchModels(manifest, dest);
+    const r = await fetchModels(manifest, dest, undefined, fetchSpy);
     expect(r).toEqual({ fetched: 0, skipped: 1 });
     expect(fetchSpy).not.toHaveBeenCalled();
   });
 
   it('throws on a checksum mismatch', async () => {
-    stubFetch('tampered');
+    const fetchImpl = stubFetch('tampered');
     const manifest = writeManifest('bad.json', [
       {
         model: 'm',
@@ -119,18 +110,18 @@ describe('fetchModels', () => {
         bytes: 8,
       },
     ]);
-    await expect(fetchModels(manifest, join(dir, 'bad-dest'))).rejects.toThrow(
-      /checksum mismatch for m\/config.json/,
-    );
+    await expect(
+      fetchModels(manifest, join(dir, 'bad-dest'), undefined, fetchImpl),
+    ).rejects.toThrow(/checksum mismatch for m\/config.json/);
   });
 
   it('downloads a TBD-sentinel entry but throws demanding it be pinned', async () => {
-    stubFetch('new-model');
+    const fetchImpl = stubFetch('new-model');
     const manifest = writeManifest('tbd.json', [
       { model: 'm', file: 'config.json', url: 'https://huggingface.co/x', sha256: 'TBD', bytes: 9 },
     ]);
     const dest = join(dir, 'tbd-dest');
-    await expect(fetchModels(manifest, dest)).rejects.toThrow(
+    await expect(fetchModels(manifest, dest, undefined, fetchImpl)).rejects.toThrow(
       new RegExp(`m/config.json: ${sha('new-model')}`),
     );
     // The file is still written so the printed hash can be trusted/re-checked.
@@ -138,10 +129,7 @@ describe('fetchModels', () => {
   });
 
   it('throws on a failed HTTP response', async () => {
-    vi.stubGlobal(
-      'fetch',
-      vi.fn(async () => new Response('nope', { status: 404 })),
-    );
+    const fetchImpl = vi.fn(async () => new Response('nope', { status: 404 }));
     const manifest = writeManifest('http.json', [
       {
         model: 'm',
@@ -151,6 +139,8 @@ describe('fetchModels', () => {
         bytes: 1,
       },
     ]);
-    await expect(fetchModels(manifest, join(dir, 'http-dest'))).rejects.toThrow(/failed: 404/);
+    await expect(
+      fetchModels(manifest, join(dir, 'http-dest'), undefined, fetchImpl),
+    ).rejects.toThrow(/failed: 404/);
   });
 });
