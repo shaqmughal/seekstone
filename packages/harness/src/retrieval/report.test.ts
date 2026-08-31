@@ -213,3 +213,41 @@ describe('renderRetrievalMarkdown with splits (SHA-312)', () => {
     expect(md).toContain('[holdout split only]');
   });
 });
+
+describe('renderRetrievalMarkdown gate v2 (SHA-316)', () => {
+  it('renders the pre-registered text, per-clause reasons, and verdict when present', () => {
+    const md = renderRetrievalMarkdown({
+      ...summary,
+      gateV2: {
+        shippedCondition: 'shipped-hybrid:potion-retrieval-32M',
+        competitorCondition: 'competitor:obsidian-tc-graph',
+        clauses: [
+          {
+            clause: 'holdout-beats-tc-graph',
+            pass: true,
+            reason:
+              'holdout overall hit@5 88.0% vs competitor:obsidian-tc-graph 85.0% (n=60; gate: strictly greater): PASS',
+          },
+          {
+            clause: 'shipped-warm-p95',
+            pass: false,
+            reason: 'shipped warm p95 31.00 ms @ 10k notes (gate <= 30 ms): FAIL',
+          },
+        ],
+        verdict: 'fail',
+      },
+    });
+    expect(md).toContain('## Gate v2 verdict (SHA-316)');
+    expect(md).toContain(
+      'Judged condition: `shipped-hybrid:potion-retrieval-32M` vs `competitor:obsidian-tc-graph`.',
+    );
+    expect(md).toContain(
+      '- holdout overall hit@5 88.0% vs competitor:obsidian-tc-graph 85.0% (n=60; gate: strictly greater): PASS',
+    );
+    expect(md).toContain('**Gate v2: FAIL**');
+  });
+
+  it('omits the section entirely when the run is not the matrix', () => {
+    expect(renderRetrievalMarkdown(summary)).not.toContain('Gate v2 verdict');
+  });
+});

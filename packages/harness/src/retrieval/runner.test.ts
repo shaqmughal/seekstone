@@ -7,6 +7,7 @@ import type { GoldenSet } from './golden.js';
 import {
   type ConditionResult,
   computeGate,
+  computeGateV2,
   POOLING_GRID,
   type RetrievalSummary,
   runRetrievalEval,
@@ -563,5 +564,124 @@ describe('computeGate', () => {
     );
     expect(gate.verdict).toBe('no-ship');
     expect(gate.perModel[0]?.reasons.join(' ')).toMatch(/p95 40.00 ms .*FAIL/);
+  });
+});
+
+describe('computeGateV2 (SHA-316)', () => {
+  const metrics = (hit5: number, n = 10) => ({ hit5, mrr10: 0.5, n });
+  const subset = (overall: number, lexical = 100) => ({
+    overall: metrics(overall),
+    semantic: metrics(overall),
+    lexical: metrics(lexical, 5),
+    topical: metrics(overall),
+  });
+  const dist = (p95: number) => ({
+    n: 10,
+    min: 0,
+    median: p95 / 2,
+    p90: p95,
+    p95,
+    p99: p95,
+    max: p95,
+    mean: p95 / 2,
+  });
+  /** A --split all condition: metrics are all-split, holdout rides in splits. */
+  const condition = (
+    name: string,
+    holdoutOverall: number,
+    opts: { p95?: number; holdoutLexical?: number } = {},
+  ): ConditionResult => ({
+    condition: name,
+    metrics: subset(50),
+    splits: {
+      dev: subset(40),
+      holdout: subset(holdoutOverall, opts.holdoutLexical ?? 100),
+    },
+    latency: { warm: dist(opts.p95 ?? 20) },
+  });
+  const DEPS = ['zod', 'minisearch'];
+  const base = { qualityModel: '32M', split: 'all' as const, runtimeDeps: DEPS };
+
+  it('passes when all four clauses pass, with per-clause reasons', () => {
+    const gate = computeGateV2(
+      [condition('shipped-hybrid:32M', 88), condition('competitor:obsidian-tc-graph', 85)],
+      base,
+    );
+    expect(gate?.verdict).toBe('pass');
+    expect(gate?.clauses.map((c) => c.pass)).toEqual([true, true, true, true]);
+    expect(gate?.clauses[0]?.reason).toMatch(/88.0% vs competitor:obsidian-tc-graph 85.0%.*PASS/);
+  });
+
+  it('fails clause 1 on a loss AND on a tie, still reporting every clause', () => {
+    for (const ours of [80, 85]) {
+      const gate = computeGateV2(
+        [condition('shipped-hybrid:32M', ours), condition('competitor:obsidian-tc-graph', 85)],
+        base,
+      );
+      expect(gate?.verdict).toBe('fail');
+      expect(gate?.clauses[0]?.pass).toBe(false);
+      expect(gate?.clauses).toHaveLength(4);
+    }
+  });
+
+  it('fails clause 2 when holdout lexical drops below 100', () => {
+    const gate = computeGateV2(
+      [
+        condition('shipped-hybrid:32M', 88, { holdoutLexical: 80 }),
+        condition('competitor:obsidian-tc-graph', 85),
+      ],
+      base,
+    );
+    expect(gate?.verdict).toBe('fail');
+    expect(gate?.clauses[1]?.reason).toMatch(/80.0%.*FAIL/);
+  });
+
+  it('fails clause 3 over 30 ms and clause 4 on a new runtime dep', () => {
+    const slow = computeGateV2(
+      [
+        condition('shipped-hybrid:32M', 88, { p95: 31 }),
+        condition('competitor:obsidian-tc-graph', 85),
+      ],
+      base,
+    );
+    expect(slow?.verdict).toBe('fail');
+    expect(slow?.clauses[2]?.reason).toMatch(/31.00 ms.*FAIL/);
+
+    const dep = computeGateV2(
+      [condition('shipped-hybrid:32M', 88), condition('competitor:obsidian-tc-graph', 85)],
+      { ...base, runtimeDeps: [...DEPS, 'onnxruntime-node'] },
+    );
+    expect(dep?.verdict).toBe('fail');
+    expect(dep?.clauses[3]?.reason).toMatch(/onnxruntime-node.*FAIL/);
+  });
+
+  it('reads top-level metrics when the run itself was --split holdout', () => {
+    const holdoutOnly = (name: string, overall: number): ConditionResult => ({
+      condition: name,
+      metrics: subset(overall),
+      latency: { warm: dist(20) },
+    });
+    const gate = computeGateV2(
+      [holdoutOnly('shipped-hybrid:32M', 88), holdoutOnly('competitor:obsidian-tc-graph', 85)],
+      { ...base, split: 'holdout' },
+    );
+    expect(gate?.verdict).toBe('pass');
+  });
+
+  it('fails the holdout clause on a dev-only run and is absent without the matrix conditions', () => {
+    const devOnly = (name: string, overall: number): ConditionResult => ({
+      condition: name,
+      metrics: subset(overall),
+      latency: { warm: dist(20) },
+    });
+    const gate = computeGateV2(
+      [devOnly('shipped-hybrid:32M', 88), devOnly('competitor:obsidian-tc-graph', 85)],
+      { ...base, split: 'dev' },
+    );
+    expect(gate?.verdict).toBe('fail');
+    expect(gate?.clauses[0]?.reason).toMatch(/no holdout metrics/);
+
+    expect(computeGateV2([devOnly('shipped-hybrid:32M', 88)], base)).toBeUndefined();
+    expect(computeGateV2([devOnly('competitor:obsidian-tc-graph', 85)], base)).toBeUndefined();
   });
 });
