@@ -150,5 +150,22 @@ export function renderRetrievalMarkdown(s: RetrievalSummary): string {
     `**Overall: ${s.gate.verdict.toUpperCase()}**${s.gate.chosenModel ? ` — chosen model: ${s.gate.chosenModel}` : ''}`,
   );
   lines.push('');
+
+  if (s.gateV2) {
+    lines.push('## Gate v2 verdict (SHA-316)');
+    lines.push('');
+    lines.push(
+      "> **Pre-registered gate v2 (SHA-311):** on the held-out split, seekstone's shipped quality mode must (1) beat obsidian-tc-graph's overall hit@5, re-measured under identical harness conditions in this same run; (2) keep the exact-term (lexical) subset at 100% via routing; (3) warm end-to-end p95 ≤ 30 ms @ 10k notes; (4) zero new runtime dependencies, zero native modules, fully offline at runtime.",
+    );
+    lines.push('');
+    lines.push(
+      `Judged condition: \`${s.gateV2.shippedCondition}\` vs \`${s.gateV2.competitorCondition}\`.`,
+    );
+    lines.push('');
+    for (const c of s.gateV2.clauses) lines.push(`- ${c.reason}`);
+    lines.push('');
+    lines.push(`**Gate v2: ${s.gateV2.verdict.toUpperCase()}**`);
+    lines.push('');
+  }
   return lines.join('\n');
 }

@@ -10,6 +10,7 @@
  * gain of +5..+10 points is the discuss zone. Model choice = smallest model
  * passing.
  */
+import { readFile } from 'node:fs/promises';
 import { cpus } from 'node:os';
 import { join } from 'node:path';
 import {
@@ -56,6 +57,27 @@ export const GATE = {
   discussSemanticDeltaHit5: 5,
   maxLexicalRegressionHit5: 2,
   maxSemanticWarmP95Ms: 15,
+} as const;
+
+/**
+ * Gate v2 (SHA-316), pre-registered in SHA-311 before any holdout number was
+ * seen. The dependency allowlist is the server's runtime dependency set as
+ * frozen before the SHA-310..315 work — clause 4 fails if the epic smuggled
+ * in a new runtime dep, a native module, or a network requirement.
+ */
+export const GATE_V2 = {
+  maxShippedWarmP95Ms: 30,
+  requiredLexicalHit5: 100,
+  competitorCondition: 'competitor:obsidian-tc-graph',
+  allowedRuntimeDeps: [
+    '@modelcontextprotocol/sdk',
+    'chokidar',
+    'fast-glob',
+    'minisearch',
+    'picomatch',
+    'yaml',
+    'zod',
+  ],
 } as const;
 
 export interface ConditionMetrics {
@@ -120,6 +142,20 @@ export interface GateResult {
   chosenModel: string | null;
 }
 
+export interface GateV2Clause {
+  clause: string;
+  pass: boolean;
+  reason: string;
+}
+
+export interface GateV2Result {
+  /** The shipped condition the gate judged, e.g. `shipped-hybrid:potion-retrieval-32M`. */
+  shippedCondition: string;
+  competitorCondition: string;
+  clauses: GateV2Clause[];
+  verdict: 'pass' | 'fail';
+}
+
 export interface ModelInfo {
   modelId: string;
   dim: number;
@@ -154,6 +190,12 @@ export interface RetrievalSummary {
   conditions: ConditionResult[];
   perQuery: PerQueryResult[];
   gate: GateResult;
+  /**
+   * Gate v2 verdict (SHA-316) — present only when the run evaluated both the
+   * shipped conditions and the tc-graph competitor, i.e. the accountability
+   * matrix run. Judged on holdout metrics exclusively.
+   */
+  gateV2?: GateV2Result;
 }
 
 export interface CompetitorSetup {
@@ -494,7 +536,27 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     conditions: conditionResults,
     perQuery,
     gate: computeGate(opts.modelIds, conditionResults),
+    ...(await gateV2For(opts, conditionResults, split)),
   };
+}
+
+/** Attach gateV2 when this run is the SHA-316 accountability matrix. */
+async function gateV2For(
+  opts: RetrievalEvalOptions,
+  conditions: ConditionResult[],
+  split: SplitFilter,
+): Promise<{ gateV2: GateV2Result } | Record<string, never>> {
+  const qualityModel = opts.modelIds[0];
+  if (!qualityModel || !opts.shipped || !opts.competitors) return {};
+  const pkg = JSON.parse(
+    await readFile(new URL('../../../server/package.json', import.meta.url), 'utf8'),
+  ) as { dependencies?: Record<string, string> };
+  const gateV2 = computeGateV2(conditions, {
+    qualityModel,
+    split,
+    runtimeDeps: Object.keys(pkg.dependencies ?? {}),
+  });
+  return gateV2 ? { gateV2 } : {};
 }
 
 function countKinds(queries: GoldenQuery[]): QuerySetCounts {
@@ -593,4 +655,86 @@ export function computeGate(modelIds: string[], conditions: ConditionResult[]): 
       ? 'discuss'
       : 'no-ship';
   return { perModel, verdict, chosenModel: chosen?.model ?? null };
+}
+
+/**
+ * Gate v2 (SHA-316), judged on HOLDOUT metrics only. `qualityModel` is the
+ * shipped quality-mode model (the run's first model id); `runtimeDeps` is
+ * the server package.json runtime dependency list at run time (clause 4).
+ * Returns undefined when the run lacks the shipped or tc-graph conditions —
+ * a tuning run, not the accountability matrix.
+ *
+ * Every clause is evaluated and reported even after one fails: a miss gets
+ * published with the full picture, not just the first broken clause.
+ */
+export function computeGateV2(
+  conditions: ConditionResult[],
+  opts: { qualityModel: string; split: SplitFilter; runtimeDeps: string[] },
+): GateV2Result | undefined {
+  const byName = new Map(conditions.map((c) => [c.condition, c]));
+  const shippedCondition = `shipped-hybrid:${opts.qualityModel}`;
+  const shipped = byName.get(shippedCondition);
+  const competitor = byName.get(GATE_V2.competitorCondition);
+  if (!shipped || !competitor) return undefined;
+
+  // A --split holdout run's top-level metrics ARE holdout; a --split all run
+  // carries them under splits.holdout. A dev-only run has no holdout story.
+  const holdoutOf = (c: ConditionResult): SubsetMetrics | undefined =>
+    opts.split === 'holdout' ? c.metrics : c.splits?.holdout;
+  const ours = holdoutOf(shipped);
+  const theirs = holdoutOf(competitor);
+
+  const clauses: GateV2Clause[] = [];
+  if (ours === undefined || theirs === undefined || ours.overall.n === 0) {
+    clauses.push({
+      clause: 'holdout-beats-tc-graph',
+      pass: false,
+      reason: 'no holdout metrics in this run (needs --split holdout or --split all): FAIL',
+    });
+  } else {
+    const beat = ours.overall.hit5 > theirs.overall.hit5;
+    clauses.push({
+      clause: 'holdout-beats-tc-graph',
+      pass: beat,
+      reason:
+        `holdout overall hit@5 ${ours.overall.hit5.toFixed(1)}% vs ` +
+        `${GATE_V2.competitorCondition} ${theirs.overall.hit5.toFixed(1)}% ` +
+        `(n=${ours.overall.n}; gate: strictly greater): ${beat ? 'PASS' : 'FAIL'}`,
+    });
+    const lexOk = ours.lexical.hit5 >= GATE_V2.requiredLexicalHit5;
+    clauses.push({
+      clause: 'holdout-lexical-100',
+      pass: lexOk,
+      reason:
+        `holdout lexical subset hit@5 ${ours.lexical.hit5.toFixed(1)}% ` +
+        `(n=${ours.lexical.n}; gate: 100% via routing): ${lexOk ? 'PASS' : 'FAIL'}`,
+    });
+  }
+
+  const p95 = shipped.latency.warm.p95;
+  const fast = p95 <= GATE_V2.maxShippedWarmP95Ms;
+  clauses.push({
+    clause: 'shipped-warm-p95',
+    pass: fast,
+    reason: `shipped warm p95 ${p95.toFixed(2)} ms @ 10k notes (gate ≤ ${GATE_V2.maxShippedWarmP95Ms} ms): ${fast ? 'PASS' : 'FAIL'}`,
+  });
+
+  const extras = opts.runtimeDeps.filter(
+    (d) => !(GATE_V2.allowedRuntimeDeps as readonly string[]).includes(d),
+  );
+  clauses.push({
+    clause: 'zero-new-deps-offline',
+    pass: extras.length === 0,
+    reason:
+      extras.length === 0
+        ? `runtime deps unchanged from the pre-epic allowlist (${opts.runtimeDeps.length} pure-JS packages); offline enforced by no-network.test.ts: PASS`
+        : `new runtime dependencies since the pre-epic freeze: ${extras.join(', ')}: FAIL`,
+  });
+
+  return {
+    shippedCondition,
+    competitorCondition: GATE_V2.competitorCondition,
+    clauses,
+    verdict: clauses.every((c) => c.pass) ? 'pass' : 'fail',
+  };
 }

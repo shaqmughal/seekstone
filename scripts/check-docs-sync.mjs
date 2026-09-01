@@ -75,6 +75,12 @@ const RETIRED = [
   /compare-and-swap (on )?edits/,
   // Reversed word order of the same retired scoping ("edits support … CAS").
   /\bedits? support\b[^.\n]{0,80}compare-and-swap/,
+  // SHA-316: pre-MaxSim comparison numbers, superseded by the gate-v2 matrix
+  // (retrieval-eval-competitors + GATE-V2-SHA-316). Our old 76% overall and
+  // the old tc latency/index measurements must not resurface.
+  /vs our 76%/,
+  /171\s*ms vs 14\s*ms/,
+  /26\.5[- ]minute/,
 ];
 const RETIRED_SURFACES = [
   'README.md',

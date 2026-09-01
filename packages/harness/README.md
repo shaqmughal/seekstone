@@ -47,10 +47,12 @@ npm run harness -- safety  --backend fs --vault "$V" --sample 25 --out "$OUT"
 npm run harness -- retrieval --model potion-retrieval-32M,potion-base-8M --shipped --split all --out "$OUT"
 # (32M first so the shipped-search conditions exercise the opt-in model; both models still score in-harness)
 
-# competitor semantic comparison (SHA-308) — produced retrieval-eval-competitors.{json,md}.
+# competitor semantic comparison + gate v2 (SHA-316) — this exact invocation produced the
+# committed retrieval-eval-competitors.{json,md}, including the pre-registered gate-v2 verdict
+# (computed in code, judged on the holdout split; see GATE-V2-SHA-316.md).
 # Needs a local Ollama serving nomic-embed-text (both competitors delegate embeddings to it):
 #   brew install ollama && ollama serve & && ollama pull nomic-embed-text
-npm run harness -- retrieval --model potion-base-8M --runs 5 --shipped --competitors --out "$OUT"
+npm run harness -- retrieval --model potion-retrieval-32M,potion-base-8M --runs 5 --shipped --competitors --split all --out "$OUT"
 ```
 
 Committed baseline outputs live in [`fixtures/baseline-reports/`](./fixtures/baseline-reports).
