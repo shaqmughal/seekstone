@@ -33,7 +33,7 @@
     "@anthropic-ai/mcpb": "^2.1.2",
     "@biomejs/biome": "^2.5.11",
     "@changesets/cli": "^3.0.1",
-    "@types/node": "^26.2.0",
+    "@types/node": "^26.4.0",
     "@vitest/coverage-v8": "^4.1.11",
     "fast-check": "^4.9.0",
     "tsup": "^8.3.5",
