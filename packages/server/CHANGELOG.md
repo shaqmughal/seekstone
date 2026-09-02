@@ -1,5 +1,12 @@
 # seekstone
 
+## 0.17.1
+
+### Patch Changes
+
+- 9670b2a: chore: bump picomatch to ^4.0.7
+- fe96c45: chore: bump zod to ^4.5.4
+
 ## 0.17.0
 
 ### Minor Changes

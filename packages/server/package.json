@@ -1,6 +1,6 @@
 {
   "name": "seekstone",
-  "version": "0.17.0",
+  "version": "0.17.1",
   "mcpName": "io.github.shaqmughal/seekstone",
   "type": "module",
   "description": "The Obsidian MCP server that needs no plugin, no running Obsidian app — and doesn't blow your context window. Filesystem-direct: single-digit-ms keyword search, ~14 ms local semantic search, ~2 KB payloads, 21 tools.",
