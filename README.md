@@ -388,7 +388,7 @@ Seekstone reads — and, via the write tools, modifies — files under `SEEKSTON
 
 ### The Write-Safety Contract
 
-Giving an AI write access to your notes deserves more than "trust us." Seekstone ships a named, tested contract — [`docs/WRITE-SAFETY.md`](docs/WRITE-SAFETY.md) — of **nine guarantees, each linked to the code that enforces it and the test that proves it**, verified byte-by-byte by the harness safety suite in CI on every commit and release: zero network, vault sandbox, byte-identical frontmatter on body edits, atomic writes (no torn files), creates never clobber, recoverable deletes (`.trash/`), optional compare-and-swap on every write tool, configurable write scoping / read-only mode, and a write journal that makes every write reversible (`undo_write`). The same suite runs headlessly against other FS-direct servers — the comparison table is in the contract.
+Giving an AI write access to your notes deserves more than "trust us." Seekstone ships a named, tested contract — [`docs/WRITE-SAFETY.md`](docs/WRITE-SAFETY.md) — of **ten guarantees, each linked to the code that enforces it and the test that proves it**, verified byte-by-byte by the harness safety suite in CI on every commit and release: zero network, vault sandbox, byte-identical frontmatter on body edits, atomic writes (no torn files), creates never clobber, recoverable deletes (`.trash/`), optional compare-and-swap on every write tool, configurable write scoping / read-only mode, a write journal that makes every write reversible (`undo_write`), and a hash-verifiable audit log — every write call leaves a receipt. The same suite runs headlessly against other FS-direct servers — the comparison table is in the contract.
 
 ---
 
