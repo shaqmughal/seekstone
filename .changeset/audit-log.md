@@ -1,5 +1,0 @@
----
-'seekstone': minor
----
-
-Structured audit logging. Set `SEEKSTONE_AUDIT_FILE` and every write-tool call — successful or refused — appends one JSON-line record: tool, vault-relative paths, sha-256 before/after (the same values `read_note` returns as `contentHash`, so records are verifiable against the vault), outcome (`ok`, `hash_conflict`, `undo_conflict`, `policy_denied`, `error`), duration, and op metadata such as replacement counts, link-rewrite counts, or the `.trash/` destination. When the write journal is on, each record carries the journal `seq` it committed, so a row indexes straight into `list_writes` / `undo_write`. Records never contain note content, frontmatter values, or search queries (frontmatter records list key names only), so the file is safe to share. Records are fsync'd after the vault write commits; the file rotates to `<file>.1` past `SEEKSTONE_AUDIT_MAX_SIZE` (default 10 MB); an unwritable audit path fails boot, and a failed append reports the call as a structured `audit_failed` error rather than a clean success. Documented as Write-Safety guarantee 10 with `jq` recipes in the README.
