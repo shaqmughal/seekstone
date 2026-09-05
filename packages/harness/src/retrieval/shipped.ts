@@ -30,9 +30,13 @@ export async function buildShipped(
     { loadModel },
   );
   await semantic.ready();
-  ctx.semantic = semantic;
   return {
-    rank: (mode) => (query) => searchTool(ctx, { query, mode, limit: 50 }).map((h) => h.path),
+    // One handle per model shares the single server ctx (SHA-323), so each
+    // call re-points ctx.semantic at this handle's index before searching.
+    rank: (mode) => (query) => {
+      ctx.semantic = semantic;
+      return searchTool(ctx, { query, mode, limit: 50 }).map((h) => h.path);
+    },
     buildMs: performance.now() - t0,
     stop: () => semantic.stop(),
   };

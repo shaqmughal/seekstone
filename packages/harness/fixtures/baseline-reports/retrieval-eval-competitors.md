@@ -1,13 +1,13 @@
 # Retrieval-quality eval (SHA-257 spike)
 
-- **Snapshot:** 2026-09-01T00:06:57.088Z
+- **Snapshot:** 2026-09-04T03:50:58.214Z
 - **Machine:** darwin/arm64, node v26.0.0, 10 cpus
 - **Vault:** packages/harness/fixtures/vault (10000 notes)
 - **Query set:** 150 queries (90 semantic, 30 lexical, 30 topical), 5 latency runs/query
 - **Splits:** dev 90 (54/18/18), holdout 60 (36/12/12) — tuning reads dev only; gate v2 reports on holdout
-- **Lexical index build:** 58305.00 ms
-- **potion-retrieval-32M:** dim 512, 45964 chunks, index build 42624.57 ms, model load 119.70 ms
-- **potion-base-8M:** dim 256, 45964 chunks, index build 43661.98 ms, model load 26.08 ms
+- **Lexical index build:** 54956.00 ms
+- **potion-retrieval-32M:** dim 512, 45964 chunks, index build 37711.92 ms, model load 103.31 ms
+- **potion-base-8M:** dim 256, 45964 chunks, index build 40829.20 ms, model load 22.70 ms
 
 ## Retrieval quality
 
@@ -41,6 +41,14 @@
 | shipped-hybrid:potion-retrieval-32M | semantic | 93.3% | 0.830 | 90 |
 | shipped-hybrid:potion-retrieval-32M | lexical | 100.0% | 1.000 | 30 |
 | shipped-hybrid:potion-retrieval-32M | topical | 63.3% | 0.409 | 30 |
+| shipped-semantic:potion-base-8M | overall | 84.0% | 0.694 | 150 |
+| shipped-semantic:potion-base-8M | semantic | 87.8% | 0.756 | 90 |
+| shipped-semantic:potion-base-8M | lexical | 100.0% | 0.944 | 30 |
+| shipped-semantic:potion-base-8M | topical | 56.7% | 0.258 | 30 |
+| shipped-hybrid:potion-base-8M | overall | 84.0% | 0.702 | 150 |
+| shipped-hybrid:potion-base-8M | semantic | 87.8% | 0.756 | 90 |
+| shipped-hybrid:potion-base-8M | lexical | 100.0% | 0.983 | 30 |
+| shipped-hybrid:potion-base-8M | topical | 56.7% | 0.258 | 30 |
 | competitor:obsidian-tc | overall | 89.3% | 0.752 | 150 |
 | competitor:obsidian-tc | semantic | 94.4% | 0.800 | 90 |
 | competitor:obsidian-tc | lexical | 100.0% | 0.950 | 30 |
@@ -112,6 +120,22 @@ Dev is the tuning split; holdout is the reporting split for gate v2.
 | shipped-hybrid:potion-retrieval-32M | holdout | semantic | 97.2% | 0.908 | 36 |
 | shipped-hybrid:potion-retrieval-32M | holdout | lexical | 100.0% | 1.000 | 12 |
 | shipped-hybrid:potion-retrieval-32M | holdout | topical | 66.7% | 0.375 | 12 |
+| shipped-semantic:potion-base-8M | dev | overall | 83.3% | 0.666 | 90 |
+| shipped-semantic:potion-base-8M | dev | semantic | 85.2% | 0.721 | 54 |
+| shipped-semantic:potion-base-8M | dev | lexical | 100.0% | 0.907 | 18 |
+| shipped-semantic:potion-base-8M | dev | topical | 61.1% | 0.257 | 18 |
+| shipped-semantic:potion-base-8M | holdout | overall | 85.0% | 0.737 | 60 |
+| shipped-semantic:potion-base-8M | holdout | semantic | 91.7% | 0.808 | 36 |
+| shipped-semantic:potion-base-8M | holdout | lexical | 100.0% | 1.000 | 12 |
+| shipped-semantic:potion-base-8M | holdout | topical | 50.0% | 0.260 | 12 |
+| shipped-hybrid:potion-base-8M | dev | overall | 83.3% | 0.678 | 90 |
+| shipped-hybrid:potion-base-8M | dev | semantic | 85.2% | 0.721 | 54 |
+| shipped-hybrid:potion-base-8M | dev | lexical | 100.0% | 0.972 | 18 |
+| shipped-hybrid:potion-base-8M | dev | topical | 61.1% | 0.257 | 18 |
+| shipped-hybrid:potion-base-8M | holdout | overall | 85.0% | 0.737 | 60 |
+| shipped-hybrid:potion-base-8M | holdout | semantic | 91.7% | 0.808 | 36 |
+| shipped-hybrid:potion-base-8M | holdout | lexical | 100.0% | 1.000 | 12 |
+| shipped-hybrid:potion-base-8M | holdout | topical | 50.0% | 0.260 | 12 |
 | competitor:obsidian-tc | dev | overall | 90.0% | 0.757 | 90 |
 | competitor:obsidian-tc | dev | semantic | 96.3% | 0.789 | 54 |
 | competitor:obsidian-tc | dev | lexical | 100.0% | 0.944 | 18 |
@@ -133,15 +157,17 @@ Dev is the tuning split; holdout is the reporting split for gate v2.
 
 | Condition | p50 | p90 | p95 | p99 | payload/query |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| lexical | 64.85 ms | 263.65 ms | 337.63 ms | 534.13 ms | in-process |
-| semantic:potion-retrieval-32M | 26.32 ms | 27.35 ms | 27.57 ms | 28.26 ms | in-process |
-| hybrid-rrf:potion-retrieval-32M | 91.15 ms | 290.51 ms | 335.57 ms | 662.72 ms | in-process |
-| semantic:potion-base-8M | 15.26 ms | 16.24 ms | 16.38 ms | 16.69 ms | in-process |
-| hybrid-rrf:potion-base-8M | 79.05 ms | 279.38 ms | 377.78 ms | 588.13 ms | in-process |
-| shipped-semantic:potion-retrieval-32M | 58.97 ms | 68.95 ms | 72.82 ms | 80.47 ms | in-process |
-| shipped-hybrid:potion-retrieval-32M | 63.52 ms | 86.61 ms | 99.19 ms | 145.71 ms | in-process |
-| competitor:obsidian-tc | 222.08 ms | 230.34 ms | 238.78 ms | 374.71 ms | 15.6 KB |
-| competitor:obsidian-tc-graph | 849.51 ms | 3340.36 ms | 5668.15 ms | 6982.72 ms | 14.9 KB |
+| lexical | 64.38 ms | 255.37 ms | 307.06 ms | 590.75 ms | in-process |
+| semantic:potion-retrieval-32M | 27.39 ms | 28.52 ms | 28.89 ms | 29.38 ms | in-process |
+| hybrid-rrf:potion-retrieval-32M | 93.65 ms | 290.54 ms | 336.52 ms | 610.38 ms | in-process |
+| semantic:potion-base-8M | 15.70 ms | 17.01 ms | 17.35 ms | 18.30 ms | in-process |
+| hybrid-rrf:potion-base-8M | 79.74 ms | 272.52 ms | 327.03 ms | 572.31 ms | in-process |
+| shipped-semantic:potion-retrieval-32M | 58.61 ms | 68.69 ms | 70.83 ms | 74.18 ms | in-process |
+| shipped-hybrid:potion-retrieval-32M | 63.16 ms | 83.60 ms | 98.16 ms | 134.34 ms | in-process |
+| shipped-semantic:potion-base-8M | 32.42 ms | 38.77 ms | 39.88 ms | 42.39 ms | in-process |
+| shipped-hybrid:potion-base-8M | 34.90 ms | 58.79 ms | 73.27 ms | 111.48 ms | in-process |
+| competitor:obsidian-tc | 221.72 ms | 229.52 ms | 234.61 ms | 249.48 ms | 15.6 KB |
+| competitor:obsidian-tc-graph | 833.43 ms | 1295.84 ms | 3986.51 ms | 6605.07 ms | 14.9 KB |
 
 ## Competitor setup cost (SHA-308)
 
@@ -149,19 +175,19 @@ Both competitors delegate embeddings to a local Ollama (`nomic-embed-text`) — 
 
 | Server | Version | Embedding provider | Cold index |
 | --- | --- | --- | ---: |
-| obsidian-tc | 1.23.2 | ollama/nomic-embed-text (its built-in default; loopback HTTP at index + query time) | 2048.6 s |
-| obsidian-mcp-pro | 4.0.1 | ollama/nomic-embed-text (loopback HTTP) | **FAILED** after 1249 s |
+| obsidian-tc | 1.23.2 | ollama/nomic-embed-text (its built-in default; loopback HTTP at index + query time) | 2170.9 s |
+| obsidian-mcp-pro | 4.0.1 | ollama/nomic-embed-text (loopback HTTP) | **FAILED** after 1410 s |
 
 **competitor:obsidian-tc** — search_semantic capability (vector kNN over sqlite-vec), defaults: k=10, content returned. Scratch cacheDir per run — cold index measured; native modules (better-sqlite3, sqlite-vec, Rust NAPI) required; Node ≥ 24.
 
 ```
-{"vault":"main","notes_seen":10000,"notes_indexed":10000,"chunks_upserted":65263,"chunks_deleted":0,"chunks_unchanged":0,"edges_inserted":0,"edges_deleted":0,"secrets_skipped":0,"vec_enabled":true,"fts_enabled":true,"notes_upserted":0,"notes_deleted":0,"notes_embed_failed":0,"chunks_dedup_reused":0,"chunks_dedup_unresolved":0,"embed_batch_rejections":0,"model":"ollama:nomic-embed-text","dimensions":768}
+{"vault":"main","notes_seen":10000,"notes_indexed":9900,"chunks_upserted":65163,"chunks_deleted":0,"chunks_unchanged":100,"edges_inserted":0,"edges_deleted":0,"secrets_skipped":0,"vec_enabled":true,"fts_enabled":true,"notes_upserted":0,"notes_deleted":0,"notes_embed_failed":0,"chunks_dedup_reused":0,"chunks_dedup_unresolved":0,"embed_batch_rejections":0,"model":"ollama:nomic-embed-text","dimensions":768}
 ```
 
 **competitor:obsidian-tc-graph** — vault_graph_search — its GraphRAG mode: vector seeds expanded through the wikilink graph, RRF-fused.
 
 ```
-{"vault":"main","notes_seen":10000,"notes_indexed":10000,"chunks_upserted":65263,"chunks_deleted":0,"chunks_unchanged":0,"edges_inserted":0,"edges_deleted":0,"secrets_skipped":0,"vec_enabled":true,"fts_enabled":true,"notes_upserted":0,"notes_deleted":0,"notes_embed_failed":0,"chunks_dedup_reused":0,"chunks_dedup_unresolved":0,"embed_batch_rejections":0,"model":"ollama:nomic-embed-text","dimensions":768}
+{"vault":"main","notes_seen":10000,"notes_indexed":9900,"chunks_upserted":65163,"chunks_deleted":0,"chunks_unchanged":100,"edges_inserted":0,"edges_deleted":0,"secrets_skipped":0,"vec_enabled":true,"fts_enabled":true,"notes_upserted":0,"notes_deleted":0,"notes_embed_failed":0,"chunks_dedup_reused":0,"chunks_dedup_unresolved":0,"embed_batch_rejections":0,"model":"ollama:nomic-embed-text","dimensions":768}
 ```
 
 **competitor:obsidian-mcp-pro** — Setup did not complete on the 10k-note fixture vault — no quality/latency numbers are possible; the failure itself is the recorded result.
@@ -395,13 +421,13 @@ obsidian-mcp-pro index_vault: Error indexing vault: Invalid string length
 
 - semantic subset hit@5 +26.7 pts (gate ≥ +10): PASS
 - lexical subset hit@5 0.0 pts (gate ≥ -2): PASS
-- semantic warm p95 27.57 ms (gate ≤ 15 ms): FAIL
+- semantic warm p95 28.89 ms (gate ≤ 15 ms): FAIL
 
 ### potion-base-8M — NO-SHIP
 
 - semantic subset hit@5 +25.6 pts (gate ≥ +10): PASS
 - lexical subset hit@5 0.0 pts (gate ≥ -2): PASS
-- semantic warm p95 16.38 ms (gate ≤ 15 ms): FAIL
+- semantic warm p95 17.35 ms (gate ≤ 15 ms): FAIL
 
 **Overall: NO-SHIP**
 
@@ -413,7 +439,7 @@ Judged condition: `shipped-hybrid:potion-retrieval-32M` vs `competitor:obsidian-
 
 - holdout overall hit@5 91.7% vs competitor:obsidian-tc-graph 95.0% (n=60; gate: strictly greater): FAIL
 - holdout lexical subset hit@5 100.0% (n=12; gate: 100% via routing): PASS
-- shipped warm p95 99.19 ms @ 10k notes (gate ≤ 30 ms): FAIL
+- shipped warm p95 98.16 ms @ 10k notes (gate ≤ 30 ms): FAIL
 - runtime deps unchanged from the pre-epic allowlist (7 pure-JS packages); offline enforced by no-network.test.ts: PASS
 
 **Gate v2: FAIL**

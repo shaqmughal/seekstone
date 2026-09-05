@@ -183,7 +183,7 @@ describe('runRetrievalEval --experiments --shipped', () => {
         ],
       },
       modelsDir: '/nonexistent',
-      modelIds: ['stub-small'],
+      modelIds: ['stub-small', 'stub-large'],
       runs: 2,
       experiments: true,
       shipped: true,
@@ -196,7 +196,7 @@ describe('runRetrievalEval --experiments --shipped', () => {
     await rm(vault, { recursive: true, force: true });
   });
 
-  it('adds the fusion-candidate and shipped conditions for the first model', () => {
+  it('adds fusion candidates for the first model and shipped conditions for every model', () => {
     expect(summary.conditions.map((c) => c.condition)).toEqual([
       'lexical',
       'semantic:stub-small',
@@ -234,17 +234,23 @@ describe('runRetrievalEval --experiments --shipped', () => {
       'hybrid-route-xp-rrf-d70c3g35:stub-small',
       'hybrid-route-xp-rrf-d70c5g25:stub-small',
       'hybrid-route-xp-rrf-d70c5g35:stub-small',
+      'semantic:stub-large',
+      'hybrid-rrf:stub-large',
       'shipped-semantic:stub-small',
       'shipped-hybrid:stub-small',
+      'shipped-semantic:stub-large',
+      'shipped-hybrid:stub-large',
     ]);
   });
 
-  it("shipped conditions run the server's real search tool", () => {
+  it("shipped conditions run the server's real search tool for every model", () => {
     const sem = summary.perQuery.find((p) => p.id === 'sem-windmill');
-    expect(sem?.conditions['shipped-semantic:stub-small']?.hit5).toBe(true);
-    expect(sem?.conditions['shipped-hybrid:stub-small']?.hit5).toBe(true);
     const lex = summary.perQuery.find((p) => p.id === 'lex-cheese');
-    expect(lex?.conditions['shipped-hybrid:stub-small']?.hit5).toBe(true);
+    for (const model of ['stub-small', 'stub-large']) {
+      expect(sem?.conditions[`shipped-semantic:${model}`]?.hit5).toBe(true);
+      expect(sem?.conditions[`shipped-hybrid:${model}`]?.hit5).toBe(true);
+      expect(lex?.conditions[`shipped-hybrid:${model}`]?.hit5).toBe(true);
+    }
   });
 
   it('routes the exact-title query to lexical and the description to semantic', () => {
